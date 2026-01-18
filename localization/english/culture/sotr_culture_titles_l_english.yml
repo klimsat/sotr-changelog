@@ -1,9 +1,29 @@
 ﻿l_english:
 
-   #############################################
+  # Aldmeri Group #############################################
 
+  #Welkynars
 
-  #Argonian Group
+  welkynars_male:0 "Welkynar"
+  welkynars_female:0 "Welkynar"
+
+  aldmeri_welkynar_male:0 "[CHARACTER.Custom('WelkynarKnights')]"
+  aldmeri_welkynar_female:0 "[CHARACTER.Custom('WelkynarKnights')]"
+
+  #High Admiral Lorthen Special Title
+
+  aldmeri_high_admiral_title:0 "High Admiral"
+  aldmeri_lord_admiral_title:0 "Lord Admiral"
+  aldmeri_admiral_title:0 "Admiral"
+
+  aldmeri_lorthen_title:0 "[CHARACTER.Custom('high_admiral')]"
+
+  # Lord Uppercase
+
+  lord_upper_case:0 "Lord"
+  lady_upper_case:0 "Lady"
+
+  #Argonian Group #############################################
 
   #Stone-Nest
   baron_stone_binder_male:0 "Stone-Binder"
@@ -31,17 +51,16 @@
   kingdom_tide_master_male:0 "Tide-Master"
   kingdom_tide_master_female:0 "Tide-Master"
 
+  #Death-Dancers
 
-  #Falmeri Group
+  death_dancer_male:0 "Death-Dancer"
+  death_dancer_female:0 "Death-Dancer"
 
-  duke_feudal_male_falmer_lord:0 "Lord"
-  duke_feudal_female_falmer_lord:0 "Lady"
-  duchy_feudal_falmer_lord:0 "Lordship"
-  king_feudal_male_falmer_prince:0 "High Prince"
-  king_feudal_female_falmer_princess:0 "High Princess"
-  kingdom_feudal_falmer_princedom:0 "Princedom"
+  argonian_death_dancer_male:0 "[CHARACTER.Custom('DeathDancer')]"
+  argonian_death_dancer_female:0 "[CHARACTER.Custom('DeathDancer')]"
 
- #Atmoran Group
+
+  #Atmoran Group #############################################
 
   count_feudal_male_atmoran_group:0 "Chief"
   count_feudal_female_atmoran_group:0 "Chieftess"
@@ -50,30 +69,28 @@
   empire_feudal_female_atmoran_group:0 "Queen"
   empire_feudal_atmoran_group:0 "Northern Kingdom"
 
+ ### Dragon Priesthood #############################################
+  dragon_priesthood_title:0 "Priesthood"
 
-  #Exarchs of the Gray Host
+  dragon_priesthood_title_male:0 "[CHARACTER.Custom('DragonPriest')]"
+  dragon_priesthood_title_female:0 "[CHARACTER.Custom('DragonPriest')]"
 
-  exarch_male:0 "Exarch"
-  exarch_female:0 "Exarch"
+  dragon_priest_male:0 "Dragon Priest"
+  dragon_priest_female:0 "Dragon Priestess"
 
-  gray_host_exarch_male:0 "[CHARACTER.Custom('exarchs')]"
-  gray_host_exarch_female:0 "[CHARACTER.Custom('exarchs')]"
+  dragon_priest_primate_male:0 "Primate"
+  dragon_priest_primate_female:0 "Primate"
+  dragon_priest_prelate_male:0 "Prelate"
+  dragon_priest_prelate_female:0 "Prelate"
+  dragon_priest_archpriest_male:0 "Arch-Priest"
+  dragon_priest_archpriest_female:0 "Arch-Priestess"
+  dragon_priest_acolyte_male:0 "Acolyte"
+  dragon_priest_acolyte_female:0 "Acolyte"
+  dragon_priest_cultist_male:0 "Cultist"
+  dragon_priest_cultist_female:0 "Cultist"
 
-  #Xulneihavu , exclusive title fpr Shuxaltsei
 
-  xulneihavu_female:0 "Xulneihavu"
-  xulneihavu_male:0 "Xulneihavu"
-
-  xulneihavu_title_male:0 "[CHARACTER.Custom('xulneihavu')]"
-  xulneihavu_title_female:0 "[CHARACTER.Custom('xulneihavu')]"
-
-  #Night Lords of the Nighthollow Vampire Clan
-
-  night_lord_male:0 "Night Lord"
-  night_lady_female:0 "Night Lady"
-
-  nighthollow_night_lord_male:0 "[CHARACTER.Custom('nightLords')]"
-  nighthollow_night_lady_female:0 "[CHARACTER.Custom('nightLords')]"
+  # Ayleid Group #############################################
 
   #Storm Wardens of Ilayas
 
@@ -91,37 +108,29 @@
   ayleid_master_stormwarden_male:0 "[CHARACTER.Custom('MasterStormWarden')]"
   ayleid_master_stormwarden_female:0 "[CHARACTER.Custom('MasterStormWarden')]"
 
-  #Welkynars
 
-  welkynars_male:0 "Welkynar"
-  welkynars_female:0 "Welkynar"
+ ### Bosmer Group #############################################
 
-  aldmeri_welkynar_male:0 "[CHARACTER.Custom('WelkynarKnights')]"
-  aldmeri_welkynar_female:0 "[CHARACTER.Custom('WelkynarKnights')]"
+  #Silvenar
+  silvenar_title_name:0 "Silvenar"
+  green_lady_title_name:0 "Green-Lady"
 
-  #High Admiral Lorthen Special Title
+  male_silvenar_green_lady_title:0 "[CHARACTER.Custom('silvenar_title')]"
+  female_silvenar_green_lady_title:0 "[CHARACTER.Custom('silvenar_title')]"
 
-  aldmeri_high_admiral_title:0 "High Admiral"
-  aldmeri_lord_admiral_title:0 "Lord Admiral"
-  aldmeri_admiral_title:0 "Admiral"
+  #Falmeri Group #############################################
 
-  aldmeri_lorthen_title:0 "[CHARACTER.Custom('high_admiral')]"
-
-  # Lord Uppercase
-
-  lord_upper_case:0 "Lord"
-  lady_upper_case:0 "Lady"
-
-  #Death-Dancers
-
-  death_dancer_male:0 "Death-Dancer"
-  death_dancer_female:0 "Death-Dancer"
-
-  argonian_death_dancer_male:0 "[CHARACTER.Custom('DeathDancer')]"
-  argonian_death_dancer_female:0 "[CHARACTER.Custom('DeathDancer')]"
+  duke_feudal_male_falmer_lord:0 "Lord"
+  duke_feudal_female_falmer_lord:0 "Lady"
+  duchy_feudal_falmer_lord:0 "Lordship"
+  king_feudal_male_falmer_prince:0 "High Prince"
+  king_feudal_female_falmer_princess:0 "High Princess"
+  kingdom_feudal_falmer_princedom:0 "Princedom"
 
 
-  #Duraki Craglorn Kings
+  #Duraki Group #############################################
+
+  #Duraki Craglorn Kings 
 
   flame_king_male:0 "Flame-King"
   flame_queen_female:0 "Flame-Queen"
@@ -183,29 +192,37 @@
   craglorn_forest_king_male:0 "[CHARACTER.Custom('forestKing')]"
   craglorn_forest_queen_female:0 "[CHARACTER.Custom('forestKing')]"
  
+
+  #Vampire Group #############################################
+
+  #Exarchs of the Gray Host 
+
+  exarch_male:0 "Exarch"
+  exarch_female:0 "Exarch"
+
+  gray_host_exarch_male:0 "[CHARACTER.Custom('exarchs')]"
+  gray_host_exarch_female:0 "[CHARACTER.Custom('exarchs')]"
+
+  #Xulneihavu , exclusive title fpr Shuxaltsei
+
+  xulneihavu_female:0 "Xulneihavu"
+  xulneihavu_male:0 "Xulneihavu"
+
+  xulneihavu_title_male:0 "[CHARACTER.Custom('xulneihavu')]"
+  xulneihavu_title_female:0 "[CHARACTER.Custom('xulneihavu')]"
+
+  #Night Lords of the Nighthollow Vampire Clan
+
+  night_lord_male:0 "Night Lord"
+  night_lady_female:0 "Night Lady"
+
+  nighthollow_night_lord_male:0 "[CHARACTER.Custom('nightLords')]"
+  nighthollow_night_lady_female:0 "[CHARACTER.Custom('nightLords')]"
+
+
  ### Herders
  count_herder_male: "Shepherd"
  count_herder_female: "Shepherdess"
 
  county_herder: "[Character.GetPrimaryTitle.GetProvince.GetTerrain.GetNameNoTooltip]"
 
-
- ### Dragon Priesthood
-  dragon_priesthood_title:0 "Priesthood"
-
-  dragon_priesthood_title_male:0 "[CHARACTER.Custom('DragonPriest')]"
-  dragon_priesthood_title_female:0 "[CHARACTER.Custom('DragonPriest')]"
-
-  dragon_priest_male:0 "Dragon Priest"
-  dragon_priest_female:0 "Dragon Priestess"
-
-  dragon_priest_primate_male:0 "Primate"
-  dragon_priest_primate_female:0 "Primate"
-  dragon_priest_prelate_male:0 "Prelate"
-  dragon_priest_prelate_female:0 "Prelate"
-  dragon_priest_archpriest_male:0 "Arch-Priest"
-  dragon_priest_archpriest_female:0 "Arch-Priestess"
-  dragon_priest_acolyte_male:0 "Acolyte"
-  dragon_priest_acolyte_female:0 "Acolyte"
-  dragon_priest_cultist_male:0 "Cultist"
-  dragon_priest_cultist_female:0 "Cultist"
