@@ -1,0 +1,16 @@
+﻿l_english:
+
+ ## Nede ##
+
+ nick_the_iron_vein:0 "the Iron-Vein"
+ nick_the_iron_vein_desc:1 "Known for [CharYourHerHis(CHARACTER)] cold resolve and unshakable rule. Neither war nor winter could break [CharYouHerHim(CHARACTER)], and those who stood against [CharYouHerHim(CHARACTER)] found only iron and their grim end."
+ nick_the_steam_forged:0 "the Steam-Forged"
+ nick_the_steam_forged_desc:1 "Born in the looming shadow of Red Mountain, [CharYouSheHe(CHARACTER)] rose like a forge roaring to life. Fire shaped [CharYourHerHis(CHARACTER)] ambition, the steam crags drove [CharYouHerHim(CHARACTER)] forward, and those who dared stand in [CharYourHerHis(CHARACTER)] path were scorched and broken." 
+ nick_the_greenheart:0 "The Greenheart"
+ nick_the_greenheart_desc:1 "[CharYouSheHe(CHARACTER)|U] stands firm against the impending threat of the Elven Overlords. With the earth murmuring ancient tones and the winds singing of undying valor, [CharYouSheHe(CHARACTER)] vows to fight for [CharYourHerHis(CHARACTER)] people until [CharYourHerHis(CHARACTER)] last breath. [CharYouSheHe(CHARACTER)|U] stands to ensure that the eternal songs of the wild echoes until the end of days."  
+ nick_the_odd_horned:0 "Odd-Horned"
+ nick_the_odd_horned_desc:1 "[CharYouSheHe(CHARACTER)|U] once hunted a weird looking ram and kept its skull as proof, in case anyone doubted [CharYouHerHim(CHARACTER)]. [CharYourHerHis(CHARACTER)|U] father called it a big omen — though of what, he would never say."  
+ nick_of_the_burning_hill:0 "of the Burning Hill"
+ nick_of_the_burning_hill_desc:1 "[CharYouSheHe(CHARACTER)|U] is notoriously known for torching [CharYourHerHis(CHARACTER)] rival clan's holdings, then watching the flames burn ablaze'til dawn. Even [CharYourHerHis(CHARACTER)] banners still smells of smoke."
+ nick_of_the_unifier_durac:0 "the Unifier"
+ nick_of_the_unifier_durac_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [CharAreIs(CHARACTER)] the first Nede in history to unite the many warring Kings of Craglorn under [CharYourHerHis(CHARACTER)] banner."

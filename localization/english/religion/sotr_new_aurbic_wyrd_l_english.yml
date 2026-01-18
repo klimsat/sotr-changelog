@@ -1,0 +1,35 @@
+﻿l_english:
+
+  #Faun Faith
+
+  #Greensong
+  greensong:1 "Greensong"
+  greensong_adj:1 "Greensong"
+  greensong_adherent:1 "Greensinger"
+  greensong_adherent_plural:1 "Greensingers"
+  greensong_desc:0 "The Greensong is the way of the fauns, who see the Green not as distant deity but as the living breath of all things. To them the Green is love and the Green is life, its pulse felt in the roots below and the leaves above. \n\nWorship is not given through temple walls but through song, dance, and harmony with the wild. Each grove becomes a place of joy and reverence, every voice and hoofbeat an offering to the endless chorus of life."
+  greensong_religious_text:0 "the First Song"
+  greensong_house_of_worship:0 "grove"
+  greensong_house_of_worship_plural:0 "groves"
+  greensong_religious_head_title:0 "High Singer"
+  greensong_religious_head_title_name:0 "The Verdant Chorus"
+  greensong_devotee_male:0 "singer"
+  greensong_devotee_male_plural:0 "singers"
+  greensong_devotee_female:0 "singer"
+  greensong_devotee_female_plural:0 "singers"
+  greensong_devotee_neuter:0 "singer"
+  greensong_devotee_neuter_plural:0 "singers"
+  greensong_priest_male:0 "songkeeper"
+  greensong_priest_male_plural:0 "songkeepers"
+  greensong_priest_female:0 "songkeeper"
+  greensong_priest_female_plural:0 "songkeepers"
+  greensong_priest_neuter:0 "songkeeper"
+  greensong_priest_neuter_plural:0 "songkeepers"
+  greensong_priest_alternate_plural:0 "songkeepers"
+  greensong_bishop_male:0 "greenseer"
+  greensong_bishop_male_plural:0 "greenseers"
+  greensong_bishop_female:0 "greenseer"
+  greensong_bishop_female_plural:0 "greenseers"
+  greensong_bishop_neuter:0 "greenseer"
+  greensong_bishop_neuter_plural:0 "greenseers"
+

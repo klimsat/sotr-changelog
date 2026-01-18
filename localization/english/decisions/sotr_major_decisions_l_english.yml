@@ -1,0 +1,20 @@
+﻿l_english:
+
+  #SHEZZAR ENDS IT ALL
+  reclaim_heart_of_lorkhan_decision:0 "Reclaim the Heart of $god_lorkhan_name$"  
+  reclaim_heart_of_lorkhan_decision_desc:0 "The lies of the Aedra are long and deep, but no deception lasts forever. The Heart of [Glossary('Lorkhan', 'LORKHAN_GLOSS')], long thought lost, still beats beneath the Red Mountain. \n\nTo reclaim the Heart is to complete the severed self, to become once more the power that no divinity will dare disobey. The gods will tremble, for the Tower shall shift—and the world will know its true master.\n\n@alert_icon! #BOLD #alert_trial The gameplay will end after the final decision.#!#!"  
+  reclaim_heart_of_lorkhan_decision_tooltip:0 "Shezzar awakens. The Heart stirs. The world bends."  
+  reclaim_heart_of_lorkhan_decision_tooltip_selected:0 "@warning_icon! #X You have already selected this decision! \n\nSelect your target with the [interaction|E] menu. #!"  
+  reclaim_heart_of_lorkhan_decision_requirement:0 "You embody Shezzar and stand upon Red Mountain."  
+  reclaim_heart_of_lorkhan_decision_effect_tooltip_1:0 "You will awaken the Heart of Lorkhan and reshape the world."  
+  reclaim_heart_of_lorkhan_decision_effect_tooltip_2:0 "@warning_icon! #N The laws of Mundus will break. Mortals and gods alike will suffer. #!"  
+  reclaim_heart_of_lorkhan_decision_effect_tooltip_3:0 "@warning_icon! #N You may transcend mortality—or be undone.#!"
+  reclaim_heart_of_lorkhan_decision_custom_tooltip_1:0 "The Heart pulses once more beneath Red Mountain."  
+  reclaim_heart_of_lorkhan_decision_made:0 "You haven’t made this decision before."  
+  reclaim_heart_of_lorkhan_decision_custom_tooltip_2:0 "The Wheel cracks. The center holds. The world shall shift."  
+  reclaim_heart_of_lorkhan_decision_custom_tooltip_3:0 "You will no longer be what you were. You will be Shezzar Entire."  
+  reclaim_heart_of_lorkhan_decision_confirm:0 "Unseal the Heart"  
+  reclaim_heart_of_lorkhan_decision_journey_begins:0 "The mountain groans. The Heart beats. Shezzar stirs..."  
+  reclaim_heart_of_lorkhan_decision_flag_check:0 "You have not reclaimed the Heart yet."  
+  reclaim_heart_of_lorkhan_decision_effect_message_title:0 "Choose the Witness"  
+  reclaim_heart_of_lorkhan_decision_effect_message_desc:0 "Use [interaction|E] menu to choose who shall face the rebirth of Shezzar."  

@@ -1,0 +1,19 @@
+﻿l_english:
+
+  #Wild Hunt Interaction
+
+  perform_wild_hunt_interaction:0 "Invoke the Wild Hunt"
+  perform_wild_hunt_desc:0 "Call upon the Wild Hunt to descend upon [recipient.GetShortUINameNoTooltip], unleashing the wrath of the Green in its most primal and unforgiving form."
+
+  perform_wild_hunt_hunter_message:0 "The Wild Hunt is Unleashed"
+  perform_wild_hunt_hunter_effect:0 "The Green twists and howls. From leaf and limb, beasts born of chaos rise to hunt [recipient.GetShortUINameNoTooltip]—marked by nature’s fury, there shall be no escape."
+
+
+  perform_wild_hunt_hunted_message:0 "The Wild Hunt Has Been Set Upon You"
+  perform_wild_hunt_hunted_effect:0 "The Green writhes with ancient wrath—[actor.GetShortUINameNoTooltip] invoke the Wild Hunt against [recipient.GetShortUINameNoTooltip] and the place which he dwells. Twisted shapes rise from root and shadow, monstrous and maddened, and its fangs bear down upon their soul."
+
+  perform_wild_hunt_hunter_tootltip_same_location:0 "@warning_icon! [recipient.GetShortUINameNoTooltip|U] must not be in the same location as you."
+  perform_wild_hunt_hunter_tootltip_you:0 "@death_icon! [actor.GetShortUINameNoTooltip|U] will basically die as you become a part of the Wild Hunt."
+  perform_wild_hunt_hunter_tootltip_councillors:0 "@death_icon! All of your [councillor|E] will basically die as they will also become a part of the Wild Hunt."
+  perform_wild_hunt_hunter_tootltip_victim_1:0 "@death_icon! [recipient.GetShortUINameNoTooltip|U] will die"
+  perform_wild_hunt_hunter_tootltip_victim_2:0 "@death_icon! All those that dwell with [recipient.GetShortUINameNoTooltip] will die. That could include: [close_family_members|E], [courtiers|E], [guests|E], [hostages|E], [prisoners|E]"

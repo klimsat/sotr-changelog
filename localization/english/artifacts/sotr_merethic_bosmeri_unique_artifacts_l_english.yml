@@ -1,0 +1,129 @@
+﻿l_english:
+
+  artifact_camoran_bow_name:0 "The Blaring Tusk"
+  artifact_camoran_bow_description:1 "The Blaring Tusk is the ancestral bow of the Camoran Tribes of Elden Root, carved from the pale, weathered tusk of a legendary timber mammoth they once brought down. Legend holds that when the beast was struck down, it let out a deafening cry so loud it knocked the hunters unconscious. When they awoke, they took its bones and tusk, forging this bow in honor of the creature’s final blare."
+  artifact_camoran_sword_name:0 "Meatcleaver"
+  artifact_camoran_sword_description:1 "This oversized steel machete is forged for people of great endurance and strength. The hilt is crafted from bone and wrapped in coarse rope, giving it a raw, natural grip. The blade is made for cleaving through #italic lunches#! and #italic dinners#! alike."
+  artifact_vargarion_staff_name:0 "Staff of Vargarion"
+  artifact_vargarion_staff_description:1 "The Staff was crafted by the infamous vampire-mage [GetScriptedCharacterByHistoryID( 'bosmer_keerilth_1_merethic_era' ).GetFirstName].  Twisting vines and bright green runes crawl up its shaft, culminating in a fire shaped emblem with a glowing emerald core. Meanwhile, its long handle was carved from a stem of a living Graht-Oak.\n\nTo the majority of Bosmers, felling any tree is already considered a grave violation of the Green Pact— but taking a piece of a Graht-Oak is regarded as blasphemy on an entirely different level. This staff is a testament to Vargarion's break from the old ways and his devotion to the forbidden arts."
+  artifact_vargarion_crown_name:0 "Crown of Vargarion"
+  artifact_vargarion_crown_description:1 "This menacing headpiece was created by the infamous vampire-mage [GetScriptedCharacterByHistoryID( 'bosmer_keerilth_1_merethic_era' ).GetFirstName]. It has a splintered form that somewhat resemble twisted antlers. With jagged branches that rise like skeletal fangs, the crown exudes an air of dread. \n\nYet what actually horrifies most of the Bosmers is not its appearance, but its origin. To craft a crown from wood is already considered taboo by the Bosmers. But to shape one from the wood of the Graht-Oak is what makes this thing truly beyond depraved."
+  artifact_arenthia_leaf_crown_name:0 "Crown of Arenthia"
+  artifact_arenthia_leaf_crown_description:1 "The Crown of Arenthia is the royal diadem of the kings and queens of the ancient Bosmeri kingdom of Arenthia. Forged from gold and shaped into a delicate weave of leaves, the crown is light to wear yet striking in appearance. \n\nNo plant was harmed in its making, a respectful gesture toward the Green Pact’s adherents among its citizens."
+  artifact_arenthia_jeweled_brooch_name:0 "Arenthia Jeweled Brooch"
+  artifact_arenthia_jeweled_brooch_description:1 "The Necklace-Brooch of Arenthia is a bronze brooch necklace worn by the royal line, shaped into a circle that frames a great branching tree at its center. Nestled among the limbs are six small gemstones, each a different color, representing the many cultures and faiths that call Arenthia home. \n\nFrom Khajiiti moon worship to Ayleid traditions and the Green Pact, the brooch stands as a symbol of Arenthia, the Kingdom where many worlds meet."
+  artifact_greenheart_sword_name:0 "Verdant Root"
+  artifact_greenheart_sword_description:1 "The ancestral sword of the Treethanedom of Greenheart is forged for the ruling wardens who protect the ancient forests.\n\n Crafted from raw ebony, its hilt mimics twisting tree roots and is set with a glowing green emerald at its center, symbolizing the vibrant life force that flows through the woods and the sword’s bearer alike."
+  artifact_hollowhorn_spear_name:0 "Stranded Spikes"
+  artifact_hollowhorn_spear_description:1 "The double-edged spear was made by the relentless hunter, [GetScriptedCharacterByHistoryID( 'bosmer_woodhearth_1_merethic_era' ).GetFirstName] the Hollowhorn who reveres the hunt above all else — even his own wife, much to her dismay.. Its massive blades are crafted from the teeth of a colossal beast that once stranded on the shores of Woodhearth. \n\nThough the Hollowhorn did not claim the beast himself, he admires the sea predator and envies the many hunts it did to grow that big. Also, leaving the teeth of such a mighty predator would be a waste, so he shaped them into a spear worthy of many other great hunts."
+  artifact_hollowhorn_dagger_name:0 "Hartfang"
+  artifact_hollowhorn_dagger_description:1 "The dagger of the is an heirloom carried by the wardens of the Treethanedom of Woodhearth. It is carved from the upper maw of a legendary elk once brought down in a ritual hunt, its sharpened bone edge retaining the wild majesty of the beast."
+  artifact_grahtwhisper_dagger_name:0 "Grahtwhisper Dagger"
+  artifact_grahtwhisper_dagger_description:1 "The ceremonial dagger is passed down through a lineage of Treethanes within Grahtwood. Its wave-like blade is meticulously forged from obsidian, reflecting the volatile beauty of volcanic glass. \n\nThe hilt is carved from animal bone, which bears a faint, timeworn etchings that echo countless rituals that are performed beneath the sacred Graht-Oaks."
+
+  artifact_silvenar_staff_name:0 "Staff of the Silvenar"
+  artifact_silvenar_staff_description:1 "The silver staff of the Silvenar gleams with living light, crowned by shards of jade that pulse with the forest’s rhythm."
+
+  artifact_silvenari_sap_stone_name:0 "Silvenari Sap-Stone"
+  artifact_silvenari_sap_stone_description:1 "The graht-oak of Silvenar can only produce this rare jewel by the command of the Silvenar himself. It glows with the lifeblood of Valenwood, a fragment of the forest’s soul preserved in amber light."
+
+  artifact_green_lady_sword_name:0 "Blade of the Green-Lady"
+  artifact_green_lady_sword_description:1 "Forged from solid quicksilver, its polished surface gleams with a cold, metallic light. When drawn to defend the forest, its runes glow green, reflecting both the wrath and the grace of the Green Lady herself."
+
+  artifact_redbranch_bow_name:0 "Wildfire"
+  artifact_redbranch_bow_description:1 "The bow blazes like embers beneath its enchanted metal. When drawn, faint sparks flicker along its curve, and the air itself seems to burn with feral intensity."
+
+  artifact_stagfern_bow_name:0 "Wild Oath"
+  artifact_stagfern_bow_description:1 "The bow is crafted from elk horn and etched with feathers.."
+
+  artifact_valefern_bow_name:0 "Tine-Breaker"
+  artifact_valefern_bow_description:1 "The Bow is formed using shattered antlers. Its thorned frame bears the scars of countless hunts."
+
+  artifact_driladan_bow_name:0 "Bellowspire"
+  artifact_driladan_bow_description:1 "The bronze bow has 2 holes at the opposite branch, which would echo the voice of the wind when drawn."
+
+  artifact_bramblebreach_bow_name:0 "Skyhorn"
+  artifact_bramblebreach_bow_description:1 "The bow is woven from pale antlers and eagle feathers. When loosed, its arrows rise like birds in flight, guided by the spirits of air and sky."
+
+  artifact_blackroot_bow_name:0 "Shadowthorn"
+  artifact_blackroot_bow_description:1 "Made from the dead black roots of the deep forest, its limbs are etched with lingering thorns that still bristle with primal memory."
+
+  artifact_sharp_arrow_bow_name:0 "Ribthorn"
+  artifact_sharp_arrow_bow_description:1 "Carved from the rib of a great forest beast, its curve is lined with barbed growths."
+
+  artifact_parikh_bow_name:0 "Huntmother"
+  artifact_parikh_bow_description:1 "This sacred shortbow is carved from the bones of a mighty Senche-Tiger. Feathers and antlers entwine along its form, and in skilled hands, it strikes with the swiftness and grace of the wild."
+
+  artifact_benoch_bow_name:0 "Totemstring"
+  artifact_benoch_bow_description:1 "The Bow is etched with the sigils in the shape of wild beasts, reflecting the strength of Yffre's creations."
+
+  artifact_arenthia_sword_name:0 "Bronze King"
+  artifact_arenthia_sword_description:1 "Forged from gleaming Galatite, this sword bears the proud crest of Arenthia’s first king. Its edge gleams with the memory of glory and might."
+
+  artifact_camoran_dagger_name:0 "Steelfeather"
+  artifact_camoran_dagger_description:1 "A slender dagger forged to mimic the shape of a hawk’s feather, its steel catches the light like a bird in the dawn."
+
+  artifact_springbrook_dagger_name:0 "Hornfang"
+  artifact_springbrook_dagger_description:1 "The dagger is wrought from sturdy steel, its handle carved from a curved goat’s horn that fits the hand like a natural grip."
+
+  artifact_rootwatcher_dagger_name:0 "Pureshard"
+  artifact_rootwatcher_dagger_description:1 "The dagger is forged from tempered steel, its edge keen and unyielding."
+
+  artifact_rootwater_bow_name:0 "Riverwing"
+  artifact_rootwater_bow_description:1 "The bow is fashioned from black iron and Obsidian. Each arrow flies as though borne upon flowing water."
+
+  artifact_greenleaf_dagger_name:0 "Greenleaf"
+  artifact_greenleaf_dagger_description:1 "The dagger is forged from a mysterious green ore, its blade shaped like a slender leaf that glimmers with an otherworldly sheen."
+
+  artifact_salandas_sword_name:0 "Dusk-dancer"
+  artifact_salandas_sword_description:1 "Forged from voidsteel, this slender sword gleams like fading dusk."
+
+  artifact_ulthran_sword_name:0 "Bloomfang"
+  artifact_ulthran_sword_description:1 "Bloomfang is a curved steel kukri with a bone handle. Its edge broad and biting, shaped for swift, brutal cuts."
+
+  artifact_rayn_bow_name:0 "Silver Owl"
+  artifact_rayn_bow_description:1 "The bow is carved of quicksilver and adorned with owl feathers. The weapon is designed purely for stealth-archers."
+
+  artifact_boldonor_dagger_name:0 "Falconbeak"
+  artifact_boldonor_dagger_description:1 "The dagger is forged from quicksilver, its sleek blade tapering to a cruel point beneath a pommel shaped like an eagle’s head."
+
+  artifact_anno_dagger_name:0 "Feral Razor"
+  artifact_anno_dagger_description:1 "Rough and untamed, its edge bears the marks of countless kills."
+
+  artifact_endrand_dagger_name:0 "Lionclaw"
+  artifact_endrand_dagger_description:1 "The dagger is fashioned from shimmering quicksilver. Its handle hewn from the claw of a ferocious lion that the clans ancestors hunted in ancient times."
+
+  artifact_forestwalker_dagger_name:0 "Bloodtine"
+  artifact_forestwalker_dagger_description:1 "The weapon is shaped from the red antler of a slain hart."
+
+  artifact_ledure_bow_name:0 "Wildgrove"
+  artifact_ledure_bow_description:1 "The bow is crafted from obsidian fused with bones and antlers. Its dark frame is veined with pale marrow and crowned with jagged tines that echo the wild heart of the forest."
+
+  artifact_caerllin_dagger_name:0 "Silver Trout"
+  artifact_caerllin_dagger_description:1 "Forged in the likeness of a trout’s sleek body, the blade glimmers like rushing water. It moves through flesh as the fish through stream."
+
+  artifact_bonefang_dagger_name:0 "Marrow-wind"
+  artifact_bonefang_dagger_description:1 "Carved from the rib of an ancient beast, its edge is light as breath and cold as bone."
+
+  artifact_iyanden_dagger_name:0 "Elkling"
+  artifact_iyanden_dagger_description:1 "The dagger is wrought from gleaming quicksilver, while its handle is shaped from polished elk horn."
+
+  artifact_brethil_bow_name:0 "Black Dahlia"
+  artifact_brethil_bow_description:1 "Wrought of dark yew and petal-dyed string, this bow exudes both beauty and poison. Each shot is a bloom of death beneath the canopy."
+
+  artifact_altansar_dagger_name:0 "Duskfin"
+  artifact_altansar_dagger_description:1 "The handle of this dagger is carved from bone, while the blade is shaped like a slender fin. It cuts with the silent grace of a creature gliding beneath dark waters."
+
+  artifact_avbala_dagger_name:0 "Bloodshade"
+  artifact_avbala_dagger_description:1 "The dagger is forged from orichalcum, while its handle is fashioned from a tiger's marrow."
+
+  artifact_vinedusk_dagger_name:0 "Ebonspire"
+  artifact_vinedusk_dagger_description:1 "This swirling dagger is forged of pure ebony, very deadly and highly valuable."
+
+  artifact_malaphele_sword_name:0 "Fernshade"
+  artifact_malaphele_sword_description:1 "Its steel edge is filled with ingrained patterns, creeping like moss. The blade is Incredibly light and is a perfect tool to ambush prey through the leaves."
+
+  artifact_dawnbranch_bow_name:0 "Sunstrider"
+  artifact_dawnbranch_bow_description:1 "Fashioned from gold and steel, the bow is as radiant as the sun’s first light."
+
+  

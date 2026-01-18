@@ -1,0 +1,21 @@
+﻿l_english:
+
+  artifact_kruxar_hectaran_axe_name:0 "Runecleaver"
+  artifact_kruxar_hectaran_axe_description:1 "This ceremonial battle axe is the proud weapon of the Imga Lords of Hectaran, carried as both a symbol of ancestral authority and a tool of war. Forged from pale calcinium and adorned with intricate etchings, it reflects the Imga’s unique blend of savage strength and cultivated elegance."
+  artifact_shivercleave_name:0 "The Shivercleave"
+  artifact_shivercleave_description:1 "Shivercleave is the signature weapon of [GetScriptedCharacterByHistoryID( 'imga_vullain_1_merethic_era' ).GetFirstName], the Imga Lord of Vullain—a long, double-bladed polearm forged for both reach and savagery. Crafted from darkened steel with crescent blades at each end, its edges curve like hooked fangs, built to tear rather than simply cut."
+
+  artifact_haven_axe_name:0 "Agitator"
+  artifact_haven_axe_description:1 "This double-edged battle-axe of dazzling bronze is said to be able to awaken turmoil in the hearts of all who dare stand before its wielder."
+
+  artifact_redfur_sword_name:0 "Ambassador of Death"
+  artifact_redfur_sword_description:1 "This brutal and uncanny sword strikes with boundless ferocity. When wielded by one of great agility, it is capable of delivering a swift, precise, and utterly inescapable death from any range."
+
+  artifact_dawnleaf_sword_name:0 "Echoing Spirit"
+  artifact_dawnleaf_sword_description:1 "Its coarse edges hums like a distant hymn when drawn.."
+
+  artifact_southpoint_sword_name:0 "Laughing Rain"
+  artifact_southpoint_sword_description:1 "In battle, this ancient Imgan Sword yonders in joyous rhythm with storm and thunder."
+
+  artifact_longvale_sword_name:0 "Thundering Harvester"
+  artifact_longvale_sword_description:1 "Its unuasual edge was hewn to cleave through the choking density of the deep jungles, and through the flesh of those who lurk within them.."

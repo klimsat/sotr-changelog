@@ -1,0 +1,38 @@
+﻿l_english:
+
+  # Dragon War Event
+  start_the_dragon_war_event.0001.t:1 "The Dragon War"
+  start_the_dragon_war_event.0001.desc.kyne:0 "The people of the North can bear no more of their Dragon Masters’ cruel dominion.\n\nNo longer shall they bow, no longer shall their knees break beneath their scales. Axes, maces, bows, and blades are raised high, defiance burning in their hearts.\n\nYou are about to start the Dragon War, and the world itself shall quake beneath its fury. \n\nYou and many others lift your voices to Kyne, Mother of the Sky, praying so that she may guide your hands and bless your cause—hoping her breath will quench the fires that is torturing mankind."
+  start_the_dragon_war_event.0001.desc.auriel:0 "Auri-El’s firstborn, entrusted with dominion over time and order, has strayed from the path set at Convention. The World-Eater no longer obey the cycle... he had exalt himself above it.\n\nBanners are unfurled Blades are blessed, arrows set to string, and ancient rites are spoken once more to set things right.\n\nYou raise your prayers to Auri-El, the Holy King of Time, imploring #italic Him#! to reassert #italic His#! law over creation. May #italic His#! light strip the World-Eater of his false claim, and may #italic His#! judgment chained Alduin to the role he once abandoned."
+  start_the_dragon_war_event.0001.desc.misc:0 "The people of the North can bear no more of their Dragon Masters’ cruel dominion.\n\nNo longer shall they bow, no longer shall their knees break beneath their scales. Axes, maces, bows, and blades are raised high, defiance burning in their hearts.\n\nYou are about to start the Dragon War, and the world itself shall quake beneath its fury."
+
+  start_the_dragon_war_event.0001.a:0 "Let the Dragon War begin"
+  start_the_dragon_war_event.0001.a.tt.kyne:0 "May Kyne hear our prayers, and bless our struggle."
+  start_the_dragon_war_event.0001.a.tt.auriel:0 "May Auri-El hear our prayers, and bless our struggle."
+  start_the_dragon_war_event.0001.a.tt.misc:0 "May the gods hear our prayers, and bless our struggle."
+
+  # Dragon War Victory
+  start_the_dragon_war_event.0002.t:1 "Alduin has been defeated"
+  start_the_dragon_war_event.0002.desc:0 "Through blood, fire, and endless ruin, the Northmen endured. The Dragon War raged without mercy, yet the spirit of Man did not falter.\n\nAtop the sacred heights of the Throat of the World, the three heroes managed to did the impossible. Felldir the Old, Gormlaith Golden-Hilt, and Hakon One-Eye, relentless and unbroken in battle.\n\nTogether they faced Alduin, the World-Eater, in a struggle that shook the bones of the earth and split the heavens. Undeterred, they fought as one, and with courage beyond reckoning. The Age of Fire was ended by mortal hands, and hope yet burned bright in the heart of Man."
+  start_the_dragon_war_event.0002.a:0 "We have won...."
+  start_the_dragon_war_event.0002.a.tt:0 "Kyne has heard our prayers, and blessed our struggle."
+
+  # Dragon War Defeat
+  start_the_dragon_war_event.0003.t:1 "The World-Eater Triumphs"
+  start_the_dragon_war_event.0003.desc:0 "#bold The Dragon War raged with fire and ruin.#!\n\nThe Dragon King descended upon them with the fury of the heavens.\n\nThe Northmen prayed to Kyne, begging that she guide their hands and bless their cause. But, for too long had they turned their backs upon her, bending their knees to the Dragon God instead of fighting with honor to claim Sovngarde’s halls.\n\nCrushed beneath wings and claws, their defiance faltered, and the Age of Oppression endures. Today, the people of the North must bow beneath the shadow of the World-Eater once more."
+  start_the_dragon_war_event.0003.a:0 "We have failed..."
+  start_the_dragon_war_event.0003.a.tt:0 "You shall either bow, or be slain beneath the shadow of the Dragon Lords."
+
+  # Dragon War Submission
+  start_the_dragon_war_event.0004.t:1 "Bend the Knee or Perish"
+  start_the_dragon_war_event.0004.desc:0 "The sky is aflame, the mountains quake, and the voice of the Dragon Lords thunders across the North. The Dragon Overlords, crowned in fire and shadow, demands absolute dominion.\n\nNow the choice is laid bare before you. You can either kneel in submission, or be torn asunder by the flames."
+  start_the_dragon_war_event.0004.a:0 "I should never have stood against Alduin..."
+  start_the_dragon_war_event.0004.a.tt:0 "You submit to the Dragon Lords’ dominion."
+  start_the_dragon_war_event.0004.b:0 "Just know... that oppressors will have what’s coming to them..."
+  start_the_dragon_war_event.0004.b.tt:0 "Choose death over bowing to the World-Eater once more."
+
+  # Dragon War News - Victory of the North
+  start_the_dragon_war_event.9999.t:1 "The Dragons are defeated"
+  start_the_dragon_war_event.9999.desc:0 "News has it that the Northmen managed to do the unthinkable. They have cast down their dragon overlords, and their king—Alduin, the World-Eater—has somehow been defeated...\n\nSongs of victory echo through every northern halls and villages. Though the cost was great and countless lives were given to achieve it, the Northmen may at last rejoice. The Age of Dragons has ended, and in its place begins a new chapter in Skyrim’s history."
+  start_the_dragon_war_event.9999.a:0 "Well done i guess..."
+  start_the_dragon_war_event.9999.a.tt:0 "All rulers hear of the Dragon Lords’ downfall."

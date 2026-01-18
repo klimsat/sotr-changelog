@@ -1,0 +1,107 @@
+﻿l_english:
+ 
+  # Moving On
+  move_on_from_loved_one_decision:0 "Learn to move on..."
+  move_on_from_loved_one_decision_desc:0 "Their voices linger in the halls, their shadows cling to our hearths. We have carried their absence as a burden, and in our grief we have forgotten how to live. To move forward is not to forsake them, but to honor them—by allowing the living to dream, to laugh, and to bring new life into the world once more."
+  move_on_from_loved_one_decision_tooltip:0 "Lay the ghosts of grief to rest, and free yourself to embrace the future."
+  move_on_from_loved_one_decision_requirement:0 "You are haunted by the memory of lost kin."
+  move_on_from_loved_one_decision_effect_tooltip:0 "The pain of loss fades, and you may bear children again without the weight of sorrow."
+  move_on_from_loved_one_decision_confirm:0 "Let Go"
+
+  # Shehai Manifestation
+  manifest_shehai_decision:0 "Manifest Your Shehai"  
+  manifest_shehai_decision_desc:0 "Within you lies the Shehai, the Spirit-Sword—waiting to be shaped and manifested through your will alone.\n\nWill you let your soul take shape and sing in battle?"  
+  manifest_shehai_decision_tooltip:0 "Manifest your Shehai, the blade of your soul, and let the world behold your true power."  
+  manifest_shehai_decision_requirement:0 "You walk the path of the Sword-Singers."  
+  manifest_shehai_decision_effect_tooltip:0 "Summon your Shehai or return it to your soul."  
+  manifest_shehai_decision_confirm:0 "Shehai Shen She Ru"  
+
+  # Create Ansei-Ward
+  create_ansei_ward_decision:0 "Create Ansei Ward"
+  create_ansei_ward_decision_desc:0 "The greatest Ansei did not wield their Shehai only as offensive weapons. In the face of overwhelming threats, they may pour the essence of their spirit-swords into Ansei-wards. Binding your soul into relics that can shield those who are too helpless to fend for themselves.\n\n#help You can easily increase your [GetTrait('sword_singer_ansei').GetName( GetNullCharacter )] [trait_level_track_xp|E] by winning fights through the challenge warrior [interaction|E].#!"
+  create_ansei_ward_decision_tooltip:0 "Forge a powerful Ansei ward from your own Shehai, shielding all within its reach."
+  create_ansei_ward_decision_requirement:0 "You are an Ansei."
+  create_ansei_ward_decision_effect_tooltip:0 "Use your Shehai to create a mighty defensive ward."
+  create_ansei_ward_decision_confirm:0 "Shehai Shen Ansei Ru"
+  ansei_shehai_is_manifested_requirement:0 "You are currently manifesting your Shehai (This can be done through the Decision menu)"
+
+
+
+  # Werewolf Transformation
+  transform_to_werewolf_decision:0 "Change Your Form"  
+  transform_to_werewolf_decision_desc:0 "You feel a raw power....howling and gnawing beneath your skin."  
+  transform_to_werewolf_decision_tooltip:0 "Transform into a Werewolf, and show them your true might."  
+  transform_to_werewolf_decision_requirement:0 "You have the Lycan trait."  
+  transform_to_werewolf_decision_effect_tooltip:0 "Assume your true Bestial form, or assume your normal form."  
+  transform_to_werewolf_decision_confirm:0 "Transform"
+
+  # werebear Transformation
+  transform_to_werebear_decision:0 "Change Your Form"  
+  transform_to_werebear_decision_desc:0 "You feel a raw power....growling and gnawing beneath your skin."  
+  transform_to_werebear_decision_tooltip:0 "Transform into a Werebear, and show them your true might."  
+  transform_to_werebear_decision_requirement:0 "You have the Lycan trait."  
+  transform_to_werebear_decision_effect_tooltip:0 "Assume your true Bestial form, or assume your normal form."  
+  transform_to_werebear_decision_confirm:0 "Transform"
+
+  # wereboar Transformation
+  transform_to_wereboar_decision:0 "Change Your Form"  
+  transform_to_wereboar_decision_desc:0 "You feel a raw power...oinking and gnawing beneath your skin."  
+  transform_to_wereboar_decision_tooltip:0 "Transform into a Wereboar, and show them your true might."  
+  transform_to_wereboar_decision_requirement:0 "You have the Lycan trait."  
+  transform_to_wereboar_decision_effect_tooltip:0 "Assume your true Bestial form, or assume your normal form."  
+  transform_to_wereboar_decision_confirm:0 "Transform"
+
+
+  # Vampire Lord Transformation
+  transform_to_vampire_lord_decision:0 "Change Your Form"  
+  transform_to_vampire_lord_decision_desc:0 "The power stirs within you—ancient, cold, and absolute. It is the blood of kings and tyrants, of forgotten pacts and cruel immortality. You need only will it, and your body shall twist into its true terrifying form."  
+  transform_to_vampire_lord_decision_tooltip:0 "Assume your true Vampire form, and claim dominion over night and death."  
+  transform_to_vampire_lord_decision_requirement:0 "You have the Vampire trait."  
+  transform_to_vampire_lord_decision_effect_tooltip:0 "Assume your true Vampiric Form, or return to your normal form."  
+  transform_to_vampire_lord_decision_confirm:0 "Transform"
+
+  # Abandon Vampire Bloodline
+  abandon_vampire_bloodline_decision:0 "Renounce Your Coven"  
+  abandon_vampire_bloodline_decision_desc:0 "The bonds you forged in blood have grown heavy. To walk away is to sever sacred ties, abandon sworn kin, and risk the wrath of those who gave you your gift. Yet the night offers many paths, and freedom demands its price."  
+  abandon_vampire_bloodline_decision_tooltip:0 "Abandon your current Vampire Coven and walk your own path."  
+  abandon_vampire_bloodline_decision_requirement:0 "You are a member of a Vampire Coven."  
+  abandon_vampire_bloodline_decision_effect_tooltip:0 "You will leave your current Vampire Coven and lose its associated benefits."  
+  abandon_vampire_bloodline_decision_confirm:0 "Renounce the Coven"
+
+  # Abandon Werewolf Pack
+  abandon_werewolf_pack_decision:0 "Forsake Your Pack"  
+  abandon_werewolf_pack_decision_desc:0 "The howl of the pack has guided your steps. The shared scent of the hunt and the instinctive bond of kin are all cast aside when you choose a path of your own."  
+  abandon_werewolf_pack_decision_tooltip:0 "Leave your current Werewolf Pack."  
+  abandon_werewolf_pack_decision_requirement:0 "You are a member of a Werewolf Pack."  
+  abandon_werewolf_pack_decision_effect_tooltip:0 "You will leave your current Werewolf Pack and lose its associated benefits."  
+  abandon_werewolf_pack_decision_confirm:0 "Forsake the Pack"
+
+  # Reveal Lycan Secret
+  #reveal_lycan_secret_decision:0 "Reveal as a #Lycanthrope"
+  #reveal_lycan_secret_decision_desc:0 "Long have I #lived in secrecy, hiding my true nature as a #manbeast. Now I find myself in company of the #likeminded, people from whom I need not hide. Is it #then time for me to come forth into the open?"
+  #reveal_lycan_secret_decision_tooltip:0 "Reveal your #true nature"
+  #reveal_lycan_secret_decision_confirm:0 "#italic #Howl at the moons#!"
+  #reveal_lycan_secret_decision_effect:0 "Reveal #yourself to the world as a [GetTrait('lycan_character').GetName(GetNullCharacter)]"
+
+  # Reveal Werebear Secret
+  reveal_werebear_secret_decision:0 "Reveal as a Werebear"
+  reveal_werebear_secret_decision_desc:0 "Long have I lived in secrecy, hiding my true nature as a manbeast. Now I find myself in company of the likeminded, people from whom I need not hide. Is it then time for me to come forth into the open?"
+  reveal_werebear_secret_decision_tooltip:0 "Reveal your true nature"
+  reveal_werebear_secret_decision_confirm:0 "#italic Let them all know#!"
+  reveal_werebear_secret_decision_effect:0 "Reveal yourself to the world as a [GetTrait('werebear_character').GetName(GetNullCharacter)]"
+
+
+  # Reveal wereboar Secret
+  reveal_wereboar_secret_decision:0 "Reveal as a Wereboar"
+  reveal_wereboar_secret_decision_desc:0 "Long have I lived in secrecy, hiding my true nature as a manbeast. Now I find myself in company of the likeminded, people from whom I need not hide. Is it then time for me to come forth into the open?"
+  reveal_wereboar_secret_decision_tooltip:0 "Reveal your true nature"
+  reveal_wereboar_secret_decision_confirm:0 "#italic Let them all know#!"
+  reveal_wereboar_secret_decision_effect:0 "Reveal yourself to the world as a [GetTrait('wereboar_character').GetName(GetNullCharacter)]"
+
+
+  # Coven goes on an adventure
+  coven_goes_on_an_adventure_decision: "Coven goes on an adventure"
+  coven_goes_on_an_adventure_decision_desc: "It would appear my legend around here has come to an end, but I still feel the yearning for more great deeds before I part from this world. There must be more out there, and I intend to bring my legend to distant and mythical lands!"
+  coven_goes_on_an_adventure_decision_tooltip: "$coven_goes_on_an_adventure_decision_tt$"
+  coven_goes_on_an_adventure_decision_confirm: "The legend never ends!"
+  coven_goes_on_an_adventure_decision_tt: "Gain one-time access to the Legendary Adventure [casus_belli|E], allowing you to abandon your current realm and seek your fortune in a foreign [kingdom|E]."

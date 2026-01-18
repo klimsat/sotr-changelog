@@ -1,0 +1,14 @@
+﻿l_english:
+
+  ## Dwemer ##
+
+  nick_dwemer_illuminator:0 "the Illuminator"
+  nick_dwemer_illuminator_desc:1 "This person is a visionary thinker, known for their profound insights and innovative ideas that illuminate complex problems and inspire those around them."
+  nick_dwemer_brass_hands:0 "Brass-Hands"
+  nick_dwemer_brass_hands_desc:1 "This person is known for their immense strength and combat prowess. Loved by some and feared by many, they walk the fine line between hero and havoc-bringer, a living embodiment of raw power tempered by a fiery personality."
+  nick_the_potbelly_dwemer:0 "the Potbelly"
+  nick_the_potbelly_dwemer_desc:1 "This one just can't stop eating and really hates those green food."
+  nick_dwemer_big:0 "Big"
+  nick_dwemer_big_desc:1 "As big as the Red Mountain as they say."
+  nick_dwemer_red_hammer:0 "the Red Hammer"
+  nick_dwemer_red_hammer_desc:1 "This one is known for [CharYourHerHis(CHARACTER)] brutality in battle. The mere mention of [CharYourHerHis(CHARACTER)] name strikes fear into the hearts of those who might oppose [CharYouHerHim(CHARACTER)], for they fear they would the next ones to stain [CharYourHerHis(CHARACTER)] Hammer. "

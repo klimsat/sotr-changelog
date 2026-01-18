@@ -1,0 +1,15 @@
+﻿l_english:
+
+  #heritage_giant_name:0 "Giant"
+  heritage_giant_name:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' ) ), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_GIANT') ) ), 'Giant', Localize('no') )]"
+  heritage_giant_collective_noun:0 "Giant"
+  heritage_giant_desc:0 "Giants are humongous creatures who roamed various places throughout Tamriel. They are typically friendly if not provoked."
+  #heritage_faun_name:0 "Faun"
+  heritage_faun_name:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' ) ), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_FAUN') ) ), 'Faun', Localize('no') )]"
+  heritage_faun_collective_noun:0 "Fauns"
+  heritage_faun_desc:0 "The enigmatic Fauns are woodland spirits deeply rooted in the mythic traditions of Systres Isles and Tamriel. Known for their grace and harmony with nature, Fauns are said to embody the untamed spirit of the wilds. Their origins are often linked to the Dawn Era, when the Divines walked Nirn and the lines between mortals, spirits, and gods blurred. \n\nFauns are characterized by their deer like appearance, often adorned with horns that vary in size and shape. Legend suggests they were either born from the primal energies of the Green or created as guardians of the sacred groves. \n\nThough their numbers dwindled following the years, Fauns persisted as enigmatic wanderers, often appearing in moments of strife or great change. Their polyphonic singing and storytelling are renowned, and some claim they can weave tales that stir the Green Pact itself, calling forth the will of Y'ffre."
+  #heritage_sinestral_name:0 "Sinestral Elf"
+  heritage_sinestral_name:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' ) ), Or(GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ),GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MAN') ) ) ), 'Sinestral Mer', Localize('no') )]"
+  heritage_sinestral_collective_noun:0 "Sinestral Elves"
+  heritage_sinestral_desc:0 "Kanuryai, the Sinestral Elves—also called the Lefthanded Elves—are a mysterious elven society whose legacy is scattered across fragmented histories. What little is known comes from Yokudan and Druidic sources, speaking of a civilization that mastered stonework, gemstone-cutting, and warcraft in equal measure. \n\nThe Sinestral Elves were artisans of gypsum alabaster and orichalcum, their craftsmanship evident in the rare funerary urns unearthed in the Systres Archipelago. \n\n #italic 'There is bone and dirt. Blood and smoke. Flesh and metal. This is the Real.'#! The Sinestral Elves rejected the comforts of myth, believing that beyond the final afterlife lay nothing. In the face of this void, they fought to remain in the here and now, shaping their armor, customs, and very way of life around resilience and survival."
+

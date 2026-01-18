@@ -1,0 +1,62 @@
+﻿l_english:
+
+  #Pelinal Challenge Interaction
+
+  pelinal_challenge_ruler_interaction:0 "Challenge the Elven Ruler"
+  pelinal_challenge_ruler_interaction_desc:0 "Pelinal Whitestrake may challenge [recipient.GetShortUINameNoTooltip] to single combat. Should he win, he may decide their fate—as is his right by ancient oath and divine fury."
+  pelinal_challenge_ruler_interaction_notification:0 "Duel Challenge Issued"
+  pelinal_challenge_ruler_interaction_notification_refused:0 "[recipient.GetTitledFirstNameNoTooltip|U] has refused the challenge, denying the ancient rite."
+  PELINAL_DUEL_CHALLENGE_PROPOSAL:0 "You wear your crown as if it were not built atop the bones of Men. I, Pelinal, challenge you—here, now. No court, no law, no divines shall stay my hand."
+  PELINAL_DUEL_CHALLENGE_ACCEPT:0 "Face him in combat"
+  PELINAL_DUEL_CHALLENGE_REJECT:0 "Reject the challenge"
+  pelinal_challenge_ruler_interaction_is_valid_tt_1:0 "You must be Pelinal Whitestrake or bear his divine trait."
+  pelinal_challenge_ruler_interaction_is_valid_tt_2:0 "The target must be a landed ruler and not imprisoned or incapacitated."
+  pelinal_challenge_ruler_interaction_is_valid_tt_3:0 "You may not challenge the same character again within 5 years."
+
+  pelinal_challenge_to_single_combat_interaction.lethal_bout.tt:0 "If Pelinal wins he will decide what to do with [recipient.GetTitledFirstNameNoTooltip|U]'s live"
+
+  pelinal_challenge_to_artifact_combat_interaction_victor_gets.tt:0 "If Pelinal wins he can freely any swords or armors that belongs to [recipient.GetTitledFirstNameNoTooltip|U]"
+
+  pelinal_challenge_to_artifact_combat_interaction_loser_gets.tt:0 "If Pelinal loses he may be imprisoned or executed by [recipient.GetTitledFirstNameNoTooltip|U]"
+
+  #Thumul Challenge Interaction
+
+  thumul_challenge_atmorans_interaction:0 "Challenge the Atmoran"
+  thumul_challenge_atmorans_interaction_desc:0 "Thumul, chief of the Sea Giants, may challenge [recipient.GetShortUINameNoTooltip] to single combat. Should he win, the blood-debt of the mainland giants will be his to settle as he sees fit."
+  thumul_challenge_atmorans_interaction_notification:0 "Sea Giant’s Challenge Issued"
+  thumul_challenge_atmorans_interaction_notification_refused:0 "[recipient.GetTitledFirstNameNoTooltip|U] has refused your challenge, spurning the ancient right of trial by combat."
+  THUMUL_DUEL_CHALLENGE_PROPOSAL:0 "The crimes of your kind still stain the shores of my people. I, Thumul, rise from the depths to challenge you—here, now. No walls, no laws, no gods shall shield you."
+  THUMUL_DUEL_CHALLENGE_ACCEPT:0 "Face them in combat"
+  THUMUL_DUEL_CHALLENGE_REJECT:0 "Reject the challenge"
+  thumul_challenge_atmorans_interaction_is_valid_tt_1:0 "You must be Thumul, chief of the Sea Giants, or bear his legendary trait."
+  thumul_challenge_atmorans_interaction_is_valid_tt_2:0 "The target must be a landed ruler and not imprisoned or incapacitated."
+  thumul_challenge_atmorans_interaction_is_valid_tt_3:0 "You may not challenge the same character again within 3 months."
+
+  thumul_challenge_to_single_combat_interaction.lethal_bout.tt:0 "If Thumul wins, he will decide the fate of [recipient.GetTitledFirstNameNoTooltip|U] and their bloodline."
+
+  thumul_challenge_to_artifact_combat_interaction_victor_gets.tt:0 "If Thumul wins, he may claim any treasured weapons or armor belonging to [recipient.GetTitledFirstNameNoTooltip|U]."
+
+  thumul_challenge_to_artifact_combat_interaction_loser_gets.tt:0 "If Thumul loses, he may be imprisoned or executed by [recipient.GetTitledFirstNameNoTooltip|U]."
+
+
+  #Sword-Singer Challenge Interaction
+  swordsinger_challenge_warrior_interaction:0 "Challenge a Warrior"
+  swordsinger_challenge_warrior_interaction_desc:0 "A Sword-Singer may challenge [recipient.GetTitledFirstNameNoTooltip] in accordance to the ancient #italic Way of the Sword#!. With each Victory, your honor may be proven and your #italic Sword-Singing#! ability grow stronger."
+  swordsinger_challenge_warrior_interaction_notification:0 "Sword-Singer Duel Issued"
+  swordsinger_challenge_warrior_interaction_notification_refused:0 "[recipient.GetTitledFirstNameNoTooltip|U] has refused the challenge, silencing the rite of blades."
+  SWORD_SINGER_DUEL_CHALLENGE_PROPOSAL:0 "Steel remembers truth better than tongues. I call you to the circle—blade to blade, song to song. Let the Shehai judge us."
+  SWORD_SINGER_DUEL_CHALLENGE_ACCEPT:0 "Answer the challenge with steel"
+  SWORD_SINGER_DUEL_CHALLENGE_REJECT:0 "Refuse the ritual duel"
+  swordsinger_challenge_warrior_interaction_is_valid_tt_1:0 "You must be a Sword-Singer."
+  swordsinger_challenge_warrior_interaction_is_valid_tt_2:0 "The target must be a capable warrior and not imprisoned or incapacitated."
+  swordsinger_challenge_warrior_interaction_is_valid_tt_3:0 "You may not challenge the same character again within 3 years."
+
+  swordsinger_challenge_to_single_combat_interaction.lethal_bout.tt:0 "If [actor.GetTitledFirstNameNoTooltip|U] wins, they may decide the fate of [recipient.GetTitledFirstNameNoTooltip|U]."
+
+  swordsinger_challenge_to_artifact_combat_interaction_victor_gets.tt:0 "If [actor.GetTitledFirstNameNoTooltip|U] wins, they may claim any random [artifact|E] belonging to [recipient.GetTitledFirstNameNoTooltip|U]."
+
+  swordsinger_challenge_to_artifact_combat_interaction_loser_gets.tt:0 "If [recipient.GetTitledFirstNameNoTooltip|U] loses, [recipient.GetSheHe] might get executed by [actor.GetTitledFirstNameNoTooltip|U]."
+
+  swordsinger_challenge_to_artifact_combat_interaction_loser_lose_artifact.tt:0 "If [recipient.GetTitledFirstNameNoTooltip|U] loses, [recipient.GetSheHe] might lose a random [artifact|E] to [actor.GetTitledFirstNameNoTooltip|U]."
+
+  swordsinger_challenge_experience_gain.tt:0 "Sword-Singers gain increased experience and mastery of the Shehai through ritual combat and honorable challenges."

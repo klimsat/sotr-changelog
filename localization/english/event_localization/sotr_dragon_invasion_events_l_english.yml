@@ -1,0 +1,95 @@
+﻿l_english:
+
+ # Unsettling news are coming from up North
+ dragon_holy_war_beginning.0001.t:0 "Unseettling News..."
+ dragon_holy_war_beginning.0001.desc:0 "Disturbing news continues to emerge from Atmora.\n\nAs the newly established settlements in Mereth flourish, increasing numbers of Atmorans continue to abandon their ancestral homeland, drawn southward by the promise of better lands and brighter sky. \n\nHowever, not all are pleased with this shift. Subtle murmurs speak of growing unease among the Dragon Priests, whose silence veils a simmering discontent. Even the World-Eater Himself is said to stir, displeased by the dwindling numbers of the faithful who still offer worship to the dragons."
+
+ dragon_holy_war_beginning.0001.a:0 "Damn those Masked Zealots to Oblivion."
+ dragon_holy_war_beginning.0001.a.tt:0 "If they dare set foot in Mereth, I’ll gladly introduce them to my steel."
+ dragon_holy_war_beginning.0001.b:0 "Let them come."
+ dragon_holy_war_beginning.0001.b.tt:0 "If they dare assault us, we’ll stack their bones like firewood on Mereth’s shores"
+ dragon_holy_war_beginning.0001.c:0 "Worry not, for [ROOT.Char.GetFaith.HighGodName] is with us."
+ dragon_holy_war_beginning.0001.c.tt:0 "We remain, as we must, to preserve our faith and we shall await the trials in the days to come."
+ dragon_holy_war_beginning.0001.d:0 "Let me write down my surrender letter before they arrive."
+ dragon_holy_war_beginning.0001.d.tt:0 "This talk of Dragon Priests and the World-Eater makes my blood run cold. Perhaps it's best we keep our heads down...and speak of something else..."
+ dragon_holy_war_beginning.0001.e:0 "Let us hope for the best resolution"
+ dragon_holy_war_beginning.0001.e.tt:0 "The dragons may come with fire, but we'll meet them with open hands—and maybe a strong ale to share."
+ dragon_holy_war_beginning.0001.f:0 "It's about time that the heathens are judged."
+ dragon_holy_war_beginning.0001.f.tt:0 "Faith has withered in the hearts of men, and now they shall reap the consequences. Let us await the fires that will cleanse the unfaithful."
+ dragon_holy_war_beginning.0001.g:0 "We must prepare ourselves. There might be hardship ahead."
+ dragon_holy_war_beginning.0001.g.tt:0 "If they come with war, we'll be ready. If they come with words, we'll listen."
+
+  # A Dragon Priest is attacked
+  dragon_holy_war_beginning.0002.t:0 "About the Dragon Priest..."
+  dragon_holy_war_beginning.0002.desc:1 "Today, it felt as though even the mountains held their breath. \n\nFor many years, the Companions had permitted the Dragon Cultists to remain—allowing them to preach their faith, grant blessings, and spoke of their Lord's favor. Though many regarded their kind with suspicion, the Atmoran chieftains, mindful of the Dragons' aid during the Conquest, chose to tolerate their presence.\n\nBut now, a heavy silence has fallen, and the air hangs thick with unease. A Dragon Priest has been publicly assaulted within Mereth—the dragon temple was seized and their authority was openly defied. Though there has been no immediate response, all know what such an act portends. \n\nThe rest of the Dragon Priests, along with their Master have yet to react in light of this. \n\n#TUT .......But for how long?#!"
+
+ 
+ dragon_holy_war_beginning.0002.a:0 "Let them choke on it."
+ dragon_holy_war_beginning.0002.a.flavor:0 "If their pride is wounded, let them come swinging. We’ll send their bones back wrapped in dragonhide."
+ dragon_holy_war_beginning.0002.a.tt:0 "@warning_icon! #negative_value This message may provoke the Dragon Priests#!"
+ 
+ dragon_holy_war_beginning.0002.b:0 "A necessary provocation."
+ dragon_holy_war_beginning.0002.b.flavor:0 "Let them awaken. We’ve sharpened our blades and buried our fear."
+ dragon_holy_war_beginning.0002.b.tt:0 "@warning_icon! #negative_value This message may provoke the Dragon Priests#!"
+
+ dragon_holy_war_beginning.0002.c:0 "Good. It should have happened sooner."
+ dragon_holy_war_beginning.0002.c.flavor:0 "Let their kind bleed. The Totems do not suffer masks and lies—we were right to cast the first stone. If the dragons come, they’ll find no fear in us."
+ dragon_holy_war_beginning.0002.c.tt:0 "@warning_icon! #negative_value This message may provoke the Dragon Priests#!"
+
+ dragon_holy_war_beginning.0002.d:0 "Maybe if we just stay very quiet..."
+ dragon_holy_war_beginning.0002.d.flavor:0 "Let's just hope that they might forget we exist. If they do, I’m not volunteering for any battles, that’s for sure."
+ dragon_holy_war_beginning.0002.d.tt:0 "....."
+ 
+ dragon_holy_war_beginning.0002.e:0 "Perhaps they will understand this misunderstanding."
+ dragon_holy_war_beginning.0002.e.flavor:0 "Unlikely as it is, we can always hope the mask hides a sense of humor and understand that it's not meant as an offence. Let's just hope for the best."
+ dragon_holy_war_beginning.0002.e.tt:0 "....."
+
+
+ dragon_holy_war_beginning.0002.f:0 "Let's just keep our eyes open."
+ dragon_holy_war_beginning.0002.f.flavor:0 "A Dragon Priest expelled... We shall see what follows. For now, let us be watchful."
+ dragon_holy_war_beginning.0002.f.tt:0 "....."
+
+
+ # High King of Mereth War Event
+ ek_dragon_holy_war.0001.t:0 "Dragon Holy Conquest"
+ ek_dragon_holy_war.0001.atmoran.desc:1 "Hear me, O Children of the Sky. \n\nThe time has come to cast off your feeble totems and heedless spirits. \n\nDo ye not remember how we bestowed our favors upon you?  — as your false gods turned away. \n\nDo ye not recall how the Holy Dovah came to your aid?  — unleashing their wrath upon the lords of frost and snow.\n\nThe time has come to give unto them what is their due, for their flame has lit the path before you. \n\nNone shall defy the will of the Firstborn.\n\nHis hunger is endless. His will is carved into the bones of the world.  \n\nWe are His voice, He speaks through us so you may listen—lest His wrath be your undoing! \n\nCast down your false gods. Tear the name of [ROOT.Char.GetFaith.HighGodName] from your lips and bow beneath the shadow of the World-Eater. \n\nDefy, and you shall be swept away like snow before the storm.\n\n #color_red #italic Huzrah Nu — Kul Do Od#! #!"
+ ek_dragon_holy_war.0001.any.desc:1 "Hear me, O Lost Ones. \n\nThe time has come to cast off your false gods and heedless spirits. \n\nNone shall defy the will of the Firstborn.\n\nHis hunger is endless. His will is carved into the bones of the world.  \n\nWe are His voice, He speaks through us so you may listen—lest His wrath be your undoing! \n\nCast down your false gods. Tear the name of [ROOT.Char.GetFaith.HighGodName] from your lips and bow beneath the shadow of the World-Eater. \n\nDefy, and you shall be swept away like snow before the storm.\n\n #color_red #italic Huzrah Nu — Sizaan Kiir#! #!"
+
+
+ ek_dragon_holy_war.0001.a:0 "May Alduin's shadow pass over us and leave us standing."
+ ek_dragon_holy_war.0001.a.ct:0 "You will surrender and become a vassal to the Dragon Priesthood"
+ ek_dragon_holy_war.0001.b:0 "We are not prey for your false god! Let the storm rage!"
+ ek_dragon_holy_war.0001.b.ct:0 "The Dragon Priests are about to start a Holy Conquest on Mereth"
+
+
+ ek_dragon_holy_war.0002.desc:0 "My Liege is now engaged in a war against the Dragon Priests, who have arrived from Atmora alongside their masters. \n\nThe skies darken with the beating of wings as dragons descend upon the land, their flames heralding the return of their Dark Lord.\n\nTheir purpose is clear... to claim the new world in the name of the World-Eater.\n\nAre we to bow beneath the shadow of the Dragons once more?"
+ ek_dragon_holy_war.0002.a:0 "May [ROOT.Char.GetFaith.HighGodName] protect us"
+
+ ek_dragon_holy_war.0003.t:0 "Dragon Invasion"
+ ek_dragon_holy_war.0003.desc:0 "Unsettling news has been spread from the North. Masked figures have begun forcing the rulers of the northern lands to worship their foreign scaled gods. \n\n Reports tell of how villages and cities being forced into submission, and those who resist get immediately crushed by their strange sorcery. Some stand firm in defiance, while others waver, uncertain whether to fight or kneel before the flames...."
+
+ ek_dragon_holy_war.0003.a:0 "Have at Thee!!!"
+ ek_dragon_holy_war.0003.b:0 "They will regret the day they marched on our shores!"
+ ek_dragon_holy_war.0003.c:0 "Worry not, for [ROOT.Char.GetFaith.HighGodName] is with us."
+ ek_dragon_holy_war.0003.d:0 "Is that a joke? if it is... that's not funny...."
+ ek_dragon_holy_war.0003.e:0 "I hope the innocent people in the North can hold fast through these dark times."
+ ek_dragon_holy_war.0003.f:0 "We must prepare ourselves. There might be hardship ahead."
+
+ # Other Skyrim Rulers War Event
+
+ dragon_army_invasion.0001.opening:0 "Drem yol lok!"
+ dragon_army_invasion.0001.desc:0 "The time has come for you to abandon  the worship of [ROOT.Char.GetFaith.HighGodName]. None shall defy the  will of the Firstborn. His hunger is endless. His will is carved into  the bones of the world.  \n\nWe are His voice, He speaks through us so  you may listen—lest His wrath be your undoing! Cast down your false  gods and bow beneath the shadow of the World-Eater. Defy, and you shall  be swept away like snow before the storm.\n\n #color_red #italic Huzrah  Nu — Kul Do Od#! #!"
+ dragon_army_invasion.0001.a:0 "May Alduin's shadow pass over us and  leave us standing.."
+ dragon_army_invasion.0001.a.tt:0 "You become a vassal of  [dragon_priest_leader.GetShortUIName]"
+ dragon_army_invasion.0001.b:0 "We are not prey for your false god! Let  the storm rage!"
+ dragon_army_invasion.0001.b.tt:0 "[dragon_priest_leader.GetShortUIName| U] declares war on you"
+
+
+ dragon_army_invasion.0002.opening:0 "Honored Servants of the World-Eater,"
+ dragon_army_invasion.0002.desc:0 "I submit to your ancient and sacred authority, chosen of the World-Eater. In Alduin’s name, I stand with you against all who would deny his return and rightful dominion.""
+ dragon_army_invasion.0002.a:0 "Serve well, and you shall endure. The World-Eater marks your fealty."
+
+ dragon_army_invasion.0003.opening:0 "To the masked slaves of the Winged Demons,"
+ dragon_army_invasion.0003.desc:0 "You believe I would kneel that easily? I am no servant of your doomsday cult. Let Alduin come—I will stand defiant until the last flame gutters out."
+ dragon_army_invasion.0003.a:0 "Then let the sky burn."
+ dragon_army_invasion.0003.b:0 "Mey Mal Zaam!!!"

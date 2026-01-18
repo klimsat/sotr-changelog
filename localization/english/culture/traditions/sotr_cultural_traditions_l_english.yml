@@ -1,0 +1,48 @@
+﻿l_english:
+ ### CULTURE PARAMETERS
+
+  #Chimer
+  tradition_great_houses_chimer_name:0 "House Chimer"
+  tradition_great_houses_chimer_desc:0 "Disunity is the mother of chaos. For the prosperity of our people, we should follow a unified governance system and shun open warfare. Only a Great House can support our ambitions and award us our rightful place within the land."
+  tradition_great_houses_chimer_trigger_desc:0 "Is #V $heritage_chimeri_name$#! [heritage|E] and does not have the [GetCultureTradition('tradition_red_mountain_might').GetName|V] [tradition|E]."
+  culture_parameter_unlock_maa_chimer_oathmen:0 "Can recruit [GetMaA('chimer_oathmen').GetName] as [men_at_arms|E]"
+  culture_parameter_unlock_maa_chimeri_royal_guard:0 "If your [title_tier|E] is equal to or higher than [kingdom|E], you can recruit [GetMaA('chimeri_vanguards').GetName] as [men_at_arms|E]"
+
+  #Faun
+  tradition_green_seers_name:0 "Green Seers"
+  tradition_green_seers_desc:1 "The Green has a sacred bond with the Fauns"
+  tradition_faun_trigger_desc:0 "Is #V $heritage_faun_name$#! [heritage|E]"
+  culture_parameter_unlock_maa_fauns:0 "Can recruit [GetMaA('fauns').GetName] as [men_at_arms|E]"
+
+  #Ancient Atmoran
+  tradition_atmoran_core_name:0 "Blood of the Elder Wood"
+  tradition_atmoran_core_desc:1 "The Atmoran heritage held by Men of the North"
+  tradition_atmoran_core_trigger_desc:0 "Is #V $heritage_atmoran$#! [heritage|E]"
+
+  #Sinestral Elves
+  tradition_throne_of_the_soul_name:0 "Throne of the Soul"
+  tradition_throne_of_the_soul_desc:1 "There is bone and dirt. Blood and smoke. Flesh and metal. This is the Real. While many stages of death exist, in the final after there is nothing"
+  tradition_sinestral_trigger_desc:0 "Is #V $heritage_sinestral_name$#! [heritage|E]"
+
+  #Humongous Folk
+  tradition_humongous_folk_name:0 "Humongous Folk"
+  tradition_humongous_folk_desc:1 "They stride taller than hills, with voices that echo like thunder across valleys. The Humongous Folk live by the law of strength, their tales carved into stone and their legacies raised higher than the clouds themselves."
+  tradition_humongous_folk_trigger_desc:0 "Is #V $heritage_humongous_folk_name$#! [heritage|E]"
+  culture_parameter_unlock_maa_giants:0 "Can recruit [GetMaA('giants').GetName] as [men_at_arms|E]"
+
+  #Abyssal Titans
+  tradition_abyssal_titans_name:0 "Abyssal Titans"
+  tradition_abyssal_titans_desc:1 "Born of storm and wave, the Sea Giants are masters of the deep. Their steps shake the surf and their arms carry the pull of the tides. To them, the ocean is both battlefield and cradle, and their wrath can break fleets like driftwood."
+  tradition_abyssal_titans_trigger_desc:0 "Is #V $heritage_sea_giant_name$#! [heritage|E]"
+  culture_parameter_unlock_maa_sea_giants:0 "Can recruit [GetMaA('sea_giants').GetName] as [men_at_arms|E]"
+
+  #Ever moving Tides
+  tradition_ever_moving_tides_name:0 "The Ever Moving Tides"
+  tradition_ever_moving_tides_desc:1 "As the Tide-Born journey through life toward their destined scales, some may stray, lose their way, or perish before ever reaching them. When this occurs, the Tide draws them back, granting them another chance to continue along the Ever-Moving Tides."
+  tradition_ever_moving_tides_trigger_desc:0 "Is either #V $izta_ahuak$#! #italic or#! a [culture|E] descended from #V $izta_ahuak$.#!"
+
+  #Stones of Life
+  tradition_stones_of_life_name:0 "Stones of Life"
+  tradition_stones_of_life_desc:1 "The Stone-Nest Argonians of Eastern Solstice were known to hold stone in reverence. Numerous stone statues could be found within their territories, showcasing a tradition of stonecraft"
+  tradition_stones_of_life_trigger_desc:0 "Is either #V $izta_ahuak$#! #italic or#! a [culture|E] descended from #V $izta_ahuak$.#!"
+ 

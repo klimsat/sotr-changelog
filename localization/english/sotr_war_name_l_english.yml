@@ -1,0 +1,30 @@
+﻿l_english:
+
+ #Dragon Invasion CB - Exclusive to Dragon Priest AI
+ DOVAH_WAR_NAME:0 "Dragon Holy Conquest"
+
+ #Sack Coven CB - Exclusive to Players
+ sack_coven_cb:0 "Sack Coven"
+ SACK_COVEN_CB_NAME:0 "Sack [DEFENDER.GetShortUIName]'s Coven"
+ SACK_COVEN_CB_SPECIFIC_NAME:0 "Sack [DEFENDER.GetShortUIName]'s Coven"
+ SACK_COVEN_WAR_NAME:1 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetPrefix]-[DEFENDER.GetPrimaryTitle.GetAdjective] Sacking of Coven"
+ SACK_COVEN_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
+ sack_coven_cb_victory_desc_equal_tier_attacker:0 "You take [defender.GetShortUINamePossessive] [primary_title|E] and decide what to do with it..."
+ sack_coven_cb_victory_desc_equal_tier_defender:0 "[attacker.GetShortUIName|U] will take over your [primary_title|E]."
+ sack_coven_cb_victory_desc_equal_tier:0 "[attacker.GetShortUIName|U] takes [defender.GetShortUINamePossessive] [primary_title|E]."
+ sack_coven_cb_white_peace_desc_defender:0 "You keep all your [titles|E] and remain independent."
+ sack_coven_cb_white_peace_desc:0 "[defender.GetShortUIName|U] keeps all [defender.GetHerHis] titles and remains independent."
+ sack_coven_cb_defeat_desc_attacker:0 "[defender.GetShortUIName|U] remains independent."
+
+ #Subjugate Pack CB - Exclusive to Players
+ subjugate_pack_cb:0 "Sack Coven"
+ SUBJUGATE_PACK_CB_NAME:0 "Sack [DEFENDER.GetShortUIName]'s Coven"
+ SUBJUGATE_PACK_CB_SPECIFIC_NAME:0 "Sack [DEFENDER.GetShortUIName]'s Coven"
+ SUBJUGATE_PACK_WAR_NAME:1 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetPrefix]-[DEFENDER.GetPrimaryTitle.GetAdjective] Sacking of Coven"
+ SUBJUGATE_PACK_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
+ subjugate_pack_cb_victory_desc_equal_tier_attacker:0 "You take [defender.GetShortUINamePossessive] [primary_title|E] and decide what to do with it..."
+ subjugate_pack_cb_victory_desc_equal_tier_defender:0 "[attacker.GetShortUIName|U] will take over your [primary_title|E]."
+ subjugate_pack_cb_victory_desc_equal_tier:0 "[attacker.GetShortUIName|U] takes [defender.GetShortUINamePossessive] [primary_title|E]."
+ subjugate_pack_cb_white_peace_desc_defender:0 "You keep all your [titles|E] and remain independent."
+ subjugate_pack_cb_white_peace_desc:0 "[defender.GetShortUIName|U] keeps all [defender.GetHerHis] titles and remains independent."
+ subjugate_pack_cb_defeat_desc_attacker:0 "[defender.GetShortUIName|U] remains independent."

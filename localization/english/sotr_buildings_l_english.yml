@@ -1,0 +1,104 @@
+﻿l_english:
+
+ # Specific
+
+ # Bloodroot Forge
+ bloodroot_forge_1_effect_desc:0 "@necromancy_icon! Hircine's Devotees holding this might be able to perform a ritual to become a Blood-forged."
+
+ # Bloodroot Forge
+ building_type_bloodroot_forge_01:0 "Bloodroot Forge"
+ building_type_bloodroot_forge_01_desc:0 "The Bloodroot Forge is a sacred structure constructed in the name of the Daedric Prince Hircine. This forge was created by the Keptu civilization, nestled in a secluded valley along the border of the Craglorn region of in the Deathlands. Its primary purpose was to harvest Nirncrux, a rare and powerful material, and its design was so advanced that it rivaled the ingenuity of the Ayleids and Dwemer."
+ building_bloodroot_forge_01:1 "$building_type_bloodroot_forge_01$"
+ building_bloodroot_forge_01_desc:1 "$building_type_bloodroot_forge_01_desc$"
+ building_bloodroot_forge_01_defiled:1 "$building_type_bloodroot_forge_01$ (defiled)"
+ building_bloodroot_forge_01_defiled_desc:1 "$building_type_bloodroot_forge_01_desc$\n\nOnce a monument to ancient ingenuity and dark purpose, now lies in ruin. Its malevolent heart has been silenced, but the land remains scarred by its legacy. The haunting echoes of the forge’s creators, twisted by their own ambition, now linger as restless spirits. Subjugated by the taint of Nirncrux and the sinister rituals once performed within its depths, these specters serve only as grim reminders of the forge’s dark history."
+ building_type_bloodroot_forge_02:0 "Bloodroot Forge"
+ building_type_bloodroot_forge_02_desc:1 "$building_type_bloodroot_forge_01_desc$"
+ building_bloodroot_forge_02:1 "$building_type_bloodroot_forge_01$"
+ building_bloodroot_forge_02_desc:1 "$building_type_bloodroot_forge_01_desc$ \n\n The Forges fire is lit, you can use them to make yourself a Blood-Forged"
+
+ #Orichalc Tower
+ building_type_orichalc_tower_01:0 "Orichalc Tower"
+ building_type_orichalc_tower_01_desc:0 "Not much is known about this ancient building, other than the fact that it was highly venerated by the Sinestral Elves of Yokuda.\n\nAccording to Yokudan legend, when Diagna once crashed his fist against The HoonDing Gong, swords fell from the walls of the Orichalc Tower like needles from a dry pine."
+ building_orichalc_tower_01:0 "$building_type_orichalc_tower_01$"
+ building_orichalc_tower_01_desc:0 "$building_type_orichalc_tower_01_desc$"
+ orichalc_tower_effect_desc:0 "#P Increased#! [offer_vassalization|E] Acceptance"
+
+ building_type_orichalc_tower_02:0 "Orichalc Tower"
+ building_type_orichalc_tower_02_desc:0 "Not much is known about this ancient building, other than the fact that it was highly venerated by the Sinestral Elves of Yokuda.\n\nAccording to Yokudan legend, when Diagna onccrashed his fist against The HoonDing Gong, swords fell from the walls of the Orichalc Tower like needles from a dry pine."
+ building_orichalc_tower_02:0 "$building_type_orichalc_tower_02$"
+ building_orichalc_tower_02_desc:0 "$building_type_orichalc_tower_02_desc$"
+
+ building_type_orichalc_tower_03:0 "Orichalc Tower"
+ building_type_orichalc_tower_03_desc:0 "Not much is known about this ancient building, other than the fact that it was highly venerated by the Sinestral Elves of Yokuda.\n\nAccording to Yokudan legend, when Diagna onccrashed his fist against The HoonDing Gong, swords fell from the walls of the Orichalc Tower like needles from a dry pine."
+ building_orichalc_tower_03:0 "$building_type_orichalc_tower_03$"
+ building_orichalc_tower_03_desc:0 "$building_type_orichalc_tower_03_desc$"
+
+ #Great Chantry of Auri_el
+ building_type_chantry_of_auriel_01:0 "The Chantry of Auri-El"
+ building_chantry_of_auriel_01:0 "The Chantry of Auri-El"
+ building_chantry_of_auriel_01_desc:0 "The Chantry of Auri-El served as the principal center of religious activity for the Snow Elves. Regarded as the focal point of their spiritual tradition, it was believed to be a site where adherents could achieve a heightened state of enlightenment.\n\nThe surrounding vale housed a grand temple dedicated to their principal deity, complemented by numerous smaller structures called Wayshrines. These shrines formed a sacred pilgrimage route, guiding worshippers as they sought spiritual insight and the gradual ascent toward transcendence.."
+ chantry_of_auriel_effect_desc:0 "#P Increased#! [piety|E] and [prestige|E] gain."
+
+ building_chantry_of_auriel_02:0 "The Chantry of Auri-El"
+ building_chantry_of_auriel_02_desc:0 "The Chantry of Auri-El served as the principal center of religious activity for the Snow Elves. Regarded as the focal point of their spiritual tradition, it was believed to be a site where adherents could achieve a heightened state of enlightenment.\n\nThe surrounding vale housed a grand temple dedicated to their principal deity, complemented by numerous smaller structures called Wayshrines. These shrines formed a sacred pilgrimage route, guiding worshippers as they sought spiritual insight and the gradual ascent toward transcendence.."
+
+ building_chantry_of_auriel_03:0 "The Great Chantry of Auri-El"
+ building_chantry_of_auriel_03_desc:0 "The Great Chantry of Auri-El served as the principal center of religious activity for the Snow Elves. Regarded as the focal point of their spiritual tradition, it was believed to be a site where adherents could achieve a heightened state of enlightenment.\n\nThe surrounding vale housed a grand temple dedicated to their principal deity, complemented by numerous smaller structures called Wayshrines. These shrines formed a sacred pilgrimage route, guiding worshippers as they sought spiritual insight and the gradual ascent toward transcendence.."
+
+ # Xul-Haj Xanmeer
+ building_type_xul_haj_01:0 "Xul Haj Xanmeer"
+ building_type_xul_haj_01_desc:0 "Xul-Haj is traditionally regarded as the earliest constructed Xanmeer by the Argonians following their arrival on Solstice. The site was later repurposed into a necropolis, serving as a primary center for funerary rites and interment.\n\nThe complex consists of large cisterns, burial chambers, and dedicated funerary temples. Its deepest tombs contain the remains of the island’s most ancient Argonians."
+ building_xul_haj_01:0 "$building_type_xul_haj_01$"
+ building_xul_haj_01_desc:0 "$building_type_xul_haj_01_desc$" 
+
+ # Xor-Hist Xanmeer
+ building_type_xor_hist_01:0 "Xor-Hist Xanmeer"
+ building_type_xor_hist_01_desc:0 "Xor-Hist is a massive Xanmeer constructed in the distinctive stone-nest architectural style. The courtyards are guarded by Voskrona Guardians, whose presence reinforces the Xanmeer’s role as both community center and fortified citadel."
+ building_xor_hist_01:0 "$building_type_xor_hist_01$"
+ building_xor_hist_01_desc:0 "$building_type_xor_hist_01_desc$" 
+
+ # Naj-Caldeesh Xanmeer
+ building_type_naj_caldeesh_01:0 "Naj-Caldeesh Xanmeer"
+ building_type_naj_caldeesh_01_desc:0 "Unlike most Xanmeers, which rise prominently above the surrounding landscape, Naj-Caldeesh is carved directly into the earth. This design reflects a philosophy that accepts decay as a fundamental aspect of existence rather than resisting it.\n\nThe lowest chambers of the structure contain what is believed to be the heart of the Xanmeer and the source of its necromantic influence. This core was intentionally concealed beneath layers of soil and root-bound stone, suggesting that its creators sought containment rather than veneration."
+ building_naj_caldeesh_01:0 "$building_type_naj_caldeesh_01$"
+ building_naj_caldeesh_01_desc:0 "$building_type_naj_caldeesh_01_desc$" 
+
+ # Xul-Katama Xanmeer
+ building_type_xul_katama_01:0 "Xul-Katama Xanmeer"
+ building_type_xul_katama_01_desc:0 "Xul-Katama, also known as the Monastery of the Death-Dancers, is an ancient Argonian monastery located off the eastern coast of Solstice.\n\nAt the height of its prominence, Xul-Katama served as the spiritual and intellectual center of the Death-Dancer sect on Solstice, preserving their doctrines and writings concerning Sithis and the Void. \n\nThe monastery is filled with with many death-traps, with defensive mechanisms that continue to pose serious danger to outsiders who attempt to infiltrate the holy site."
+ building_xul_katama_01:0 "$building_type_xul_katama_01$"
+ building_xul_katama_01_desc:0 "$building_type_xul_katama_01_desc$" 
+
+ # Teeba-Hatsei Xanmeer
+ building_type_teeba_hatsei_01:0 "Teeba-Hatsei Xanmeer"
+ building_type_teeba_hatsei_01_desc:0 "Teeba-Hatsei, more commonly known as the Vosgah Shrine, is a sacred Xanmeer dedicated to Sithis. The complex contains vast ball courts, ritual altars, and a ceremonial arena, all constructed to honor and appease the faithful of the Void. Ritual games held within its walls were notoriously brutal, their bloodshed considered an essential offering to Sithis."
+ building_teeba_hatsei_01:0 "$building_type_teeba_hatsei_01$"
+ building_teeba_hatsei_01_desc:0 "$building_type_teeba_hatsei_01_desc$" 
+
+ # Shrine of Vakkan
+ building_type_shrine_of_vakkan_01:0 "Shrine of Vakkan"
+ building_type_shrine_of_vakkan_01_desc:0 "The Shrine of Vakkan is an ancient Argonian religious site located in the northwest region of Solstice. The shrine holds significant ceremonial importance and remains under constant protection.\n\nWithin its grounds reside powerful Voskrona Guardians tasked with preserving the sanctity of the site. These guardians respond with overwhelming force to anyone who seeks to intrude upon or desecrate the shrine."
+ building_shrine_of_vakkan_01:0 "$building_type_shrine_of_vakkan_01$"
+ building_shrine_of_vakkan_01_desc:0 "$building_type_shrine_of_vakkan_01_desc$" 
+ shrine_of_vakkan_effect_desc:0 "@skirmishers_icon! The top liege of this [county|E] can recruit a [GetMaA('voskrona_guardian').GetName] [regiment|E] if their faith have [GetFaithDoctrine('doctrine_pantheon_stones').GetBaseName] [doctrine|E] or [GetFaithDoctrine('doctrine_pantheon_sea').GetBaseName] [doctrine|E]."
+
+ # Shrine of Sithis
+ building_type_temple_of_sithis_01:0 "Shrine of Itz-Teyeesh"
+ building_type_temple_of_sithis_01_desc:0 "This bulding is an ancient Argonian religious site dedicated to Itz-Teyeesh, known among certain traditions as 'Sithis'.\n\nThe Grand Temple Complex lies deep within an immense Bismuth Cavern, where colossal crystalline growths rise like frozen flames from the stone.\n\nThe Shrine holds deep significance not only for the devoted worshippers of Itz-Teyeesh, but also for the Tide- and Stone-venerating Argonians of Solstice, whose traditions acknowledge the Void as a necessary force of dissolution and renewal."
+ building_temple_of_sithis_01:0 "$building_type_temple_of_sithis_01$"
+ building_temple_of_sithis_01_desc:0 "$building_type_temple_of_sithis_01_desc$" 
+
+ # Mines
+
+ # Bismuth Mine
+ building_type_generic_bismuth_mines_01:0 "Bismuth Mines"
+ building_type_generic_bismuth_mines_01_desc:0 "This is an Bismuth mine, a crystalline metal notable for its angular formations and iridescent sheen. Found within the island’s caverns and tunnels south of Black Marsh, these crystals often grow to immense sizes, indicating a rare and unique environment that allows slow, undisturbed formation.\n\nThe Argonian tribes of Solstice have long valued bismuth for decorative and ritual use, incorporating its vivid crystals into ornaments, ceremonial objects, and trade."
+ building_generic_bismuth_mines_01:1 "Bismuth Mining Settlement"
+ building_generic_bismuth_mines_01_desc:1 "$building_type_generic_bismuth_mines_01_desc$"
+ building_generic_bismuth_mines_02:1 "Bismuth Mine"
+ building_generic_bismuth_mines_02_desc:1 "$building_type_generic_bismuth_mines_01_desc$"
+ building_generic_bismuth_mines_03:1 "Large Bismuth Mine"
+ building_generic_bismuth_mines_03_desc:1 "$building_type_generic_bismuth_mines_01_desc$"
+ building_generic_bismuth_mines_04:1 "Bismuth Mining Complex"
+ building_generic_bismuth_mines_04_desc:1 "$building_type_generic_bismuth_mines_01_desc$"

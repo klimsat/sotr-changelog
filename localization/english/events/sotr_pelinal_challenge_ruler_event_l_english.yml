@@ -1,0 +1,29 @@
+﻿l_english:
+
+  pelinal_challenge_ruler_event.0001.t:0 "The King Accepts the Challenge"
+  pelinal_challenge_ruler_event.0001.desc:0 "Word returns swift and sure—[recipient.GetShortUINameNoTooltip] has accepted your challenge. No hidden blades. No proxy or poisoned cup. [recipient.GetSheHe|U] will meet you in single compat steel to steel, magic on magic, under the open sky.\n\nNow the choice is yours. Will you cross the threshold of history once more—or turn back, and leave the unworthy to rule another day?"
+  pelinal_challenge_ruler_event.0001.a:0 "I'm coming for you"
+  pelinal_challenge_ruler_event.0001.a.tt:0 "You will travel to [recipient.GetShortUINameNoTooltip]'s location."
+  pelinal_challenge_ruler_event.0001.b:0 "On a second though..."
+  pelinal_challenge_ruler_event.0001.b.tt:0 "You will cancel the challenge."
+
+  pelinal_challenge_ruler_event.0003.t:0 "You Have Won"
+   pelinal_challenge_ruler_event.0003.artifact.desc:0 "Steel rang, spells broke, and blood marked the earth—but in the end, it was you who stood victorious. [recipient.GetShortUINameNoTooltip] lies vanquished, their crown dimmed by the judgment of your wrath.\n\nNow your defeated foe awaits, bruised but breathing, their regalia glinting in the dirt beside them. One artifact in particular draws your eye, humming faintly with an intriguing power."
+   pelinal_challenge_ruler_event.0003.no_artifact.desc:0 "Steel rang, spells broke, and blood marked the earth—but in the end, it was you who stood victorious. [recipient.GetShortUINameNoTooltip] lies vanquished, their crown dimmed by the judgment of your wrath.\n\nNow your defeated foe awaits, bruised but breathing, their fate now lies in your hands."
+  pelinal_challenge_ruler_event.0003.a:0 "This relic is unfit for their hands. I will take it."
+  pelinal_challenge_ruler_event.0003.a.tt:0 "You will claim an artifact from [recipient.GetShortUINameNoTooltip]."
+  pelinal_challenge_ruler_event.0003.b:0 "Let them keep their trinkets. The shame is enough."
+  pelinal_challenge_ruler_event.0003.b.tt:0 "You will let them keep their [artifact|E]."
+  pelinal_challenge_ruler_event.0003.c:0 "Well then..."
+  pelinal_challenge_ruler_event.0003.c.tt:0 "You will determine the fate of your foe."
+
+  pelinal_challenge_ruler_event.0004.t:0 "Their Life in Your Hands"
+  pelinal_challenge_ruler_event.0004.desc:0 "[recipient.GetShortUINameNoTooltip|U] lies broken at your feet—beaten, humbled, yet alive.\n\nThe crowd dares not speak. Even the wind holds still, as if the world itself waits for your judgment."
+  pelinal_challenge_ruler_event.0004.a:0 "Let them crawl from the dust."
+  pelinal_challenge_ruler_event.0004.a.tt:0 "[recipient.GetShortUINameNoTooltip] will live, bearing the shame of defeat."
+  pelinal_challenge_ruler_event.0004.b:0 "You are unfit to rule—and unworthy to live."
+  pelinal_challenge_ruler_event.0004.b.tt:0 "[recipient.GetShortUINameNoTooltip] will be executed."
+
+  pelinal_victim.toast.title:0 "[recipient.GetShortUINameNoTooltip] is dead."
+  pelinal_victim_fate.toast.tt:0 "[recipient.GetShortUINameNoTooltip] has been slain by [actor.GetShortUINameNoTooltip]."
+

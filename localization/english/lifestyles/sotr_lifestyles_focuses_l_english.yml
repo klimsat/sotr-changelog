@@ -1,0 +1,165 @@
+﻿l_english:
+
+
+ ##############################
+ ##### Lifestyles & Focus #####
+ ##############################
+
+ ###Sword-Singer Lifestyle
+ merethic_sword_singer_lifestyle_name: "Sword-Singer"
+ merethic_sword_singer_lifestyle_desc: "Focus on mastering the Way of the Sword through discipline, endurance, and perfect unity between body and will. Walk the path of the true warrior and forge your legend."
+ merethic_sword_singer_lifestyle_highlight_desc:  "Because of your [GetPlayer.GetCulture.GetHeritage.GetName] [heritage|E], you gain #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! more  [experience|E] in this Lifestyle."
+ ansei_tree_name: "Ansei"
+ 
+ sotr_sword_singer_duelist_focus:  "$sotr_sword_singer_duelist_focus_short$ Focus"
+ sotr_sword_singer_duelist_focus_short: "Duelist"
+ #sotr_sword_singer_duelist_focus_modifier: "[GetFocus ('sotr_sword_singer_duelist_focus').GetName]"
+ sotr_sword_singer_duelist_focus_desc: "To walk the  path of the Duelist is to embrace the art of  precision and resolve. The blade is not merely a  weapon — it is an extension of purpose, and each  strike a testament to mastery and will."
+ sotr_sword_singer_duelist_focus_effect_desc:  "Focusing on Duelist grants:"
+ 
+ sotr_sword_singer_sentinel_focus:  "$sotr_sword_singer_sentinel_focus_short$ Focus"
+ sotr_sword_singer_sentinel_focus_short: "Sentinel"
+ #sotr_sword_singer_sentinel_focus_modifier: "[GetFocus ('sotr_sword_singer_sentinel_focus').GetName]"
+ sotr_sword_singer_sentinel_focus_desc: "The Sentinel  stands as shield and bastion, unyielding before chaos. Through patience and steadfastness, they learn that true strength is found not in the strike,  but in what they choose to protect."
+ sotr_sword_singer_sentinel_focus_effect_desc:  "Focusing on Sentinel grants:"
+ 
+ sotr_sword_singer_soul_focus:  "$sotr_sword_singer_soul_focus_short$ Focus"
+ sotr_sword_singer_soul_focus_short: "Soul"
+ #sotr_sword_singer_soul_focus_modifier: "[GetFocus ('sotr_sword_singer_soul_focus').GetName]"
+ sotr_sword_singer_soul_focus_desc: "The Soul path is a sacred journey of stillness and faith. Through  meditation and devotion, the Sword-Singer seeks  harmony with the soul, through peace within."
+ sotr_sword_singer_soul_focus_effect_desc: "Focusing  on Soul grants:"
+ 
+ 
+ ###Vampire Lifestyle
+ merethic_vampire_lifestyle_name: "Vampire"
+ merethic_vampire_lifestyle_desc: "Focus on embracing your Vampirism, honing your dark instincts, and strengthening your dominion over the night."
+ merethic_vampire_lifestyle_highlight_desc: "Because of your Vampire Lord status, you gain #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#!  more [experience|E] in this Lifestyle."
+ 
+ night_stalker_tree_name: "Night-Stalker"
+ blood_mage_tree_name: "Blood-Mage"
+ mindweaver_tree_name: "Mindweaver"
+ champion_of_the_night_tree_name: "Champion of the  Night"
+ 
+ # Kindred Focus
+ sotr_vampire_kindred_focus:  "$sotr_vampire_kindred_focus_short$ Focus"
+ sotr_vampire_kindred_focus_short: "Kindred"
+ #sotr_vampire_kindred_focus_modifier: "[GetFocus ('sotr_vampire_kindred_focus').GetName]"
+ sotr_vampire_kindred_focus_desc: "Blood is the  thread that binds all things. Across the ages it  weaves a lineage where kinship is not measured by  birth, but by eternity — in family, in covenant, and  in the immortal bond of the coven."
+ sotr_vampire_kindred_focus_effect_desc: "Focusing on  Kindred grants:"
+ 
+ # Regal Focus
+ sotr_vampire_regal_focus:  "$sotr_vampire_regal_focus_short$ Focus"
+ sotr_vampire_regal_focus_short: "Regal"
+ #sotr_vampire_regal_focus_modifier: "[GetFocus ('sotr_vampire_regal_focus').GetName]"
+ sotr_vampire_regal_focus_desc: "Majesty carved from  blood and night, enthroning the undying in a  dominion where fear and reverence flow as one."
+ sotr_vampire_regal_focus_effect_desc: "Focusing on  Regal grants:"
+ 
+ # Nightfang Focus
+ sotr_vampire_nightfang_focus:  "$sotr_vampire_nightfang_focus_short$ Focus"
+ sotr_vampire_nightfang_focus_short: "Tenebrous"
+ #sotr_vampire_nightfang_focus_modifier: "[GetFocus ('sotr_vampire_nightfang_focus').GetName]"
+ sotr_vampire_nightfang_focus_desc: "In the stillness of night, the fangs strike swift and merciless, exalting in the kill and the unyielding prowess of the predator."
+ sotr_vampire_nightfang_focus_effect_desc: "Focusing  on Nightfang grants:"
+ 
+ 
+ 
+ ###Werewolf Lifestyle
+ merethic_werewolf_lifestyle_name: "Werewolf"
+ merethic_werewolf_lifestyle_desc: "Focus on embracing the beast within, honing your feral strength, and safeguarding both your pack and its prestige."
+ merethic_werewolf_lifestyle_highlight_desc: "Because of your Werewolf Lord status, you gain #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#!  more [experience|E] in this Lifestyle."
+ 
+ prowler_tree_name: "Prowler"
+ savage_tree_name: "Savage"
+ alpha_tree_name: "Alpha" 
+ 
+ #Pack Focus 
+ sotr_werewolf_pack_focus:  "$sotr_werewolf_pack_focus_short$ Focus"
+ sotr_werewolf_pack_focus_short: "Pack" 
+ #sotr_werewolf_pack_focus_modifier: "[GetFocus ('sotr_werewolf_pack_focus').GetName]"
+ sotr_werewolf_pack_focus_desc: "Strength flows through unity, where loyalty to kin and bond of pack  forge an unbreakable force against all who threaten."
+ sotr_werewolf_pack_focus_effect_desc: "Focusing on  Pack grants:"
+ 
+ 
+ #Pursuit Focus
+ sotr_werewolf_pursuit_focus:  "$sotr_werewolf_pursuit_focus_short$ Focus"
+ sotr_werewolf_pursuit_focus_short: "Pursuit"
+ #sotr_werewolf_pursuit_focus_modifier: "[GetFocus ('sotr_werewolf_pursuit_focus').GetName]"
+ sotr_werewolf_pursuit_focus_desc: "The thrill of the chase awakens the beast, driving every sense toward the relentless hunt until prey can flee no more."
+ sotr_werewolf_pursuit_focus_effect_desc: "Focusing  on Pursuit grants:"
+ 
+ 
+ #Carnage Focus
+ sotr_werewolf_carnage_focus:  "$sotr_werewolf_carnage_focus_short$ Focus"
+ sotr_werewolf_carnage_focus_short: "Carnage"
+ #sotr_werewolf_carnage_focus_modifier: "[GetFocus ('sotr_werewolf_carnage_focus').GetName]"
+ sotr_werewolf_carnage_focus_desc: "To embrace the beast is to unleash raw fury, where claw and fang rend without mercy and strength knows no restraint."
+ sotr_werewolf_carnage_focus_effect_desc: "Focusing  on Carnage grants:"
+ 
+ 
+ ### Werebear Lifestyle
+ merethic_werebear_lifestyle_name: "Werebear"
+ merethic_werebear_lifestyle_desc: "Focus on embracing the beast within, honing your brute strength, and stand as the a ferocious guardian."
+ merethic_werebear_lifestyle_highlight_desc: "Because of your Werebear Lord status, you gain #P [GetPlayer. Custom('GetEducationLifestylePercentageBoost')]#!  more [experience|E] in this Lifestyle."
+ 
+ prowler_werebear_tree_name: "Prowler"
+ savage_werebear_tree_name: "Savage"
+ elder_werebear_tree_name: "Elder" 
+ 
+ #Family (Alpha) Focus 
+ sotr_werebear_family_focus:  "$sotr_werebear_family_focus_short$ Focus"
+ sotr_werebear_family_focus_short: "Family" 
+ #sotr_werebear_family_focus_modifier: "[GetFocus ('sotr_werebear_family_focus').GetName]"
+ sotr_werebear_family_focus_desc: "Warmth grows where kin gather close, as love and gentle bonds of family weave a sheltering strength that carries each member through every trial."
+ sotr_werebear_family_focus_effect_desc: "Focusing on  Family grants:"
+ 
+ 
+ #Pursuit Focus
+ sotr_werebear_pursuit_focus:  "$sotr_werebear_pursuit_focus_short$ Focus"
+ sotr_werebear_pursuit_focus_short: "Pursuit"
+ #sotr_werebear_pursuit_focus_modifier: "[GetFocus ('sotr_werebear_pursuit_focus').GetName]"
+ sotr_werebear_pursuit_focus_desc: "The thunder of the chase rouses the great bear, driving its massive form through hills and thorns until the hunted can run no more."
+ sotr_werebear_pursuit_focus_effect_desc: "Focusing  on Pursuit grants:"
+ 
+ 
+ #Carnage Focus
+ sotr_werebear_carnage_focus:  "$sotr_werebear_carnage_focus_short$ Focus"
+ sotr_werebear_carnage_focus_short: "Carnage"
+ #sotr_werebear_carnage_focus_modifier: "[GetFocus ('sotr_werebear_carnage_focus').GetName]"
+ sotr_werebear_carnage_focus_desc: "Embrace your true nature and unleash unstoppable carnage, where bone-shattering blows and rending claws tear through all who dare stand in your path."
+ sotr_werebear_carnage_focus_effect_desc: "Focusing  on Carnage grants:"
+ 
+ 
+ ### Wereboar Lifestyle
+ merethic_wereboar_lifestyle_name: "Wereboar"
+ merethic_wereboar_lifestyle_desc: "Focus on embracing the beast within, honing your wild nature, and charge at your enemies with unyielding resolve."
+ merethic_wereboar_lifestyle_highlight_desc: "Because of your Wereboar Lord status, you gain #P [GetPlayer. Custom('GetEducationLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle."
+ 
+ prowler_wereboar_tree_name: "Prowler"
+ savage_wereboar_tree_name: "Savage"
+ mythical_wereboar_tree_name: "Mythical" 
+ 
+ #Sounder (Pack) Focus 
+ sotr_wereboar_sounder_focus:  "$sotr_wereboar_sounder_focus_short$ Focus"
+ sotr_wereboar_sounder_focus_short: "Sounder" 
+ #sotr_wereboar_sounder_focus_modifier: "[GetFocus ('sotr_wereboar_sounder_focus').GetName]"
+ sotr_wereboar_sounder_focus_desc: "Strength rises from your sounder, where loyalty and true bond forges an unbreakable wall against all who would dare threaten it."
+ sotr_wereboar_sounder_focus_effect_desc: "Focusing  on your Sounder grants:"
+ 
+ 
+ #Pursuit Focus
+ sotr_wereboar_pursuit_focus:  "$sotr_wereboar_pursuit_focus_short$ Focus"
+ sotr_wereboar_pursuit_focus_short: "Pursuit"
+ #sotr_wereboar_pursuit_focus_modifier: "[GetFocus ('sotr_wereboar_pursuit_focus').GetName]"
+ sotr_wereboar_pursuit_focus_desc: "The surge of the charge awakens your instincts, pursue your prey until they can no longer escape your fury."
+ sotr_wereboar_pursuit_focus_effect_desc: "Focusing  on Pursuit grants:"
+ 
+ 
+ #Carnage Focus
+ sotr_wereboar_carnage_focus:  "$sotr_wereboar_carnage_focus_short$ Focus"
+ sotr_wereboar_carnage_focus_short: "Carnage"
+ #sotr_wereboar_carnage_focus_modifier: "[GetFocus ('sotr_wereboar_carnage_focus').GetName]"
+ sotr_wereboar_carnage_focus_desc: "To embrace your nature is to unleash a brutal carnage, where your tusk and muscle would tear through any obstacles."
+ sotr_wereboar_carnage_focus_effect_desc: "Focusing  on Carnage grants:"
+ 
+ 
+ 

@@ -1,0 +1,20 @@
+﻿l_english:
+  
+  #Wrothgarian Clans
+  dyn_shar:0 "Shar"
+  dyn_tuul:0 "Tuul"
+  #Desert Orc
+  dyn_malogh:0 "Malogh"
+  dyn_razog:0 "Razog"
+  dyn_nohotogrha:0 "Nohotogrha"
+  dyn_agara:0 "Agara"
+  dyn_orzag:0 "Orzag"
+  dyn_batug:0 "Batug"
+  dyn_uglug:0 "Uglug"
+  dyn_orc_greenscar:0 "Greenscar"
+  #Skyrim Clans
+  dushnikh_yal:0 "Dushnikh"
+  #Morrowind Clans
+  dyn_urak:0 "Urak"
+  #Wood Orc Clans
+  dyn_darkfern:0 "Darkfern"

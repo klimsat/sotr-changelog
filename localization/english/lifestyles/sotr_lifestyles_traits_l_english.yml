@@ -1,0 +1,65 @@
+﻿l_english:
+
+ ##################
+ ##### Traits #####
+ ##################
+
+ ###Vampire Lifestyle Traits 
+
+ #Night Stalker
+ trait_night_stalker: "Nightstalker"
+ night_stalker_desc: "Those who dwell in shadow strike with silence, their prey never knowing fear until it is too late."
+
+ #Blood-Mage
+ trait_blood_mage: "Blood Mage"
+ blood_mage_desc: "Through the crimson art they command life itself, bending blood as both weapon and remedy."
+
+ #Mindweaver
+ trait_mind_weaver: "Mindweaver"
+ mind_weaver_desc: "Through the art of Mindweaving, they could reshape thoughts and bend every will to their command.\n\n#help Attaining this [trait|E] unlock's the break out of prison [interaction|E]."
+
+
+ #Champion of the Night
+ trait_champion_of_the_night: "Champion of the Night"
+ champion_of_the_night_desc: "Cloaked in dread and majesty, they ascend beyond mortal kin, reigning as the true lord of darkness."
+ 
+ 
+ ###Werewolf Lifestyle Traits 
+ #Prowler
+ trait_prowler: "Prowler"
+ trait_prowler_desc: "A shadow on the hunt, they move with cunning steps until fangs find their mark." 
+ 
+ #Savage
+ trait_savage: "Savage"
+ trait_savage_desc: "Driven by bloodlust, one could tear through any foes with unrelenting fury and rabid might."
+ 
+ #Alpha
+ trait_alpha: "Alpha"
+ trait_alpha_desc: "The howl of the #bold Alpha#! commands obedience, their presence binding the pack in primal unity and fear.\n\n#help Attaining this [trait|E] unlock's the break out of prison [interaction|E]."
+
+ ###Werebear Lifestyle Traits 
+ #Prowler
+ trait_prowler_werebear: "Prowler"
+ trait_prowler_werebear_desc: "The Prowler would move its huge body hushfully until their enormous claws shred you to pieces" 
+ 
+ #Savage
+ trait_savage_werebear: "Savage"
+ trait_savage_werebear_desc: "Driven by bloodlust, one could tear through any foes with unrelenting fury and rabid might."
+ 
+ #Elder
+ trait_elder_werebear: "Elder"
+ trait_elder_werebear_desc: "The Might of an #bold Elder#! Werebear is undeniable. Their presence alone could chill the bones of their opponents.\n\n#help Attaining this [trait|E] unlock's the break out of prison [interaction|E]."
+
+ ###Wereboar Lifestyle Traits 
+ #Prowler
+ trait_prowler_wereboar: "Prowler"
+ trait_prowler_wereboar_desc: "The Prowler move their dark hooves silently till their tusks find its mark." 
+ 
+ #Savage
+ trait_savage_wereboar: "Savage"
+ trait_savage_wereboar_desc: "Driven by bloodlust, one could tear through any foes with unrelenting fury and rabid might."
+ 
+ #Mythical
+ trait_mythical_wereboar: "Mythical"
+ trait_mythical_wereboar_desc: "The fury of a #bold Mythical#! Wereboar is said to be capable of shaking the bones of the earth. Their tough bronze-skin forces all to yield before a creature's might.\n\n#help Attaining this [trait|E] unlock's the break out of prison [interaction|E]."
+

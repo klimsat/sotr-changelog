@@ -1,0 +1,17 @@
+﻿l_english:
+
+  #Dragon Priest Provocation Prelude Interaction
+
+  provoke_dragon_priest_interaction:0 "Provoke the Dragon Priest"
+  provoke_dragon_priest_interaction_desc:0 "You request an audience with [recipient.GetShortUINameNoTooltip] and go there to mock their divine authority."
+  provoke_dragon_priest_interaction_notification:0 "The Dragon Priest Awaits"
+  provoke_dragon_priest_interaction_notification_refused:0 "[recipient.GetTitledFirstNameNoTooltip|U] offers no reply, his silence heavy with contempt and ancient pride."
+  PROVOKE_DRAGON_PRIEST_MEETING_PROPOSAL:0 "Let us meet—O Servants of Alduin."
+  PROVOKE_DRAGON_PRIEST_MEETING_ACCEPT:0 "Accept the Audience"
+  PROVOKE_DRAGON_PRIEST_MEETING_REJECT:0 "Refuse the Audience"
+  provoke_dragon_priest_interaction_is_valid_tt_1:0 "You need to go there to meet the Dragon Priest."
+  provoke_dragon_priest_interaction_is_valid_tt_2:0 "The target must be a Dragon Priest who worships the Dragons."
+  provoke_dragon_priest_interaction_is_valid_tt_3:0 "You may not seek another audience with the same Dragon Priest within 5 years."
+
+  provoke_dragon_priest_interaction.travel_begins.tt:0 "You will set out to meet [recipient.GetTitledFirstNameNoTooltip|U] within his ancient sanctum."
+  provoke_dragon_priest_interaction.travel_completes.tt:0 "Upon arrival, the air will grow heavy with ancient power—and the first words between you may decide the fate of both mortal and priest."

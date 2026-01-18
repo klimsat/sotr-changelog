@@ -1,0 +1,64 @@
+﻿l_english:
+
+	# Part 1
+	dwemer_rourken.0001.t:0 "Are we actually doing this?"
+	dwemer_rourken.0001.desc.1:0 "The Head of the Rourken Clan will now decide what to do. Once he decides there is no going back..."
+	dwemer_rourken.0001.a.select:0 "#bold I'm ready! #!"
+	dwemer_rourken.0001.b.select:0 "Maybe Another Time?"
+	dwemer_rourken.0002.t:0 "Give Away Current Titles"
+	dwemer_rourken.0002.desc.1:0 "Since I don't intend on staying anymore. Who will be the one to inherit my current holdings?"
+
+	rourken_give_to_candidate_1_custom_tooltip: "Give all your current lands and titles to [candidate_powerful_vassal_0.GetShortUINameNoTooltip]"
+	rourken_give_to_candidate_2_custom_tooltip: "Give all your current lands and titles to [candidate_powerful_vassal_1.GetShortUINameNoTooltip]"
+	rourken_give_to_candidate_3_custom_tooltip: "Give all your current lands and titles to [candidate_powerful_vassal_2.GetShortUINameNoTooltip]"
+	rourken_give_to_candidate_4_custom_tooltip: "Give all your current lands and titles to [candidate_powerful_vassal_3.GetShortUINameNoTooltip]"
+	rourken_give_to_candidate_5_custom_tooltip: "Give all your current lands and titles to [candidate_powerful_vassal_4.GetShortUINameNoTooltip]"
+	rourken_give_to_candidate_6_custom_tooltip: "Give all your current lands and titles to [candidate_powerful_vassal_5.GetShortUINameNoTooltip]"
+
+	dwemer_rourken.0002.a:0 "[candidate_powerful_vassal_0.Custom2('MyCharacterIntroduction', ROOT.Char)]"
+	dwemer_rourken.0002.b:0 "[candidate_powerful_vassal_1.Custom2('MyCharacterIntroduction', ROOT.Char)]"
+	dwemer_rourken.0002.c:0 "[candidate_powerful_vassal_2.Custom2('MyCharacterIntroduction', ROOT.Char)]"
+	dwemer_rourken.0002.d:0 "[candidate_powerful_vassal_3.Custom2('MyCharacterIntroduction', ROOT.Char)]"
+	dwemer_rourken.0002.e:0 "[candidate_powerful_vassal_4.Custom2('MyCharacterIntroduction', ROOT.Char)]"
+	dwemer_rourken.0002.f:0 "[candidate_powerful_vassal_5.Custom2('MyCharacterIntroduction', ROOT.Char)]"
+	dwemer_rourken.0002.g:0 "Let me give more thought into this..."
+
+	# Part 2
+	dwemer_journey.0001.t:0 "Final Decision"
+	dwemer_journey.0001.desc.1:0 "The night sky stretches wide above us, filled with endless stars. The world is vast, and there are many realms that lie open before us. \n\nWith so many choices ahead, the Head of the Rourken Clan lifted the sacred hammer, Volendrung, and will hurl it into the heavens. Wherever it falls, there shall our destiny be written, and our new homeland forged.\n\nAre you ready to throw the Hammer?"
+	dwemer_journey.0001.a:0 "Throw the Hammer into the sky!"
+	dwemer_journey.0001.b:0 "Not yet… perhaps fate can wait a while longer"
+  dwemer_journey.0001.a.tt:0 "You will throw the hammer and the journey will finally begin."
+	dwemer_journey.0001.b.tt:0 "You will cancel the journey and stay in your current dwellings."
+
+	dwemer_journey.0002.t:0 "The Journey Begins"
+	dwemer_journey.0002.desc.1:0 "The Hammer has been thrown. The Head of the Rourken Clan has decided that wherever 'the Hammer should fall', that location shall be their new homeland"
+	dwemer_journey.0002.select:0 "Hurry!?! Follow the Hammer"
+	# Part 3
+	dwemer_arrived.0001.t:0 "We Have Arrived"
+	dwemer_arrived.0001.desc.1:0 "The Hammer fell into the sands, and with it, a new chapter begins. The Hammer has led our foots upon this barren wasteland.  We shall not be deterred by the desolate wastes that stretch before us. With the strength in our arms and fire in our hearts, we will carve our home from these great dunes. Our hammers will ring upon the stone, and our forges will burn bright as a beacon of our unyielding spirit. \n\nThis land shall be known as Volenfell. Let us stand firm and lay the foundations of our legacy."
+	dwemer_arrived.0001.select:0 "Now, Let us settle"
+
+	# Part 4
+	dwemer_abdication.0001.t:0 "Let us Hope For the Best"
+	dwemer_abdication.0001.desc.1:0 "I haven given [candidate_powerful_vassal_0.Custom2('MyCharacterIntroduction', ROOT.Char)] controll over my holdings. They are now beyond my reach. Hopefully I made the right choice."
+	dwemer_abdication.0001.select:0 "It's too late anyways"
+	dwemer_abdication.0002.t:0 "Let us Hope For the Best"
+	dwemer_abdication.0002.desc.1:0 "I haven given [candidate_powerful_vassal_1.Custom2('MyCharacterIntroduction', ROOT.Char)] controll over my holdings. They are now beyond my reach. Hopefully I made the right choice."
+	dwemer_abdication.0002.select:0 "It's too late anyways"
+	dwemer_abdication.0003.t:0 "Let us Hope For the Best"
+	dwemer_abdication.0003.desc.1:0 "I haven given [candidate_powerful_vassal_2.Custom2('MyCharacterIntroduction', ROOT.Char)] controll over my holdings. They are now beyond my reach. Hopefully I made the right choice."
+	dwemer_abdication.0003.select:0 "It's too late anyways"
+	dwemer_abdication.0004.t:0 "Let us Hope For the Best"
+	dwemer_abdication.0004.desc.1:0 "I haven given [candidate_powerful_vassal_3.Custom2('MyCharacterIntroduction', ROOT.Char)] controll over my holdings. They are now beyond my reach. Hopefully I made the right choice."
+	dwemer_abdication.0004.select:0 "It's too late anyways"
+	dwemer_abdication.0005.t:0 "Let us Hope For the Best"
+	dwemer_abdication.0005.desc.1:0 "I haven given [candidate_powerful_vassal_4.Custom2('MyCharacterIntroduction', ROOT.Char)] controll over my holdings. They are now beyond my reach. Hopefully I made the right choice."
+	dwemer_abdication.0005.select:0 "It's too late anyways"
+	dwemer_abdication.0006.t:0 "Let us Hope For the Best"
+	dwemer_abdication.0006.desc.1:0 "I haven given [candidate_powerful_vassal_5.Custom2('MyCharacterIntroduction', ROOT.Char)] controll over my holdings. They are now now beyond my reach. Hopefully I made the right choice."
+	dwemer_abdication.0006.select:0 "It's too late anyways"
+
+	dwemer_abdication.99.t:0 "Clan Rourken has left their lands"
+	dwemer_abdication.99.desc:0 "Clan Rourken has left Resdayn, [candidate_powerful_vassal_5.Custom2('MyCharacterIntroduction', ROOT.Char)] has been entrusted to take over the Rourken's holdings."
+	dwemer_abdication.99.select:0 "Ok then"

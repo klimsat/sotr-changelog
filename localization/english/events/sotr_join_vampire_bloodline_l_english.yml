@@ -1,0 +1,262 @@
+﻿l_english:
+
+  # EVENT 1 : START #############################################
+
+  #Bloodline Dependent Title and Desc
+
+  join_lamae_vampire_bloodline_title.0001.t:0 "Join the Lamae Bloodline"
+  join_lamae_vampire_bloodline_desc.0001.desc:0 "You stand before the Blood Matron herself, Lamae Bal. The legendary founder of the [Glossary('Lamae', 'VAMPIRE_COVEN_LAMAE_BAL_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Lamae#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_vraseth_vampire_bloodline_title.0001.t:0 "Join the Vraseth Bloodline"
+  join_vraseth_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Vraseth', 'VAMPIRE_COVEN_VRASETH_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Vraseth#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_selenu_vampire_bloodline_title.0001.t:0 "Join the Selenu Bloodline"
+  join_selenu_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Selenu', 'VAMPIRE_COVEN_SELENU_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Selenu#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_lyrezi_vampire_bloodline_title.0001.t:0 "Join the Lyrezi Bloodline"
+  join_lyrezi_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Lyrezi', 'VAMPIRE_COVEN_LYREZI_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Lyrezi#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_montalion_vampire_bloodline_title.0001.t:0 "Join the Montalion Bloodline"
+  join_montalion_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Montalion', 'VAMPIRE_COVEN_MOUNTAIN_TALON_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Montalion#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_garlythi_vampire_bloodline_title.0001.t:0 "Join the Garlythi Bloodline"
+  join_garlythi_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Garlythi', 'VAMPIRE_COVEN_GARLYTHI_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Garlythi#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_thrafey_vampire_bloodline_title.0001.t:0 "Join the Thrafey Bloodline"
+  join_thrafey_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Thrafey', 'VAMPIRE_COVEN_THRAFEY_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Thrafey#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_vampyrum_order_vampire_bloodline_title.0001.t:0 "Join the Vampyrum Order Bloodline"
+  join_vampyrum_order_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Vampyrum Order', 'VAMPIRE_COVEN_OIO_SERACHE_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Vampyrum Order#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_gray_host_vampire_bloodline_title.0001.t:0 "Join the Gray Host Bloodline"
+  join_gray_host_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Gray Host', 'VAMPIRE_COVEN_GRAY_HOST_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Gray Host#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_nighthollow_vampire_bloodline_title.0001.t:0 "Join the Nighthollow Bloodline"
+  join_nighthollow_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Nighthollow', 'VAMPIRE_COVEN_NIGHTHOLLOW_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Nighthollow#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_vakka_shuxalt_vampire_bloodline_title.0001.t:0 "Join the Vakka Shuxalt Bloodline"
+  join_vakka_shuxalt_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Vakka Shuxalt', 'VAMPIRE_COVEN_VAKKA_SHUXALT_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold VakkaS huxalt#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_whet_fang_vampire_bloodline_title.0001.t:0 "Join the Whet-Fang Bloodline"
+  join_whet_fang_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Whet-Fang', 'VAMPIRE_COVEN_WHET_FANG_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Whet-Fang#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_tenarr_zalviit_vampire_bloodline_title.0001.t:0 "Join the Tenarr Zalviit Bloodline"
+  join_tenarr_zalviit_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Tenarr Zalviit', 'VAMPIRE_COVEN_TENARR_ZALVIIT_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Tenarr Zalviit#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_hollowfang_vampire_bloodline_title.0001.t:0 "Join the Hollowfang Bloodline"
+  join_hollowfang_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Hollowfang', 'VAMPIRE_COVEN_HOLLOWFANG_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Hollowfang#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_berne_vampire_bloodline_title.0001.t:0 "Join the Berne Bloodline"
+  join_berne_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Berne', 'VAMPIRE_COVEN_BERNE_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Berne#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_korgari_vampire_bloodline_title.0001.t:0 "Join the Korgari Bloodline"
+  join_korgari_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Korgari', 'VAMPIRE_COVEN_KORGARI_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Korgari#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_diodata_vampire_bloodline_title.0001.t:0 "Join the Diodata Bloodline"
+  join_diodata_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Diodata', 'VAMPIRE_COVEN_DIODATA_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Diodata#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_bathogorgen_vampire_bloodline_title.0001.t:0 "Join the Bathogorgen Bloodline"
+  join_bathogorgen_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Bathogorgen', 'VAMPIRE_COVEN_BATHOGORGEN_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Bathogorgen#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_keerilth_vampire_bloodline_title.0001.t:0 "Join the Keerilth Bloodline"
+  join_keerilth_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Keerilth', 'VAMPIRE_COVEN_KEERILTH_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Keerilth#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_bonsamu_vampire_bloodline_title.0001.t:0 "Join the Bonsamu Bloodline"
+  join_bonsamu_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Bonsamu', 'VAMPIRE_COVEN_BONSAMU_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Bonsamu#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_mairon_vampire_bloodline_title.0001.t:0 "Join the Mairon Bloodline"
+  join_mairon_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Mairon', 'VAMPIRE_COVEN_MAIRON_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Mairon#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  join_volkihar_vampire_bloodline_title.0001.t:0 "Join the Volkihar Bloodline"
+  join_volkihar_vampire_bloodline_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the leader of the [Glossary('Volkihar', 'VAMPIRE_COVEN_VOLKIHAR_GLOSS')] bloodline. To join their coven is to bind your soul to theirs, and to taste eternity in the echo of their curse.\n\nThere are many paths to become a part of the #bold Volkihar#! Coven—through debt, persuasion, old allegiance, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to bestow this gift, and it's usually offered only to those [recipient.GetSheHe] considers worthy... or useful."
+
+  request_vampire_bloodline_title.0001.t:0 "An Audience with the Master"
+  request_vampire_bloodline_title.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], master of your coven. Their presence chills the air—a silent reminder of the ancient power flowing through their veins.\n\nThey are wondering about what might be the purpose of your visit."
+
+  ############################
+
+  join_vampire_bloodline.0001.a:0 "You owe me...."
+  join_vampire_bloodline.0001.a.tt:0 "Use a Hook to compel [recipient.GetFirstNameNoTooltip] to embrace you into their bloodline."
+
+  join_vampire_bloodline.0001.b:0 "We both might gain something from this union."
+  join_vampire_bloodline.0001.b.tt:0 "Attempt to persuade them through diplomacy. Success chance depends on your Diplomacy skill."
+  join_vampire_bloodline.0001.b.success:0 "You convinced [recipient.GetShortUINameNoTooltip]"
+  join_vampire_bloodline.0001.b.success.result:0 "You Successfully joined their bloodline"
+  join_vampire_bloodline.0001.b.failure:0 "You fail to convince [recipient.GetShortUINameNoTooltip]"
+
+  join_vampire_bloodline.0001.c:0 "Are we not friends, [recipient.GetFirstNameNoTooltip]?"
+  join_vampire_bloodline.0001.c.tt:0 "Call upon your friendship with [recipient.GetShortUINameNoTooltip] to gain entry into the bloodline."
+
+  join_vampire_bloodline.0001.d:0 "Please... I have nothing left. I beg you, let me in."
+  join_vampire_bloodline.0001.d.tt:0 "Grovel and beg to join the bloodline."
+  
+  join_vampire_bloodline.0001.e:0 "Can you make me a Vampire Lord?"
+  join_vampire_bloodline.0001.e.tt:0 "Request the Coven Master to bestow upon you the dark power of a Vampire Lord."
+  join_vampire_bloodline.0001.e.friendly:0 "You need to be [friends|e] with your Coven leader."
+  join_vampire_bloodline.0001.f:0 "Nevermind.."
+  join_vampire_bloodline.0001.f.tt:0 "You will head back home"
+  join_vampire_bloodline.0001.g:0 "I want you to repay me by making me a Vampire Lord"
+  join_vampire_bloodline.0001.g.tt:0 "Use a Hook to compel [recipient.GetFirstNameNoTooltip] to turn you into a Vampire Lord."
+
+  # EVENT 2 : ACCEPTED #############################################
+
+  join_vampire_bloodline.0002.t:0 "The Blood Beckons"
+
+  join_lamae_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Lamae#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Lamae', 'VAMPIRE_COVEN_LAMAE_BAL_GLOSS')] Bloodline?"
+  
+  join_vraseth_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Vraseth#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Vraseth', 'VAMPIRE_COVEN_VRASETH_GLOSS')] Bloodline?"
+
+  join_selenu_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Selenu#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Selenu', 'VAMPIRE_COVEN_SELENU_GLOSS')] Bloodline?"
+
+  join_lyrezi_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Lyrezi#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Lyrezi', 'VAMPIRE_COVEN_LYREZI_GLOSS')] Bloodline?"
+
+  join_montalion_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Montalion#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Montalion', 'VAMPIRE_COVEN_MOUNTAIN_TALON_GLOSS')] Bloodline?"
+
+  join_garlythi_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Garlythi#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Garlythi', 'VAMPIRE_COVEN_GARLYTHI_GLOSS')] Bloodline?"
+
+  join_thrafey_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Thrafey#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Thrafey', 'VAMPIRE_COVEN_THRAFEY_GLOSS')] Bloodline?"
+
+  join_vampyrum_order_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Vampyrum Order#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Vampyrum Order', 'VAMPIRE_COVEN_OIO_SERACHE_GLOSS')] Bloodline?"
+
+  join_gray_host_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Gray Host#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Gray Host', 'VAMPIRE_COVEN_GRAY_HOST_GLOSS')] Bloodline?"
+
+  join_nighthollow_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Nighthollow#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Nighthollow', 'VAMPIRE_COVEN_NIGHTHOLLOW_GLOSS')] Bloodline?"
+
+  join_vakka_shuxalt_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Vakka-Šuʔxalt#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Vakka-Šuʔxalt', 'VAMPIRE_COVEN_VAKKA_SHUXALT_GLOSS')] Bloodline?"
+
+  join_whet_fang_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Whet-Fang#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Whet-Fang', 'VAMPIRE_COVEN_WHET_FANG_GLOSS')] Bloodline?"
+
+  join_tenarr_zalviit_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Tenarr Zalviit#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Tenarr Zalviit', 'VAMPIRE_COVEN_TENARR_ZALVIIT_GLOSS')] Bloodline?"
+
+  join_hollowfang_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Hollowfang#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Hollowfang', 'VAMPIRE_COVEN_HOLLOWFANG_GLOSS')] Bloodline?"
+
+  join_berne_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Berne#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Berne', 'VAMPIRE_COVEN_BERNE_GLOSS')] Bloodline?"
+
+  join_korgari_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Korgari#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Korgari', 'VAMPIRE_COVEN_KORGARI_GLOSS')] Bloodline?"
+
+  join_diodata_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Diodata#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Diodata', 'VAMPIRE_COVEN_DIODATA_GLOSS')] Bloodline?"
+
+  join_bathogorgen_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Bathogorgen#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Bathogorgen', 'VAMPIRE_COVEN_BATHOGORGEN_GLOSS')] Bloodline?"
+
+  join_keerilth_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Keerilth#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Keerilth', 'VAMPIRE_COVEN_KEERILTH_GLOSS')] Bloodline?"
+
+  join_bonsamu_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Bonsamu#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Bonsamu', 'VAMPIRE_COVEN_BONSAMU_GLOSS')] Bloodline?"
+
+  join_mairon_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Mairon#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Mairon', 'VAMPIRE_COVEN_MAIRON_GLOSS')] Bloodline?"
+
+  join_volkihar_vampire_bloodline.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] is prepared to allow you to join the #bold Volkihar#! Bloodline.\n\nYou will carry [recipient.GetHerHis] mark, and with it, the curse and the glory of [recipient.GetHerHis] line.\n\nThe moment hangs, heavy and eternal. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Volkihar', 'VAMPIRE_COVEN_VOLKIHAR_GLOSS')] Bloodline?"
+
+
+  #Bloodline Dependent Title and Desc
+  join_vampire_bloodline.0002.a:0 "I'm ready."
+  join_vampire_bloodline.0002.a.tt:0 "You will become a part of [recipient.GetTitledFirstNameNoTooltip]'s Bloodline."
+
+  join_vampire_bloodline.0002.b:0 "No... this isn't the path I want."
+  join_vampire_bloodline.0002.b.tt:0 "You step away, leaving the blood untouched."
+
+  # EVENT 3 : BEGGING #############################################
+
+  join_vampire_bloodline.0003.t:0 "Dignity in the Dirt"
+  join_vampire_bloodline.0003.desc:0 "You fall to your knees before [recipient.GetTitledFirstNameNoTooltip]. Your words spill out in trembling whispers.\n\nTheir expression darkens.\n\n\"You beg like a mortal who has already lost everything,\" they mutter. \"It's pathetic. Disgusting. And yet....\"\n\nSomething flickers behind their eyes—rage, or reluctant pity. You may have touched a nerve. Or frayed it."
+  join_vampire_bloodline.0003.a:0 "Please... I'm nothing without this!"
+  join_vampire_bloodline.0003.a.tt:0 "Continue begging. [recipient.GetSheHe|U] may grant your wish—out of annoyance or pitiful mercy."
+  join_vampire_bloodline.0003.a.neutral.tt:0 "#P [recipient.GetSheHe|U] might still give you a chance#!"
+  join_vampire_bloodline.0003.a.hostile.tt:0 "@warning_icon! #N [recipient.GetSheHe|U] might be annoyed and turn hostile#!"
+
+  join_vampire_bloodline.0003.b:0 "I'm sorry.. I won't grovel further...."
+  join_vampire_bloodline.0003.b.tt:0 "You give up and walk away."
+
+  # EVENT 4 : HOSTILE #############################################
+
+  join_vampire_bloodline.0004.t:0 "Enough!"
+  join_vampire_bloodline.0004.desc:0 "[recipient.GetTitledFirstNameNoTooltip]'s face twists with disgust—and something ancient and cruel ignites in their eyes.\n\n\"I offer you silence, and you choose to wail. You are no heir to the blood—you are a stain on the floor of my hall.\"\n\nBefore another word escapes your mouth, they surge forward with inhuman speed, fangs bared and claws drawn. Death comes screaming.\n\nUnless, of course... you can stop it."
+  join_vampire_bloodline.0004.a:0 "Agh—No, please—!" 
+  join_vampire_bloodline.0004.a.tt:0 "You are not strong enough to resist. [recipient.GetFirstNameNoTooltip] kills you without hesitation."
+
+  join_vampire_bloodline.0004.b:0 "If you strike, I will strike back!"
+  join_vampire_bloodline.0004.b.tt:0 "You are strong enough to face them in a duel. The outcome will decide your fate."
+
+  # EVENT 5 : VICTORY #############################################
+
+  join_vampire_bloodline.0005.t:0 "Victory"
+  join_vampire_bloodline.0005.desc:0 "The battle is over. [recipient.GetTitledFirstNameNoTooltip] lies at your feet, defeated—immortal, yes, but broken for now. Their blood stains your blade, proof that even ancient things can bleed.\n\nThe coven watches in silence. In this moment, you hold more than their leader’s life—you hold their legacy, their curse, and their future.\n\nYou could end the bloodline. You could turn your back on it. Or you could claim it, forged not by their mercy—but by your own strength."
+  join_vampire_bloodline.0005.a:0 "Your bloodline is weak. Perhaps I should end it with you."
+  join_vampire_bloodline.0005.a.tt:0 "You execute [recipient.GetShortUINameNoTooltip] and destroy their legacy."
+
+  join_vampire_bloodline.0005.b:0 "You may live—but I reject your curse."
+  join_vampire_bloodline.0005.b.tt:0 "You spare them, but refuse the bloodline."
+
+  join_vampire_bloodline.0005.c:0 "I have proven myself. The blood is mine now."
+  join_vampire_bloodline.0005.c.tt:0 "You join the bloodline, not as a petitioner—but as its new master."
+
+  # EVENT 6 : HOSTILE - TRUE FORM #############################################
+
+  join_vampire_bloodline.0006.t:0 "True Form Unleashed"
+  join_vampire_bloodline.0006.desc:0 "[recipient.GetTitledFirstNameNoTooltip]'s lips curl back in a snarl, their voice twisting into something guttural and ancient.\n\n\"You think beating me would be that easy?!\"\n\nTheir flesh ripples, bones shifting beneath the skin. Fangs lengthen, claws sharpen, and their eyes blaze with a feral hunger. The air chills, thick with the stench of death, as their form swells into something monstrous and inhuman.\n\nThe Coven Master has shed all pretense—before you now stands a predator at the height of their power. The walls seem to close in, and you feel your odds of survival shrinking with every heartbeat."
+  join_vampire_bloodline.0006.a:0 "AAARRGh....PLEASE...."
+  join_vampire_bloodline.0006.a.tt:0 "[recipient.GetFirstNameNoTooltip] tears you apart with inhuman fury.."
+
+  join_vampire_bloodline.0006.b:0 "Then let us see who falls first!"
+  join_vampire_bloodline.0006.b.tt:0 "You face [recipient.GetFirstNameNoTooltip] in a desperate duel. The odds are against you—their vampiric form grants them terrible strength and speed."
+
+  join_vampire_bloodline.0006.c:0 "Nope! I'm out of here'!"
+  join_vampire_bloodline.0006.c.tt:0 "You attempt to flee before [recipient.GetFirstNameNoTooltip] can strike."
+
+  join_vampire_bloodline.0006.c.success:0 "You succesfully escape from [recipient.GetFirstNameNoTooltip]"
+  join_vampire_bloodline.0006.c.success.tt:0 "You survived."
+  join_vampire_bloodline.0006.c.failure:0 "[recipient.GetFirstNameNoTooltip|U] manage to catch you"
+
+  # EVENT 7 : REQUEST FOR VAMPIRE LORD TRAIT #############################################
+
+  join_vampire_bloodline.0007.t:0 "The Dark Ascension"
+  join_vampire_bloodline.0007.desc:0 "[recipient.GetTitledFirstNameNoTooltip] regards you in silence, their gaze heavy with the weight of ages. A shadow deepens in the corners of the room as they step closer, the power in their blood thickening the air. \n\n[recipient.GetTitledFirstNameNoTooltip|U] explains that this not a gift for all. Only the strong may endure it— the weak will crumble, and the unworthy is bound to be broken.\n\n"Now tell me—what makes you worthy to wield such a gift?"
+
+  join_vampire_bloodline.0007.a:0 "I am stronger than most."
+  join_vampire_bloodline.0007.a.tt:0 "You claim your physical might is proof enough to survive the transformation."
+
+  join_vampire_bloodline.0007.b:0 "My mind is sharper than most."
+  join_vampire_bloodline.0007.b.tt:0 "You claim that your willpower alone can tame the curse."
+
+
+  join_vampire_bloodline.0007.c:0 "My magic is unmatched—power answers my call."
+  join_vampire_bloodline.0007.c.tt:0 "You claim your mastery of the arcane makes you worthy of the gift."
+  join_vampire_bloodline.0007.d:0 "My lineage ensures my strength"
+  join_vampire_bloodline.0007.d.tt:0 "Your bloodline ensures that you can bear this power, for the blood of a Pure-Blooded Vampire Lord already runs within you."
+  join_vampire_bloodline.0007.e:0 "I will take whatever risk your gift demands."
+  join_vampire_bloodline.0007.e.tt:0 "You claim you will accept any consequence to gain the Lord's power."
+  join_vampire_bloodline.0007.d.success:0 "#P You survive#!"
+  join_vampire_bloodline.0007.d.failed:0 "#N You die#!"
+
+  # EVENT 8 : YOU SUCCESSFULLY BECOME A VAMPIRE LORD #############################################
+
+  join_vampire_bloodline.0008.t:0 "The Ascension Begins"
+  join_vampire_bloodline.0008.desc:0 "It starts as a spark in your veins—cold, sharp, and alive. Then it swells, flooding your body with an energy unlike anything you have ever known. Each heartbeat feels heavier, slower, as though the mortal shell you once knew is being reforged from the inside out.\n\nYour vision sharpens, every shadow etched in perfect detail. Sounds you had never noticed before whisper at the edge of your hearing. The air tastes of iron and lightning.\n\nThe power is working. You are becoming something greater. You can feel it in your blood."
+  join_vampire_bloodline.0008.a:0 "Yes... I can feel it..."
+  join_vampire_bloodline.0008.a.tt:0 "The transformation has begun—you can sense the power rooting itself into your very being."
+
+  # EVENT 9 : YOU FAILED TO BECOME A VAMPIRE LORD #############################################
+
+  join_vampire_bloodline.0009.t:0 "Crushed by the Gift"
+  join_vampire_bloodline.0009.desc:0 "The power surges higher—too fast, too much. Your chest tightens, every breath a desperate, clawing effort. Cold fire races through your veins, setting every nerve alight in agony.\n\nYou stumble, choking on air that refuses to fill your lungs. Your vision narrows, the world tilting as strength bleeds from your limbs.\n\nA final, ragged gasp escapes you as darkness swallows all. The last sound you hear is the distant, cold laughter of the Coven Master."
+  join_vampire_bloodline.0009.a:0 "*Gaaahhh—!*"
+  join_vampire_bloodline.0009.a.tt:0 "The power overwhelms you—your body collapses, and the gift becomes your death."
+
+  # EVENT 10 : FINALE #############################################
+  join_vampire_bloodline.0010.t:0 "The True Form"
+  join_vampire_bloodline.0010.desc:0 "The last tremor fades, leaving only stillness… and power. It hums in your veins, a boundless well that answers your every thought. The mortal shell you once wore feels light, fragile, a disguise you can now shed or don at will.\n\nYou flex your will and feel the night itself bend in quiet submission. Your senses are sharper than any blade, your strength greater than ever."
+  join_vampire_bloodline.0010.a:0 "Thank You Master."
+  join_vampire_bloodline.0010.a.tt:0 "You have ascended to the rank of Vampire Lord, free to shift between your mortal guise and true form at will."
+
+  # EVENT 11 : Secret or not?
+  #############################################
+
+  join_vampire_bloodline.0011.t:0 "Keep this a Secret ?"
+  join_vampire_bloodline.0011.desc:0 "Now you must decide whether if you want to keep your Vampirism a secret or let the whole world your true nature."
+
+  #A. Be a Secret Vampire
+  join_vampire_bloodline.0011.a:0 "Let's just keep this between us..."
+  join_vampire_bloodline.0011.a.tt:0 "Your true nature will remain a #bold Secret#!."
+
+  #B. Publicly Reveal self as vampire
+  join_vampire_bloodline.0011.b:0 "Why must I hide it?"
+  join_vampire_bloodline.0011.b.tt:0 "Your true nature will #bold Not#! be a #bold Secret#! to anyone."

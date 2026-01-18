@@ -1,0 +1,9 @@
+﻿l_english:
+
+  falmer_realm_decision:0 "Excavate the Tomb of the Snow Prince"
+  falmer_realm_decision_desc:0 "It is rumored that some powerful ancient artifacts belonging to "The Snow Prince" are entombed somewhere in Solvjord."
+  falmer_realm_tooltip:0 "Search for the tomb."
+  falmer_realm_decision_tooltip:0 "We must recover these anctient artifacts."
+  falmer_realm_decision_confirm:0 "Launch the Excavation!"
+  #falmer:0 "May we avenge our fallen prince"
+  falmer_realm_decision_effect_1:0 "You will recieve 3 new powerful artifacts"

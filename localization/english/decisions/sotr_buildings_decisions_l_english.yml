@@ -1,0 +1,10 @@
+﻿l_english:
+
+ # Bloodroot Forge Decision
+ bloodroot_blood_forged_decision:0 "Become Blood-Forged"
+ bloodroot_blood_forged_decision_desc:0 "Let the raw power of molten Nirncrux course through your veins, and transform into an indomitable vessel of blood, iron, and fire. Your enemies will tremble as you wield the molten power within you. Your body, reforged and unbreakable, will be a testament to the strength of those who dare to grasp the power of the forge. \n\nYou will no longer be bound by the frailties of flesh. Embrace the flames and be re-forged in the ancient fires of the Bloodroot Forge."
+ bloodroot_blood_forged_decision_tooltip:0 "The forge awaits, its ancient fires ready to reshape you into the ultimate weapon"
+ bloodroot_blood_forged_decision_confirm:0 "Perform the Ritual!"
+ bloodroot_blood_forged_decision_tt:0 "Overcome the trials and transform yourself into a #E Blood-forged#!"
+ cannot_perform_ritual:0 "You are already a #V 'Blood-Forged'#! [decision|E]"
+

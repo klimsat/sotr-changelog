@@ -1,0 +1,4 @@
+﻿l_english:
+
+ msg_dragon_cult_invasion_war_invalidated_message:1 "The [war.GetName] has ended: [defender.GetShortUIName] no longer [Select_CString( defender.IsLocalPlayer, 'control', 'controls' )] any land in the target region."
+

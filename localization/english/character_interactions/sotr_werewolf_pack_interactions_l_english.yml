@@ -1,0 +1,22 @@
+﻿l_english:
+
+  #Werewolf Pack Interaction
+  
+  #recipient_family_friend_or_lover_tt: "#color_white [recipient.GetTitledFirstName]#! needs to either be of the [actor.GetDynasty.GetName] dynasty, be a [friend|E] or [lover|E] of #color_white [actor.GetName]#!."
+
+  CHARACTER_IS_PACK_MEMBER:0 "[CHARACTER.GetShortUIName|U] has already joined the [GetTrait('werewolf_pack_').GetName( CHARACTER.Self )]"
+  IS_A_PACK_MEMBER:0 "Is a [GetTrait('werewolf_pack_').GetName( GetNullCharacter )]"
+  IS_NOT_A_PACK_MEMBER:0 "Is #bold not#! a member of any other Werewolf Pack"
+
+  CHARACTER_IS_PACK_LEADER:0 "[CHARACTER.GetShortUIName|U] is an Alpha of a Werewolf Pack"
+  IS_A_PACK_LEADER:0 "Is an Alpha of a Pack"
+  IS_NOT_A_PACK_LEADER:0 "Is #bold not#! an Alpha of any Werewolf Pack"
+
+  request_to_join_pack_desc:0 "I will ask [recipient.GetShortUINameNoTooltip] to allow me to join [recipient.GetHerHis] pack and run beneath the same moon."
+  visit_leader_of_pack_desc:0 "I will pay a visit to [recipient.GetShortUINameNoTooltip]"
+
+  request_to_become_werebeast_interaction:0 "Approach [recipient.GetShortUINameNoTooltip]"
+
+  request_to_become_a_werebeast_interaction_desc:0 "I will ask [recipient.GetShortUINameNoTooltip] to share [recipient.GetHerHis] curse with me."
+
+

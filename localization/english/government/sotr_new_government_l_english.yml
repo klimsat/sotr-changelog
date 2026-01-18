@@ -1,0 +1,40 @@
+﻿l_english:
+
+  #Dragon Priesthood Government
+  # Dragon Priesthood
+  dragon_priesthood_government:0 "Dragon Priesthood"
+  dragon_priesthood_government_with_icon: "@government_type_dragon_priesthood! $dragon_priesthood_government$"
+  dragon_priesthood_government_adjective:0 "Dragon Priest"
+  dragon_priesthood_government_realm:0 "Dragon Priest Realm"
+  dragon_priesthood_government_desc:0 "\n$game_concept_dragon_priesthood_desc$\n\n#F This government is ruled by those who serve the ancient Dragon Cult. The [ruler|E], known as a Dragon Priest—who acted as as the delegates of the Dragons' divine will. Through sacred rites, arcane authority, and fearsome devotion, the Dragon Priesthood binds its followers to the worship and dominion of the World-Eater.#!"
+  #high_enough_ratio_nb_provinces_same_faith_held_provinces_same_faith:0 "You control at least #V $VALUE|0$%#! of the provinces following your [faith|E]\n#weak Current value: #V [Character.MakeScope.ScriptValue('ratio_nb_provinces_same_faith_held_provinces_same_faith')|1]%#!#!"
+  #high_enough_ratio_nb_provinces_same_faith_held_provinces_same_faith_not:0 "You control at most #V $VALUE|0$%#! of the provinces following your [faith|E]\n#weak Current value: #V [Character.MakeScope.ScriptValue('ratio_nb_provinces_same_faith_held_provinces_same_faith')|1]%#!#!"
+
+
+  #Vampire Government
+
+  ### Vampire coven
+  vampire_coven_government:0 "Vampire Coven"
+  vampire_coven_government_with_icon: "@government_type_vampire! $vampire_coven_government$"
+  vampire_coven_government_adjective:0 "Vampiric"
+  vampire_coven_government_realm:0 "Coven Realm"
+  vampire_coven_government_vassals_label:1 "Coven [obligations|E] are based on each [vassal|E]'s [vassal_contract]"
+  vampire_coven_government_desc:1 "[SelectLocalization( HasDlcFeature( 'the_fate_of_iberia' ), 'vampire_coven_dlc_yes', 'vampire_coven_dlc_no' )]"
+  vampire_coven_dlc_yes:1 "• Can offer to join the [war|E] of another [ruler|E] in exchange for\n  [gold|E] if Independent.\n• Unlocks [crown_authority|E] laws independent of [innovations|E] at the following [prestige_level|E]:\n - $crown_authority_1$: [GetModifier( 'prestige_level_3' ).GetNameWithTooltip|L]\n - $crown_authority_2$: [GetModifier( 'prestige_level_4' ).GetNameWithTooltip|L]\n - $crown_authority_3$: [GetModifier( 'prestige_level_5' ).GetNameWithTooltip|L] \n\n#F Vampire covens form where mortal order frays and night grows long. Led by a Patron or Matron whose will binds their followers, covens maintain power through secrecy, feeding, and the careful balancing of favors and fear.\n\nA coven's hold over its realm and its vassals rests on its ability to secure offerings and keep darker truths buried. When blood is scarce or loyalties fray, even a powerful Matron may find her authority contested.#!"
+  vampire_coven_dlc_no:1 "• [rulers|E] with a [royal_court|E] gain [grandeur|E] via [raiding|E] instead of passively via [amenities|E]. How much they gain is tied to their $vampire_court_court$ [amenities|E] level.\n• Unlocks [crown_authority|E] laws independent of [innovations|E] \nat the following [prestige_level|E]:\n - $crown_authority_1$: [GetModifier( 'prestige_level_3' ).GetNameWithTooltip|L]\n - $crown_authority_2$: [GetModifier( 'prestige_level_4' ).GetNameWithTooltip|L]\n - $crown_authority_3$: [GetModifier( 'prestige_level_5' ).GetNameWithTooltip|L]\n\n Vampire covens form where mortal order frays and night grows long. Led by a Patron or Matron whose will binds their followers, covens maintain power through secrecy, feeding, and the careful balancing of favors and fear.\n\n#F A coven's hold over its realm and its vassals rests on its ability to secure offerings and keep darker truths buried. When blood is scarce or loyalties fray, even a powerful Matron may find her authority contested.#!"
+  vampire_coven_government_obligations:0 "[GetGovernment( 'vampire_coven_government' ).GetName] [obligations|E]"
+  vampire_vassal: "$vampire_coven_government$"
+  vampire_vassal_desc: "$game_concept_vampire_desc$"
+
+  #Werewolf Government
+  werewolf_pack_government:0 "Werewolf Pack"
+  werewolf_pack_government_with_icon: "@government_type_werewolf! $werewolf_pack_government$"
+  werewolf_pack_government_adjective:0 "Lycan"
+  werewolf_pack_government_realm:0 "Pack Realm"
+  werewolf_pack_government_vassals_label:1 "Pack [obligations|E] are based on each [vassal|E]'s [vassal_contract]"
+  werewolf_pack_government_desc:1 "[SelectLocalization( HasDlcFeature( 'the_fate_of_iberia' ), 'werewolf_pack_dlc_yes', 'werewolf_pack_dlc_no' )]"
+  werewolf_pack_dlc_yes:1 "• Can offer to join the [war|E] of another [ruler|E] in exchange for\n  [gold|E] if Independent.\n• Unlocks [crown_authority|E] laws independent of [innovations|E] at the following [prestige_level|E]:\n - $crown_authority_1$: [GetModifier( 'prestige_level_3' ).GetNameWithTooltip|L]\n - $crown_authority_2$: [GetModifier( 'prestige_level_4' ).GetNameWithTooltip|L]\n - $crown_authority_3$: [GetModifier( 'prestige_level_5' ).GetNameWithTooltip|L] \n\n#F Werewolf packs rise where the wild grows untamed and borders blur. Led by an Alpha whose command is enforced by tooth and vow, packs bind their kin by blood, hunt, and the strict rules of the den.\n\nA pack's hold on its territory and its vassals rests on its skill at the hunt, the strength of its bonds, and the Alpha's ability to keep rivals at bay. When prey grows scarce or pack rivalries flare, even a dominant Alpha may see their authority challenged.#!"
+  werewolf_pack_dlc_no:1 "• [rulers|E] with a [royal_court|E] gain [grandeur|E] via [raiding|E] instead of passively via [amenities|E]. How much they gain is tied to their $werewolf_pack_court$ [amenities|E] level.\n• Unlocks [crown_authority|E] laws independent of [innovations|E] \nat the following [prestige_level|E]:\n - $crown_authority_1$: [GetModifier( 'prestige_level_3' ).GetNameWithTooltip|L]\n - $crown_authority_2$: [GetModifier( 'prestige_level_4' ).GetNameWithTooltip|L]\n - $crown_authority_3$: [GetModifier( 'prestige_level_5' ).GetNameWithTooltip|L]\n\n#F Werewolf packs rise where the wild grows untamed and borders blur. Led by an Alpha whose command is enforced by tooth and vow, packs bind their kin by blood, hunt, and the strict rules of the den.\n\nA pack's hold on its territory and its vassals rests on its skill at the hunt, the strength of its bonds, and the Alpha's ability to keep rivals at bay. When prey grows scarce or pack rivalries flare, even a dominant Alpha may see their authority challenged.#!"
+  werewolf_pack_government_obligations:0 "[GetGovernment( 'werewolf_pack_government' ).GetName] [obligations|E]"
+  werewolf_vassal: "$werewolf_pack_government$"
+  werewolf_vassal_desc: "$game_concept_werewolf_desc$"

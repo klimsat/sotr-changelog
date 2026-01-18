@@ -1,0 +1,35 @@
+﻿l_english:
+
+   #ERAS
+  # culture_era_nativity:0 "Dawn"
+  # culture_era_nativity_desc:0 "The Dawn Era, also known as the Dawn Age, the Beginning Times, or the Chaos Times, was a period during which time followed an incomprehensible nonlinear path and the very laws of nature remained unset. Various legends and stories regarding the gods and mortals alike occured in the #LORE [compendium_dawn_era]#!.\n\nOnly innovations related to [nativity_regions|E] can be found in this era.
+
+ #ERAS
+ culture_era_nativity:0 "Middle Merethic"
+ culture_era_nativity_desc:0 "The Middle Merethic Era, sometimes called the Age of Settlement or the Time of Foundations, was a period when the first enduring civilizations began to take root across Tamriel. Elves, men, and beastfolk alike established cities, shrines, and kingdoms that would define the shape of later history. It was an age of exploration, migration, and the forging of cultural identities, though much about its chronology remains debated and often obscured by myth in the #LORE [compendium_merethic_era]#!.\n\nOnly innovations related to [nativity_regions|E] can be found in this era."
+
+ culture_era_tribal:0 "Early-Late Merethic"
+ culture_era_tribal_desc:0 "The early-late Merethic period is marked by two major upheavals across the continent. Foremost among them is a big event known as 'the Return', which sees the Atmorans surging onto the northern shores, carving a path of conquest deep into the mainland. \n\nAt the same time, the powerful Ayleid kingdoms of Cyrodiil began to violently turn upon one another, causing an immense fracturing of their #italic Great#! Empire.\n\nOnly innovations related to [nativity_regions|E] can be found in this era."
+
+ culture_era_early_medieval:0 "Mid-Late Merethic"
+ culture_era_early_medieval_desc:0 "The Dragons and the Dragon Cult who serve in their name claim supremacy in Northern Tamriel. Their dominion expanded even farther southward, claiming rule over the lands of the Khajiits when they were still divided into sixteen kingdoms.\n\nOnly innovations related to [nativity_regions|E] can be found in this era."
+
+
+ culture_era_high_medieval:0 "Very-Late Merethic"
+ culture_era_high_medieval_desc:0 "The Last Century of the Merethic Era stands as the final threshold between myths and recorded history. Cultures, traditions, and beliefs became more firmly rooted in historical memory.\n\nDragon rule in Tamriel collapsed with Alduin's defeat and humanity's victory in the Dragon War. The dominion of the Dragon Priests over the Men of the North and the Khajiit of Elsweyr continued to wane.\n\nThe long period of the Duskfall came to its final end, and the Hist drowned the tall Xanmeers beneath the Black Marshes. The Argonians now walk a new path, as the Golden Age of the Saxhleel slips beyond living memory.\n\nMeanwhile, the Ayleid city-states continued to weaken due to the disastrous Narfinsel Schism, while the Nedic human slave populations continued to grow.\n\nOnly innovations related to [nativity_regions|E] can be found in this era."
+
+  culture_era_late_medieval:0 "First"
+  culture_era_late_medieval_desc:0 "Many had hoped for a First Era when the savage dwellers of the forests might at last find unity, when the enslaved across empires would break their chains, and when the scattered tribes of Nirn might grow into their first lasting realms. \n\nIt was a time when the long struggle against chaos seemed to edge toward its long-awaited end, and hope lingered that balance and order might finally rise from turmoil.\n\nFor more information: [Glossary( 'First Era', 'FIRST_ERA_GLOSS' )]"
+
+  #culture_era_late_medieval:0 "Empires of Men"
+  #culture_era_late_medieval_desc:0 "When the human Kingdoms and Empires were widespread, and most of Tamriel was settled.  Thrones passed from one empire to another, all rose from both the cold frontiers and the fertile heartlands, shaping the course of history through conquest, law, and legacy.\n\nRulers with [tribal_government|E] can only make use of $culture_era_tribal$ [innovations|E]."
+ 
+  #culture_era_late_medieval:0 "Middle Dawn"
+  #culture_era_late_medieval_desc:0 "The Middle Dawn is a period of great mystery, for none can agree on how it began or how it ended. It was an age when the order of time itself seemed to shatter, and history folded upon itself. A jumble of events appeared to occur all at once, though none are certain if any of them were real. None truly understand how it worked — only that it did."
+
+
+ #culture_era_late_medieval:0 "Early Interregnum"
+ #culture_era_late_medieval_desc:0 "The Akaviri Potentate of Cyrodiil was not made to last. It too was doomed to fall, and Tamriel shattered afterwards."
+
+ #culture_era_late_medieval:0 "Time of the Pretenders"
+ #culture_era_late_medieval_desc:0 "Regional hegemonies are formed in most parts of the world, claiming to be the sole inheritors of the old Imperial authority."

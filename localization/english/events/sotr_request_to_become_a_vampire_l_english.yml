@@ -1,0 +1,123 @@
+﻿l_english:
+
+  #REQUEST VAMPIRISM
+
+  # EVENT 1 : START   
+  #############################################
+
+  request_to_become_vampire.0001.t:0 "An Audience with a Vampire"
+  request_to_become_vampire.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip].\n\nThey are wondering about what might be the purpose of your visit."
+
+  #A. You owe me bro (Use hook)
+  request_to_become_vampire.0001.a:0 "You owe me...."
+  request_to_become_vampire.0001.a.tt:0 "Use a [hook|E] to compel [recipient.GetFirstNameNoTooltip] to turn you into a [GetTrait('vampire_character').GetName( GetNullCharacter )]."
+
+  #B. Use Diplomacy
+  request_to_become_vampire.0001.b:0 "We both might gain something from this"
+  request_to_become_vampire.0001.b.tt:0 "Use your [diplomacy|E] skills to persuade them into turning you into a [GetTrait('vampire_character').GetName( GetNullCharacter )]."
+
+  request_to_become_vampire.0001.b.success:0 "You convinced [recipient.GetShortUINameNoTooltip]"
+  request_to_become_vampire.0001.b.success.result:0 "They will share their gift with you."
+  request_to_become_vampire.0001.b.failure:0 "You fail to convince [recipient.GetShortUINameNoTooltip]"
+
+  #C. Are we not friends?
+  request_to_become_vampire.0001.c:0 "Are we not friends?, [recipient.GetFirstNameNoTooltip]?"
+  request_to_become_vampire.0001.c.tt:0 "Call upon your friendship with [recipient.GetShortUINameNoTooltip] to turn you into a [GetTrait('vampire_character').GetName( GetNullCharacter )]."
+  request_to_become_vampire.0001.e.friendly:0 "You need to be [friends|e] with the Vampire."
+
+  #D. Beg him/her
+  request_to_become_vampire.0001.d:0 "Please... I have nothing left. I beg you...."
+  request_to_become_vampire.0001.d.tt:0 "Grovel and beg [recipient.GetShortUINameNoTooltip] to turn you into a [GetTrait('vampire_character').GetName( GetNullCharacter )]."
+
+  #E. I know your secret
+  request_to_become_vampire.0001.e:0 "I know your little secret..."
+  request_to_become_vampire.0001.e.tt:0 "Because you know his Vampire secret, you can Blackmail [recipient.GetFirstNameNoTooltip] to turn you into a [GetTrait('vampire_character').GetName( GetNullCharacter )]."
+
+  #F. Nevermind
+  request_to_become_vampire.0001.f:0 "Nevermind"
+  request_to_become_vampire.0001.f.tt:0 "You will head back home."
+
+  # EVENT 2 : You get the Vampire trait
+  #############################################
+
+  request_to_become_vampire.0002.t:0 "Become a Children of the Night"
+  request_to_become_vampire.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip|U] has agreed to turn you into a [GetTrait('vampire_character').GetName( GetNullCharacter )]."
+
+  #A. Mission Success
+  request_to_become_vampire.0002.a:0 "Let us begin"
+  request_to_become_vampire.0002.a.tt:0 "Begin the transformation to become a #n #bold Vampire#!#!. \n\n@warning_icon!#warning Once you proceed there is no going back!#!"
+
+  #B. Wait Nevermind then
+  request_to_become_vampire.0002.b:0 "No... this isn't the path I want."
+  request_to_become_vampire.0002.b.tt:0 "You step away, leaving your blood untouched.\n\n@warning_icon!#warning [recipient.GetTitledFirstNameNoTooltip|U] will certainly not be happy with this...#!\n"
+
+  # EVENT 3 : You beg them
+  #############################################
+
+  request_to_become_vampire.0003.t:0 "Dignity in the Dirt"
+  request_to_become_vampire.0003.desc:0 "You fall to your knees before [recipient.GetTitledFirstNameNoTooltip]. Your words spill out in trembling whispers.\n\nTheir expression darkens.\n\n\"You beg like a mortal who has already lost everything,\" they mutter. \"It's pathetic. Disgusting. And yet....\"\n\nSomething flickers behind their eyes—rage, or reluctant pity. You may have touched a nerve. Or frayed it."
+
+  #A. Beg them again
+  request_to_become_vampire.0003.a:0 "Please... I'm nothing without this!"
+  request_to_become_vampire.0003.a.tt:0 "Continue begging. [recipient.GetSheHe|U] may grant your wish—out of annoyance or pitiful mercy."
+  request_to_become_vampire.0003.a.neutral.tt:0 "#P [recipient.GetSheHe|U] might still give you a chance#!"
+  request_to_become_vampire.0003.a.hostile.tt:0 "@warning_icon! #N [recipient.GetSheHe|U] might be annoyed and turn hostile#!"
+
+  #B. Alright i give up
+  request_to_become_vampire.0003.b:0 "I'm sorry.. I won't grovel further...."
+  request_to_become_vampire.0003.b.tt:0 "You give up and walk away."
+
+  # EVENT 4 : Fight the Vampire or you're dead
+  #############################################
+
+  request_to_become_vampire.0004.t:0 "Enough!"
+  request_to_become_vampire.0004.desc:0 "[recipient.GetTitledFirstNameNoTooltip]'s face twists with disgust.\n\n\"I offer you silence, and you choose to wail?? You are not worthy to carry this gift !!!"\n\nBefore another word escapes your mouth, they surge forward with inhuman speed, fangs bared and claws drawn. Death comes screaming.\n\nUnless, of course... you can stop it."
+
+  #A. You have no chance
+  request_to_become_vampire.0004.a:0 "Agh—No, please—!" 
+  request_to_become_vampire.0004.a.tt:0 "You are not strong enough to resist. [recipient.GetFirstNameNoTooltip] kills you without hesitation."
+
+  #B. You have a chance to fight for your life
+  request_to_become_vampire.0004.b:0 "If you strike, I will strike back!"
+  request_to_become_vampire.0004.b.tt:0 "You are strong enough to face them in a duel. The outcome will decide your fate."
+
+
+  #C. #Try to escape
+  request_to_become_vampire.0004.c:0 "Nope! I'm out!"
+  request_to_become_vampire.0004.c.tt:0 "You attempt to flee before [recipient.GetFirstNameNoTooltip] can strike."
+
+  request_to_become_vampire.0004.c.success:0 "You succesfully escape from [recipient.GetFirstNameNoTooltip]"
+  request_to_become_vampire.0004.c.success.tt:0 "You survived."
+  request_to_become_vampire.0004.c.failure:0 "[recipient.GetFirstNameNoTooltip|U] manage to catch you"
+
+  # EVENT 5 : VICTORY
+  #############################################
+
+  request_to_become_vampire.0005.t:0 "Victory"
+  request_to_become_vampire.0005.desc:0 "The battle is over. [recipient.GetTitledFirstNameNoTooltip] is defeated. Their blood stains your weapon, proofing that even monsters can bleed.\n\nYou could end their life, spare them.... or force them to give you what you want..."
+
+  #A. Execute the Vampire
+  request_to_become_vampire.0005.a:0 "Your kind is weak.... I have no need of this curse."
+  request_to_become_vampire.0005.a.tt:0 "You execute [recipient.GetShortUINameNoTooltip], and leave without getting the [GetTrait('vampire_character').GetName( GetNullCharacter )] Curse."
+
+  #B. Spare the Vampire but don't receive the trait
+  request_to_become_vampire.0005.b:0 "You may live...but I reject your curse."
+  request_to_become_vampire.0005.b.tt:0 "You spare them, but refuse to become a [GetTrait('vampire_character').GetName( GetNullCharacter )]."
+
+  #C. Spare the Vampire and receive the trait
+  request_to_become_vampire.0005.c:0 "I have proven myself. The Gift is mine now."
+  request_to_become_vampire.0005.c.tt:0 "You will now receive the gift of #bold Vampirism#!."
+
+  # EVENT 6 : Secret or not?
+  #############################################
+
+  request_to_become_vampire.0006.t:0 "Keep this a Secret ?"
+  request_to_become_vampire.0006.desc:0 "Now you must decide whether if you want to keep your Vampirism a secret or let the whole world your true nature."
+
+  #A. Be a Secret Vampire
+  request_to_become_vampire.0006.a:0 "Let's just keep this between us..."
+  request_to_become_vampire.0006.a.tt:0 "Your true nature will remain a #bold Secret#!."
+
+  #B. Publicly Reveal self as vampire
+  request_to_become_vampire.0006.b:0 "Why must I hide it?"
+  request_to_become_vampire.0006.b.tt:0 "Your true nature will #bold Not#! be a #bold Secret#! to anyone."

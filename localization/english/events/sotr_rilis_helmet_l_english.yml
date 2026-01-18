@@ -1,0 +1,23 @@
+﻿l_english:
+
+ # Rilis Helmet Madness Event
+ #You are not of Pure Rilis Bloodline
+
+	rilis_helmet_madness.0001.t:0 "The Curse of Unworthy Blood"
+	rilis_helmet_madness.0001.desc:0 "The Helm of Rilis was never meant for you.\n\nThe helm speaks in whispers—and it judges you with contempt. Cold, ancient, and cruel. You feel it peel back the layers of your blood, searching, weighing. And when it finds you wanting, the pain begins.\n\nIt starts in the spine. Then the skin tightens. Bones strain. Something beneath you begins to wake—something cursed.\n\nBastards, pretenders, even those who merely carry the scent of House Rilis in name alone… none are spared."
+	rilis_helmet_madness.0001.a:0 "*Growl*"
+	rilis_helmet_madness.0001.a.tt:0 "Raargh..!!!!"
+	rilis_helmet_madness.0001.b:0 "*Howl*"
+	rilis_helmet_madness.0001.b.tt:0 "Auuuuuuuuu......"
+
+ #The Madness Starts creeping in
+
+	rilis_helmet_madness.0002.t:0 "Whispers Beneath the Helm"
+	rilis_helmet_madness.0002.desc:0 "A low, sibilant whisper curls through your mind—terrifying, hungry, insistent. At first it was just a murmur.... now, it gets too loud for you to ignore.\n\nYou can no longer tell if the thoughts are your own. Visions of blood, betrayal, and infinite eyes behind the veil plague your waking hours. The helmet tightens—it hungers for something, and it will not stop until we give it what it wants."
+	rilis_helmet_madness.0002.a:0 "Embrace the Madness"
+	rilis_helmet_madness.0002.a.tt:0 "You let go of your reason and give in to the ancient will inside the helmet. Who you are may begin to fray."
+	rilis_helmet_madness.0002.b:0 "@warning_icon! #BOLD #n Silence it with blood #!#!"
+	rilis_helmet_madness.0002.b.tt:0 "You strike down someone—anyone—to hush the voice. But the helmet chooses who."
+	rilis_helmet_madness.0002.b.ttt:0 "@death_icon! #BOLD #n A random person in your court will die #!#!"
+	rilis_helmet_madness.0002.b.toast.title:0 "What have you done?"
+	rilis_helmet_madness.0002.b.toast.tt:0 "You have murdered [rilis_helm_target.GetShortUIName|U] in Cold Blood"

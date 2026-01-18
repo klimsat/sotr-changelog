@@ -1,0 +1,40 @@
+﻿l_english:
+
+
+ ###################
+ #### Modifiers ####
+ ###################
+
+ ##Perks modifiers for when you disable the interactions/decisions etc...
+
+ #Vampire
+ blood_surge_perk_modifier: "Blood Surge"
+ poison_talons_perk_modifier: "Poison Talons"
+ supernatural_reflexes_perk_modifier: "Supernatural Reflexes"
+ pulsebreaker_perk_modifier: "Pulsebreaker"
+ 
+
+ #Werebeasts
+
+ ravaging_maw_perk_modifier: "Ravaging Maw"
+ mauling_jaw_perk_modifier: "Mauling Jaw"
+ gore_maw_perk_modifier: "Gory Maw"
+
+
+ iron_snarl_perk_modifier: "Iron Snarl"
+ iron_growl_perk_modifier: "Iron Growl"
+ iron_snout_perk_modifier: "Iron Snout"
+
+ dominating_instinct_perk_modifier: "Dominating Instinct"
+ mighty_instinct_perk_modifier: "Mighty Instinct"
+ bristled_wisdom_perk_modifier: "Bristled Wisdom"
+
+
+ ########################
+ #### Xp Multipliers ####
+ ########################
+ monthly_merethic_sword_singer_lifestyle_xp_gain_mult:0 "Monthly Sword-Singer [lifestyle|E] Experience"
+ monthly_merethic_vampire_lifestyle_xp_gain_mult:0 "Monthly Vampire [lifestyle|E] Experience"
+ monthly_merethic_werewolf_lifestyle_xp_gain_mult:0 "Monthly Werewolf [lifestyle|E] Experience"
+ monthly_merethic_werebear_lifestyle_xp_gain_mult:0 "Monthly Werebear [lifestyle|E] Experience"
+ monthly_merethic_wereboar_lifestyle_xp_gain_mult:0 "Monthly Wereboar [lifestyle|E] Experience"

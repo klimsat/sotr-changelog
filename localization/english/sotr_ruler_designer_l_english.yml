@@ -1,0 +1,141 @@
+﻿l_english:
+
+  RACE_GOBLINKEN:0 "Goblin"
+  RACE_GIANT:0 "Giant"
+  RACE_FAUN:0 "Faun"
+
+  ## Skins 
+  ayleid_skin:0 "Ayleid Color"
+  red_skin:0 "Red Color"
+
+  ##Kothringis
+
+  race_kothringi_1_name:0 "Kothringi I"
+  race_kothringi_1:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MAN') ) ), Localize('race_kothringi_1_name'), 'no' )]"
+
+  race_kothringi_2_name:0 "Kothringi II"
+  race_kothringi_2:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MAN') ) ), Localize('race_kothringi_2_name'), 'no' )]"
+
+  race_kothringi_3_name:0 "Kothringi III"
+  race_kothringi_3:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MAN') ) ), Localize('race_kothringi_3_name'), 'no' )]"
+
+
+  ## Giant Goblins  
+
+  race_goblin_red_name:0 "Goblin, Red"
+  race_goblin_red:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_GOBLINKEN') ) ), Localize('race_goblin_red_name'), 'no' )]"
+
+  race_goblin_giant_name:0 "Giant Goblin, Green"
+  race_goblin_giant:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_GOBLINKEN') ) ), Localize('race_goblin_giant_name'), 'no' )]"
+
+  race_goblin_giant_yellow_name:0 "Giant Goblin, Tan"
+  race_goblin_giant_yellow:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_GOBLINKEN') ) ), Localize('race_goblin_giant_yellow_name'), 'no' )]"
+
+  race_goblin_giant_red_name:0 "Giant Goblin, Red"
+  race_goblin_giant_red:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_GOBLINKEN') ) ), Localize('race_goblin_giant_red_name'), 'no' )]"
+
+  ## GiantS
+  race_giant_1_name:0 "Giants"
+  race_giant_1:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_GIANT') ) ), Localize('race_giant_1_name'), 'no' )]"
+  race_wrothgarian_giant_1_name:0 "Wrothgarian Giants"
+  race_wrothgarian_giant_1:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_GIANT') ) ), Localize('race_wrothgarian_giant_1_name'), 'no' )]"
+  race_sea_giant_1_name:0 "Sea Giants"
+  race_sea_giant_1:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_GIANT') ) ), Localize('race_sea_giant_1_name'), 'no' )]"
+
+  ## Ancient Atmorans
+  race_atmoran_1_ancient_name:0 "Ancient Atmoran I"
+  race_atmoran_1_ancient:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MAN') ) ), Localize('race_atmoran_1_ancient_name'), 'no' )]"
+
+  race_atmoran_2_ancient_name:0 "Ancient Atmoran II"
+  race_atmoran_2_ancient:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MAN') ) ), Localize('race_atmoran_2_ancient_name'), 'no' )]"
+
+  race_atmoran_3_ancient_name:0 "Ancient Atmoran III"
+  race_atmoran_3_ancient:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MAN') ) ), Localize('race_atmoran_3_ancient_name'), 'no' )]"
+
+  race_atmoran_4_ancient_name:0 "Ancient Atmoran IV"
+  race_atmoran_4_ancient:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MAN') ) ), Localize('race_atmoran_4_ancient_name'), 'no' )]"
+
+  ## Ancient Altmers
+
+  race_altmer_ancient_name:0 "Ancient Altmer I"
+  race_altmer_ancient:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_altmer_ancient_name'), 'no' )]"
+
+  race_altmer_pure_1_ancient_name:0 "Ancient Altmer II"
+  race_altmer_pure_1_ancient:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_altmer_pure_1_ancient_name'), 'no' )]"
+
+  race_altmer_pure_2_ancient_name:0 "Ancient Altmer III"
+  race_altmer_pure_2_ancient:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_altmer_pure_2_ancient_name'), 'no' )]"
+
+  race_altmer_balfieri_1_ancient_name:0 "Ancient Altmer, Balfieri I"
+  race_altmer_balfieri_1_ancient:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_altmer_balfieri_1_ancient_name'), 'no' )]"
+
+  race_altmer_balfieri_2_ancient_name:0 "Ancient Altmer, Balfieri II"
+  race_altmer_balfieri_2_ancient:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_altmer_balfieri_2_ancient_name'), 'no' )]"
+
+  ## Ancient Ayleids
+
+  race_ayleid_1_ancient_name:0 "Ancient Ayleid I"
+  race_ayleid_1_ancient:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_ayleid_1_ancient_name'), 'no' )]"
+
+  race_ayleid_2_ancient_name:0 "Ancient Ayleid II"
+  race_ayleid_2_ancient:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_ayleid_2_ancient_name'), 'no' )]"
+
+  race_ayleid_3_ancient_name:0 "Ancient Ayleid III"
+  race_ayleid_3_ancient:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_ayleid_3_ancient_name'), 'no' )]"
+
+  ## Ancient Chimers
+
+  race_chimer_ancient_1_name:0 "Ancient Chimer I"
+  race_chimer_ancient_1:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_chimer_ancient_1_name'), 'no' )]"
+
+  race_chimer_ancient_2_name:0 "Ancient Chimer II"
+  race_chimer_ancient_2:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_chimer_ancient_2_name'), 'no' )]"
+
+  race_chimer_ancient_3_name:0 "Ancient Chimer III"
+  race_chimer_ancient_3:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_chimer_ancient_3_name'), 'no' )]"
+
+  ## Ancient Falmer
+
+  race_falmer_ancient_name:0 "Ancient Falmer"
+  race_falmer_ancient:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_falmer_ancient_name'), 'no' )]"
+
+  ## Sinestral Elves
+
+  race_sinestral_mer_1_name:0 "Sinestral Elf 1"
+  race_sinestral_mer_1:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_sinestral_mer_1_name'), 'no' )]"
+  race_sinestral_mer_2_name:0 "Sinestral Elf 2"
+  race_sinestral_mer_2:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_sinestral_mer_2_name'), 'no' )]"
+  race_sinestral_mer_3_name:0 "Sinestral Elf 3"
+  race_sinestral_mer_3:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_sinestral_mer_3_name'), 'no' )]"
+
+  ## Ancient Maormer
+
+  race_maormer_ancient_1_name:0 "Ancient Maormer I"
+  race_maormer_ancient_1:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_maormer_ancient_1_name'), 'no' )]"
+
+  race_maormer_ancient_2_name:0 "Ancient Maormer II"
+  race_maormer_ancient_2:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_maormer_ancient_2_name'), 'no' )]"
+
+
+  ###Ancient Orsimer
+  race_orsimer_ancient_name:0 "Ancient Orsimer"
+  race_orsimer_ancient:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_orsimer_ancient_name'), 'no' )]"
+
+  race_orsimer_malahk_ancient_name:0 "Ancient Malahk Orsimer"
+  race_orsimer_malahk_ancient:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_orsimer_malahk_ancient_name'), 'no' )]"
+
+
+  race_orsimer_wood_ancient_name:0 "Ancient Orsimer, Wood"
+  race_orsimer_wood_ancient:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_orsimer_wood_ancient_name'), 'no' )]"
+
+
+  race_orsimer_iron_ancient_name:0 "Ancient Orsimer, Iron"
+  race_orsimer_iron_ancient:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_orsimer_iron_ancient_name'), 'no' )]"
+
+  race_orsimer_desert_name:0 "Ancient Orsimer, Desert"
+  race_orsimer_desert:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_MER') ) ), Localize('race_orsimer_desert_name'), 'no' )]"
+
+  ###Faun
+
+  race_faun_name:0 "Faun"
+  race_faun:0 "[Select_CString( Or(Not(GetVariableSystem.HasValue( 'ek_ruler_designer_open', 'true' )), GetVariableSystem.HasValue( 'ek_race', Localize('RACE_FAUN') ) ), Localize('race_faun_name'), 'no' )]"

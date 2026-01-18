@@ -1,0 +1,78 @@
+﻿l_english:
+
+  ## Nighthollow Clan
+  d_nighthollow_article:0 "the "
+  d_nighthollow_adj:0 "Nighthollows"
+  d_nighthollow:0 "Nighthollow Clan"
+  #House Vraseth
+  d_vraseth_article:0 "the "
+  d_vraseth:0 "Vraseth Bloodline"
+  #House Selenu
+  d_selenu_article:0 "the "
+  d_selenu:0 "Selenu Bloodline"
+  #House Lyrezi
+  d_lyrezi_article:0 "the "
+  d_lyrezi:0 "Lyrezi Bloodline"
+  #Garlythi Bloodline
+  d_garlythi_article:0 "the "
+  d_garlythi:0 "Garlythi Bloodline"
+  #Montalion (Mountain-Talon) Clan
+  d_montalion_article:0 "the "
+  d_montalion:0 "Mountain-Talon Clan"
+  #The Gray Host
+  d_gray_host_article:0 "the "
+  d_gray_host:0 "Gray Host"
+  #Vampyrum Order
+  d_vampyrum_order:0 "Oio Serache"
+  # - Meaning Oio (Eternal), *Serache (Blood) -Non Canon Translation
+  #Whet-Fang Sodality
+  d_whet_fang_article:0 "the "
+  d_whet_fang:0 "Whet-Fang Sodality"
+  #Vakka-Shuxalt
+  d_vakka_shuxalt_article:0 "the "
+  d_vakka_shuxalt_adj:0 "Sun-Eater"
+  d_vakka_shuxalt:0 "Vakka-Shuxalt"
+  #Tenarr Zalviit
+  d_tenarr_zalviit_article:0 "the "
+  d_tenarr_zalviit_adj:0 "Nightstalker"
+  d_tenarr_zalviit:0 "Tenarr Zalviit"
+  #Hollowfang
+  d_hollowfang_article:0 "the "
+  d_hollowfang_adj:0 "Hollowfang"
+  d_hollowfang:0 "Hollowfang Clan"
+  #Berne Clan
+  d_berne_article:0 "the "
+  d_berne_adj:0 "Berne"
+  d_berne:0 "Berne Clan"
+  #Korgari Clan
+  d_korgari_article:0 "the "
+  d_korgari_adj:0 "Korgari"
+  d_korgari:0 "Korgari Clan"
+  #Bathogorgen Clan
+  d_bathogorgen_article:0 "the "
+  d_bathogorgen_adj:0 "Bathogorgen"
+  d_bathogorgen:0 "Bathogorgen Clan"
+  #Diodata Clan
+  d_diodata_article:0 "the "
+  d_diodata_adj:0 "Diodata"
+  d_diodata:0 "Diodata Clan"
+  #Keerilth Clan
+  d_keerilth_article:0 "the "
+  d_keerilth_adj:0 "Keerilth"
+  d_keerilth:0 "Keerilth Clan"
+  #Bonsamu Clan
+  d_bonsamu_article:0 "the "
+  d_bonsamu_adj:0 "Bonsamu"
+  d_bonsamu:0 "Bonsamu Clan"
+  #Thrafey Clan
+  d_thrafey_article:0 "the "
+  d_thrafey_adj:0 "Thrafey"
+  d_thrafey:0 "Thrafey Bloodline"
+  #Mairon Clan
+  d_mairon_article:0 "the "
+  d_mairon_adj:0 "Mairon"
+  d_mairon:0 "Mairon Bloodline"
+  #Ashbound Vampires
+  d_ashbound_vampire_article:0 "the "
+  d_ashbound_vampire_adj:0 "Ashbounds"
+  d_ashbound_vampire:0 "Ashbound Vampires"

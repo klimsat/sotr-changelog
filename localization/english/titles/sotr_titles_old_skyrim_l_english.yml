@@ -1,0 +1,24 @@
+﻿l_english:
+
+ #SKYRIM old
+ e_old_skyrim:0 "Mereth"
+
+ #Dragon Priesthood
+ e_priesthood_skyrim:0 "Keizaal"
+ k_priesthood_skuldafn:0 "Skuldafn"
+ k_priesthood_valbrandr:0 "Valbrandr"
+ k_priesthood_forelhost:0 "Forelhost"
+ k_priesthood_ragnvald:0 "Ragnvald"
+ k_priesthood_valthume:0 "Valthume"
+ k_priesthood_volskygge:0 "Volskygge"
+ k_priesthood_verglas:0 "Verglas"
+
+ #Falmeri
+ e_falmereth:0 "Falmeris"
+ k_calenor:0 "Calenor"
+ k_finglor:0 "Finglor"
+ k_gaerdur:0 "Gaerdur"
+ k_ilinor:0 "Ilinor"
+ d_vas:0 "Vas"
+ c_chantry_of_auriel:0 "Great Chantry of Auri-El"
+ b_chantry_of_auriel:0 "Great Chantry of Auri-El"

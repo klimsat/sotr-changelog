@@ -1,0 +1,43 @@
+﻿l_english:
+ 
+ #Dragon Holy Conquest
+ rule_dragon_holy_conquest:0 "#EK EK2 - SOTR:#! Dragon Holy Conquest"
+ setting_default_dragon_holy_conquest:0 "Default"
+ setting_default_dragon_holy_conquest_desc:0 "The Dragon Priests may invade."
+ setting_never_dragon_holy_conquest:1 "#high Never#!"
+ setting_never_dragon_holy_conquest_desc:0 "The Dragon Priests will stay in Atmora."
+ setting_immediate_dragon_holy_conquest:1 "#high Immediate#!"
+ setting_immediate_dragon_holy_conquest_desc:0 "The Dragon Priests will invade in about a year after the Game starts."
+
+ #Limited Interractial Marriage
+ rule_limited_interracial_marriage:0 "#EK EK2 - SOTR:#! Limited Interracial Marriage"
+ setting_moderate_limited_interracial_marriage:0 "Moderate"
+ setting_moderate_limited_interracial_marriage_desc:0 "Non-player characters of certain heritages will not engage in interracial marriages. Pure-blooded characters may marry others who do not have pure-blooded trait."
+ setting_extreme_limited_interracial_marriage:0 "Extreme"
+ setting_extreme_limited_interracial_marriage_desc:0 "Non-player characters of certain heritages will not engage in interracial marriages. Pure-blooded characters will only marry others who share the same pure-blooded trait and heritage."
+ setting_never_limited_interracial_marriage:1 "#high None#!"
+ setting_never_limited_interracial_marriage_desc:0 "All characters may freely engage in interracial marriages, regardless of heritage or bloodline."
+
+ #Alinor Suzerain Rule
+ rule_alinor_suzerain:0 "#EK EK2 - SOTR:#! Alinor as Suzerain"
+ setting_disable_alinor_suzerain:0 "Disable"
+ setting_disable_alinor_suzerain_desc:0 "The Imperatum Saliache will not have the [empire|E] of the #bold Summerset Isles#! as its [suzerain|E]"
+ setting_enable_alinor_suzerain:1 "#high Enable#!"
+ setting_enable_alinor_suzerain_desc:0 "The Imperatum Saliache will have the [empire|E] of the #bold Summerset Isles#! as its [suzerain|E]"
+
+  #Alinor Isolationism Rule
+  rule_alinor_isolationism:0 "#EK EK2 - SOTR:#! Alinor Isolationism"
+  setting_disable_alinor_isolationism:0 "Disable"
+  setting_disable_alinor_isolationism_desc:0 "The High Kingdom of #bold Alinor#! will not begin in the [situation_phase|E] $alinor_closed$ of the [situation|E]."
+  setting_enable_alinor_isolationism:1 "#high Enable#!"
+  setting_enable_alinor_isolationism_desc:0 "The High Kingdom of #bold Alinor#! will begin the game in the [situation_phase|E] $alinor_closed$. In this phase, the Altmer are unable to conduct diplomacy with or wage war on anyone outside of the Summerset Isles."
+
+  #AI Character View Background Rule
+  rule_ai_character_view_bg:0 "#EK EK2 - SOTR#! AI-Generated Character Background Illustration"
+
+  setting_disable_ai_character_view_bg:0 "Disable"
+  setting_disable_ai_character_view_bg_desc:0 "AI-generated illustrations art will #p not be shown#! in the character background."
+
+  setting_enable_ai_character_view_bg:1 "#high Enable#!"
+  setting_enable_ai_character_view_bg_desc:0 "AI-generated background illustrations will #n be shown#! in the character background. #help These illustrations are only kept as placeholders.#!"
+

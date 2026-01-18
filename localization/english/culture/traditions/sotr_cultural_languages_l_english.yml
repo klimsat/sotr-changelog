@@ -1,0 +1,17 @@
+﻿l_english:
+
+  #Giant Language
+  language_giant_name:0 "Giantish"
+  language_giant_desc:0 "Giantish is a slow, thunderous tongue, spoken in deep, rumbling tones that echo across the frozen tundras and towering peaks of Skyrim. Rooted in ancient tradition, it relies on guttural vocalizations, heavy pauses, and powerful gestures to convey meaning. The language is sparse yet deliberate, with a single word often holding layers of meaning understood only through context and intonation. \n\n The language is rarely shared with outsiders, and even those who study it struggle to grasp its nuances. #italic 'Words are mountains, unshaken by the wind'#!, say the Giants, ensuring their ancient wisdom remains locked within the echoes of their homeland."
+
+  #Faun Language
+  language_faun_name:0 "Fauno"
+  language_faun_desc:0 "Fauno is a melodic and ancient tongue, blending harmonious vocalizations with rhythmic hoof-taps and gestures to convey meaning. It is deeply intertwined with the natural world, using imitative sounds of the forest, such as bird calls and rustling leaves, to express complex ideas. Faunalith is as much a song as it is a language, said to resonate with the Green and the will of Y'ffre.\n\n Many Bosmer scholars believe Faunalith predates the Green Pact, serving as a bridge between the mortal and spiritual realms. However, Fauns are notoriously protective of their language, often refusing to teach its deeper nuances to outsiders. #italic 'To preserve the heart of the wild'#!, they claim, ensuring the mysteries of their heritage remain shrouded in secrecy."
+
+  #Sinestral Elves Language
+  language_sinestral_name:0 "Kanuryaish"
+  language_sinestral_desc:0 "The language of the Sinestral Elves is an enigma, a mysterious and fragmented tongue that defies easy translation. Fluid and elusive, Sinestral speech appears to weave between structured prose and poetic verse. The languge is also somewhat related to the Yoku language, though the two diverge in ways that confound even the most dedicated linguists #italic 'A tongue that echoes, yet is never truly heard'#!, as one frustrated translator once remarked."
+
+  #Nedic Language - Deleted from the original
+  language_nedic_name:0 "Nedic"
+  language_nedic_desc:0 "The ancient Nedes spoke innumerable dialects, some of which are close to languages spoken to this day while others are so different as to boggle the mind and complicate attempts at categorization. The prevalent belief is that the Nedic languages descend from the primordial Ehlnofex of the et'Ada, and that though the various Nedic dialects share a common ancestry with the Elven languages, they developed in metaphysical opposition to them."

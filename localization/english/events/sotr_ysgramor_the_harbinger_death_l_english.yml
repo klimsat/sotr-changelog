@@ -1,0 +1,37 @@
+﻿l_english:
+
+	ysgramor_the_harbinger_death.0001.t:0 "A Messenger Arrived..."
+	ysgramor_the_harbinger_death.0001.desc:0 "Esteemed Captain, I bring grim news."
+	ysgramor_the_harbinger_death.0001.a:0 "Speak quickly, boy, before I use your skull to plug the loos!"
+	ysgramor_the_harbinger_death.0001.b:0 "Out with it!"
+
+
+	ysgramor_the_harbinger_death.0002.t:0 "The Harbinger has passed Away"
+	ysgramor_the_harbinger_death.0002.desc:0 "No words can truly capture the weight of the sorrow felt by Rhorlak. \n\nThe news has spread like a storm rolling across the sky — a great shadow that blots out the light, leaving only silence in its wake. Fires dim, voices falter, and hearts grow heavy, for the unthinkable has come to pass.\n\nYsgramor the Returned, our leader... our Harbinger... is no more.\n\nWithout him, the world feels still and hollow. His bravery shaped our path, his valor lit the way forward. Now, that light has gone out, and we are left in dusk.\n\nWith his passing, a mighty chapter closes — the grandest saga our people have ever known.\n\nI now stand adrift in a world where his voice is silent, where his breath no longer stirs the air. How does one live when the fire that once burned within us is quenched? What path remains when the Harbinger himself is no longer with me?\n\nWhat am I to do?"
+	ysgramor_the_harbinger_death.0002.a:0 "Today I shall lay down my Axe"
+ 	ysgramor_the_harbinger_death.0002.a.tt:0 "#N You’ll give up your titles and hand them down to your heir.#!"
+ 	ysgramor_the_harbinger_death.0002.b:0 "Forgive me, Ysgramor"
+ 	ysgramor_the_harbinger_death.0002.b.tt:0 "Forgive me Brother, but our tales of reckoning is still far from done"
+
+	ysgramor_the_harbinger_death.0003.t.atmoran:0 "Grim News..."
+	ysgramor_the_harbinger_death.0003.t.any:0 "Ysgramor died"
+	ysgramor_the_harbinger_death.0003.atmoran.desc:0 "High King Ysgramor 'the Returned', has passed from this world.\n\nHe was not just a warrior, but the greatest pride of our people. May Shor bear witness to his glory, and may Tsun grant ease to our Father and King."
+	ysgramor_the_harbinger_death.0003.family.desc:0 "The fires Grandfather lit will never fade, so long as his blood endures. Let Sovngarde receive him with honor, for now, it falls to us to carry out his will. \n\nThe dynasty he forged shall rise and be sung across the continent. They will soon learn the might of the Bloodline of Ysgramoor."
+	ysgramor_the_harbinger_death.0003.companion.desc:0 "Ysgramor, the Harbinger of us all, has passed from this world.\n\nHe led us across the Sea of Ghosts and carved a path through sorrow and into glory. May his name echo in Sovngarde as it does forever in our hearts."
+	ysgramor_the_harbinger_death.0003.ylgar.desc:0 "Father now walks into the halls of Sovngarde, where I'm sure Yngol, stands ready to greet him.\n\nThe great weight of his legacy now falls unto me. So long as I draw breath, I swear that the Companions will not scatter, nor will they falter. \n\nOur line, Our Companions — now it's my turn to keep an eye on them while he's away."
+	ysgramor_the_harbinger_death.0003.jeek.desc:0 "I don't know why, but as the years passed, my oldest memories are starting to grow sharper. The things we used to do are becoming even more clear now, they seem more real than much of what I see today. \n\nHow we set sail into open seas for the first time, the days we bled side by side, the nights we drank until the stars blurred, and the moment when we built something greater than either of us could’ve ever dreamed.\n\nWe are brothers in all but blood. Now you walk where I cannot — at least, not yet. But when my time comes, save me the strongest mead you can find in Shors Hall— and we’ll drink together again like the old days."
+
+	ysgramor_the_harbinger_death.0003.any.desc:0 "The Leader of the Atmorans, Ysgramor has passed away."
+	ysgramor_the_harbinger_death.0003.a:0 "#weak Cry in the Corner#!"
+	ysgramor_the_harbinger_death.0003.b:0 "I can't believe it.."
+	ysgramor_the_harbinger_death.0003.c:0 "Let us carry on his Legacy"
+	ysgramor_the_harbinger_death.0003.d:0 "May he rest well"
+	ysgramor_the_harbinger_death.0003.e:0 "May Shor Allow us to reunite with him one day."
+	ysgramor_the_harbinger_death.0003.f:0 "Another Toothpick."
+	ysgramor_the_harbinger_death.0003.g:0 "One less monster to haunt the snow."
+	ysgramor_the_harbinger_death.0003.h:0 "Good riddance"
+	ysgramor_the_harbinger_death.0003.i:0 "Now even stones feel safer."
+	ysgramor_the_harbinger_death.0003.j:0 "Feast well, Harbinger."
+	ysgramor_the_harbinger_death.0003.k:0 "Rest well, Grandfather—we'll make you proud."
+	ysgramor_the_harbinger_death.0003.l:0 "Give Yngol a good beating for me..."
+	ysgramor_the_harbinger_death.0003.m:0 "See you in Sovngarde, old friend..."

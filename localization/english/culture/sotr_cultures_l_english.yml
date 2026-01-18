@@ -1,0 +1,393 @@
+﻿l_english:
+  #ALDMERI
+
+  #Ancient Alinor
+  ancient_alinor:0 "Alinori"
+  ancient_alinor_prefix:0 "Alinoro"
+  ancient_alinor_collective_noun:1 "Alinori"
+  ancient_alinor_desc:0 "The Alinori are the core Altmer culture based in Summerset. They take great pride in their lineages and think themselves superiors to outsiders for which they have no lack of scorn. Few can claim to know magic better than the Alinori Mages, especially their high esteemed Sapiarchs."
+  ancient_alinor_opinion:0 "$ancient_alinor$ Opinion"
+  
+  #Ancient Auridon
+  ancient_auridon:0 "Auridoni"
+  ancient_auridon_prefix:0 "Auridono"
+  ancient_auridon_collective_noun:1 "Auridoni"
+  ancient_auridon_desc:1 "The Auridoni are Altmer living on the second largest isle to the east of Alinor. Though still wary of outsiders, they are more accepting than the Alinori. \n\nFor Alinor, Auridon serves as both a barrier and window for influence from the mainland and the Auridoni embrace this role fully. Tamriel has many Altmer scholars, traders and travelers, no few coming from Auridon rather than Alinor."
+  ancient_auridon_opinion:0 "$ancient_auridon$ Opinion"
+  
+  #Ancient Balfiera
+  ancient_balfiera:0 "Balfieri"
+  ancient_balfiera_prefix:0 "Balfiero"
+  ancient_balfiera_collective_noun:1 "Balfieri"
+  ancient_balfiera_desc:2 ""Centered around Balfiera in the Iliac Bay, this culture is tied to the destinies of High Rock and the Aldmeri Colonies that rules over the vast majority of the area. Ruling as a minority elite has made them far more tolerant than their cousins in Alinor. \n\nMany Bretons begrudgingly admire the refinement of the Balfieri Elves. Yet often one may find a Breton following the culture of their Elven overlords."
+  ancient_balfiera_opinion:0 "$ancient_balfiera$ Opinion"
+
+  #AYLEID
+  ancient_ayleid:1 "Saliache"
+  ancient_ayleid_prefix:0 "Saliache"
+  ancient_ayleid_collective_noun:1 "Saliache"
+  ancient_ayleid_desc:0 "The Ayleids stands as the mighty rulers of the Heartlands. Pioneers of magic, art, and architecture, they built cities of light and stone that defied imagination. Their culture was as diverse as it was advanced, blending profound knowledge of the arcane with a deep reverence for both Aedra and Daedra. \n\nDespite of their frequent dissensions and their very questionable practices, the Ayleids have truly transformed the Heartlands into a beacon of splendor and might."
+  ancient_ayleid_opinion:0 "$ancient_ayleid$ Opinion"
+
+  #Dwemer
+  ancient_dwemer:0 "Dwemeri"
+  ancient_dwemer_prefix:0 "Dwemeris"
+  ancient_dwemer_collective_noun:1 "Dwemer"
+  ancient_dwemer_desc:1 "The Dwemer, meaning “Elves of the Deep” or “People of the Deep”, are a reclusive and technologically advanced civilization native to 'Dwemereth'—better known to the Chimer as 'Resdayn'. Masters of science, engineering, and tonal manipulation, they built vast subterranean cities beneath the Velothi Mountains, Red Mountain, Deshaan, and even the eastern isles near the Padomaic Ocean.\n\nTheir society is composed of fiercely independent clans, each devoted to the relentless pursuit of logic, innovation, and higher learning. Their steam-driven strongholds, animunculi, and tonal constructs continue to shape the world from below."
+  ancient_dwemer_opinion:0 "$ancient_dwemer$ Opinion"
+
+  #FALMERI
+  ancient_falmer:0 "Falmeri"
+  ancient_falmer_prefix:0 "Falmero"
+  ancient_falmer_collective_noun:1 "Falmeri"
+  ancient_falmer_desc:1 "The Falmeris trace their lineage to the frigid shores and mountaintops of the Northern Parts of Tamriel. These deeply spiritual people held humility and ascetism in high regard, building chapels and monasteries to contemplate the pristine beauty of the land.\n\n They flourished in the harsh, wintry landscapes, creating a sophisticated civilization that blended seamlessly with the snow-covered mountains and vast, icy plains. Their culture was one of beauty, refinement, and an enduring respect for nature, with a profound reverence for the land and its creatures.\n\n Lately, dark clouds starts emerging in the North, heralding a chilling storm and an unsettling presence beyond the horizon. Hopefully the Falmeri culture can withstand and survive it."
+  ancient_falmer_opinion:0 "$ancient_falmer$ Opinion"
+
+  #Ancient Maormer
+  ancient_maormer:0 "Maormeri" 
+  ancient_maormer_prefix:0 "Maormero"
+  ancient_maormer_collective_noun:1 "Maormer"
+  ancient_maormer_desc:0 "The Culture of the Maormer, a race of Mer that reside on the island kingdom of Pyandonea, far south of the Summerset Isles."
+  ancient_maormer_opinion:0 "$ancient_maormer$ Opinion"
+
+  #Ancient Atmoran (Atmorans from the Merethic Era)
+  ancient_atmoran:0 "Atmoran"
+  ancient_atmoran_prefix:0 "Atmoramal"
+  ancient_atmoran_collective_noun:1 "Atmorans"
+  ancient_atmoran_desc:0 "The people of ancient Atmora were a hardy sea-faring people, once living in a temperate land rich in culture. However, as a relentless cold consumed their continent, and much of their history and way of life was lost to the frost. As the habitable land grew scarce and became increasingly unforgiving, it eventually culminates in a devastating civil war that forced many to flee south in search of peace and survival. In Skyrim, the Atmorans built the city of Saarthal, the first known Atmoran settlement on Tamriel. \n\nFor a time, the Atmorans coexisted peacefully with the native Snow Elves. But this peace was shattered in the tragic 'Night of Tears', when the Snow Elves attacked Saarthal, nearly wiping out the entire city population. Only a few escaped the slaughter, carrying with them tales of Elven treachery. These stories roused the fiercest warriors of Atmora, who united in a common cause, to avenge their fallen kin and reclaim Skyrim from the Elves. \n\nThus, the seeds of conquest and retribution were sown, forever altering the course of Tamriel's history"
+  ancient_atmoran_opinion:0 "$ancient_atmoran$ Opinion"
+
+  #Hared
+  hared:0 "Hared"
+  hared_prefix:0 "Haredo"
+  hared_collective_noun:1 "Hared"
+  hared_desc:0 "The Hared, or Al-Hared, are one of the few remaining Nedic Tribes who now mostly inhabits the the southern coasts of the Deathlands. They have long thrived in the coastal regions, engaging in fishing, trade, and maritime exploration. Over time, their seafaring skills and resilience spread beyond their homelands, leading to many of them being herded as slaves throughout the Niben Bays by the Ayleids. \n\nThough their traditions and ways of life are starting to fade over time, the Hared people remain determined to preserve the rich cultural identity rooted in their coastal heritage"
+  hared_opinion:0 "$hared$ Opinion"
+
+  #Perena
+  ancient_perena:0 "Perena"
+  ancient_perena_prefix:0 "Pereni"
+  ancient_perena_collective_noun:1 "Perena"
+  ancient_perena_desc:0 "An ancient Nedic tribe mostly found in Cyrodiil or Hammerfell, the Perena seemed to have a particular interest in the star and the night sky, while some people even believing that they had something to do with the creation of the Celestials themselves..."
+  ancient_perena_opinion:0 "$ancient_perena$ Opinion"
+
+  #Karth - Edited
+  karth:0 "Man-of-Karth"
+  karth_prefix:0 "Karthi"
+  karth_collective_noun:1 "Men-of-Karth"
+  karth_desc:0 "The Men of Karth settled along the slopes of the Druadach Mountains, from the Upper Karth River to the Lower Karth River. They formed a varied and multireligious society, revering Daedric powers, embracing the ways of the Druids of Galen, and upholding the traditions of the ancient Nedic faiths.\n\nFor the most part they kept to themselves, but at times they traded and communed with their human, orc and elven neighbors.."
+  karth_opinion:0 "$karth$ Opinion"
+
+  #Men-of-Ge
+  men_of_ge:0 "Man-of-Ge"
+  men_of_ge_prefix:0 "Geo"
+  men_of_ge_collective_noun:1 "Men-of-Ge"
+  men_of_ge_desc:0 "The Men-of-Ge are a Nedic tribe native to the nortwestern regions of the Heartlands. For countless generations, they have looked to the night sky, giving their devotion to the Magna Ge—the Star-Orphans who fled Nirn in ages past. Kind and gentle by nature, they long favored peace over conquest, living in harmony with their land and neighbors.\n\nYet such gentleness often left them vulnerable. Stronger, more ruthless cultures have, time and again, taken advantage of their goodwill, seizing their lands, their wealth, and their freedom. Still, the Men of Ge endure, holding fast to the starlight that has always guided them."
+  men_of_ge_opinion:0 "$men_of_ge$ Opinion"
+
+  #Men-of-Ket
+  men_of_ket:0 "Man-of-Ket"
+  men_of_ket_prefix:0 "Keto"
+  men_of_ket_collective_noun:1 "Men-of-Ket"
+  men_of_ket_desc:0 "The Men-of-Ket are a Nedic people native to the southern heartlands, where rolling fields once bore witness to their ancient rites and traditions. Now, much of their culture lies broken, worn away by generations of toil beneath the yoke of the Saliaches, who have forced them into lives of labor and servitude.\n\nThough almost diminished, the Men-of-Ket remain bound by a quiet resilience. Many seek freedom in exile, traveling west or east in desperate flight from their oppressors. A few find refuge outside of the Heartlands, where they carve out fragile new lives, but far more perish upon the road, claimed by hunger, pursuit, or despair.\n\nTo those who endure, their heritage lingers as memory and defiance, a fading flame carried by a people unwilling to let their name vanish from the heart of Tamriel."
+  men_of_ket_opinion:0 "$men_of_ket$ Opinion"
+
+  #Keptus - Just 'Keptu', or the Proto Ket-Keptu
+  ancient_keptu:0 "Keptu"
+  ancient_keptu_prefix:0 "Keptu"
+  ancient_keptu_collective_noun:1 "Keptus"
+  ancient_keptu_desc:0 "The Keptus are an ancient Nedic people whose roots lie in central Deathlands and the rugged hinterlands that border the Heartlands and the Jerall Mountains. They dwelt alongside other early Nedic tribes, forging a life in lands both arid and mountainous.\n\nThough often dismissed by their rivals as unpolished and barbaric, the Keptus were far from primitive. They were among the first pre-Alessian civilizations to master the refining of ores, and their skill in working metal set them apart in the ancient world."
+  ancient_keptu_opinion:0 "$ancient_keptu$ Opinion"
+
+  #Kothri
+  kothri:0 "Kothri"
+  kothri_prefix:0 "Kothro"
+  kothri_collective_noun:1 "Kothris"
+  kothri_desc:0 "The largest non-Argonian group living in Black Marsh, the ancestors of the silver-skinned men, the Kothringi, were brought to Cyrodiil by the Ayleids as slaves.\n\nCenturies after the fall of the Ayleids, they built long-standing settlements in Black Marsh, but some fear that a coming catastrophe might signal the end of their people..."
+  kothri_opinion:0 "$kothri$ Opinion"
+
+  #Kothringi
+  #kothringi:0 "Kothringi"
+  #kothringi_prefix:0 "Kothro"
+  #kothringi_collective_noun:1 "Kothringi"
+  #kothringi_desc:0 "The silver-skinned men of Black Marsh, the Kothringi, were once brought to Cyrodiil as slaves by the Ayleids.\n\nIn the centuries following the fall of their masters, they established long-standing settlements deep within the swamps of Argonia. Known for their distinct appearance and resilience, they remain one of the most prominent non-Argonian peoples of the Marsh, though whispers of a grim fate still linger over their kind..."
+  #kothringi_opinion:0 "$kothringi$ Opinion"
+
+
+  #Yesapest
+  yesapest:0 "Yesapest"
+  yesapest_prefix:0 "Yesapesti"
+  yesapest_collective_noun:1 "Yesapest"
+  yesapest_desc:0 "The many human tribe who once inhabited the lands of Southwestern coasts of Black Marsh were, over generations, broken, mingled, and remade into a single kind—known as the Chained Folk. In the tongue they came to speak, they were called the $yesapest$. Through forced unions, the destruction of their homelands, and the slow erasure of their old tribes, they endure their lives beneath their masters’ yoke.\n\nUnder Ayleid dominion, the $yesapest$ were forbidden to worship their former gods, just as they were barred from so much as stepping inside an Ayleid chapel. In the shadows of elven palaces, in windowless rooms and silent storehouses, in attic spaces and beneath the boards of grand theatres, they quietly shaped a culture beyond their masters’ reach. Wherever the Ayleids cast their shadows, the $yesapest$ made them into shelter.\n\nAll of them—man or woman, young or old—gave their devotion to Sanguine, who came to be known as the wine in their cups and the blood in their veins. He filled their hidden halls with feasts, their silent throats with song, and taught them but one lesson—to want. And so they did. For the first time in long centuries, they truly wanted something.\n\nThey desire freedom. And to this day still yearn for the day when they can rise to claim it."
+  yesapest_opinion:0 "$yesapest$ Opinion"
+
+
+  #OG Nede
+  nede:0 "Nedic" ## Placeholder DO NOT REMOVE. HISTORY USE ONLY (FOR NOW).
+  nede_prefix:0 "Nede"
+  nede_collective_noun:1 "Nedes"
+  nede_desc:0 ""Nede" is a catch-all term to describe all humans native to Tamriel, excepting the Yokudans and Atmorans but including a good dozen obscure tribes from which descend the Imperials, Reachfolk and Bretons, as well as the near extinct Nedic civilisations of Black Marsh and Hammerfell. Proliferated throughout the continent, the Nedes were concentrated around the Heartlands of Cyrodiil, where the Ayleid civilisation resettled tribes from all over Tamriel to serve as their slaves and dependents, and from where the Alessian Revolt eventually laid the foundation for Nedic ascendancy."
+  nede_opinion:0 "$nede$ Opinion"
+
+  #Giant
+  giant:0 "Giant"
+  giant_prefix:0 "Giant"
+  giant_collective_noun:1 "Giants"
+  giant_desc:0 "The Giants of Tamriel are towering, ancient beings that can be found throughout Tamriel. Despite their primitive appearance, they possess moderate intelligence—able to craft tools, clothing, and crude armor, tend mammoths, and harness fire for daily use.\n\nGiants are reclusive and self-sufficient, preferring to hunt and herd rather than mingle with the smaller races. While some clans have clashed violently with neighboring settlements, most avoid conflict and simply guard their territory with fierce resolve."
+  giant_opinion:0 "$giant$ Opinion"
+
+  #Wrothgarian Giant
+  wrothgarian_giant:0 "Wrothgarian Giant"
+  wrothgarian_giant_prefix:0 "Wrothgarian Giant"
+  wrothgarian_giant_collective_noun:1 "Wrothgarian Giants"
+  wrothgarian_giant_desc:0 "Grim and unyielding as the peaks they call home, the Wrothgarian Giants are the reclusive titans of the Wrothgarian Mountains. Their skin bears the cold hue of stone, while their hair as white as snow. Fierce by nature, they will do anything to protect their homes and hunt relentlessly for their loved ones."
+  wrothgarian_giant_opinion:0 "$wrothgarian_giant$ Opinion"
+
+
+  #Sea Giant
+  sea_giant:0 "Sea Giant"  
+  sea_giant_prefix:0 "Sea Giant"  
+  sea_giant_collective_noun:1 "Sea Giants"  
+  sea_giant_desc:0 "The Sea Giants are elusive, colossal beings said to dwell along Tamriel’s mist-shrouded coasts. Unlike their land-dwelling kin, they are often described as sharper of mind and far more malicious in temperament. Their towering forms are marked by silvery-blue skin, rough and pitted like barnacled stone, and eyes as dark as the ocean’s abyss.\n\n Legends tell of their vast, island-sized ships sailing through storm and fog. Though few have ever laid eyes upon them and lived to tell the tale."  
+  sea_giant_opinion:0 "$sea_giant$ Opinion"  
+
+  #Great Houses of ancient Resdyan (In Chimeri Form)
+
+  #Redoran Ancestors
+  gah_julan_chimer:1 "Gah-Velothi"
+  gah_julan_chimer_prefix:0 "Gahno"
+  gah_julan_chimer_collective_noun:1 "Gah-Velothis"
+  gah_julan_chimer_desc:0 "The Gah-Velothi culture is deeply rooted in honor, duty, and strength, reflecting their role as guardians and defenders of Resdayn. The Culture also emphasizes a rigid code of ethics centered on personal honor, loyalty to kin and House, and great devotion to the Three Good Daedra—Boethiah, Mephala, and Azura. To be a Gah-Velothim one must strive to live with honor, fight with valor, and die with dignity"
+  gah_julan_chimer_opinion:0 "$gah_julan_chimer$ Opinion"
+
+  #Hlaalu Ancestors
+  armun_an_chimer:1 "Armun-Velothi"
+  armun_an_chimer_prefix:0 "Armuno"
+  armun_an_chimer_collective_noun:1 "Armun-Velothis"
+  armun_an_chimer_desc:0 "The Armun-Velothi people are pragmatic, ambitious, and resourceful, embodying the ideals of commerce, diplomacy, and adaptability. The culture is not particularly renowned for their strong warriors or their great magical prowess, but they are a greatly renowned opportunists and innovators. Their greatest weapon is their ability to adapt and thrive in any situation, making them a formidable force in both politics and commerce."
+  armun_an_chimer_opinion:0 "$armun_an_chimer$ Opinion"
+  
+  #Indoril Ancestors
+  chuzei_chimer:1 "Sunna-Velothi"
+  chuzei_chimer_prefix:0 "Sunno"
+  chuzei_chimer_collective_noun:1 "Sunna-Velothis"
+  chuzei_chimer_desc:0 "The Sunna-Velothi people are the heart of Resdayn's spiritual and cultural identity, embodying profound piety, steadfast tradition, and unwavering devotion to their people. Among the Velothis, the Sunna-Velothi stand apart as the culture whose way of life closely mirrors the splendor and might of the High Velothi civilization."
+  chuzei_chimer_opinion:0 "$chuzei_chimer$ Opinion"
+
+  #Telvanni Ancestors
+  chi_addun_chimer:1 "Tel-Velothi"
+  chi_addun_chimer_prefix:0 "Telvelano"
+  chi_addun_chimer_collective_noun:1 "Tel-Velothis"
+  chi_addun_chimer_desc:0 "The Tel-Velothi are a fiercely independent and enigmatic people, defined by their mastery of magic, unyielding ambition, and reclusive nature. Despite their isolationist tendencies, the Tel-Velothi are not entirely disconnected from Resdayn's politics. They participate only when it serves their interests, viewing alliances and treaties as tools to be used and discarded.The culture embrace a philosophy of self-reliance and individual power, often placing personal advancement above all else. To outsiders, the Tel-Velothis may seem aloof, dangerous, or even anarchic, but to themselves, they are visionaries, unshackled by the dogma or constraints that bind lesser minds."
+  chi_addun_chimer_opinion:0 "$chi_addun_chimer$ Opinion"
+
+  #Dres Ancestors
+  marduhn_oad_chimer:1 "Marduhn-Velothi"
+  marduhn_oad_chimer_prefix:0 "Marduhno"
+  marduhn_oad_chimer_collective_noun:1 "Marduhn-Velothis"
+  marduhn_oad_chimer_desc:0 "The Marduhn-Velothi are among the most industrious and ruthless of the Chimer, known for their proud and unyielding spirit. They are the keepers of ancient agrarian wisdom and traditions, ensuring that the knowledge of their ancestors remains ever-present in the lives of the Velothi."
+  marduhn_oad_chimer_opinion:0 "$marduhn_oad_chimer$ Opinion"
+
+  #Ashlander Ancestors
+  ashlander_chimer:0 "Ashlanders"
+  ashlander_chimer_prefix:0 "Ashlander"
+  ashlander_chimer_collective_noun:1 "Ashlanders"
+  ashlander_chimer_desc:0 "The Ashlanders are mostly nomadic dunmer that traditionally dwell in Vvardenfell and, in a minor scale, other Resdayn areas. They were the one of the remnants of the High Velothi civilization, who choose or are forced to dwell in the poorest and most hostile lands in Resdayn."
+  ashlander_chimer_opinion:0 "$ashlander_chimer$ Opinion"
+
+  #Dagoth Ancestors
+  ruhna_chimer:0 "Ruhna-Velothi"
+  ruhna_chimer_prefix:0 "Ruhno"
+  ruhna_chimer_collective_noun:1 "Ruhna-Velothis"
+  ruhna_chimer_desc:0 "The Ruhna-Velothi stand as a beacon of intellect, ambition, and the unyielding spirit of the ancient Velothi. Rooted in pragmatism, they see ambition not as desire but as sacred duty, for only through expanding and building can their legacy endure. They embody their ancestors’ fiery will, their flames burning to light the path toward a greater future."
+  ruhna_chimer_opinion:0 "$ruhna_chimer$ Opinion"
+
+  #Cantemiric
+ ancient_cantemiric:0 "Cantemiric"
+  ancient_cantemiric_prefix:0 "Cantemiro"
+  ancient_cantemiric_collective_noun:1 "Cantemirics"
+  ancient_cantemiric_desc:0 "The Cantemiric Velothi are a somewhat obscure offshoot of the Exodus led by the eponymous Oracle Cantemir. Cantemirics are talented and extremely prolific fortress-builders, and as they settled along the eastern coast of Argonia, they founded the stronghold-cities of Thorn, Archon, and Arnesia. Ever since the ascendancy of Great House Dres, this group has suffered a slow, but steady decline."
+  ancient_cantemiric_opinion:0 "$ancient_cantemiric$ Opinion"
+
+  #Goblin
+
+  #Giant Goblin
+  ancient_giant_goblin:0 "Giant Goblin"
+  ancient_giant_goblin_prefix:0 "Goblino"
+  ancient_giant_goblin_collective_noun:1 "Giant Goblins"
+  ancient_giant_goblin_desc:0 "These mysterious Towering goblins are believed to have originated from beyond Mundus. Their exact origin, purpose, and nature remain uncertain, giving rise to countless theories and superstitions surrounding their arrival."
+  ancient_giant_goblin_opinion:0 "$ancient_giant_goblin$ Opinion"
+
+  #Enlightened Goblin
+  enlightened_goblin:0 "Enlightened Goblin"
+  enlightened_goblin_prefix:0 "Goblino"
+  enlightened_goblin_collective_noun:1 "Enlightened Goblins"
+  enlightened_goblin_desc:0 "In the harsh and makeshift world of the goblin kind, a bold new culture has taken shape. Shunning the crude outdated traditions of their kin, they ardently mimic the illustrious Aldmeri society, adorning themselves in finely tailored garments and practicing refined manners. \n\nTheir culture stands as a defiant tribute to a nobility they yearn to embody, attempting to transform their unrefined world into a realm of grace, wisdom, and luminous aspiration. \n\n How long could they make this age of refinement last?"
+  enlightened_goblin_opinion:0 "$enlightened_goblin$"
+
+  #ORSIMER
+  ancient_mountain_orc:0 "Mountain Orc"
+  ancient_mountain_orc_prefix:0 "Orso"
+  ancient_mountain_orc_collective_noun:1 "Mountain Orcs"
+  ancient_mountain_orc_desc:0 "The Orsimer are among the most recluse and universally marginalised people on the continent, second only to the Goblin-Ken. Thus, they developed an autarkic culture centred around strongholds, their main socio-political unit, mostly isolated from the larger Tamrielic society. Orsimer dissatisfied with the oppressive and conservative stronghold lifestyle usually venture out into the world to live a different life.\n\nThe most popular origin story of Orcs states that when their patron god, Trinimac, was cursed and corrupted into Malacath. This twisted the Orsimer physical form into the one they have today."
+  ancient_mountain_orc_opinion:0 "$ancient_mountain_orc$ Opinion"
+
+  #Iron Orcs
+  ancient_iron_orc:0 "Iron Orc"
+  ancient_iron_orc_prefix:0 "Orso"
+  ancient_iron_orc_collective_noun:1 "Iron Orcs"
+  ancient_iron_orc_desc:0 "the Iron Orcs were a proud and hardy people, settling in the northern highlands of Craglorn. They are exceptional blacksmiths and are known to tame the fierce welwas to serve as beasts of burden and war.\n\nThe “Iron” in their name refers to the stone gods they defiled to get metallic weapons. Tribal leaders were chosen based on their prowess in battle, wisdom in council, and their skills & mastery of Metallurgy. Family and tribe were sacred to them, and each clan fiercely protected its own. While often viewed as savage by outsiders, the Iron Orcs held their traditions and their ancient way of life in the highest regard."
+  ancient_iron_orc_opinion:0 "$ancient_iron_orc$ Opinion"
+
+  #Wood Orcs
+  ancient_wood_orc:0 "Wood Orc"
+  ancient_wood_orc_prefix:0 "Orso"
+  ancient_wood_orc_collective_noun:1 "Wood Orcs"
+  ancient_wood_orc_desc:0 "The Wood Orcs of Valenwood developed a particular affinity for agility and stealth, traits that have allowed them to thrive in the deep, shadowy wilds of Valenwood. The dense forests and unpredictable terrain have shaped their way of life, forcing them to be both quick and silent, making use of the land's natural advantages.\n\nWhilst the local Bosmer don't look upon them favourably, they provide an invaluable service with trade in metallic and even plant products through their convenient non-adherence to the Green Pact, although that last part would be further reason to never compromise with them for some hardliner Bosmer..."
+  ancient_wood_orc_opinion:0 "$ancient_wood_orc$ Opinion"
+
+  #Malahk Orcs
+  ancient_malahk_orc:0 "Malahk Orc"
+  ancient_malahk_orc_prefix:0 "Malahk"
+  ancient_malahk_orc_collective_noun:1 "Malahk Orcs"
+  ancient_malahk_orc_desc:0 "In Velothi legend, Trinimac's most warlike followers pursued the Chimer in an unending hunt for revenge. They become the Malahk-Orcs, taller and stronger than even other Orsimer, defining themselves by relentless combat and fierce rivalries. Their society shelters in the old forts and hidden caves of their rugged homeland, but every warrior proves their worth in daring skirmishes and raids, troubling always their neighbouring houses."
+  ancient_malahk_orc_opinion:0 "$ancient_malahk_orc$ Opinion"    
+
+  #Desert Orcs
+  desert_orc:0 "Desert Orc"
+  desert_orc_prefix:0 "Orso"
+  desert_orc_collective_noun:1 "Desert Orcs"
+  desert_orc_desc:0 "The Desert Orcs came to the Deathlands to test their mettle in the name of Malacath. They chose this unforgiving realm precisely for its relentless cruelty, believing that only by surviving the harshest of lands could they prove themselves worthy in his sight.\n\nTheir settlements are scattered across the arid deserts and the scarce oases that punctuate them. Life is sustained through the hunting of dunerippers and giant scorpions, through relentless raiding, and by utilizing their exceptional survival skills to thrive in their harsh environment."
+  desert_orc_opinion:0 "$desert_orc$ Opinion"
+
+  #Faun
+  faun:0 "Faun"
+  faun_prefix:0 "Faun"
+  faun_collective_noun:1 "Fauno"
+  faun_desc:0 "The Fauns inhabit the lush archipelago of the Systres Isles and all over Tamriel at some point in the past. Their communities are deeply intertwined with the verdant forests and serene coastlines. Despite their peaceful demeanor, they are fiercely protective of their home, and those who threaten the balance of nature."
+  faun_opinion:0 "$faun$ Opinion"
+
+  #Sinestral
+  sinestral:0 "Kanuryai"  
+  sinestral_prefix:0 "Kanuryai"  
+  sinestral_collective_noun:1 "Kanuryai"  
+  sinestral_desc:0 "The Kanuryai or better known as the 'Sinestral Elves', were the native inhabitants of the great continent of Yokuda, where they built grand cities of alabaster stone and mined the rich onyx minerals of the peaks. Renowned for their exceptional craftsmanship, they were master gem-cutters and metalworkers, shaping orichalcum and other ores alike into ornate weapons and sacred relics.\n\nUnlike their neighbors, the Sinestral Elves embraced a philosophy of stark realism, believing that beyond death lay only 'nothing'. This belief drove them to focus on the present, honing their martial skills and fortifying their society against the harsh realities of the world. Their warriors adorned themselves with armor made from the tough hide of the Yath Asp, protecting what they called the 'throne of the soul.' \n\nDespite their cultural and technological advancements, the Sinestral Elves eventually clashed with the rising Yokudan warlords. The brutal conflicts are causing their civilizations to slowly descend to ruin, and hopefully there is time left for them to make peace."  
+  sinestral_opinion:0 "$sinestral$ Opinion"  
+
+
+  #Ancient Khajiiti Cultures
+
+  ancient_anequina:0 "Ne Quin-al"
+  ancient_anequina_prefix:0 "Ne Quin-alian"
+  ancient_anequina_collective_noun:1 "Ne Quin-alians"
+  ancient_anequina_desc:0 "The Queen and Her Court come down the road\nThe Monarch of Ne-Quin-Al\nThe nomad clans who follow the herds\nThe people of Ne-Quin-Al"
+  ancient_anequina_opinion:0 "$ancient_anequina$ Opinion"
+
+  ancient_rimmen:0 "Rim'kha"
+  ancient_rimmen_prefix:0 "Rim'khan"
+  ancient_rimmen_collective_noun:1 "Rim'khans"
+  ancient_rimmen_desc:0 "The King and His Court come down the road\nThe haughty King of Rimmen\nThe motley traders of the Rim\nThe fractious folk of Rimmen"
+  ancient_rimmen_opinion:0 "$ancient_rimmen$ Opinion"
+
+  ancient_riverhold:0 "Rawla-Kei"
+  ancient_riverhold_prefix:0 "Rawla-Keian"
+  ancient_riverhold_collective_noun:1 "Rawla-Keians"
+  ancient_riverhold_desc:0 "The Queen and Her Court come down the road\nThe Queen of Riverhold\nThe doughty farmers of the north\nPlanters of Riverhold"
+  ancient_riverhold_opinion:0 "$ancient_riverhold$ Opinion"
+
+  ancient_dune:0 "Dunei"
+  ancient_dune_prefix:0 "Dunei"
+  ancient_dune_collective_noun:1 "Dun'ei"
+  ancient_dune_desc:0 "The King and His Court come down the road\nThe Moon-Bishop of Dune\nThe priests and scholars of the past\nThe dusty sages of Dune"
+  ancient_dune_opinion:0 "$ancient_dune$ Opinion"
+
+  ancient_orcrest:0 "Orchaji"
+  ancient_orcrest_prefix:0 "Orchaji"
+  ancient_orcrest_collective_noun:1 "Orchajis"
+  ancient_orcrest_desc:0 "The Queen and Her Court come down the road\nThe Sovereign of Orcrest\nThe desert cats of the baking sand\nThe windblown rogues of Orcrest"
+  ancient_orcrest_opinion:0 "$ancient_orcrest$ Opinion"
+
+  ancient_verkarth:0 "Var-Kathi" #To prevent confusion with the other Verkarth
+  ancient_verkarth_prefix:0 "Var-Kathi"
+  ancient_verkarth_collective_noun:1 "Var-Kathis"
+  ancient_verkarth_desc:0 "The King and His Court come down the road\nThe Warrior King of Verkath\nFierce wielders of the sword and bow\nThe swift-marching soldiers of Verkath" 
+  ancient_verkarth_opinion:0 "$ancient_verkarth$ Opinion"
+
+  ancient_meirvale:0 "Meirvalean"
+  ancient_meirvale_prefix:0 "Meirvalean"
+  ancient_meirvale_collective_noun:1 "Meirvaleans"
+  ancient_meirvale_desc:0 "The Queen and Her Court come down the road\nThe Rum-Potentate of Meirvale\nThe brewers and distillers bold\nThe joyous fermenters of Meirvale"
+  ancient_meirvale_opinion:0 "$ancient_meirvale$ Opinion"
+
+  ancient_helkarn:0 "Helkarni"
+  ancient_helkarn_prefix:0 "Helkarnian"
+  ancient_helkarn_collective_noun:1 "Helkarnians"
+  ancient_helkarn_desc:0 "The King and His Court come down the road\nThe Livestock Lord of Helkarn\nWary and sharp-eyed shepherd folk\nThe herding cats of Helkarn"
+  ancient_helkarn_opinion:0 "$ancient_helkarn$ Opinion"
+
+  ancient_alabaster:0 "Al'basti"
+  ancient_alabaster_prefix:0 "Al'bastian"
+  ancient_alabaster_collective_noun:1 "Al'bastians"
+  ancient_alabaster_desc:0 "The Queen and Her Court come down the road\nBard-Queen of Alabaster\nThe learned poets of the coast\nDramatists of Alabaster"
+  ancient_alabaster_opinion:0 "$ancient_alabaster$ Opinion"
+
+  ancient_brukreich:0 "Bruk'ran"
+  ancient_brukreich_prefix:0 "Bruk'ran"
+  ancient_brukreich_collective_noun:1 "Bruk'ranians"
+  ancient_brukreich_desc:0 "The King and His Court come down the road\nThe Merchant Prince of Bruk'ra\nThe river-traders sharp and savvy\nThe traffickers of Bruk'ra"
+  ancient_brukreich_opinion:0 "$ancient_brukreich$ Opinion"
+
+  ancient_corinthe:0 "Corinthean"
+  ancient_corinthe_prefix:0 "Corinthean"
+  ancient_corinthe_collective_noun:1 "Corintheans"
+  ancient_corinthe_desc:0 "The Queen and Her Court come down the road\nThe Carpenter Queen of Corinthe\nThe lumber cats of the upland woods\nThe carvers and joiners of Corinthe"
+  ancient_corinthe_opinion:0 "$ancient_corinthe$ Opinion"
+
+  ancient_pellitine:0 "Pa'alatīni"
+  ancient_pellitine_prefix:0 "Pa'alatīnian"
+  ancient_pellitine_collective_noun:1 "Pa'alatīnians"
+  ancient_pellitine_desc:0 "The King and His Court come down the road\nThe Pious Prince of Pa'alatiin\nThe arcane adepts of oracular oaths\nThe prayerful priests of Pa'alatiin"
+  ancient_pellitine_opinion:0 "$ancient_pellitine$ Opinion"
+
+  ancient_tenmar:0 "Tenmari"
+  ancient_tenmar_prefix:0 "Tenmarian"
+  ancient_tenmar_collective_noun:1 "Tenmarians"
+  ancient_tenmar_desc:0 "The Queen and Her Court come down the road\nThe Jungle Queen of Tenmar\nThe forest folk of leaf and branch\nTree-dwelling furstocks of Tenmar"
+  ancient_tenmar_opinion:0 "$ancient_tenmar$ Opinion"
+
+  ancient_torval:0 "Tor'vali"
+  ancient_torval_prefix:0 "Tor'valese"
+  ancient_torval_collective_noun:1 "Tor'valians"
+  ancient_torval_desc:0 "The King and His Court come down the road\nThe Sacred Mane of Torval\nServants of hirsute majesty\nThe loyal guards of Torval"
+  ancient_torval_opinion:0 "$ancient_torval$ Opinion"
+
+  ancient_khenarthia:0 "Khenarthi"
+  ancient_khenarthia_prefix:0 "Khenarthian"
+  ancient_khenarthia_collective_noun:1 "Khenarthians"
+  ancient_khenarthia_desc:0 "The Queen and Her Court come down the road\nThe Countess of Khenarthia\nSugar planters and fishing cats\nThe wind-kissed folk of Khenarthia"
+  ancient_khenarthia_opinion:0 "$ancient_khenarthia$ Opinion"
+
+  ancient_senchal:0 "Quin'rawli"
+  ancient_senchal_prefix:0 "Quin'rawlian"
+  ancient_senchal_collective_noun:1 "Quin'rawlians"
+  ancient_senchal_desc:0 "The King and His Court come down the road\nThe Harbor-Duke of Senchal\nSailors and stevedores of the ports\nThe nautical knaves of Senchal"
+  ancient_senchal_opinion:0 "$ancient_senchal$ Opinion"
+
+  #Argonian
+
+  #Tide-Born
+
+  izta_ahuak:0 "Izta-Ahuak"
+  izta_ahuak_prefix:0 "Izta-Ahuak"
+  izta_ahuak_collective_noun:0 "The Izta-Ahuak"
+  izta_ahuak_desc:0 "The Izta-Ahuak, or Tide-Born, are one of two Argonian cultural groups native to Solstice, primarily settled along the island’s western coasts. Arriving long before the Duskfall, they developed independently of the Hist and instead venerate another deity which they refer to as 'the Tides'."
+  izta_ahuak_opinion:0 "$izta_ahuak$ Opinion"
+
+
+  #Stone-Nest
+
+  stone_nest:0 "Stone-Nest"
+  stone_nest_prefix:0 "Stone-Nest"
+  stone_nest_collective_noun:0 "The Stone-Nest"
+  stone_nest_desc:0 "The Stone-Nest are an isolated Argonian cultural group native to eastern Solstice. Unlike their mainland counterparts, they developed independently of the Hist and instead practice a form of animistic stone veneration, viewing stone as a vessel of memory and continuity.\n\nIn cultural practice, their reverence is most clearly expressed through worked stone. Xanmeers serve as their principal religious and funerary structures, and numerous sculpted statues across eastern Solstice attest to a long-standing stone-shaping tradition."
+  stone_nest_opinion:0 "$stone_nest$ Opinion"

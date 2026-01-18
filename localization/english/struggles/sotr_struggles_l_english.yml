@@ -1,0 +1,16 @@
+﻿l_english:
+
+ ayleid_struggle:0 "Narfinsel Schism"
+ ayleid_struggle_desc:1 "$game_concept_iberian_struggle$"
+ struggle_ayleid_phase_opportunity:0 "Opportunity"
+ struggle_ayleid_phase_opportunity_desc:0 "$game_concept_struggle_phase_ayleid_opportunity_desc$"
+ struggle_ayleid_phase_hostility:0 "Hostility"
+ struggle_ayleid_phase_hostility_desc:0 "$game_concept_struggle_phase_ayleid_hostility_desc$"
+ #struggle_iberia_phase_tension:0 "Tension"
+ struggle_ayleid_phase_compromise:0 "Compromise"
+ struggle_ayleid_phase_compromise_desc:0 "$game_concept_struggle_phase_ayleid_compromise_desc$"
+ struggle_ayleid_phase_conciliation:0 "Conciliation"
+ struggle_ayleid_phase_conciliation_desc:0 "$game_concept_struggle_phase_ayleid_conciliation_desc$"
+
+
+ struggle_parameter_unlocks_secure_saliache_foothold_decision:1 "Unlocks the [secure_saliache_foothold_decision|E] [decision|E]"

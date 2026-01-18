@@ -1,0 +1,16 @@
+﻿l_english:
+ ### Triggers
+  #Stone-Nest Religion
+  argonian_or_stone_pantheon:0 "Holder [faith|E] must have the [GetFaithDoctrine('doctrine_pantheon_stones').GetBaseName] [pantheon|E] or be of $heritage_argonian_name$ [heritage|E]"
+ autocratic_or_sithis_or_stone:0 "Holder [faith|E] must have either the [GetFaithDoctrine('doctrine_pantheon_sithis').GetBaseName], [GetFaithDoctrine('doctrine_pantheon_stones').GetBaseName] or the holder must be of a non-[tribal_government|E]."
+ is_argonian_or_stone:0 "Holder [faith|E] must have the [GetFaithDoctrine('doctrine_pantheon_stones').GetBaseName] [pantheon|E] or be of $heritage_argonian_name$ [heritage|E]"
+
+  #Tide Religion
+  argonian_or_tide_pantheon:0 "Holder [faith|E] must have the [GetFaithDoctrine('doctrine_pantheon_sea').GetBaseName] [pantheon|E] or be of $heritage_argonian_name$ [heritage|E]"
+
+ autocratic_or_sithis_or_sea:0 "Holder [faith|E] must have either the [GetFaithDoctrine('doctrine_pantheon_sithis').GetBaseName], [GetFaithDoctrine('doctrine_pantheon_sea').GetBaseName] or the holder must be of a non-[tribal_government|E]."
+ is_argonian_or_sea:0 "Holder [faith|E] must have the [GetFaithDoctrine('doctrine_pantheon_sea').GetBaseName] [pantheon|E] or be of $heritage_argonian_name$ [heritage|E]"
+
+ is_argonian_or_stone_or_sea:0 "Holder [faith|E] must have to be of $heritage_argonian_name$ [heritage|E], and your faith needs to have either [GetFaithDoctrine('doctrine_pantheon_stones').GetBaseName] or [GetFaithDoctrine('doctrine_pantheon_sea').GetBaseName] [pantheon|E]"
+
+ is_argonian_or_stone_or_sea_or_sithis:0 "Holder [faith|E] must have to be of $heritage_argonian_name$ [heritage|E], and your faith needs to have either [GetFaithDoctrine('doctrine_pantheon_stones').GetBaseName], [GetFaithDoctrine('doctrine_pantheon_sea').GetBaseName], or [GetFaithDoctrine('doctrine_pantheon_sithis').GetBaseName] [pantheon|E]"

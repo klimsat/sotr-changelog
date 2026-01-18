@@ -1,0 +1,28 @@
+﻿l_english:
+
+ ## Orc ##
+
+  nick_the_chief_of_chiefs:0 "the Chief of Chiefs"
+  nick_the_chief_of_chiefs_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [CharHaveHas(CHARACTER)] stands above all others as the true Chief of Chiefs. His very name evokes fear even long after [CharYouSheHe(CHARACTER)]'s in the grave."
+
+  nick_the_elder_jochi:0 "the Elder"
+  nick_the_elder_jochi_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] is the eldest born son of the Great Chief Ghazgûl."
+
+  nick_the_powerful_batu:0 "the Powerful"
+  nick_the_powerful_batu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [CharHaveHas(CHARACTER)] shone with unmatched power and glory, a chief both mighty and magnificent, remembered forever as the Powerful."
+
+  nick_the_mighty_chief:0 "the Mighty Chief"
+  nick_the_mighty_chief_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] stood unshaken, strong in body and keen in mind, feared in battle and revered for his wisdom as the Mighty Chief."
+
+  nick_the_goldskin_gura:0 "the Goldskin"
+  nick_the_goldskin_gura_desc:1 "The moniker was first given as a mockery to Gura, a desert orc whose skin bore such a yellowish tint like that of a scrawny high elf. For years, the nickname was used to taunt him— a constant reminder of his difference and the shame it carried.\n\nBut slowly, Gura’s patience burned away. In defiance, he painted his skin in pitch black, neverminding the heat, much to the respect of his peers. \n\nHis descendants as well as their subjects would then followed in his example, and the clan’s warriors became well known for their daring yet menacing painted bodies."
+
+
+  nick_the_scourge_of_the_deathlands:0 "the Scourge of the Deathlands"
+  nick_the_scourge_of_the_deathlands_desc:1 "[CharYouSheHe(CHARACTER)|U] rises from the scorched sands of the Deathlands—a fearsome warrior whose presence unleashes torrents of blood and carnage. Renowned across the sands as a ruthless warmonger, [CharYouSheHe(CHARACTER)] commands a horde of restless orcs, united through [CharYourHerHis(CHARACTER)] sheer will and bloody might. \n\nIn the burning heart of the desert, [CharYouSheHe(CHARACTER)] embraced the relentless fury and unforgiving spirit of the Deathlands."
+
+  nick_the_black_death:0 "the Black Death"
+  nick_the_black_death_desc:1 "Warriors whisper that [CHARACTER.GetShortUINameNoTooltipNoFormat] cannot be fought, only endured, for death lingers wherever [CharYouSheHe(CHARACTER)] walks."  
+
+  nick_the_white_maul:0 "the White Maul"
+  nick_the_white_maul_desc:1 "With zeal burning in [CharYourHerHis(CHARACTER)] heart, [CHARACTER.GetShortUINameNoTooltipNoFormat] serves Malacath with unyielding devotion. In [CharYourHerHis(CHARACTER)] hands, the maul becomes the holy weight of judgment, crushing all who dare stray from the path of the God of Curses. \n\nWarriors speak in dread of the White Maul, a zealot whose blows are not merely strikes of war, but the punishment of faith itself."

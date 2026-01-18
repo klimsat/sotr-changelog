@@ -1,0 +1,69 @@
+﻿l_english:
+
+ #############################################
+
+ #From Vanilla - Change in case the titles are not Lore accurate
+  # hlaalu_grandmaster_male:0 "Grandmaster"
+  # hlaalu_grandmaster_female:0 "Grandmistress"
+  # redoran_archmaster_male:0 "Archmaster"
+  # redoran_archmaster_female:0 "Archmistress"
+  # telvanni_archmagister_male:0 "Archmagister"
+  # telvanni_archmagister_female:0 "Archmagister"
+  # indoril_grand_ascendant_male:0 "Grand Ascendant"
+  # indoril_grand_ascendant_female:0 "Grand Ascendant"
+  # dres_grand_magnate_male:0 "Grand Magnate"
+  # dres_grand_magnate_female:0 "Grand Magnate"
+  #
+  # vassal_council_male:0 "Councilman"
+  # vassal_council_female:0 "Councilwoman"
+  #
+  # great_house_indoril_male:0 "[CHARACTER.Custom('IndorilMaster')]"
+  # great_house_indoril_female:0 "[CHARACTER.Custom('IndorilMaster')]"
+  # great_house_dres_male:0 "[CHARACTER.Custom('DresMaster')]"
+  # great_house_dres_female:0 "[CHARACTER.Custom('DresMaster')]"
+  # great_house_redoran_male:0 "[CHARACTER.Custom('RedoranMaster')]"
+  # great_house_redoran_female:0 "[CHARACTER.Custom('RedoranMaster')]"
+  # great_house_telvanni_male:0 "[CHARACTER.Custom('TelvanniMaster')]"
+  # great_house_telvanni_female:0 "[CHARACTER.Custom('TelvanniMaster')]"
+  # great_house_dagoth_male:0 "[CHARACTER.Custom('DagothMaster')]"
+  # great_house_dagoth_female:0 "[CHARACTER.Custom('DagothMaster')]"
+  # great_house_hlaalu_male:0 "[CHARACTER.Custom('HlaaluMaster')]"
+  # great_house_hlaalu_female:0 "[CHARACTER.Custom('HlaaluMaster')]"
+  #
+  # great_house_vassal_male:0 "[CHARACTER.Custom('VassalMaster')]"
+  # great_house_vassal_female:0 "[CHARACTER.Custom('VassalMaster')]"
+
+ #Added by Hbxn
+ sotha_lord_male:0 "Lord"
+ sotha_lord_female:0 "Lady"
+ salothan_lord_male:0 "Ashlord"
+ salothan_lord_female:0 "Ashlady"
+
+ #Sotha
+ great_house_sotha_male:0 "[CHARACTER.Custom('SothaMaster')]"
+ great_house_sotha_female:0 "[CHARACTER.Custom('SothaMaster')]"
+ #Salothan
+ great_house_salothan_male:0 "[CHARACTER.Custom('SalothanMaster')]"
+ great_house_salothan_female:0 "[CHARACTER.Custom('SalothanMaster')]"
+
+ #Ancient Houses
+ ancient_house_master_male:0 "[CHARACTER.Custom('ChimerMaster')]"
+ ancient_house_master_female:0 "[CHARACTER.Custom('ChimerMaster')]"
+ ancient_house_lord_male:0 "[CHARACTER.Custom('ChimerLord')]"
+ ancient_house_lord_female:0 "[CHARACTER.Custom('ChimerLord')]"
+ ancient_house_magister_male:0 "[CHARACTER.Custom('ChimerMagister')]"
+ ancient_house_magister_female:0 "[CHARACTER.Custom('ChimerMagister')]"
+
+ ancient_house_vassal_male:0 "[CHARACTER.Custom('ChimerDuke')]"
+ ancient_house_vassal_female:0 "[CHARACTER.Custom('ChimerDuke')]"
+
+ #Loc
+ chimer_master_male:0 "Master"
+ chimer_master_female:0 "Mistress"
+ chimer_lord_male:0 "Lord"
+ chimer_lord_female:0 "Lady"
+ chimer_magister_male:0 "Magister"
+ chimer_magister_female:0 "Magister"
+
+ chimer_duke_male:0 "Duke"
+ chimer_duke_female:0 "Duchess"

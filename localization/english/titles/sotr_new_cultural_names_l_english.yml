@@ -1,0 +1,299 @@
+﻿l_english:
+
+
+  #################
+  ### High Rock ###
+  #################
+  cn_wrothkr:0 "Gor-Muluk" #c_old_orsinium
+  cn_pandrum:0 "Pandrum" #cn_morkul
+  cn_morr:0 "Morr" #b_mor_igrun
+  cn_dergkeep:0 "Dergkeep" #b_gortwog
+  cn_crescent_hill:0 "Crescent Hill" #c_pariah_abbey
+  cn_dolken:0 "Dolken" #k_daggerfall
+  cn_dolkenkeep:0 "Dolkenkeep" #b_daggerfall_castle
+  cn_invisible_college:0 "Invisible College" #b_invisible_college_daggerfall
+  cn_seaveil_spire:0 "Seaveil Spire" #d_betony
+  cn_lion_den:0 "Lion's Den" #k_camlorn
+  cn_lionkeep:0 "Lionkeep" #b_camlorn_castle
+  cn_sharnhelm:0 "Sharnhelm" #k_shornhelm
+  cn_sharnhalm_keep:0 "Sharnhalm Keep" #b_shornhelm_castle
+  cn_crag_of_pestilence:0 "Crag of Pestilence" #c_cumberland
+  cn_bloody_scarp:0 "Bloody Scarp" #b_shinji_scarp
+  cn_sharnhelm_keep:0 "Sharnhelm Keep" #b_shornhelm_castle
+  cn_forgotten_home:0 "Forgotten Isle" #c_grayhome
+  cn_forgotten_keep:0 "Forgotten Keep" #b_grayhome
+
+  ##################
+  ### Hammerfell ###
+  ##################
+  ##Ayleid
+  cn_salas_en:0 "Salas En" 
+  cn_hilya_nen:0 "Hilya Nen" #c_roseguard
+  #cn_khefrem:0 "Khefrem" #c_abah_landing
+  cn_khefrem_palace:0 "Khefrem" #b_hubalajad_palace
+  cn_khefrem_reflection:0 "Khefrem's Reflection" #b_hubalajad_reflection
+  cn_neck_gate:0 "Neck's Gate" #c_prince_gate
+  cn_gloom:0 "Gloom" #b_bahraha_gloom
+  cn_kal:0 "Kal" #b_kal_alikr
+  cn_goblinhorn:0 "Goblin's Horn" #b_dragonhorn
+  cn_goblin_teeth:0 "Goblin's Teeth" #b_dragon_teeth
+  cn_ironland:0 "Ironland" #d_sentinel
+  cn_ironcoast:0 "Ironcoast" #c_sentinel
+  cn_silent_city:0 "Silent City" #b_silent_magnifico
+  cn_quay:0 "Quay" #b_totambu_quay
+  cn_mara_bounty:0 "Mara's Bounty" #b_morwha_bounty
+  cn_dune_of_death:0 "Dune of Death" #c_volenfell
+  cn_death_watch:0 "Deathwatch" #c_hoonding_watch
+  cn_death_spine:0 "Death Spine" #b_sep_spine
+  cn_kin_blessing:0 "Kin's Blessing" #c_lainlyn
+  cn_malakh_blessing:0 "Malakh's Blessing" #c_lainlyn
+  cn_blue_bay:0 "Blue Bay" #c_satakalaam
+  cn_coralkeep:0 "Coralkeep" #c_satakalaam
+  cn_springtide:0 "Springtide" #c_totambu
+  cn_star_blade:0 "Star Blade" #b_leki_blade
+  cn_star_throne:0 "Star Throne" #b_tuwhacca_throne
+  cn_star_mine:0 "Star Mine" #b_divad_mine
+  cn_skyhold_east:0 "Skyhold East" #b_dragonstar_east
+  cn_new_upper_craglorn:0 "New Upper Craglorn" #b_dragonstar_east
+  cn_skywing:0 "Skywing" #b_dragonwing
+  cn_skyfields:0 "Skyfields" #b_dragonfields
+  cn_skygate:0 "Skygate" #b_dragongate
+  cn_skywall:0 "Skywall" #b_dragonwall
+  cn_windscar:0 "Windscar" #c_lankara
+  cn_crucible:0 "Crucible" #b_ankara_crucible
+  cn_warwyrd:0 "Warwyrd" #d_hel_ra
+  cn_mettle:0 "Mettle" #b_ankara_mettle
+  cn_vigil:0 "Vigil" #b_ankara_vigil
+  cn_durac:0 "Durac" #b_na_totambu
+  cn_ko_lad:0 "Ko Lad" #b_diagnad
+  cn_varlaisvea:0 "Varlaisvea" #k_rihad
+  cn_seasong:0 "Seasong" #c_swordsong
+  cn_alkha:0 "Alkha" #b_ruptaga
+  cn_imar:0 "Imar" #d_ojwambu
+  cn_sun_keep:0 "Sunkeep" #b_hallin_keep
+  cn_sun_oasis:0 "Sun Oasis" #b_ashabahs_oasis
+  cn_sunstar:0 "Sunstar" #c_onsi
+  cn_seastar:0 "Seastar" #d_no_shira
+  cn_starport:0 "Star Port" #b_hew_port
+  cn_star_works:0 "Star Works" #b_shira_works
+  cn_kynarthes:0 "Kynarthes" #b_tava_beak
+  cn_shutter:0 "Shutter" #b_hew_shutter
+  cn_junction:0 "Junction" #b_forebear_junction
+  cn_jarrin:0 "Jarrin" #d_stros_mkai
+  cn_jarrinkeep:0 "Jarrinkeep" #b_hunding_palace
+  cn_port_jarrin:0 "Port Jarrin" #b_port_hunding
+  cn_bthzark:0 "Bthzark" #c_saintsport
+  cn_malacath_bounty:0 "Malacath Bounty" #b_morwha_bounty
+  cn_orkha:0 "Orkha" #b_ruptaga
+  cn_sunrock:0 "Sunrock" #d_ojwambu
+  cn_malacath_teeth:0 "Malacath's Teeth" #b_tava_beak
+  cn_banthan:0 "Banthan" #c_ragad
+  cn_fennekar:0 "Fennek’kar" #k_gilane
+
+  ##############
+  ### Skyrim ###
+  ##############
+  #Ancient Atmoran (Merethic)
+  cn_baldkeep:0 "Baldkeep" #c_kastav
+  cn_stormfall:0 "Stormfall" #b_ysgramor_crypt
+  cn_rockjoint_isles:0 "Rockjoint Island" #c_japhet_folly
+  cn_hjaalmarsh:0 "Hjaalmarsh" #d_morthal
+  cn_hjaalmarsh_barrows:0 "Hjaalmarsh Barows" #b_morthal_barrows
+  cn_stand_merethic:0 "the Stand" #b_jorrun_stand
+  cn_volkihar_merethic:0 "Vol" #d_volkihar
+  cn_jeekshall:0 "Jeekshall" #b_dragonsreach
+  cn_yustkeep:0 "Yustkeep" #b_pelagia
+  cn_graystone:0 "Graystone" #b_sai_ritual
+  cn_greykeep:0 "Greykeep" #b_redoran_retreat
+  cn_girthland:0 "Girthland" #d_rorikstead
+  cn_frosthut:0 "Frosthut" #b_mzinchaleft
+  cn_blizzardkeep:0 "Blizzardkeep" #b_loreius
+  cn_svelga:0 "Svelga" #b_irkngthand
+  cn_wuhlgrim:0 "Wuhlgrim" #b_raldbthar
+  cn_fallowstone:0 "Fallowstone" #c_blackbriar
+  cn_fallowkeep:0 "Fallowkeep" #b_blackbriar
+  cn_stuhns_beacon:0 "Stuhn's Beacon" #b_stendarr_beacon
+  cn_volskygge:0 "Volskygge" #c_deepwood
+  cn_forelhost:0 "Forelhost" #c_smokefrost
+  cn_highstone:0 "Highstone" #b_mzark
+  cn_skuldafn:0 "Skuldafn" #c_bitterblade
+
+
+  #Man of Karth
+  cn_wolf_arch:0 "Wolf's Arch" #c_solitude
+  cn_dun_faoilinne:0 "Dún Faolinne" #b_dour
+  cn_wolfs_den:0 "Wolf's Den" #b_blue_palace
+  cn_divine_temple:0 "Divine Temple" #b_solitude_temple
+  cn_karthtooth:0 "Karthtooth" #c_dragontooth
+  cn_howling_arch:0 "Howling Arch" #c_solitude
+  cn_bards_college_kreath:0 "Temple of Songs" #b_bard_college
+
+  #Man of Kreath
+  cn_kreath:0 "Kreath" #k_falkreath
+  cn_forestkeep:0 "Forestkeep" #b_hakkvildheim
+  cn_kreath_watch:0 "Kreath Watch" #b_hakkvildheim
+
+  #Rontha 
+  cn_darkwater:0 "Darkwater" #c_snowshod
+  cn_dayspring:0 "Dayspring" #b_dawnguard
+
+  #Dwemer
+  cn_alftand:0 "Alfthand" #d_anthor
+  cn_arkngthamz:0 "Arkngthamz" #c_rockwatch
+  #cn_avanchnzel:0 "Avanchnzel" #c_honrich
+  cn_bthardamz:0 "Bthardamz" #c_luspardain
+  #cn_mzinchaleft:0 "Mzinchaleft" #c_frostmere
+  cn_kagrenzel:0 "Kagrenzel" #d_ansilvund
+  #cn_mzulft:0 "Mzulft" #c_bitterblade
+  cn_mzark:0 "Mzark" #c_stonechill
+  #cn_nchardak:0 "Nchardak" #b_snowfallow
+  cn_nchuand_zel:0 "Nchuand-Zel" #c_markarth
+
+  #Falmer
+  cn_cold_perch:0 "Cold Perch" #b_kyne_perch
+  cn_xen_beacon:0 "Xen's Beacons" #b_stendarr_beacon
+  cn_frosthome:0 "Frosthome" #b_dragonhome
+  cn_geirfalas:0 "Gëirfalas" #c_ivarstead
+  cn_hawkmoon:0 "Hawkmoon" #c_valthume
+  cn_laurenore:0 "Laureanorë" #c_rorikstead - Laureanorë (Laurea = golden, nórë = land)
+
+  ################
+  ### Cyrodiil ###
+  ################
+  #Ayleid
+  cn_arpenia:0 "Arpenia"
+  cn_arpenia_adj:0 "Arpenia"
+  cn_lindai:0 "Lindai"
+  cn_lindai_adj:0 "Lindai"
+  cn_temple_molag_bal:0 "Temple of Molag Bal"
+  cn_temple_molag_bal_adj:0 "Temple of Molag Bal"
+  cn_artalasel:0 "Artalasel"
+  cn_essondul:0 "Essondul" #c_strident_springs
+  cn_light_priory:0 "Light" #b_julianos_priory
+  cn_light_chapel:0 "Light" #b_julianos_chapel 
+  cn_sercem:0 "Sercem" #c_drakelowe
+  cn_varle:0 "Varle" #b_drakelowe
+  cn_aynorriad:0 "Aynorriad" #b_alessiad
+  cn_alesar:0 "Alesar" #c_alessia
+  cn_viles_gate:0 "Vile's Gate" #c_pell_gate
+  cn_malatta:0 "Malatta" #b_jarol
+  cn_noldinhal:0 "Noldinhal" #c_cephoriad
+  cn_vereda:0 "Vereda" #c_drakewatch
+  cn_scaeva:0 "Scaeva" #c_cropsford
+  cn_winter_pass:0 "Winter's Pass" #c_ysmir_pass
+  cn_winter_claw:0 "Winter's Claw" #c_dragonclaw
+  cn_xen_chapel:0 "Xen" #b_stendarr_chapel
+  cn_journey_gate:0 "Journey Gate" #b_arkaygate
+  cn_xarxes_cathedral:0 "Xarxes" #b_arkay_cathedral
+  cn_knowledge_chapel:0 "Knowledge" #b_kynareth_chapel
+  cn_auriel_chapel:0 "Auri-El" #b_akatosh_chapel
+  cn_silver_grove:0 "Silver Grove" #b_moon_hunter
+  cn_green_grove:0 "Green Grove" #b_moon_hunter
+  cn_teynenhal:0 "Teynenhal" #c_bloodcrust
+  cn_flower_grove:0 "Flower Grove" #b_kynareth_grove
+  cn_dena_tor:0 "Dena Tor" #c_juliek
+  cn_galaspen:0 "Galaspen" #c_shardrock
+
+  #Goblin
+  cn_gold_road:0 "Gold Road" #c_atrene
+
+  #################
+  ### Summerset ###
+  #################
+
+  # Nothing i guess....
+
+  #################
+  ### Morrowind ###
+  #################
+
+  #Chimer
+  cn_ashmelech:0 "Ashmelech"
+  cn_ashmelech_adj:0 "Ashmelech"
+  cn_malacras:0 "Malacras"
+  cn_malacras_adj:0 "Malacras"
+  cn_crater:0 "Mortis Crater" #b_seht_crater
+  cn_mortis:0 "Mortis" #c_sotha_sil
+  cn_almara:0 "Almara" #c_almalexia
+  cn_boethiah_temple:0 "Boethiah Temple" #b_tribunal_temple
+  cn_boethiah_plaza:0 "Boethiah Plaza" #b_alma_plaza
+  cn_antlers:0 "Antlers" #c_vivec_antlers
+  cn_fyrewatch:0 "Fyrewatch" #k_firewatch
+  cn_fyre:0 "Fyre" #b_fire
+
+  #Dwemeris
+
+  #cn_bamz_amschend:0 "Bamz-Amschend" #c_mournhold
+  cn_bthanual:0 "Bthanual" #c_muth_gnaar
+  cn_mzithumz:0 "Mzithumz" #c_berezan
+  cn_ardkoz:0 "Ardkoz" #c_mansurabi
+  #cn_nchardumz:0 "Nchardumz" #c_almurbalarammi
+  #cn_chunzefk:0 "Chunzefk" #c_ildrim
+  #cn_arkgnthleft:0 "Arkgnthleft" #c_nehtril
+  cn_arktngn:0 "Arktngn" #c_evos
+  cn_bazthum:0 "Bazthum" #c_oethadapilu
+  #cn_durthungz:0 "Durthungz" #c_virith
+  #cn_mzingthlegfth:0 "Mzingthlegfth" #c_ahhesa
+  #cn_bthangthamuazand:0 "Bthangthamuazand" #c_adurin
+  cn_armthuandz:0 "Armthuandz" #c_asnadan
+  #cn_mzankh:0 "Mzankh" #c_helnim
+  #cn_kvazmunducharz:0 "Kvazmunducharz" #c_yenidan
+  #cn_nchazdrumn:0 "Nchazdrumn" #c_bulor
+  cn_bthundzcheft:0 "Bthundzcheft" #c_shevik
+  cn_yashazmus:0 "Yashazmus" #c_thilarvel
+  #cn_mzuleft:0 "Mzuleft" #c_dagon_fel
+  #cn_nchuleft:0 "Nchuleft" #c_venim
+  #cn_nchurdamz:0 "Nchurdamz" #c_odirniran
+  #cn_arkngthand:0 "Arkngthand" #d_marandus
+  cn_tonal_architect:0 "Tonal Architecture" #c_assarnatamat
+  #cn_bthanchend:0 "Bthanchend" #c_bal_isra
+  #cn_bthungthumz:0 "Bthungthumz" #c_falasmaryon
+  cn_bthulzand:0 "Bthulzand" #c_bosorn
+  #cn_arkngthunch_strdumz:0 "Arkngthunch-Strdumz" #c_ald_velothi
+  cn_arkngthunch_vtharden:0 "Arkngthunch-Vtharden" #b_ald_velothi
+  cn_aurmadzi:0 "Aurmadzi" #c_meralag
+
+  #################
+  ### Valenwood ###
+  #################
+
+  cn_mafrebal:0 "Mafrebal" #c_mathmed
+  cn_ceynabal:0 "Ceynabal" #b_ceynasel
+  cn_hecul:0 "Hecul" #c_twylhecul
+  cn_harrowbone:0 "Harrowbone" #b_dokrin_monastery
+  cn_maw_of_bones:0 "Maw of Bones" #b_maw_of_lorkhaj
+  cn_bluff:0 "Bluff" #b_reman_bluff
+
+
+  ###############
+  ### Elsweyr ###
+  ###############
+  #Khajiit
+  cn_shapsu_retreat:0 "Shapsu's Retreat" #c_potentate_retreat
+  cn_rimmenese:0 "Rimmenese" #d_rim_valley
+
+  #Giant
+  cn_giants_retreat:0 "Giant's Retreat" #b_halls_of_colossus
+
+  ###################
+  ### Black Marsh ###
+  ###################
+  cn_shadowfen:0 "Shadowfen" #c_loriasel
+  cn_murky_rose:0 "Murky Rose" #c_blackrose_prison (Was built in the 2nd Era)
+  cn_serpents_creek:0 "Serpent's Creek" #c_shaie_creek
+
+  #Solstice
+  cn_oztet_ta:0 "Oztet-Ta" #k_solstice
+  cn_tuniria:0 "Tuniria" #b_haj_tuxith
+  cn_broken_light:0 "Broken Light" #b_haj_merdia
+  cn_meja_batu:0 "Meja-batu" #b_mor_naril
+  cn_meja_baru:0 "Meja-baru" #b_mor_naril_gate
+  cn_shors_stand:0 "Shor's Stand" #b_
+  cn_sunport:0 "Sunport" #d_tluthik_tzel
+  cn_sunport_docks:0 "Sunport Docks" #b_acaltecoyan
+
+  ##################
+  ### Systres ###
+  ##################
+
+  cn_vastyr:0 "Vastyr" #c_galen (Galen's left High Rock in 1E)

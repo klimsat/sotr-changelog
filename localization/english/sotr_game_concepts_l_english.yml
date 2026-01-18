@@ -1,0 +1,99 @@
+﻿l_english:
+ ####################################
+ ###### Atmoran ######
+ ####################################
+
+ game_concept_oath_of_the_companions:0 "Oath of the Companions"
+ game_concept_oath_of_the_companions_desc:0 "The Oath of the Companions was a sacred promise made by Ysgramor and those who seek to follow him in his very first conquest. With Torcs of Atmoran steel, forged in fire and under the gaze of the totem gods —they make their sacred vow:\n\n#color_blue_gray #bold "By blood and steel, we swear this solemn oath— \n\nWe shall fight until our last breath—\n\nTo avenge our people slain during the Night of Tears—\n\nTo honor the fallen by securing our children’s life and prosperity in the newfound lands." #!#!"
+
+ ####################################
+ ###### Dwemer ######
+ ####################################
+ 
+ game_concept_ultimate_tome:0 "Ultimate Tomes"
+ game_concept_ultimate_tome_desc:0 "Among all the jewels and treasures coveted by the Dwemer, none hold greater reverence than the Ultimate Tomes. These massive volumes of Books are the ultimate repositories of invaluable knowledge—each one a culmination of generations of study, experimentation, and verified thesis within a field of study. \n\nEvery sentence inscribed within them has been researched, tested, peer-reviewed, and etched through countless lifetimes of collective intellect.\n\nDwemer clans have waged wars over the loss of a single page—willing to sacrifice lives to protect or possess even the smallest fragment.\n\nEach tome is safeguarded beyond all measure, often hidden within high security vaults, sealed by riddles and tones only known to the highest minds of a clan. The Ultimate Tomes are the crowning fruits of the Dwemers eternal pursuit of truth and understanding."
+
+ game_concept_mirage_cubes:0 "Mirage Cube"
+ game_concept_mirage_cubes_desc:0 "The Mirage Cubes are mysterious shimmering cube constructs kept the great Dwemeri Clans of Dwemereth. Each face of the cube pulses with breathtaking imageries and strange cosmic anomalies throughout the Universe—  glimpses of things that no naked eyes were ever meant to perceive.\n\nThe secrets of their creation or what they reflect are guarded fiercely by the Dwemer clans that possess them, passed down secretly to their members. To each clan, a Mirage Cube is more than an heirloom—it is a source of their identity, pride, and knowledge. It embodies the Dwemer's unyielding curiosity and relentless pursuit of the unknowable."
+
+ ####################################
+ ###### Falmer ######
+ ####################################
+
+ game_concept_royal_paragon:0 "Royal Paragon"
+ game_concept_royal_paragon_desc:0 "The Royal Paragon is a rare oval gemstone of immense beauty and the most treasured heirloom of the Snow Elven nobility. The precious ovals are entwined with delicate tendrils of the finest Snow Elven jewelry and gemstones, showcasing their sublime craftsmanship.\n\nThe Royal Paragons are hallowed as both prized heirlooms of the Falmeri rulers and master-keys to secret gateways and esoteric vaults. Yet beyond their practical utility, Royal Paragons embody the very soul of Falmeri nobility. Passed down through generations of the Highborn Dynasty, their possession signifies the grand legacy of Auri-El’s bloodline."
+
+
+ ####################################
+ ###### Dragon Priesthood ###### (WIP)
+ ####################################
+
+  game_concept_dragon_priesthood:0 "Dragon Priesthood"
+  game_concept_dragon_priesthood_i: "@government_type_dragon_priesthood!"
+  game_concept_dragon_priesthood_government:0 "Dragon Priesthood Government"
+  game_concept_dragon_priesthood_desc:0 "Dragon Priesthood Government is a [government_form|E] in which the amount of [levies|E] and [taxes|E] given to a [liege|E] by their [vassals|E] is determined by the [aptitude|E] of said Liege's [tax_collector|E]. It is only used by rulers with the [GetTrait('dragon_priest').GetName( GetNullCharacter )] [trait|E]."
+
+ ####################################
+ ###### Vampire Transformation ######
+ ####################################
+ 
+ game_concept_vampire_transformation:0 "Vampire Transformation"
+ game_concept_vampire_transformation_desc:0 "A character may acquire the #V [GetTrait('vampire_lord_trait').GetName( GetNullCharacter )], [GetTrait('vampire_blood_scion_trait').GetName( GetNullCharacter )], or [GetTrait('vampire_higher_vampire_trait').GetName( GetNullCharacter )] [trait|E] by requesting it from an existing vampire already who possesses them. This process requires travel and personal risk, as not all who seek the gift are deemed worthy.\n\nUpon successfully obtaining the trait, the character may change their form through the [decision|E] menu."
+
+
+ ####################################
+ ###### Werewolf Transformation ######
+ ####################################
+ 
+ game_concept_werewolf_transformation:0 "Werewolf Transformation"
+ game_concept_werewolf_transformation_desc:0 "A character who posses the [GetTrait('lycan_character').GetName( GetNullCharacter )] [trait|E] may change their form through the [decision|E] menu.\n\nPlayers may also transform into a [GetTrait('werewolf_lord_trait').GetName( GetNullCharacter )] by requesting it from those who already possess that [trait|E]."
+
+ ####################################
+ ###### MAA ######
+ ####################################
+
+ game_concept_creature:0 "Creatures"
+ game_concept_creatures:0 "Creatures"
+ game_concept_creatures_desc:0 "Creatures are special [men_at_arms|E], that may be recruited by obtaining certain [traits|E] or becoming the Champion of the Daedra princes. Some of Tamriel's races have access to creatures recruitment initially.\n\nEach kind of Creature is unique, so they all counter different regiments, and are in turn countered by other [creatures|E]."
+ creatures_damage_mult: "[Creatures|E] [damage|E]"
+ creatures_toughness_mult: "[Creatures|E] [toughness|E]"
+
+ game_concept_undead:0 "Undead"
+ game_concept_undead_desc:0 "Undead are special [men_at_arms|E], like vampires and beings whose souls linger after death, like corpses, skeletons, or spirits, they are usually very powerful but vulnerable to silver."
+ undead_damage_mult: "[Undead|E] [damage|E]"
+ undead_toughness_mult: "[Undead|E] [toughness|E]"
+
+ ####################################
+ ###### Struggles ######
+ ####################################
+
+ game_concept_ayleid_struggle:1 "Narfinsel Schism"
+ game_concept_ayleid_struggle_desc:2 "The $game_concept_ayleid_struggle$ depicts the centuries conflict held between the Aedra and Daedra-worshipping Ayleids of Cyrodiil. The [struggle|E] shifts between [struggle_phase_phases|E] of hate-fueled violence, wary truces, and pragmatic cooperation. There are few permanent allies in such a situation, and [rulers|E] should be wary of relying purely on a shared [faith|E] or [culture|E].."
+
+
+ game_concept_struggle_phase_ayleid_opportunity:1 "Opportunity Phase"
+ game_concept_struggle_phase_ayleid_opportunity_desc:2 "After a long period of relatively peaceful coexistence during the [struggle_phase_ayleid_conciliation|E], complacency begins to set in. Peasantry and nobility alike are comfortable that things just #EMP work#!, allowing more shrewd [characters|E] to take advantage of their naivety.\n\nEventually, fresh abuses will either cause an escalation into the [struggle_phase_ayleid_hostility|E], or else savvy politicking reaches an uneasy equilibrium through the [struggle_phase_ayleid_conciliation|E]."
+
+ game_concept_struggle_phase_ayleid_hostility:1 "Hostility Phase"
+ game_concept_struggle_phase_ayleid_hostility_desc:2 "Tensions flare and tempers fray in this $game_concept_struggle_phase_phase$. Repeated acts of malice and escalated misunderstandings during the [struggle_phase_ayleid_opportunity|E] have lead to rising hatred of [characters|E] with differing [cultures|E], [faiths|E], or #EMP worse#!: both.\n\nSuch bloodshed cannot persist forever, though. Eventually, either cooler heads or simple exhaustion bring the peninsula to the [struggle_phase_ayleid_compromise|E]."
+
+ game_concept_struggle_phase_ayleid_compromise:1 "Compromise Phase"
+ game_concept_struggle_phase_ayleid_compromise_desc:2 "Whether through sickness with the strife of the [struggle_phase_ayleid_hostility|E] or deft escalation during the [struggle_phase_ayleid_conciliation|E], the $game_concept_struggle_phase_ayleid_compromise$ represents a growing accommodation between Ayleids. Differences fall by the wayside and shared history and heritage binds former foes together.\n\nThe peninsula stands at a cross-roads: if conflicts reappear, then the [struggle_phase_ayleid_opportunity|E] awaits."
+
+ game_concept_struggle_phase_ayleid_conciliation:1 "Conciliation Phase"
+ game_concept_struggle_phase_ayleid_conciliation_desc:1 "The product of a notable [struggle_phase_ayleid_compromise|E], during this $game_concept_struggle_phase_phase$, relations between the Ayleids grow so cordial that outsiders find their permissiveness difficult to parse. Inter-[faith|E] [marriages|E] are particularly common.\n\nThis can't last forever, though, and abuses of trust will eventually bring the [ayleid_struggle|E] back around to the [struggle_phase_ayleid_compromise|E]."
+
+ game_concept_secure_saliache_foothold_decision:0 "$secure_saliache_foothold_decision_title$"
+ game_concept_secure_saliache_foothold_decision_desc:1 "A [decision|E] that allows a non-[struggle_involved|E] [ruler|E] to end the [ayleid_struggle|E]."
+
+
+ ####################################
+ ###### Bookmarks ######
+ ####################################
+
+ game_concept_struggle_content_involved_narfinsel_schism: "$ayleid_struggle$"
+ game_concept_struggle_content_involved_narfinsel_schism_desc: "#tooltip_heading You will become  [struggle_involved|E] in the [ayleid_struggle|E] [struggle|E] #!\n\n$game_concept_ayleid_struggle_desc$\n\n#highlight This applies only if you own the #S $DLC005_FP2$ #! #!"
+ 
+ game_concept_struggle_content_interloper_narfinsel_schism: "$ayleid_struggle$"
+ game_concept_struggle_content_interloper_narfinsel_schism_desc: "#tooltip_heading You will become an [struggle_interloper|E] in the [ayleid_struggle|E] [struggle|E] #!\n\n$game_concept_ayleid_struggle_desc$\n\n#highlight This applies only if you own the #S $DLC005_FP2$ #! #!"
+ 

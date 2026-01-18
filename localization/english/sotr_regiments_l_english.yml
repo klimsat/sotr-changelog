@@ -1,0 +1,144 @@
+﻿l_english:
+
+ creatures:0 "[creatures|E]"
+ undead:0 "[undead|E]"
+ #MaA types
+ # Imga
+ atmoran_reinforcements:0 "Dragon Cult Army"
+ atmoran_reinforcements_flavor:0 "#F They devoted themselves to the Dragon Overlords. If their masters command them to die in battle, they will gladly do so#!"
+
+ werewolves:0 "Werewolves"
+ werewolves_flavor:0 "#F Werewolves can deal lethal damage with your claws, move fast, have massive health, and are immunue to most regular weapons.#!"
+
+ clan_vampires:0 "Clan Vampires"
+ clan_vampires_flavor:0 "#F Considered to be a "blight of the world," Vampires are recognized as the strongest type of undead found in Tamriel, and are plagued by uncontrollable thirst for blood.#!"	
+ 
+ clan_vampires_human:0 "Clan Vampires"
+ clan_vampires_human_flavor:0 "#F Considered to be a "blight of the world," Vampires are recognized as the strongest type of undead found in Tamriel, and are plagued by uncontrollable thirst for blood.#!"	
+ 
+ clan_vampires_kh:0 "Clan Vampires"
+ clan_vampires_kh_flavor:0 "#F Considered to be a "blight of the world," Vampires are recognized as the strongest type of undead found in Tamriel, and are plagued by uncontrollable thirst for blood.#!"	
+
+ gray_host:0 "The Gray Host"
+ gray_host_desc:0 "#F The Gray Host is a mighty and terrible army made up of vampires, were-creatures, zombies, and faceless shadows.#!"
+ 
+ vampire_dogs:0 "Death Hounds"
+ vampire_dogs_flavor:0 "#F Death Hounds are undead creatures that serve as the pets and guard dogs for vampires. It is known that their bile is highly poisonous, and that the hounds use it as a weapon.#!"
+ 
+ #giants:0 "Giants"
+ giants_flavor:0 "#F Giants are a race of large humanoids found in the wilderness of Skyrim and High Rock. They arm themselves with crudely-made stone and wood clubs.#!"
+
+ sea_giants:0 "Sea Giants"
+ sea_giants_flavor:0 "#F Sea Giants are a race of large humanoids who inhabited the Sea of Ghosts. They are more cunning and more brutal than their mainland cousins.#!"
+
+ chimeri_ashland_spearmen:0 "Ashlander Spearmen"
+ chimeri_ashland_spearmen_flavor:0 "#F Long pikes allow these regiments to form walls of spikes that can stop a cavalry charge dead.#!"
+
+ chimeri_ashland_mages:0 "Ashlander Mages"
+ chimeri_ashland_mages_flavor:0 "#F They are the best mages who have endured the worst within the harsh ashlands#!"
+
+ chimeri_ashland_archers:0 "Ashlander Bowmen"
+ chimeri_ashland_archers_flavor:0 "#F Professional archers fill the air with arrows, devastrating the foremost enemy troops.#!"
+
+ chimer_oathmen:0 "Chimer Oathmen"
+ chimer_oathmen_flavor:0 "#F From among the Chimers of Resdayn, members of high rank and standing are given the title of oathman, an honor that binds them to heed the call of their lords in matters of strife and contest, and which confers grave responsibilities.#!"
+
+ chimeri_archers:0 "Hlaalu Bowmen"
+ chimeri_archers_flavor:0 "#F Hlaalu bowmen are equipped with heavy bonemold armor, making them more resistant to enemy attacks.#!"
+
+ chimeri_slavers:0 "Slave Hunters"
+ chimeri_slavers_flavor:0 "#F Slave hunters from Resdayn are trained to track off the escaped slaves and are best oriented in Black Marsh regions.#!"
+ 
+ chimeri_vanguards:0 "Royal Guardians"
+ chimeri_vanguards_flavor:0 "#F These seasoned warriors are vigilant guardians of the Revered Chimeri families, and their patrols can be seen day and night in various areas within Resdayn.#!"
+
+ chimeri_mages:0 "Telvanni Archmages"
+ chimeri_mages_flavor:0 "#F The house Telvanni comprises mainly highly egocentric and ambitious mages, and is known to many as the house of the master wizards.#!"
+
+ chimeri_pikemen:0 "Redoran Pikemen"
+ chimeri_pikemen_flavor:0 "#F House Redoran pikemen are rightfully considered to be one of the most persistent fighters of Resdayn.#!"
+
+ dwemer_animunculi:0 "Dwemer Animunculi"  
+ dwemer_animunculi_flavor:0 "#F Constructed from brass and steam, these tireless machines serve as guardians of the Dwemer freeholds, patrolling their halls with unyielding precision and unwavering loyalty to their creators.#!"  
+
+ dwemer_infantry:0 "Dwemer Armored Infantry"
+ dwemer_infantry_flavor:0 "#F Clad in Dwemer heavy armor, these warriors of various cultures gathered into a single force capable of challenging many professionally trained armies.#!"
+
+ dwemer_numidium:0 "Numidium"
+ dwemer_numidium_flavor:0 "#F Numidium, the Brass God, is a towering golem forged by the Dwemers in their pursuit of ultimate perfection. The walking colossus embodies unfathomable genius and ingenuity of Dwemer craft. #R Tiber Septim#! never bent this thing to his will — for destiny decreed that it should bent to yours instead#!"
+
+ desert_orc_raiders:0 "Desert Orc Raiders"
+ desert_orc_raiders_flavor:0 "#F Desert Orc Raiders are ruthless bands of warriors hardened by the burning sands. Swift and merciless, they strike from the dunes with brutal weapons and little to no armor, living by plunder and leaving only scorched trails in their wake.#!"
+
+ fauns:0 "Fauns"
+ fauns_flavor:0 "#F Fauns are willing to pick up a fight to protect their wild groves and shadowed forests. Agile and fierce, they wield crude weapons with primal skill, defending their kin and striking intruders with savage zeal.#!"
+
+ draugr:0 "Draugr"
+ draugr_flavor:0 "#F Draugrs are undead revenants found within the North. Necromancers would usually resurrect them from burial mound to wreak havoc on the living.#!"
+
+  soul_wraith:0 "Soul Wraith"
+  soul_wraith_flavor:0 "#F The battlefield itself shudders when the undead appear — formidable spirits, the very sight of which destroys battle formations and makes even the bravest cavalry feel terror.#!"	
+
+ daedra_cultists:0 "Daedra Cultists"
+ daedra_cultists_flavor:0 "#F Fear the malice of these ominous ebony knives and swords designed to inflict suffering before death.#!"
+
+ xivilai:0 "Xivilai"
+ xivilai_flavor:0 "Xivilai are highly intelligent Daedra in the form of tall and muscular blue/gray-skinned warriors with piercing yellow eyes. They wield two-handed weapons in battle, usually Daedric battle axes." 
+
+ mehrunes_knights:0 "Mehrunes Knights"
+ mehrunes_knights_flavor:0 "#F Demon-like Mehrunes knights have been known to wear spiked Daedric armor, which includes horned faces that range from grotesque to resembling Dunmer faces.#!"
+
+ dark_seducers:0 "Dark Seducers"
+ dark_seducers_flavor:0 "#F The Dark Seducers are vile and dangerous humanoid Daedra who serve the Daedric Prince Sheogorath and guard Dementia in the Shivering Isles.#!"
+
+ golden_saints:0 "Golden Saints"
+ golden_saints_flavor:0 "#F Gold Saints are are arrogant and dangerous humanoid Daedra who usually serve the Daedric Prince Sheogorath and guard Mania in the Shivering Isles.#!"
+
+ daedroth:0 "Daedroth"
+ daedroth_flavor:0 "#F Daedroths are large Daedric reptiles, that have mighty jaws and sharp teeth, and have deadly claws that they use to kill their enemies.#!"
+
+ hircine_wolves:0 "Hircine's Wolves"
+ hircine_wolves_flavor:0 "#F Hircine is said to have meddled with the nature of wolves, making them susceptible to shapeshifting.#!"
+ 
+ auroran_sentries:0 "Auroran Sentries"
+ auroran_sentries_flavor:0 "#F Aurorans are an idealized humanoid race of Daedra in the service of Meridia. They wield powerful axes infused with lightning.#!"
+ 
+ winged_twilights:0 "Winged Twilights"
+ winged_twilights_flavor:0 "#F Winged Twilights are intelligent winged Daedra with claw-like limbs, black horns, and spiked tails in the service of Azura.#!"
+ 
+ dromathra:0 "Dro-m'Athra"
+ dromathra_flavor:0 "#F The dro-m'Athra are a very dangerous and seductive reflection of the Khajiit who become corrupted in life, resulting in their souls being claimed by Namiira.#!"
+
+ ogrims:0 "Ogrims"
+ ogrims_flavor:0 "#F Ogrims are chiefly sent into the mortal world to menace living things for the amusement of Malacath.#!"
+
+ hunger:0 "Hungers"
+ hunger_flavor:0 "#F Hungers are ferocious Daedra known for their demonic appearance, long tongues and their taste for mortal flesh.#!"
+
+ clannfear:0 "Clannfears"
+ clannfear_flavor:0 "#F Clannfears are reptilian Daedra with sharp beaks, crested heads and vicious claws. They are relentless hunters, charging their prey with savage ferocity and tearing through flesh with brutal efficiency.#!"
+
+ scamps:0 "Scamps"
+ scamps_flavor:0 "#F Scamps are small, mischievous Daedra known for their impish cruelty and shrill voices. Though weak in stature, they wield destructive fire magics and delight in tormenting mortals.#!"
+
+ hernes:0 "Hernes"
+ hernes_flavor:0 "#F Hernes are lesser Daedra that take on a horned, bestial form, resembling hunters of the wild. They are swift and savage, striking with primitive weapons and reveling in the pursuit of mortal prey.#!"
+
+ mind_terrors:0 "Mind Terrors"
+ mind_terrors_flavor:0 "#F Mind Terrors, also called Walking Nightmares, are Daedra in service to Vaermina. Shaped from twisted dreams made flesh, they stalk on insectoid limbs with eyeless skulls, embodying terror drawn from the minds of mortals and Princes alike.#!"
+
+ restless_shadows:0 "Restless Shadows"
+ restless_shadows_flavor:0 "#F Restless Shadows are Daedra in service to Nocturnal, formed from mortal souls consumed within the Evergloam. Their flesh blackens into tar and dissolves into pure shadow, leaving them as formless beings that crave the light but are forever banished by it.#!"
+
+
+ shattered_shards:0 "Shattered Shards"
+ shattered_shards_flavor:0 "#F Shattered Shards are type of Daedra found within the realm of Ithelia, the Prince of Paths. With a slender, razor-edged build, they move with uncanny grace, cutting through foes as though every fragment of their being were a blade.#!"
+
+ spider_daedra:0 "Spider Daedra"
+ spider_daedra_flavor:0 "#F Spider Daedra are cruel servants of Mephala, their forms a monstrous union of woman and spider. They weave webs of torment, luring prey with deceit before striking with venom, claw, and spell alike.#!"
+
+ watcher:0 "Watchers"
+ watcher_flavor:0 "#F Watchers, also called Doom-Truths, are flying tentacled Daedra with a single large, central eye. They serve Hermaeus Mora (and occasionally other Princes), acting as overseers, guardians, and gatherers of forbidden knowledge. Their gaze can consume the soul, unravel illusions of falsehood, and drive mortals to dread when locking eyes with them.#!"
+
+ voskrona_guardian:0 "Voskrona Guardian"
+ voskrona_guardian_flavor:0 "#F Voskrona Guardians are Argonian statues that are designed to protect and attack anything they deem to be a threat. They are incredibly durable against physical and elemental attacks, and they can send out a cluster of vines at their target.#!"	

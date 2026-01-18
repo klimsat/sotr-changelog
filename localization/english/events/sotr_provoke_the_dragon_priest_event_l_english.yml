@@ -1,0 +1,35 @@
+﻿l_english:
+
+  # Dragon Priest Meeting Events
+
+  #Different Location
+  provoke_dragon_priest_event.travel.0001.t:0 "The Priest Grants an Audience"
+  provoke_dragon_priest_event.travel.0001.desc:0 "Word returns swift and certain. [recipient.GetShortUINameNoTooltip] has agreed to receive you within his domain. Are you prepared to embark on this journey?"
+  #Same Location
+  provoke_dragon_priest_event.immediate.0001.t:0 "The Priest Has Heard"
+  provoke_dragon_priest_event.immediate.0001.desc:0 "Word has reached [recipient.GetShortUINameNoTooltip] that you seek his presence. The air thickens with unease as his attention turns toward you. Are you prepared to confront him?"
+
+  provoke_dragon_priest_event.0001.a:0 " #difficulty_hard I will go to [recipient.GetHerHim] #!"
+  provoke_dragon_priest_event.0001.a.tt:0  "You will face the Dragon Priest and do what you're set to do.\n\n@warning_icon!# #warning #bold Make sure you're prepared for the consequences...#!#!"
+  provoke_dragon_priest_event.0001.b:0 "Maybe now is not the right time.."
+  provoke_dragon_priest_event.0001.b.tt:0 "You will withdraw and abandon your plans for now."
+
+  provoke_dragon_priest_event.0002.t:0 "What do you have to say to the Dragon Priest?"
+  provoke_dragon_priest_event.0002.desc:0 "You stand before the Dragon Priest, [recipient.GetHerHis] mask fixed upon you in wordless scrutiny. The air hums with ancient power as [recipient.GetSheHe] awaits—eager to know what your mortal tongue have to say to [recipient.GetHerHim]."
+  provoke_dragon_priest_event.0002.a:0 "#attacker_color "The #bold World Eater#! roars like a troll with a stubbed toe"#!"
+  provoke_dragon_priest_event.0002.a.tt:0 "You ridicule Alduin’s divine voice turning his sacred Thu’um into the squeal of a wretched troll....\n"
+  provoke_dragon_priest_event.0002.b:0 "#attacker_color  "Have you heard of the Prophecy of the #bold Dragonborn#!..?"#!"
+  provoke_dragon_priest_event.0002.b.tt:0 "You mock their god with a twisted jest about the a rumored prophecy of Alduin’s doom..\n"
+  provoke_dragon_priest_event.0002.c:0 "#attacker_color "Alduin is the weakest Boss ever..."#!"
+  provoke_dragon_priest_event.0002.c.tt:0 "You mock Alduin’s strength, undermining his divine power into a punchline.\n"
+  provoke_dragon_priest_event.0002.d:0 "#attacker_color "#bold [ROOT.Char.GetFaith.HighGodName|U]#! is infinitely more stronger than your lesser god.."#!"
+  provoke_dragon_priest_event.0002.d.tt:0 "You insulted the Dragon Priest's god"
+  provoke_dragon_priest_event.0002.e:0 "#attacker_color "Go back to Atmora, wyrm-worshippers. This land will never be yours..."#!"
+  provoke_dragon_priest_event.0002.e.tt:0 "You insulted the Dragon Priests"
+  provoke_dragon_priest_event.0002.f:0 ""Nevermind..""
+  provoke_dragon_priest_event.0002.f.tt:0 "You hold your tongue and let the audience pass without insult"
+
+  provoke_dragon_priest_event.0003.t:0 "The Priest Will Remember This..."
+  provoke_dragon_priest_event.0003.desc:0 "The Halls fall silent like the Grave.\n\nThe words have landed like cold iron. The Priest's eyes seemingly flare beneath [recipient.GetHerHis] hood and mask."
+  provoke_dragon_priest_event.0003.a:0 "You take your leave"
+  provoke_dragon_priest_event.0003.a.tt:0 "You take your leave before the situation becomes worse. The Priest will surely remember this encounter"

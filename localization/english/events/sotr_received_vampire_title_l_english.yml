@@ -1,0 +1,90 @@
+﻿l_english:
+
+  #Received the Vampire Title
+  received_vampire_title_event.0001.t:0 "The Fate of #V [received_vampire_coven_title.GetName]#!"
+  received_vampire_title_event.0001.desc:0 "This vampire coven now lies within your grasp. The eerie eyes of [received_vampire_coven_title.GetName] members now turns to you.\n\nYou hold the power to claim the mantle of their leader, to name a successor who will be a [vassal|E] to you, or to erase the [received_vampire_coven_title.GetName] lineage from the face of Nirn, for good..."
+
+  received_vampire_title_event.0001.a:0 "I shall lead [received_vampire_coven_title.GetName]"
+  received_vampire_title_event.0001.a.tt:0 "You assume leadership of the coven and are reborn as a pure-blooded vampire, the most powerful among them.\n\n@warning_icon! #n You will become a vampire #!"
+
+  received_vampire_title_event.0001.b:0 "Let another bear this burden."
+  received_vampire_title_event.0001.b.tt:0 "You appoint a loyal member of the coven to rule in your stead. The coven remains under your dominion."
+
+  received_vampire_title_event.0001.c:0 "This curse ends here."
+  received_vampire_title_event.0001.c.tt:0 "The coven is destroyed. Its name and bloodline will vanish into shadow, never to rise again.\n\n@warning_icon! #n This bloodline will be destroyed#!"
+
+  #We are the new leader of this Coven
+  received_vampire_title_event.0002.t:0 "The First Decree"
+
+  received_vampire_title_event.0002.desc:0 "[received_vampire_coven_title.GetName] members now bow to your command, their allegiance sealed to yours.\n\nYet another choice remains. Will your reign be one of unveiled dominion, where mortals tremble beneath the truth of your nature? Or will your coven dwell unseen in the shadows?"
+
+  received_vampire_title_event.0002.a:0 "Make it #bold Public#!"
+  received_vampire_title_event.0002.a.tt:0 "[received_vampire_coven_title.GetName] will not hide in the shadows. You and all its members will be known as vampires."
+
+  received_vampire_title_event.0002.b:0 "Rule it #bold Secretly#!"
+  received_vampire_title_event.0002.b.tt:0 "[received_vampire_coven_title.GetName] will be hidden, continuing its dark work in secret."
+
+  #Entrust this title to a proxy
+  received_vampire_title_event.0003.t:0 "The Choice of Succession"
+
+  received_vampire_title_event.0003.desc:0 "The members of [received_vampire_coven_title.GetName] kneel before you in reverent silence. The air is heavy with ambition and the scent of old blood—the throne of the night stands vacant once more. \n\nTheir eyes are upon you, awaiting your decree. Whomever you choose shall bear the mantle of leadership, ruling the coven in your name and bound to your will."
+
+  received_vampire_title_event.0003.a:0 "Allow [previous_vampire_coven_holder.GetFirstName] to remain as leader."
+  received_vampire_title_event.0003.a.tt:0 "You return leadership of the coven to its previous master. They shall rule again—but now as your loyal [vassal|E]."
+
+  received_vampire_title_event.0003.alive.b:0 "Appoint a more worthy vassal."
+  received_vampire_title_event.0003.alive.b.tt:0 "You deny the former leader and grant dominion to another, the one whose skills best serve your future plans."
+
+  received_vampire_title_event.0003.dead.b:0 "Appoint a new master."
+  received_vampire_title_event.0003.dead.b.tt:0 "With the former leader gone, you must name a new successor to lead [received_vampire_coven_title.GetName]. They will serve as your new [vassal|E]."
+
+  #Destroy the Coven
+  received_vampire_title_event.0004.t:0 "End [received_vampire_coven_title.GetName] Bloodline"
+
+  received_vampire_title_event.0004.desc:0 "The fate of [received_vampire_coven_title.GetName] lies at your feet. Decide now whether to eliminate them entirely or spare them."
+
+  received_vampire_title_event.0004.a:0 "Exterminate them"
+  received_vampire_title_event.0004.a.tt:0 "Execute them all, raze their sanctums, and hunt down any who flee."
+
+  received_vampire_title_event.0004.b:0 "Spare them and but destroy their Coven"
+  received_vampire_title_event.0004.b.tt:0 "Break their coven, but allow surviving members to live and flee. Their bonds will be broken and the coven will never be seen again."
+
+  #Make our Coven Go Public
+  received_vampire_title_event.0005.t:0 "The Night Unveiled"
+
+  received_vampire_title_event.0005.desc:0 "The rite is complete. The old master’s blood runs cold, and yours burns with newfound power. The coven kneels before you, their eyes aglow with devotion and hunger. No longer shall you hide in the shadows or whisper from the dark—you are the master of this bloodline, the unchallenged sovereign of the night.\n\nThe world will know your name, and fear will once again walk beneath the moon."
+
+  received_vampire_title_event.0005.a:0 "Let the world behold its true rulers."
+  received_vampire_title_event.0005.a.tt:0 "You take command of the coven and reveal its existence to the world. You and your members are now publicly known as vampires."
+
+  #Make our Coven Go Private
+  received_vampire_title_event.0006.t:0 "The Hidden Master"
+
+  received_vampire_title_event.0006.desc:0 "The coven bows before you in the silence of their crypts, their eyes gleaming with obedience and promise.\n\nLet kings and queens boast of their crowns and priests of their gods. In secrecy, your dominion will endure beyond them all."
+
+  received_vampire_title_event.0006.a:0 "[received_vampire_coven_title.GetName] shall endure in the Shadows."
+  received_vampire_title_event.0006.a.tt:0 "You take command of the coven but keep its existence hidden. Its power will grow in silence and secrecy."
+
+  #Entrust this title to someone else
+  received_vampire_title_event.0007.t:0 "The Choice of Succession"
+
+  received_vampire_title_event.0007.desc:0 "The members of the [received_vampire_coven_title.GetName] kneels before you—its members silent, awaiting your decree. Their eyes glimmer with hunger and ambition, for the throne of the night now stands empty. \n\nYou must decide who shall bear the responsibility. Whomever you choose will rule it as your [vassal|E]."
+
+  #received_vampire_title_event.0007.a:0 "The greatest warriors among you shall rule the night."
+  received_vampire_title_event.0007.a:0 "Give it to [candidates_vampire_vassal_martial.GetName]"
+  received_vampire_title_event.0007.a.tt:0 "You grant leadership of the coven to the candidate with the highest [martial|E] skill."
+
+  #received_vampire_title_event.0007.b:0 "The silver-tongued one will serve best."
+  received_vampire_title_event.0007.b:0 "Give it to [candidates_vampire_vassal_diplomacy.GetName]"
+  received_vampire_title_event.0007.b.tt:0 "You grant leadership of the coven to the candidate with the highest [diplomacy|E] skill."
+
+  #received_vampire_title_event.0007.c:0 "Power rests on wealth and capable hands."
+  received_vampire_title_event.0007.c:0 "Give it to [candidates_vampire_vassal_stewardship.GetName]"
+  received_vampire_title_event.0007.c.tt:0 "You grant leadership of the coven to the candidate with the highest [stewardship|E] skill."
+
+  #received_vampire_title_event.0007.d:0 "Wisdom shall guide this bloodline."
+  received_vampire_title_event.0007.d:0 "Give it to [candidates_vampire_vassal_learning.GetName]"
+  received_vampire_title_event.0007.d.tt:0 "You grant leadership of the coven to the candidate with the highest [learning|E] skill."
+
+  received_vampire_title_event.0007.e:0 "Give it to [candidates_vampire_backup_vassal.GetName]"
+  received_vampire_title_event.0007.e.tt:0 "Eh...this one will do."

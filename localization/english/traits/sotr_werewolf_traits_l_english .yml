@@ -1,0 +1,39 @@
+﻿l_english:
+
+  #Werewolf Lord
+  trait_werewolf_lord_trait: "Werewolf Lord"
+  trait_werewolf_lord_trait_desc: "Werewolf Lords are the apex of Hircine’s blessing—monsters of ancient blood who have embraced the Huntsman’s will in full. Through dark rituals or divine favor, they have unlocked the ability to transform into towering Behemoths, hulking predators far beyond the strength of ordinary lycanthropes. \n\nThese beasts are engines of raw fury and supernatural might, feared across Tamriel as unstoppable forces when the moons rise high. A Werewolf Lord is not simply a beast—they are the embodiment of the Great Hunt.\n\n#help Attaining this [trait|E] unlock's the break out of prison [interaction|E] & change their form through the [decision|E] menu#!."
+  trait_werewolf_lord_trait_character_desc: "[ROOT.GetCharacter.GetSheHe|U] is one of the rare few to carry the purest strain of Hircine’s gift. [ROOT.GetCharacter.GetSheHe|U] has ascended beyond mere lycanthropy, capable of transforming into a Behemoth—a towering force of fang and claw. \n\n[ROOT.GetCharacter.GetSheHe|U] is no longer just a hunter of mortals, but a terror of legend, a true Werewolf Lord empowered by the Hunt itself.\n\n#help Attaining this [trait|E] unlock's the break out of prison [interaction|E] & change their form through the [decision|E] menu#!."
+
+  #Cursed Werewolf
+  trait_cursed_werewolf_trait: "Cursed Werewolf"
+  trait_cursed_werewolf_trait_desc: "Cursed Werewolves are those who can no longer return to their mortal form. Forever trapped in their beast shape, they have lost all balance between man and monster.\n\nDriven by fury and instinct, they are bound to be feared by most, for theirs is a curse without end."
+  trait_cursed_werewolf_trait_character_desc: "[ROOT.GetCharacter.GetSheHe|U] is a Cursed Werewolf—unable to return to [ROOT.GetCharacter.GetHerHis] mortal form. The line between man and beast has vanished, leaving only the creature behind.\n\nFeared by even other lycanthropes, [ROOT.GetCharacter.GetSheHe] now lives with a curse that never rests, never breaks."
+
+
+  #Moon Hunter Pack
+  trait_werewolf_pack_moon_hunter: "Moon Hunter Pack"
+  trait_werewolf_pack_moon_hunter_desc: "This person is a member of the [Glossary('Moon Hunter Pack', 'WEREWOLF_PACK_MOON_HUNTER_GLOSS')]. \n\nMembers of this pack become towering werewolf behemoths when transformed—far larger and stronger than common lycanthropes, with claws that rend through steel and spell alike."
+  trait_werewolf_pack_moon_hunter_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current Alpha of the [Glossary('Moon Hunter Pack', 'WEREWOLF_PACK_MOON_HUNTER_GLOSS')]"
+  trait_werewolf_pack_moon_hunter_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the legendary progenitor of the [Glossary('Moon Hunter Pack', 'WEREWOLF_PACK_MOON_HUNTER_GLOSS')]"
+  trait_werewolf_pack_moon_hunter_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Moon Hunter Pack', 'WEREWOLF_PACK_MOON_HUNTER_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] capable of transforming into a monstrous werewolf behemoth, swollen with fury and unnatural might."
+
+  #Frostmoon Pack
+  trait_werewolf_pack_frostmoon: "Frostmoon Pack"
+  trait_werewolf_pack_frostmoon_desc: "This person is a member of the [Glossary('Frostmoon Pack', 'WEREWOLF_PACK_FROSTMOON_GLOSS')]. \n\nMembers of this pack are honed by the harsh wilds of Solstheim. Their strength lies in their endurance, cunning, and unity against the perils of the frozen land."
+  trait_werewolf_pack_frostmoon_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current Alpha of the [Glossary('Frostmoon Pack', 'WEREWOLF_PACK_FROSTMOON_GLOSS')]."
+  trait_werewolf_pack_frostmoon_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the legendary progenitor of the [Glossary('Frostmoon Pack', 'WEREWOLF_PACK_FROSTMOON_GLOSS')]."
+  trait_werewolf_pack_frostmoon_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Frostmoon Pack', 'WEREWOLF_PACK_FROSTMOON_GLOSS')]. \n\n[ROOT.GetCharacter.GetFirstNameNoTooltip]'s werewolf form is attuned to the unforgiving cold, swift and lethal beneath the moonlit snow."
+
+
+  #Werebear
+
+  trait_werebear_character:0 "Werebear"
+  trait_werebear_character_desc:0 "This character is a werebear who could transorm into a bear-like form.\n\n#I Picking this trait in the Ruler Designer will trigger an event at game start, allowing you to start the game as a secret Werebear.#!"
+  trait_werebear_character_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a werebear who could transorm into a bear-like form.\n\n#help Attaining this [trait|E] allows the character to change their form through the [decision|E] menu#!."
+
+  #Wereboar
+
+  trait_wereboar_character:0 "Wereboar"
+  trait_wereboar_character_desc:0 "This character is a wereboar who could transorm into a boar-like form.\n\n#I Picking this trait in the Ruler Designer will trigger an event at game start, allowing you to start the game as a secret Wereboar.#!"
+  trait_wereboar_character_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a wereboar who could transorm into a boar-like form.\n\n#help Attaining this [trait|E] allows the character to change their form through the [decision|E] menu#!"

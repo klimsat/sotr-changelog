@@ -1,0 +1,26 @@
+﻿l_english:
+ 
+  # Camoran Start First Era
+  camoran_first_era_decision:0 "Establish the Kingdom of Valenwood"
+  camoran_first_era_decision_confirm:0 "I have unified Valenwood"
+  camoran_first_era_decision_tooltip:0 "The Kingdom of Valenwood has been established"
+  camoran_first_era_decision_desc:0 "Since the Dawn of Time, the Wild Bosmers and other denizens alike have remained disunited. Now they are successfully united under one Kingdom. The Ayleid of Cyrodiil use this newly formed kingdom as a buffer from the influence of the Alinor (Summerset Isle) kingdom. The Imperatum Saliache is no more, and the Ayleid Sorceror-Kings now rule their realms independently." #PLACEHOLDER
+  camoran_first_era_decision_effect_tooltip:0 "The Kingdom Valenwood is now established.\nAnd the #bold First Era will begin#!."
+
+  #Wild Hunt Ritual
+  perform_wild_hunt_ritual_decision:0 "Unleash the Wild Hunt"
+  perform_wild_hunt_ritual_decision_desc:0 "The Wild Hunt is no mere tale—it is the raw wrath of the Green made manifest. To perform this sacred and perilous rite is to surrender your form and will to the primal chaos of Y’ffre's fury. In times of dire need, the Hunt is called upon to protect the Balance or punish the profane.\n\nYou shall invoke the the Spirit of the Now, god of the Song and Forest. If he hears your cry and deems it necessary, the forest shall rise his name, and the Wild Hunt shall begin.\n\n@alert_icon! #BOLD #N Use the [interaction|E] menu to target a [character|E] for the Wild Hunt.#!#!"
+  perform_wild_hunt_ritual_decision_tooltip:0 "Invoke the Wild Hunt to summon the wrath of nature upon your enemies."
+  perform_wild_hunt_ritual_decision_tooltip_selected:0 "@warning_icon! #X You have already selected this decision! \n\nSelect your target with the [interaction|E] menu. #!"
+  perform_wild_hunt_ritual_decision_requirement:0 "You follow the [druidic_tradition|E] and are in a place of deep natural power."
+  perform_wild_hunt_ritual_decision_effect_tooltip_1:0 "You will unleash the Wild Hunt—those caught in its path will perish."
+  perform_wild_hunt_ritual_decision_effect_tooltip_2:0 "@warning_icon! #N Your target & everyone near them will die.#!"
+  perform_wild_hunt_ritual_decision_effect_tooltip_3:0 "@warning_icon! #N You and your loyal followers will die.#!"
+  perform_wild_hunt_ritual_decision_custom_tooltip_1:0 "The Green will twist, awaken, and devour."
+  perform_wild_hunt_ritual_decision_custom_tooltip_2:0 "Those marked by the Hunt shall know terror and transformation."
+  perform_wild_hunt_ritual_decision_custom_tooltip_3:0 "There is no mercy in the Hunt—only the will of the wild."
+  perform_wild_hunt_ritual_decision_confirm:0 "Call the Hunt"
+  perform_wild_hunt_ritual_decision_journey_begins:0 "The leaves stir. The air thickens. The Hunt begins..."
+  perform_wild_hunt_ritual_decision_flag_check:0 "You haven't selected this decision before."
+  perform_wild_hunt_ritual_decision_effect_message_title:0 "Select your target"
+  perform_wild_hunt_ritual_decision_effect_message_desc:0 "Use [interaction|E] menu to target a [ruler|E] for the Wild Hunt."

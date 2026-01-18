@@ -1,0 +1,11 @@
+﻿l_english:
+
+ patron_ithelia_name:0 "[GetPlayer.Custom('GetObItheliaName')]"
+ patron_ithelia_desc:0 "the Prince of Paths"
+ patron_ithelia_long_desc:0 "[GetPlayer.Custom('GetObItheliaDesc')]"
+ patron_ithelia_summary:0 "Status: [GetPlayer.Custom('GetPatronStatus_ithelia')]\nWorship Type: [GetPlayer.Custom('GetPatronWorshipType_ithelia')]\nArdor: [GetPlayer.MakeScope.Var('ardor_ithelia').GetValue|+0]"
+ desc_ithelia:0 "Daedric Prince of Paths, the Mistress of the Untraveled Road, the Unseen, the Fate-Changer, and She Who Saw and Wept. Ithelia's domain within Oblivion was called the Mirrormoor. Records of Ithelia's existence and any informations about her is scarcely known by Daedras and mortals alike"
+ 
+
+ prince_17:0 "Ithelia"
+ date_prince_17:0 "3rd of $CW_DATE_June$"

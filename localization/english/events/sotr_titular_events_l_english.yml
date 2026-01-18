@@ -1,0 +1,30 @@
+﻿l_english:
+
+  ### Form the Deathland Horde
+  form_deathland_horde.1001.t:0 "Re-Establish the Deathland Horde?"
+  form_deathland_horde.1001.desc:0 "The scattered tribes of the desert orcs had long been divided across the burning sands and haunted wastes. Each warband followed its own chieftain, and though a few dared proclaim themselves Warlord, none had ever united the clans beneath a single unified banner.n\nNow, [ROOT.Char.GetName] gathers the clans once more, rekindling the spirit of the Deathland Horde and restoring strength to a people long divided."
+  form_deathland_horde.1001.a:0 "The sands will remember my name!"
+  form_deathland_horde.1001.b:0 "At last, our people are one again."
+  form_deathland_horde.1002.desc:0 "In a turn that few believed possible, the scattered warbands and wasteland tribes of the desert orcs have united beneath one banner! [FROM.Char.GetTitledFirstName] now stands as the undisputed ruler of the Deathland Horde, a force reborn from the dust and fire of the wastes.\n\nAcross the borders, neighboring realms watch in silence, uncertain what storm will rise next from the endless desert."
+  form_deathland_horde.1002.a:0 "Savages, nothing more."
+  form_deathland_horde.1002.b:0 "Will they stand the test of time?"
+
+  ### Form the Forest Kingdom of Kreath
+  form_forest_kingdom.1001.t:0 "Unite the Clans of Kreath?"
+  form_forest_kingdom.1001.desc:0 "For generations, the people of Kreath have lived scattered across the vast northern forests—divided by pride, blood feuds, and the call of old spirits. Yet all share the same roots, bound by the whispering woods and the ancient strength of the land.\n\nNow, [ROOT.Char.GetName] seeks to bring them together at last, forging unity from division and giving life to the long-dreamed Forest Kingdom of Kreath."
+  form_forest_kingdom.1001.a:0 "The forests shall remember this day!"
+  form_forest_kingdom.1001.b:0 "At last, the men-of-Kreath now stand as one."
+
+  form_forest_kingdom.1002.desc:0 "In an age where unity seemed beyond reach, the scattered clans of the northern woods have gathered beneath one banner! [FROM.Char.GetTitledFirstName] now rules as the first sovereign of the Forest Kingdom of Kreath, a realm born from the whispering trees and the strength of the Nedic spirit.\n\nAcross the borders, neighboring rulers look northward, uncertain whether to fear or admire this rising power in the wilds."
+  form_forest_kingdom.1002.a:0 "Another dreamer crowned by leaves."
+  form_forest_kingdom.1002.b:0 "May their roots hold strong against the storm."
+
+  ### Form the Frost Kingdom
+  form_frost_kingdom.1001.t:0 "Unite the Nedes of the North?"
+  form_frost_kingdom.1001.desc:0 "For countless generations, the Nedic clans of the northern highlands and frozen valleys have stood apart—divided by old grudges and bound only by the biting cold. Yet all share the same blood, hardened by the frost and tempered by struggle.\n\nNow, [ROOT.Char.GetName] seeks to bind them together beneath a single banner, forging the Frost Kingdom—a realm where the strength of the north may rise once more against the endless winter."
+  form_frost_kingdom.1001.a:0 "The North shall remember my name!"
+  form_frost_kingdom.1001.b:0 "At last, the men of the north now stand as one."
+
+  form_frost_kingdom.1002.desc:0 "In a time when unity seemed impossible, the divided clans of the frozen north have rallied beneath one ruler! [FROM.Char.GetTitledFirstName] now stands as the first sovereign of the Frost Kingdom, a realm born of hardship, endurance, and the unyielding spirit of the Nedes.\n\nFrom the icy peaks to the river valleys of southern Karth, neighboring lords watch in silence, uncertain whether this rising power will bring peace—or a storm of iron and frost."
+  form_frost_kingdom.1002.a:0 "Another northern warlord crowned by snow."
+  form_frost_kingdom.1002.b:0 "May their fire outlast the cold."

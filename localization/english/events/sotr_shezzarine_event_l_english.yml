@@ -1,0 +1,25 @@
+﻿l_english:
+
+  # Shezzar ends the world
+  reclaim_heart_of_lorkhan.0001.t:0 "The Heart Beats"
+  reclaim_heart_of_lorkhan.0001.desc:0 "The world shuddered.\n\nFor a moment, all light dimmed. The wind halted. Even the stars held their breath. Beneath Red Mountain, you have found something—something ancient, severed, and long denied. \n\nThe Heart of [Glossary('Lorkhan', 'LORKHAN_GLOSS')] is still beating all along.\n\nA thunderous pulse echoed across the bones of the world. Those attuned to the divine clutched their chests in terror, for something had stirred."
+  reclaim_heart_of_lorkhan.0001.a:0 "It cannot be…"
+  reclaim_heart_of_lorkhan.0001.a.tt:0 "Shezzar will reclaim the Heart. The world will never remain the same."
+  reclaim_heart_of_lorkhan.0001.b:0 "Perhaps now it not the best time…"
+  reclaim_heart_of_lorkhan.0001.b.tt:0 "Shezzar leaves the heart alone, and allows things to unfold as it should be."
+
+  # Shezzar Hesitates at the End  
+  reclaim_heart_of_lorkhan.0002.t:0 "The Heart Beats Again"  
+  reclaim_heart_of_lorkhan.0002.desc:0 "The world shuddered. \n\nAll light dimmed. The winds ceased. Even the stars held their breath. Deep beneath Red Mountain, something ancient stirred—severed long ago, now whole once more. \n\nThe Heart of Lorkhan beats again.\n\nAsh cracked. Stone bled. A soundless pulse thundered across the bones of the world. Priests fell silent. Dreamers woke screaming. The gods turned their gaze away.\n\nHis form burned with memory, myth, and the raw ache of betrayal.\n\nHe could end it. Unmake the dream. Tear the Tower from its root and silence the lie for good.\n\nBut… should he?\n\nFor a flicker of a moment, Shezzar hesitates. The world hangs in that breath—on the edge of dawn, or ruin."
+  reclaim_heart_of_lorkhan.0002.a:0 "“Let it burn.”"
+  reclaim_heart_of_lorkhan.0002.a.tt:0 "You choose annihilation. The Tower falls. The lie ends. The world is undone."
+  reclaim_heart_of_lorkhan.0002.b:0 "“Not yet.”"
+  reclaim_heart_of_lorkhan.0002.b.tt:0 "Shezzar turns away—for now. The Heart dims. The world spins on… unknowing."
+
+  # Shezzar’s Final Choice  
+  reclaim_heart_of_lorkhan.0003.t:0 "The Final Turning"  
+  reclaim_heart_of_lorkhan.0003.desc:0 "The Heart pulses beneath your hand—warm, alive, terrible. You feel the world lean forward, trembling, waiting.\n\nVoices long silent stir in the deep. The Tower creaks. The Dream blurs.\n\nYou could end it. Everything. \n\nBut then… a whisper. Not from the gods. Not from the stars. From the world itself, asking whether you're sure.\n\nWhat is broken might still mend. What is false might still birth truth.\n\n@warning_icon! #BOLD #n Do you *truly* wish to unmake the world? Or will you let it unfold… as it should?#!#!"
+  reclaim_heart_of_lorkhan.0003.a:0 "#difficulty_hard “ Allow me to shed my true form" #!"
+  reclaim_heart_of_lorkhan.0003.a.tt:0 "@warning_icon! #BOLD #n Don't do this, idiot! #!#!\n\n"
+  reclaim_heart_of_lorkhan.0003.b:0 "“No. Let the Kalpa endure.”"
+  reclaim_heart_of_lorkhan.0003.b.tt:0 "Shezzar stays his hand. The Heart dims. The wheel turns once more."

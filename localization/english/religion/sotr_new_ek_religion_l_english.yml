@@ -1,0 +1,31 @@
+﻿l_english:
+
+ ### Holy Sites
+  holy_site_hs_niryastare_name:0 "Vlastarus"
+  holy_site_hs_niryastare_effect_name:0 "From [holy_site|E] #weak ($holy_site_hs_niryastare_name$)#!"
+  holy_site_hs_temple_of_ithelia_name:0 "Temple of Ithelia"
+  holy_site_hs_temple_of_ithelia_effect_name:0 "From [holy_site|E] #weak ($holy_site_hs_temple_of_ithelia_name$)#!"
+  holy_site_hs_orichalc_tower_name:0 "Orichalc Tower"
+  holy_site_hs_orichalc_tower_effect_name:0 "From [holy_site|E] #weak ($holy_site_hs_orichalc_tower_name$)#!"
+  holy_site_hs_kanesh_name:0 "Mount Kanesh"
+  holy_site_hs_kanesh_effect_name:0 "From [holy_site|E] #weak ($holy_site_hs_kanesh_name$)#!"
+  holy_site_hs_ravan_name:0 "Ravan Tower"
+  holy_site_hs_ravan_effect_name:0 "From [holy_site|E] #weak ($holy_site_hs_ravan_name$)#!"
+
+  holy_site_hs_mourngate_name:0 "Mourngate"
+  holy_site_hs_mourngate_effect_name:0 "From [holy_site|E] #weak ($holy_site_hs_mourngate_name$)#!"
+
+  holy_site_hs_icereach_name:0 "Icereach"
+  holy_site_hs_icereach_effect_name:0 "From [holy_site|E] #weak ($holy_site_hs_icereach_name$)#!"
+
+  holy_site_hs_shrine_of_vakkan_name:0 "Shrine of Vakkan"
+  holy_site_hs_shrine_of_vakkan_effect_name:0 "From [holy_site|E] #weak ($holy_site_hs_shrine_of_vakkan_name$)#!"
+
+  holy_site_hs_isle_of_the_void_name:0 "Shores of the Void"
+  holy_site_hs_isle_of_the_void_effect_name:0 "From [holy_site|E] #weak ($holy_site_hs_isle_of_the_void_name$)#!"
+
+  holy_site_hs_xul_katama_name:0 "Xul-Katama"
+  holy_site_hs_xul_katama_effect_name:0 "From [holy_site|E] #weak ($holy_site_hs_xul_katama_name$)#!"
+
+  holy_site_hs_xul_haj_name:0 "Xul-Haj"
+  holy_site_hs_xul_haj_effect_name:0 "From [holy_site|E] #weak ($holy_site_hs_xul_haj_name$)#!"

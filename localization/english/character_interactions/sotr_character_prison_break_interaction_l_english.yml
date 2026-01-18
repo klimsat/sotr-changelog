@@ -1,0 +1,5 @@
+﻿l_english:
+
+  #Prison Break Interaction
+  character_prison_break_interaction:0 "Break out of Prison"
+  character_prison_break_interaction_desc:0 "Attempt to escape from [recipient.GetShortUINameNoTooltip]'s [prison|E]"

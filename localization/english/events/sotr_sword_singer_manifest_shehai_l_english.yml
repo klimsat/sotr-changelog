@@ -1,0 +1,11 @@
+﻿l_english:
+
+ # Shehai Manifestation
+  manifest_shehai.0001.t:0 "Manifest the Shehai"  
+  manifest_shehai.0001.desc:0 "The Shehai is not merely a weapon, but the reflection of your will. To draw it forth is to bare your soul to the world, and wield it as an unstoppable weapon of great might.\n\nDo you wish to summon your Shehai and let your soul take form, or keep its light veiled within?"  
+ 
+  manifest_shehai.0001.a:0 "Manifest your Shehai"  
+  manifest_shehai.0001.a.tt:0 "You call forth your Soul-Sword, the Shehai—an extension of your spirit."  
+  manifest_shehai.0001.b:0 "Dismiss your Shehai" 
+  manifest_shehai.0001.b.tt:0 "You let your Shehai fade, returning your soul to stillness."  
+  manifest_shehai.0001.c:0 "Leave"  

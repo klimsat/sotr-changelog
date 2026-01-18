@@ -1,0 +1,41 @@
+﻿l_english:
+ ### Blood Root Gorge Ritual
+  new_ek_special_buildings_events.0001.t:0 "The Bloodroot Forge Rituals"
+  new_ek_special_buildings_events.0001.desc:0 "We are now at the presence of the smoldering heart of the Bloodroot Forge. The forge hungers for the willing—or the desperate. To become Bloodforged is to cast aside weakness, to rise as a blazing force of nature. Let the forge reshape you, let its flames purify your doubts, and let its gifts empower you.\n\n Are you prepared to become a molten vessel and go through the trial of iron, blood. and nirncrux?"
+  new_ek_special_buildings_events.0001.a:0 "I am ready"
+  new_ek_special_buildings_events.0001.a.tt:0 "Become the unrelenting fury of the forge, and show Lord Hircine what you're capable of!"
+  new_ek_special_buildings_events.0001.b:0 "Maybe another time"
+  new_ek_special_buildings_events.0001.b.tt:0 "You will cancel the ritual. However, you will also lose your piety"
+
+  new_ek_special_buildings_events.0002.t:0 "The Trial of Iron"  
+  new_ek_special_buildings_events.0002.desc:0 "The forge calls for those who seek unyielding strength and resolve. The Trial of Iron is a brutal test, where flesh meets steel and willpower is tempered like the finest blade.\n\nWill you submit to the anvil and prove yourself worthy of the forge's embrace?"  
+  new_ek_special_buildings_events.0002.a:0 "I will face the trial"  
+  new_ek_special_buildings_events.0002.a.tt:0 "Step into the crucible, where only the strong emerge reforged and invincible."  
+  new_ek_special_buildings_events.0002.b:0 "I don't think i can make it"  
+  new_ek_special_buildings_events.0002.b.tt:0 "The forge smolders with disappointment, but it will wait for your resolve to return."  
+
+  new_ek_special_buildings_events.0003.t:0 "The Trial of the Blood"  
+  new_ek_special_buildings_events.0003.desc:0 "The forge demands sacrifice, both of body and spirit, and only those who survive its trials may receive the power of the Bloodforged. This is not merely a test; it is a rebirth through fire and blood. Will you endure the flames and claim the forge’s dark gift?\n\nThe ritual will take a toll on your mind, but greatness is forged in the crucible of pain."  
+  new_ek_special_buildings_events.0003.a:0 "I accept the trial"  
+  new_ek_special_buildings_events.0003.a.tt:0 "Face the Trial of the Blood and emerge as one reborn, tempered in the fires of the forge."  
+  new_ek_special_buildings_events.0003.b:0 "I cannot endure this"  
+  new_ek_special_buildings_events.0003.b.tt:0 "The trial is postponed, but the forge will not forget your hesitation."
+
+  new_ek_special_buildings_events.0004.t:0 "The Trial of Nirncrux"  
+  new_ek_special_buildings_events.0004.desc:0 "The ultimate test of the Bloodroot Forge lies before you: the Trial of Nirncrux. This trial delves into the very essence of the forge's power, fusing your soul with the raw and volatile energies of Nirncrux. To succeed is to transcend mortality and wield strength that rivals the gods themselves. But beware! the forge's touch spares no weakness, and failure may cost your soul.\n\nWill you claim the forge's final and greatest gift, becoming one with its fiery essence?"  
+  new_ek_special_buildings_events.0004.a:0 "For Lord Hircine!!"  
+  new_ek_special_buildings_events.0004.a.tt:0 "Surrender yourself to the forge, and rise as a true avatar of its power."  
+  new_ek_special_buildings_events.0004.b:0 "I can't take this anymore"  
+  new_ek_special_buildings_events.0004.b.tt:0 "The forge's wrath is silent, but its promise remains unclaimed." 
+
+  new_ek_special_buildings_events.0005.t:0 "The Blood-Forged Trial is Done"  
+  new_ek_special_buildings_events.0005.desc:0 "The arduous trials have ended. As you lay at the brink of death within the crucicle.... a radiant glow begins to emanate from your flesh..."  
+  new_ek_special_buildings_events.0005.a:0 "Is it done?"
+
+  new_ek_special_buildings_events.0006.t:0 "Bloodforged Ascension"  
+  new_ek_special_buildings_events.0006.desc:0 "It is done. The Bloodroot Forge has molded you into its ultimate creation—a Bloodforged. Your molten form radiates power, your veins pulse with the energy of Nirncrux, and your strength surpasses mortal comprehension. You are no longer merely a being of flesh and blood; you are an instrument of the forge’s eternal will, a champion of its fiery purpose. None can stand against you, and none will forget the sight of your blazing form.\n\nGo forth, Bloodforged, and hunt your enemies."  
+  new_ek_special_buildings_events.0006.a:0 "I am Bloodforged"  
+  new_ek_special_buildings_events.0006.a.tt:0 "You are the forge’s masterpiece, a molten warrior with newfound strength"    
+
+
+

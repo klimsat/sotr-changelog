@@ -1,0 +1,13 @@
+﻿l_english:
+
+
+  ## Giant ##
+
+  nick_jamfist:0 "Jamfist"  
+  nick_jamfist_desc:1 "Travelling Khajiits would do well to keep their distance, lest they want to be #bold Jammed#! between [CharYourHerHis(CHARACTER)] mighty fist and Nirni herself."
+
+
+  ## Sinmur ##
+
+  nick_the_terrible_sinmur:0 "the Terrible"
+  nick_the_terrible_sinmur_desc:1 "Sinmur was a formidable half-Giant chieftain, a towering figure of immense strength and unyielding will. Unlike many of his Giant kin who fled before [GetScriptedCharacterByHistoryID( 'companion_ysgramor_merethic_era' ).GetFirstName] and his Companions, Sinmur fearlessly stood his ground.  \n\nSinmur led the Giants in a massive war against the Companions, with both sides suffering heavy casualties. The final clash took place in Sinmur's barrow, where the chieftain faced Ysgramor himself in combat. During their duel, Ysgramor shattered Sinmur's club and struck him down with his legendary battleaxe, Wuuthrad. \n\nWith Sinmur's death, the war with the Giants came to an end, and the Companions celebrated their hard-won victory. The battle was immortalized in the ballad "The Song of Sinmur", and great efforts were made to ensure the half-Giant would never return. \n\nDespite his defeat, Sinmur 'the Giant of Legend' remains a legendary figure in Skyrim's history, symbolizing both the fierce resilience and the might of the ancient Giants. \n\n Sinmur's bones lie deep beneath Shor's Stone, his tomb locked and watched by the restless spirits of fallen Companions, Jalarma Fireheart and Bron Darkhammer. \n\n #weak The seals hold firm, the spirits stand watch, and the land above remains undisturbed. Yet, deep beneath Shor’s Stone, where the echoes of battle have long since faded, something still lingers. A presence, a weight in the air. The past is buried, but some things are never truly at rest.#!"

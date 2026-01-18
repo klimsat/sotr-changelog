@@ -1,0 +1,89 @@
+﻿l_english:
+#Druid King Regalia
+
+  has_artifact_druid_king_crown_seed:0 "You own the [druid_king_crown_seed.GetName] [artifact|E]"
+
+  has_artifact_druid_king_gauntlet_seed:0 "You own the [druid_king_gauntlet_seed.GetName] [artifact|E]"
+
+  has_artifact_druid_king_staff_seed:0 "You own the [druid_king_staff_seed.GetName] [artifact|E]"
+
+  #Crown
+  convert_crown_seed_decision:0 "Plant the Sacred Seed"
+  convert_crown_seed_decision_desc:0 "Long have the sacred seeds of Galen lain dormant since the passing of the last Chosen Druid King. Whispered through the groves and glades of Galen, these sacred seeds are said to carry not merely the legacy of a ruler, but the living continuation of the ancient pact between nature and spirit.\n\nOnly those of unshaken resolve and harmony with nature itself may stir what sleeps within. It is said that an artifact of great power shall emerge when planted by those who it deemed worthy, blooming from within the seed’s awakening.\n\n@artifact_icon! #help You may challenge or purchase the seed from whoever holds them using the [interaction|E] menu.#!"
+  convert_crown_seed_decision_tooltip:0 "Begin the ancient rite of planting the sacred seed."
+  convert_crown_seed_decision_requirement:0 "You follow the [druidic_tradition|E] and possess the Sacred Seed."
+  convert_crown_seed_decision_effect_tooltip:0 "You will plant the seed in a solemn ritual, and await its judgment."
+  convert_crown_seed_decision_custom_tooltip_1:0 "Only the worthy may be chosen."
+  convert_crown_seed_decision_custom_tooltip_2:0 "If accepted, something ancient and powerful may stir."
+  convert_crown_seed_decision_custom_tooltip_3:0 "There is no undoing this act."
+  convert_crown_seed_decision_confirm:0 "Let the seed take root"
+  convert_crown_seed_decision_journey_begins:0 "The ritual begins. The grove falls silent..."
+
+  #Gauntlet
+  convert_gauntlet_seed_decision:0 "Plant the Sacred Seed"
+  convert_gauntlet_seed_decision_desc:0 "Long have the sacred seeds of Galen lain dormant since the passing of the last Chosen Druid King. Whispered through the groves and glades of Galen, these sacred seeds are said to carry not merely the legacy of a ruler, but the living continuation of the ancient pact between nature and spirit.\n\nOnly those of unshaken resolve and harmony with nature itself may stir what sleeps within. It is said that an artifact of great power shall emerge when planted by those who it deemed worthy, blooming from within the seed’s awakening.\n\n@artifact_icon! #help You may challenge or purchase the seed from whoever holds them using the [interaction|E] menu.#!"
+  convert_gauntlet_seed_decision_tooltip:0 "Begin the ancient rite of planting the sacred seed."
+  convert_gauntlet_seed_decision_requirement:0 "You follow the [druidic_tradition|E] and possess the Sacred Seed."
+  convert_gauntlet_seed_decision_effect_tooltip:0 "You will plant the seed in a solemn ritual, and await its judgment."
+  convert_gauntlet_seed_decision_custom_tooltip_1:0 "Only the worthy may be chosen."
+  convert_gauntlet_seed_decision_custom_tooltip_2:0 "If accepted, something ancient and powerful may stir."
+  convert_gauntlet_seed_decision_custom_tooltip_3:0 "There is no undoing this act."
+  convert_gauntlet_seed_decision_confirm:0 "Let the seed take root"
+  convert_gauntlet_seed_decision_journey_begins:0 "The ritual begins. The grove falls silent..."
+
+
+  #Staff
+  convert_staff_seed_decision:0 "Plant the Sacred Seed"
+  convert_staff_seed_decision_desc:0 "Long have the sacred seeds of Galen lain dormant since the passing of the last Chosen Druid King. Whispered through the groves and glades of Galen, these sacred seeds are said to carry not merely the legacy of a ruler, but the living continuation of the ancient pact between nature and spirit.\n\nOnly those of unshaken resolve and harmony with nature itself may stir what sleeps within. It is said that an artifact of great power shall emerge when planted by those who it deemed worthy, blooming from within the seed’s awakening.\n\n@artifact_icon! #help You may challenge or purchase the seed from whoever holds them using the [interaction|E] menu.#!"
+  convert_staff_seed_decision_tooltip:0 "Begin the ancient rite of planting the sacred seed."
+  convert_staff_seed_decision_requirement:0 "You follow the [druidic_tradition|E] and possess the Sacred Seed."
+  convert_staff_seed_decision_effect_tooltip:0 "You will plant the seed in a solemn ritual, and await its judgment."
+  convert_staff_seed_decision_custom_tooltip_1:0 "Only the worthy may be chosen."
+  convert_staff_seed_decision_custom_tooltip_2:0 "If accepted, something ancient and powerful may stir."
+  convert_staff_seed_decision_custom_tooltip_3:0 "There is no undoing this act."
+  convert_staff_seed_decision_confirm:0 "Let the seed take root"
+  convert_staff_seed_decision_journey_begins:0 "The ritual begins. The grove falls silent..."
+
+  #Druid King Ritual
+  proclaim_druid_king_decision:0 "Proclaim Yourself Druid King"
+  proclaim_druid_king_decision_desc:0 "To claim the mantle of the Druid King is to step into a covenant older than crowns or kingship. The ritual must be performed in a sacred grove, where the spirits of nature gather and the Green itself listens. Before leaf and stone, beast and breeze, you shall speak your truth and be weighed—not by lords, but by the wild harmony of Y’ffre’s creation.\n\nIf the rite is accepted, the land shall know your name, and the winds shall carry it as sovereign of root and branch."
+  proclaim_druid_king_decision_tooltip:0 "Perform the sacred ritual to proclaim yourself the Druid King of Galen."
+  proclaim_druid_king_decision_requirement:0 "You follow the [druidic_tradition|E] and stand in a sacred grove."
+  proclaim_druid_king_decision_effect_tooltip:0 "You will undertake the ritual of proclamation before the spirits of the Green."
+  proclaim_druid_king_decision_custom_tooltip_1:0 "The spirits of nature will weigh your soul in silence."
+  proclaim_druid_king_decision_custom_tooltip_2:0 "If accepted, you will be crowned in the eyes of the Green."
+  proclaim_druid_king_decision_custom_tooltip_3:0 "There is no falsehood in the wild—only truth or ruin."
+  proclaim_druid_king_decision_confirm:0 "Let the Grove Bear Witness"
+  proclaim_druid_king_decision_journey_begins:0 "The circle is drawn. The silence deepens. The rite begins..."
+  proclaim_druid_king_decision_own_crown:0 "You possess the Druid King's Crown."
+  proclaim_druid_king_decision_own_gauntlet:0 "You possess the Druid King's Gauntlet."
+  proclaim_druid_king_decision_own_staff:0 "You possess the Druid King's Staff."
+
+ #Gray Host Summoning
+  perform_gray_host_summoning_decision:0 "Summon the Gray Host"
+  perform_gray_host_summoning_decision_desc:0 "The Lord of the [Glossary('Gray Host', 'VAMPIRE_COVEN_GRAY_HOST_GLOSS')] are bound in eternal servitude to Molag Bal, their souls chained to the Lord of Domination. At his whisper, they could summon an army of vampires, were-beasts, and the risen dead. All of whom are bound together in a fate as inescapable as death itself.\n\nWhere Nirn’s veil grows thin, speak the Forbidden Oath. If Molag Bal answers, the earth will split, shadows will bleed, and the Host will march again."
+  perform_gray_host_summoning_decision_tooltip:0 "Call forth the Gray Host to descend upon your enemies."
+  perform_gray_host_summoning_decision_requirement:0 "You are still a [GetTrait('vampire_character').GetName( CHARACTER.Self )]."
+  perform_gray_host_summoning_decision_effect_tooltip_1:0 "You will summon a terrible army of 666 consisting of vampires, werewolves, and the dead."
+  perform_gray_host_summoning_decision_effect_tooltip_2:0 "@warning_icon! #N The Summoning decision can't be selected for another 6 months.#!"
+  perform_gray_host_summoning_decision_custom_tooltip_1:0 "The Gray Host will rise from shadow and grave."
+  perform_gray_host_summoning_decision_custom_tooltip_2:0 "Those who face them will know despair and death."
+  perform_gray_host_summoning_decision_custom_tooltip_3:0 "The pact is eternal—once made, it cannot be broken."
+  perform_gray_host_summoning_decision_confirm:0 "Call the Host"
+  perform_gray_host_summoning_decision_journey_begins:0 "The air chills. The veil parts. The Gray Host marches..."
+  perform_gray_host_summoning_decision_effect_message_title:0 "You Have Summoned the Gray Host"
+  perform_gray_host_summoning_decision_effect_message_desc:0 "Use [decision|E] menu to summon the Gray Host."
+
+  # Form the Forest Kingdom
+  form_forest_kingdom_decision:0 "Form the Forest Kingdom"
+  form_forest_kingdom_decision_desc:0 "For generations, the clans of Kreath have lived apart—bound by the same woods, yet divided by pride and old rivalries. Whispers now speak of a greater purpose, to bring the Nedic People of Kreath together beneath one banner and shape a realm where forest and kin stand as one. \n\nIn that unity, the a new [kingdom|E] within Kreath may finally take root, with you as it's #bold Forest-King.#!"
+  form_forest_kingdom_decision_tooltip:0 "You will establish the [GetTitleByKey('k_forest_kingdom').GetNameNoTier] [kingdom|E] within the lands of Kreath."
+  form_forest_kingdom_decision_confirm:0 "The people of Kreath shall unite"
+  form_forest_kingdom_percentage: "You control at least #V 40%#! of [counties|E] in [GetGeographicalRegion('mundus_tamriel_skyrim_falkreath').GetName] (Current: [SCOPE.ScriptValue('kreath_decision_region_owned_percent_value')|0]%)"
+
+  # Form the Frost Kingdom
+  form_frost_kingdom_decision:0 "Form the Frost Kingdom"
+  form_frost_kingdom_decision_desc:0 "Whispers now speak of a greater purpose, to bring the Northen Nedes together beneath one banner and shape a realm where all shall stand as one. \n\nIn that unity, a new [kingdom|E] may be established within the North, with you as it's #bold Frost-King.#!"
+  form_frost_kingdom_decision_tooltip:0 "You will establish the [GetTitleByKey('k_frost_kingdom').GetNameNoTier] [kingdom|E]."
+  form_frost_kingdom_decision_confirm:0 "The people of the North shall unite"
+  form_frost_kingdom_percentage: "You control at least #V 20%#! of [counties|E] in [GetGeographicalRegion('mundus_tamriel_skyrim_karth').GetName] (Current: [SCOPE.ScriptValue('karth_decision_region_owned_percent_value')|0]%)"

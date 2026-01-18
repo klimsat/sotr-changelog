@@ -1,0 +1,9 @@
+﻿l_english:
+
+ unique_strong_weapon_template_requirement: "You are not strong enough to wield this weapon. You must be either: [GetTrait('strong').GetName( GetNullCharacter )], [GetTrait('whole_of_body').GetName( GetNullCharacter )], or [GetTrait('physique_good_3').GetName( GetNullCharacter )],"
+ unique_very_strong_weapon_template_requirement: "You are not strong enough to wield this weapon. You must be either an actual Giant or have all the following traits: [GetTrait('strong').GetName( GetNullCharacter )], [GetTrait('whole_of_body').GetName( GetNullCharacter )], and [GetTrait('physique_good_3').GetName( GetNullCharacter )]/[GetTrait('physique_good_2').GetName( GetNullCharacter )]/[GetTrait('physique_good_1').GetName( GetNullCharacter )]"
+ unique_expert_wizard_requirement: "You need to be at the very least be an [GetTrait('education_magic_3').GetName( GetNullCharacter )] to be able to wield this staff."
+ unique_chosen_by_yffre_requirement: "You need to be either [GetTrait('marked_by_yffre').GetName( GetNullCharacter )] or has the title of the [GetTrait('druid_king').GetName( GetNullCharacter )]."
+ lodorr_template_requirement: "You are not Lodorr the Necromancer"
+ unique_magically_adept_weapon_template_requirement: "Your magical skill is insufficient to wield this artifact. You must possess at least [GetTrait('arcana_good_2').GetName( GetNullCharacter )] or [GetTrait('education_magic_3').GetName( GetNullCharacter )]."
+ wuuthrad_strong_weapon_template_requirement: "You are not strong enough to wield this weapon. You must be either: [GetTrait('strong').GetName( GetNullCharacter )], [GetTrait('physique_good_1').GetName( GetNullCharacter )], [GetTrait('physique_good_2').GetName( GetNullCharacter )], or [GetTrait('physique_good_3').GetName( GetNullCharacter )],"

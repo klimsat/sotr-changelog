@@ -1,0 +1,4 @@
+﻿l_english:
+
+  artifact_redhorn_foemarrow_name:0 "Foemarrow"
+  artifact_redhorn_foemarrow_description:1 "Foemarrow is the brutal spear of [GetScriptedCharacterByHistoryID( 'goblin_bloodhorn_1_merethic_era' ).GetFirstName] the Bloodhorn, crudely fashioned from the marrows of fallen enemies and bound together with sinew and bone."

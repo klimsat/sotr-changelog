@@ -1,0 +1,29 @@
+﻿l_english:
+
+  sotr_prison_break.0001.t:0 "Prison Break"
+  sotr_prison_break.0001.desc_dragonborn:0 "They thought stone and iron could hold me. I draw breath and speak a Word, and the prison answers in ruin. Doors tear free, walls crack, and men scatter like leaves. Who do they think they were keeping?"
+
+  sotr_prison_break.0001.desc_dragonpriest:0 "They dared confine the servants of the World-Eater. I call upon ancient rites, and the prison bends like kneeling flesh. Stone cracks, guards scream, and I walk free once more."
+
+  sotr_prison_break.0001.desc_archmage:0 "They call it a prison. I burn through every layer of defense, reducing prison and jailer alike to ash and dust. Little do they know, that this reality was never more than an illusion to me."
+
+  sotr_prison_break.0001.desc_ansei:0 "I call forth the Shehai, and its edge passes through walls, chains, and guards alike. A prison is only made for those who have not yet mastered 'The Song of the Blade'."
+
+  sotr_prison_break.0001.desc_vampirelord:0 "They lock the doors and post their guards, believing hunger makes me weak. As soon as the Sun went down, they have entered my domain. I shed the pretense of flesh and unfurl my true form. Wings tear through stone, claws reap the living, and turn the corridors into slaughterhouses. By dawn, nothing living remains to bar my way."
+
+  sotr_prison_break.0001.desc_mindweaver:0 "They hear no spell, no weapon, and no warning. Their thoughts simply cease to be their own. The prison unlocks itself, and I depart while they argue with voices they believe are still theirs."
+
+  sotr_prison_break.0001.desc_werewolflord:0 "They chain me like an animal and call it a prison. I swell into my true form and unleashed fury beyond their understanding. Those who stand in my way scatter beneath my claws."
+
+  sotr_prison_break.0001.desc_werebear:0 "I transformed into my true form and simply pull the prison apart—bars bent like wax, walls torn free, towers brought down by my hands. When I leave, the place lies in rubble."
+
+  sotr_prison_break.0001.desc_wereboar:0 "They bind me with chains and narrow halls, not knowing what i truly am. I transformed into my true form, then I lower my head and charge. Walls collapse, doors break to splinters, and guards are sent flying like #EMP broken toys#!."
+  sotr_prison_break.0001.a:0 "I am free!"
+
+  sotr_prison_break.0002.t:0 "Escaped!"
+  sotr_prison_break.0002.desc_house_arrest:0 "My prisoner, [escapee.GetTitledFirstName], has escaped [escapee.GetHerHis] imprisonment!"
+  sotr_prison_break.0002.desc_dungeon:0 "My prisoner, [escapee.GetTitledFirstName], has escaped my dungeons!"
+  sotr_prison_break.0002.desc_ending:0 "\n\nThe guards have nothing to say in their defense, but the damage is already done nonetheless."
+  sotr_prison_break.0002.a:0 "Curse you, [escapee.GetFirstNameNoTooltip]!"
+
+  recipient_escaped_from_prison:0 "[recipient.GetShortUINameNoTooltip] Escaped"

@@ -1,0 +1,10 @@
+﻿l_english:
+ 
+  # Reestablish the Deathland Horde Decision
+  reestablish_deathland_horde_decision:0 "Reestablish the Deathland Horde"
+  reestablish_deathland_horde_decision_desc:0 "The Deathland Horde has long since fractured, its once-mighty power scattered into countless warring clans. The Desert Orcs, though fierce and proud, remain divided while threats gather on every horizon. With a strong and unyielding warlord, the orcs could once more unite under one banner, forging the Deathland Horde anew to stand against all who would dare challenge them."
+  reestablish_deathland_horde_decision_tooltip:0 "You will reforge the [empire|E] of the Deathland Horde."
+  reestablish_deathland_horde_decision_confirm:0 "The Desert Orcs will rise as one Horde!"
+  form_deathland_horde_effect_de_jure_tt:0 "All kingdoms within the [region|E] of [GetGeographicalRegion('mundus_tamriel_deathlands').GetName] will become [de_jure|E] vassals of [deathland_horde.GetName]"
+  form_deathland_horde_effect_de_jure_tt_a:0 "After It's creation the following [kingdoms|E] will become [de_jure|E] part of [deathland_horde.GetNameNoTier]: [red_horde.GetNameNoTier], [black_horde.GetNameNoTier], [white_horde.GetNameNoTier], [blue_horde.GetNameNoTier]"
+  form_deathland_horde_effect_de_jure_tt_b:0 "[dragontail.GetNameNoTier] will become [de_jure|E] part of [deathland_horde_kingdom.GetName], unless you also hold [alikr.GetNameNoTier]"

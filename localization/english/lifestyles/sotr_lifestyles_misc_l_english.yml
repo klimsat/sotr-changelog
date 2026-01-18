@@ -1,0 +1,87 @@
+﻿l_english:
+
+ ###################
+ ###### Misc ######
+ ###################
+
+ #Trigger Localization
+ MERETHIC_SWORD_SINGER_LIFESTYLE_PERK_POINTS_TRIGGER: "Sword-Singer lifestyle perk points: $NUM|V0$"
+ MERETHIC_VAMPIRE_LIFESTYLE_PERK_POINTS_TRIGGER: "Vampire lifestyle perk points: $NUM|V0$"
+ MERETHIC_WEREWOLF_LIFESTYLE_PERK_POINTS_TRIGGER: "Werewolf lifestyle perk points: $NUM|V0$"
+ MERETHIC_WEREBEAR_LIFESTYLE_PERK_POINTS_TRIGGER: "Werebear lifestyle perk points: $NUM|V0$"
+ MERETHIC_WEREBOAR_LIFESTYLE_PERK_POINTS_TRIGGER: "Werebear lifestyle perk points: $NUM|V0$"
+
+ # Effects
+
+ GAINS_A_SWORD_SINGER_LIFESTYLE_PERKPOINT: "Gains $VALUE|V0$ [merethic_sword_singer_lifestyle|E] [perk|E] Unlock"
+ GAINED_A_SWORD_SINGER_LIFESTYLE_PERKPOINT: "Gained $VALUE|V0$ [merethic_sword_singer_lifestyle|E] [perk|E] Unlock"
+ I_GAIN_A_SWORD_SINGER_LIFESTYLE_PERKPOINT: "You gain $VALUE|V0$ [merethic_sword_singer_lifestyle|E] [perk|E] Unlock"
+ I_GAINED_A_SWORD_SINGER_LIFESTYLE_PERKPOINT: "You gained $VALUE|V0$ [merethic_sword_singer_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINS_A_SWORD_SINGER_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName|U] gains $VALUE|V0$ [merethic_sword_singer_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINED_A_SWORD_SINGER_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName|U] gained $VALUE|V0$ [merethic_sword_singer_lifestyle|E] [perk|E] Unlock"
+
+
+
+ GAINS_A_MERETHIC_VAMPIRE_LIFESTYLE_PERKPOINT: "Gains $VALUE|V0$ [merethic_vampire_lifestyle|E] [perk|E] Unlock"
+ GAINED_A_MERETHIC_VAMPIRE_LIFESTYLE_PERKPOINT: "Gained $VALUE|V0$ [merethic_vampire_lifestyle|E] [perk|E] Unlock"
+ I_GAIN_A_MERETHIC_VAMPIRE_LIFESTYLE_PERKPOINT: "You gain $VALUE|V0$ [merethic_vampire_lifestyle|E] [perk|E] Unlock"
+ I_GAINED_A_MERETHIC_VAMPIRE_LIFESTYLE_PERKPOINT: "You gained $VALUE|V0$ [merethic_vampire_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINS_A_MERETHIC_VAMPIRE_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName|U] gains $VALUE|V0$ [merethic_vampire_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINED_A_MERETHIC_VAMPIRE_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName|U] gained $VALUE|V0$ [merethic_vampire_lifestyle|E] [perk|E] Unlock"
+
+ GAINS_A_MERETHIC_WEREWOLF_LIFESTYLE_PERKPOINT: "Gains $VALUE|V0$ [merethic_werewolf_lifestyle|E] [perk|E] Unlock"
+ GAINED_A_MERETHIC_WEREWOLF_LIFESTYLE_PERKPOINT: "Gained $VALUE|V0$ [merethic_werewolf_lifestyle|E] [perk|E] Unlock"
+ I_GAIN_A_MERETHIC_WEREWOLF_LIFESTYLE_PERKPOINT: "You gain $VALUE|V0$ [merethic_werewolf_lifestyle|E] [perk|E] Unlock"
+ I_GAINED_A_MERETHIC_WEREWOLF_LIFESTYLE_PERKPOINT: "You gained $VALUE|V0$ [merethic_werewolf_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINS_A_MERETHIC_WEREWOLF_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName|U] gains $VALUE|V0$ [merethic_werewolf_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINED_A_MERETHIC_WEREWOLF_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName|U] gained $VALUE|V0$ [merethic_werewolf_lifestyle|E] [perk|E] Unlock"
+
+ GAINS_A_MERETHIC_WEREBEAR_LIFESTYLE_PERKPOINT: "Gains $VALUE|V0$ [merethic_werebear_lifestyle|E] [perk|E] Unlock"
+ GAINED_A_MERETHIC_WEREBEAR_LIFESTYLE_PERKPOINT: "Gained $VALUE|V0$ [merethic_werebear_lifestyle|E] [perk|E] Unlock"
+ I_GAIN_A_MERETHIC_WEREBEAR_LIFESTYLE_PERKPOINT: "You gain $VALUE|V0$ [merethic_werebear_lifestyle|E] [perk|E] Unlock"
+ I_GAINED_A_MERETHIC_WEREBEAR_LIFESTYLE_PERKPOINT: "You gained $VALUE|V0$ [merethic_werebear_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINS_A_MERETHIC_WEREBEAR_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName|U] gains $VALUE|V0$ [merethic_werebear_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINED_A_MERETHIC_WEREBEAR_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName|U] gained $VALUE|V0$ [merethic_werebear_lifestyle|E] [perk|E] Unlock"
+
+ GAINS_A_MERETHIC_WEREBOAR_LIFESTYLE_PERKPOINT: "Gains $VALUE|V0$ [merethic_wereboar_lifestyle|E] [perk|E] Unlock"
+ GAINED_A_MERETHIC_WEREBOAR_LIFESTYLE_PERKPOINT: "Gained $VALUE|V0$ [merethic_wereboar_lifestyle|E] [perk|E] Unlock"
+ I_GAIN_A_MERETHIC_WEREBOAR_LIFESTYLE_PERKPOINT: "You gain $VALUE|V0$ [merethic_wereboar_lifestyle|E] [perk|E] Unlock"
+ I_GAINED_A_MERETHIC_WEREBOAR_LIFESTYLE_PERKPOINT: "You gained $VALUE|V0$ [merethic_wereboar_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINS_A_MERETHIC_WEREBOAR_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName|U] gains $VALUE|V0$ [merethic_wereboar_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINED_A_MERETHIC_WEREBOAR_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName|U] gained $VALUE|V0$ [merethic_wereboar_lifestyle|E] [perk|E] Unlock"
+
+ GAINS_MERETHIC_SWORD_SINGER_LIFESTYLE_XP: "Gains $VALUE|V0$ [merethic_sword_singer_lifestyle|E] Experience"
+ GAINED_MERETHIC_SWORD_SINGER_LIFESTYLE_XP: "Gained $VALUE|V0$ [merethic_sword_singer_lifestyle|E] Experience"
+ I_GAIN_MERETHIC_SWORD_SINGER_LIFESTYLE_XP: "You gain $VALUE|V0$ [merethic_sword_singer_lifestyle|E] Experience"
+ I_GAINED_MERETHIC_SWORD_SINGER_LIFESTYLE_XP: "You gained $VALUE|V0$ [merethic_sword_singer_lifestyle|E] Experience"
+ TARGET_GAINS_MERETHIC_SWORD_SINGER_LIFESTYLE_XP: "[CHARACTER.GetShortUIName|U] gains $VALUE|V0$ [merethic_sword_singer_lifestyle|E] Experience"
+ TARGET_GAINED_MERETHIC_SWORD_SINGER_LIFESTYLE_XP: "[CHARACTER.GetShortUIName|U] gained $VALUE|V0$ [merethic_sword_singer_lifestyle|E] Experience"
+
+ GAINS_MERETHIC_VAMPIRE_LIFESTYLE_XP: "Gains $VALUE|V0$ [merethic_vampire_lifestyle|E] Experience"
+ GAINED_MERETHIC_VAMPIRE_LIFESTYLE_XP: "Gained $VALUE|V0$ [merethic_vampire_lifestyle|E] Experience"
+ I_GAIN_MERETHIC_VAMPIRE_LIFESTYLE_XP: "You gain $VALUE|V0$ [merethic_vampire_lifestyle|E] Experience"
+ I_GAINED_MERETHIC_VAMPIRE_LIFESTYLE_XP: "You gained $VALUE|V0$ [merethic_vampire_lifestyle|E] Experience"
+ TARGET_GAINS_MERETHIC_VAMPIRE_LIFESTYLE_XP: "[CHARACTER.GetShortUIName|U] gains $VALUE|V0$ [merethic_vampire_lifestyle|E] Experience"
+ TARGET_GAINED_MERETHIC_VAMPIRE_LIFESTYLE_XP: "[CHARACTER.GetShortUIName|U] gained $VALUE|V0$ [merethic_vampire_lifestyle|E] Experience"
+
+ GAINS_MERETHIC_WEREWOLF_LIFESTYLE_XP: "Gains $VALUE|V0$ [merethic_werewolf_lifestyle|E] Experience"
+ GAINED_MERETHIC_WEREWOLF_LIFESTYLE_XP: "Gained $VALUE|V0$ [merethic_werewolf_lifestyle|E] Experience"
+ I_GAIN_MERETHIC_WEREWOLF_LIFESTYLE_XP: "You gain $VALUE|V0$ [merethic_werewolf_lifestyle|E] Experience"
+ I_GAINED_MERETHIC_WEREWOLF_LIFESTYLE_XP: "You gained $VALUE|V0$ [merethic_werewolf_lifestyle|E] Experience"
+ TARGET_GAINS_MERETHIC_WEREWOLF_LIFESTYLE_XP: "[CHARACTER.GetShortUIName|U] gains $VALUE|V0$ [merethic_werewolf_lifestyle|E] Experience"
+ TARGET_GAINED_MERETHIC_WEREWOLF_LIFESTYLE_XP: "[CHARACTER.GetShortUIName|U] gained $VALUE|V0$ [merethic_werewolf_lifestyle|E] Experience"
+
+
+ GAINS_MERETHIC_WEREBEAR_LIFESTYLE_XP: "Gains $VALUE|V0$ [merethic_werebear_lifestyle|E] Experience"
+ GAINED_MERETHIC_WEREBEAR_LIFESTYLE_XP: "Gained $VALUE|V0$ [merethic_werebear_lifestyle|E] Experience"
+ I_GAIN_MERETHIC_WEREBEAR_LIFESTYLE_XP: "You gain $VALUE|V0$ [merethic_werebear_lifestyle|E] Experience"
+ I_GAINED_MERETHIC_WEREBEAR_LIFESTYLE_XP: "You gained $VALUE|V0$ [merethic_werebear_lifestyle|E] Experience"
+ TARGET_GAINS_MERETHIC_WEREBEAR_LIFESTYLE_XP: "[CHARACTER.GetShortUIName|U] gains $VALUE|V0$ [merethic_werebear_lifestyle|E] Experience"
+ TARGET_GAINED_MERETHIC_WEREBEAR_LIFESTYLE_XP: "[CHARACTER.GetShortUIName|U] gained $VALUE|V0$ [merethic_werebear_lifestyle|E] Experience"
+
+ GAINS_MERETHIC_WEREBOAR_LIFESTYLE_XP: "Gains $VALUE|V0$ [merethic_wereboar_lifestyle|E] Experience"
+ GAINED_MERETHIC_WEREBOAR_LIFESTYLE_XP: "Gained $VALUE|V0$ [merethic_wereboar_lifestyle|E] Experience"
+ I_GAIN_MERETHIC_WEREBOAR_LIFESTYLE_XP: "You gain $VALUE|V0$ [merethic_wereboar_lifestyle|E] Experience"
+ I_GAINED_MERETHIC_WEREBOAR_LIFESTYLE_XP: "You gained $VALUE|V0$ [merethic_wereboar_lifestyle|E] Experience"
+ TARGET_GAINS_MERETHIC_WEREBOAR_LIFESTYLE_XP: "[CHARACTER.GetShortUIName|U] gains $VALUE|V0$ [merethic_wereboar_lifestyle|E] Experience"
+ TARGET_GAINED_MERETHIC_WEREBOAR_LIFESTYLE_XP: "[CHARACTER.GetShortUIName|U] gained $VALUE|V0$ [merethic_wereboar_lifestyle|E] Experience"

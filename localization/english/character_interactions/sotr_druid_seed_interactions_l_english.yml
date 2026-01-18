@@ -1,0 +1,37 @@
+﻿l_english:
+
+  #Demand Druid Seed Interaction
+
+  demand_druid_seed_interaction:0 "Demand Sacred Seed"
+  demand_druid_seed_interaction_desc:0 "As a druid of Galen, you may demand the Sacred Seed from [recipient.GetShortUINameNoTooltip]. All druids of Galen have the right to test their worth and plant it."
+  demand_druid_seed_interaction_notification:0 "Sacred Seed Demanded"
+  demand_druid_seed_interaction_notification_refused:0 "[recipient.GetTitledFirstNameNoTooltip|U] has refused to relinquish the Sacred Seed."
+  DEMAND_DRUID_SEED_PROPOSAL:0 "The Sacred Seed is not yours to hoard. It belongs to the Green—and to those it deemed worthy. As a Druid of Galen, I claim the right to test it."
+  DEMAND_DRUID_SEED_ACCEPT:0 "Relinquish the Seed"
+  DEMAND_DRUID_SEED_REJECT:0 "Refuse the Claim"
+  demand_druid_seed_interaction_is_valid_tt_1:0 "You must be a [GetTrait('druid_galen').GetName( GetPlayer )] and the target must hold the Sacred Seed."
+  demand_druid_seed_interaction_is_valid_tt_2:0 "You have already demanded the Sacred Seed within the last 3 years."
+
+  #Challenge Druid Seed Interaction
+
+  challenge_for_druid_seed_interaction:0 "Challenge for the Sacred Seed"
+  challenge_for_druid_seed_interaction_desc:0 "Invoke the ancient rite of Verdant Contest. As a druid of Galen, you may challenge [recipient.GetShortUINameNoTooltip] to a sacred duel for the right to plant the Seed and be judged worthy."
+  challenge_for_druid_seed_interaction_notification:0 "Sacred Duel Issued"
+  challenge_for_druid_seed_interaction_notification_refused:0 "[recipient.GetTitledFirstNameNoTooltip|U] has refused your challenge, denying the rite of contest."
+  CHALLENGE_DRUID_SEED_PROPOSAL:0 "By root and stone, leaf and fang—I invoke the Rite of Verdant Contest. Let the Seed choose its bearer through trial and strength of spirit."
+  CHALLENGE_DRUID_SEED_ACCEPT:0 "Accept the Duel"
+  CHALLENGE_DRUID_SEED_REJECT:0 "Refuse the Rite"
+  challenge_for_druid_seed_interaction_is_valid_tt_1:0 "You must be a [GetTrait('druid_galen').GetName( GetPlayer )] and the target must hold the Sacred Seed."
+  challenge_for_druid_seed_interaction_is_valid_tt_2:0 "You may only challenge a holder of the Sacred Seed once every 3 years."
+  challenge_to_artifact_combat_interaction_victor_get_seed.tt:0 "The Victor will own the [target.GetName]"
+  challenge_to_artifact_combat_interaction_loser_get_seed.tt:0 "The loser will not leave with the [target.GetName]"
+
+  # Buy Sacred Seeds
+
+  buy_druid_seed_artifact:0 "Buy Sacred Seed Claim"
+  buy_druid_seed_artifact_desc:0 "Spend [gold|E] to gain one of the Sacred Seeds held by [recipient.GetShortUINameNoTooltip]. As a Druid of Galen, you may offer tribute to prove your worthiness."
+  bought_druid_seed_claim.t:0 "You bought out one of the Sacred Seed"
+  sold_druid_seed_claim.t:0 "Sacred Seed Claim Purchased"
+  sold_druid_seed_claim.desc:0 "[actor.GetTitledFirstNameNoTooltip] has offered tribute in exchange for your [artifact|E]—the Sacred Seed."
+  claimed_my_druid_seed_opinion:0 "Bought my Sacred Seed"
+  buy_druid_seed_price:0 "$NAME$ gets [gold_i]$VALUE|+$"

@@ -1,0 +1,29 @@
+﻿l_english:
+
+ ########################
+ ##### Game Concept #####
+ ########################
+ 
+  #Lifestyles Concept
+  game_concept_merethic_sword_singer_lifestyle: "Sword-Singer Lifestyle"
+  game_concept_merethic_sword_singer_lifestyle_desc: "The $game_concept_merethic_sword_singer_lifestyle$ is attained by Characters who follow the Way of the Sword, honing their mastery over form, focus, and studying the art of the Sword-Singers. Each step along the Way brings them closer to becoming an Ansei, which enables them to manifest their own Spirit-Sword."
+
+  game_concept_merethic_vampire_lifestyle: "Vampire Lifestyle"
+  game_concept_merethic_vampire_lifestyle_desc: "The $game_concept_merethic_vampire_lifestyle$ is suitable for Characters who want to improve their Vampire abilities."
+
+  game_concept_merethic_werewolf_lifestyle: "Werewolf Lifestyle"
+  game_concept_merethic_werewolf_lifestyle_desc: "The $game_concept_merethic_werewolf_lifestyle$ is suitable for Characters who want to improve their Werewolf abilities." 
+
+  game_concept_merethic_werebear_lifestyle: "Werebear Lifestyle"
+  game_concept_merethic_werebear_lifestyle_desc: "The $game_concept_merethic_werebear_lifestyle$ is suitable for Characters who want to improve their Werebear abilities." 
+
+  game_concept_merethic_wereboar_lifestyle: "Wereboar Lifestyle"
+  game_concept_merethic_wereboar_lifestyle_desc: "The $game_concept_merethic_wereboar_lifestyle$ is suitable for Characters who want to improve their Wereboar abilities." 
+
+  #Era Concept
+
+  game_concept_compendium_merethic_era:0 "Merethic Era"
+  game_concept_compendium_merethic_era_desc:0 "The #bold Merethic Era#! also known as the Mythic Era, and the Era of the Elves, is a time before recorded calendars and written chronicles. It marks the dawn of mortal civilization, when Elves and Men first spread across the continent, founding the earliest cities and kingdoms. Myths tell of the arrival of the Aldmeri, the wandering of the Nedes, and the shaping of cultures that would define the ages to come.\n\nThe Merethic Era was also an age of divine presence and terrible upheaval. The #LORE [compendium_dawn_era]#! had ended, yet the echoes of creation lingered, and gods still walked among mortals. Towering structures such as the Adamantine Tower and Crystal-Like-Law stood as testaments to unfathomable power. It was during this era that the first empires of the Elves rose, and Ysgramor led the first great human migrations from Atmora."
+
+  game_concept_compendium_dawn_era:0 "Dawn Era"
+  game_concept_compendium_dawn_era_desc:0 "The #bold Dawn Era#! is the mythic age before all mortal history, when time itself had yet to take its proper shape. It is the age of creation, when the Aedra and Daedra contended over the shaping of the Mundus, and when the very laws of existence were forged in struggle, sacrifice, and betrayal.\n\nLegends tell of the birth of Nirn, the raising of the first Towers, and the sundering of the primordial spirits into gods, demons, and ancestors. This was the era of great cataclysms — the Convention at the Adamantine Tower, the fall of Lorkhan, and the withdrawal of many divines from the mortal plane. Few mortals, if any, walked the world then, and what is known of the age comes only from myth, song, and the fragments of elven memory.\n\nThe Dawn Era gave way to the #LORE [compendium_merethic_era]#!, when history and mortal civilization first began."

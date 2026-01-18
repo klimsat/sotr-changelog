@@ -1,0 +1,8 @@
+﻿l_english:
+
+  # Become a Sword-Singer
+  become_sword_singer_decision:0 "Become a Sword-Singer"
+  become_sword_singer_decision_desc:0 "The Way of the Sword-Singer is the ultimate philosophy to achieve mastery over the blade.\n\nMany have tried to walk the Way, yet few ever hear the Song. To become a Sword-Singer is to dedicate one’s soul to mastery — to see the sword not as a weapon, but as the shape of one’s own self."
+  become_sword_singer_decision_effect:0 "Unlocks the [merethic_sword_singer_lifestyle|E] and begins your journey toward becoming an Ansei and manifesting your Shehai."
+  become_sword_singer_decision_tooltip:0 "Walk the Way of the Sword."
+  become_sword_singer_decision_confirm:0 "Let the Song of the Sword guide me!"

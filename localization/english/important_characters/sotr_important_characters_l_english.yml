@@ -1,0 +1,111 @@
+﻿l_english:
+
+  # Check whether if this is before or after the merethic era
+  imp_char_ME_check:0 "LessThan_CFixedPoint( GetGlobalVariable('start_year').GetValue, '(CFixedPoint)2024' )"
+  imp_char_1E_check:0 "GreaterThan_CFixedPoint( GetGlobalVariable('start_year').GetValue, '(CFixedPoint)5420' )"
+
+  ##### ME 476 Bookmarks
+
+  ##### LORE
+  #Ysgramor
+  imp_char_companion_ysgramor_merethic_era:0 ""
+  imp_char_companion_ysgramor_merethic_era_desc:0 "Ysgramor was a legendary Atmoran warrior, leader of the Five Hundred Companions, and the fabled progenitor of Skyrim's long lineage of Nordic rulers. In the aftermath of the Night of Tears—when the Snow Elves attacked the human settlers in Saarthal—Ysgramor spearheaded a vengeful conquest, culminating in a decisive victory that reshaped Skyrim's future. \n\nFollowing their first triumph, Ysgramor and his Companions unleashed a brutal and relentless campaign against the Elves and Giants, ultimately driving them into obscurity. These conquests secured human supremacy in Skyrim, and indirectly, the continent of Tamriel itself. \n\nAmong his people, Ysgramor became enshrined in myth as a figure of unparalleled greatness, revered for his unwavering valor and his legendary battleaxe 'Wuuthrad'. His legacy endures through the Companions, who continue to uphold his warrior spirit and time-honored traditions."
+
+  #Yngol  
+  imp_char_companion_yngol_merethic_era:0 ""  
+  imp_char_companion_yngol_merethic_era_desc:0 "Yngol was the eldest son of [GetScriptedCharacterByHistoryID( 'companion_ysgramor_merethic_era' ).GetFirstName], Captain of the ship Harakk, and is the creator of the famous weapon, Wuuthrad. A fierce warrior and proud Atmoran, he perished during the voyage across the Sea of Ghosts when his ship was lost in a great storm. Though his life was cut short, his legacy endured through Nordic legends, and his tomb remains a revered site in Skyrim."
+
+  #Ylgar
+  imp_char_companion_ylgar_merethic_era:0 ""  
+  imp_char_companion_ylgar_merethic_era_desc:0 "Ylgar was the second son of [GetScriptedCharacterByHistoryID( 'companion_ysgramor_merethic_era' ).GetFirstName] and the younger brother to [GetScriptedCharacterByHistoryID( 'companion_yngol_merethic_era' ).GetFirstName]. He commanded the Darumzu during the Conquest of 'The Return'. He became a great recruiter, and brought many great warriors to reclaim Saarthal from the Snow Elves. \n\nYlgar was known as a warrior with an unwavering spirit, whose fierce will bore him many mighty deeds. He fought alongside his father in countless battles and wars against the Snow Elves and Giants. \n\nAs a Companion and heir of Ysgramor, Ylgar was instrumental in safeguarding Atmoran supremacy in the North, ensuring his father's legacy endured for generations to come."
+
+  #Jeek
+  imp_char_companion_jeek_of_the_river_merethic_era:0 ""  
+  imp_char_companion_jeek_of_the_river_merethic_era_desc:0 "Jeek of the River was the Captain of the Jorrvaskr, discoverer of the Skyforge, founder of Whiterun, and keeper of the Companions’ original oath. He upheld that vow until the end of his days, and his legacy endures through the Companions of Jorrvaskr."  
+
+  #The Snow Prince
+  imp_char_falmer_snow_prince_merethic_era:0 ""  
+  imp_char_falmer_snow_prince_merethic_era_desc:0 "The Snow Prince, last of the Snow Elven royal bloodline, was a renowned figure among the Falmer and the Atmorans alike. \n\nUpon his father’s untimely death at the hands of the invading Atmorans, he stepped forward as both ruler and savior of his kin. Revered and beloved, he embodied the hope and defiance of his people, standing tall against the 'Tides of the North'. \n\nThe Snow Prince slew many of his enemies in battle, wielding both ice magic and spear with deadly precision. But it was not strength alone that made him feared — it was his presence. He rallied the scattered elven lords of the north, uniting many mighty warriors and mages under one banner. He led his people to glorious triumphs, shattering enemy lines and buried their hopes beneath ice and steel. \n\nYet fate dealt a cruel hand during his final battle at Moesring. The mighty elven prince met his end not at the hands of a seasoned warrior or sorcerer, but by the most unexpected foe imaginable.\n\nAfter witnessing the Snow Prince claim her mother’s life, a young child, named #bold Finna#! seized the sword that belonged to her dead mother. With a desperate cry, she cast her mother’s blade through the bitter air. Amidst the storm and chaos of winter, the Snow Prince fell, forever altering the fate of the realm. \n\nWith his death, the line of the Noble Falmeri Princes faded into myth, and the ancient era of Snow Elves drifted quietly into a mere memory."  
+
+  #Lamae Bal
+  #imp_char_bal_100:0 ""
+  #imp_char_bal_100_desc:0 "Once a Nedic priestess of Arkay, Lamae Bal was violated by Molag Bal and turned into the first vampire that ever existed. A powerful figure among her many offspring, she now burns with hatred for both of these gods, one for forsaking her and the other for this abhorrent deed."
+
+  #Asliel Direnni
+  imp_char_direnni_ancestor_asliel_merethic_era:0 ""  
+  imp_char_direnni_ancestor_asliel_merethic_era_desc:0 "Asliel Direnni was a renowned Aldmer figure of Clan Direnni, famed as a great pioneer in the field of Alchemy. He authored the #italic Compendious Almanac of Reagents#!, a tome without which "the art of Alchemy was all but undefined". \n\nHis brilliance and achievements were famed throughout Summerset, and it was said that he was among the first to be invited into the legendary Psijic Order. To this day, Asliel's name endures in the annals of Direnni history as a symbol of true Elven ingenuity and craft."  
+
+  #Cygnus Direnni 
+  imp_char_direnni_ancestor_cygnus_merethic_era:0 ""  
+  imp_char_direnni_ancestor_cygnus_merethic_era_desc:0 "Cygnus Direnni, monikered, 'the Swan of Tyrigel', is honored as a leader and explorer of Clan Direnni, said to be the first to discover the Isle of Balfiera and the Adamantine Tower. \n\nSome accounts hold that the Direnni left the Summerset Isles to fulfill their destiny of rule from Balfiera, while others claim they were driven into exile. Regardless of how it occured, her vision and resolve laid the foundation for Elven power in High Rock. Later generations revered her as the founding mother of the Balfieri Elven culture, as well as the one who raised Clan Direnni to true prominence."  
+
+  #Asterie Bedel
+  imp_char_glenumbran_asterie_bedel_1_merethic_era:0 ""  
+  imp_char_glenumbran_asterie_bedel_1_merethic_era_desc:0 "Asterie Bedel was an accomplished Breton blacksmith of the Late Merethic Era, the first figure known to blend the smithing techniques of both men and mer into her crafts. \n\nHer most famed creation is the legendary chrysamere, a mighty adamantium claymore whose offensive power is said to be second only to its formidable defenses."  
+
+  #Veloth
+  imp_char_veloth_the_prophet_merethic_era:0 ""
+  imp_char_veloth_the_prophet_merethic_era_desc:0 "Veloth is regarded as one of, if not the most, influential figures in Chimeri history. He was the spiritual leader of a dissident movement that shaped an entirely new elven culture and identity.\n\nVeloth rejected the values of Aldmeri society, which he considered to be constricted by rigid castes & blood purity. He spoke to those disillusioned with the established order, offering a vision of a more just and honest way of life. His teachings were set down in the Velothi Prophecies, which turned away from traditional Aedra-worship and instead upheld Boethiah, Azura, and Mephala as the “Good Daedra.”\n\nVeloth’s movement grew quickly as more clans joined his cause, drawing swift retribution from the Aldmeri elite. Condemned and harassed within Summerset, he and his followers eventually set forth on a mass migration to mainland Tamriel—a journey later known as the Great Exodus.\n\nTrinimac, the Champion of Auri-El, opposed and halted the exodus, but he was said to be defeated by the Daedric Prince Boethiah, whose triumph secured Veloth’s path forward.\n\nThough the journey was long and harsh, Veloth’s leadership bound his people together, uniting them through shared faith and purpose. From this exodus the foundations of Resdayn were laid, and Veloth would forever be known as the spiritual father of the Chimeri People."
+
+  #Yagrum Bagarn 
+  imp_char_dwemer_bagarn_yagrum_merethic_era:0 ""
+  #Change in case someone made a 1E bookmark
+  imp_char_dwemer_bagarn_yagrum_merethic_era_desc:0 "[SelectLocalization( LessThan_CFixedPoint( GetGlobalVariable('start_year').GetValue, '(CFixedPoint)5420' ), 'imp_char_yagrum_bagarn_merethic_era_desc_pre', 'imp_char_yagrum_bagarn_merethic_era_desc_post' )]"
+  imp_char_yagrum_bagarn_merethic_era_desc_pre:0 "Since Yagrum is not the primary heir to the Bagarn lands and titles, Yagrum's parents are planning on sending him to the Academy of Tonal Architecture. Hopefully he will not bring shame to the Bagarn name."
+  imp_char_yagrum_bagarn_merethic_era_desc_post:0 "$imp_char_bagarn_1000_desc$"
+
+  #Chief Tonal Architect Kagrenac
+  imp_char_dwemer_kagrenac_merethic_era:0 ""
+  #Change in case someone made a 1E bookmark
+  imp_char_dwemer_kagrenac_merethic_era_desc:0 "[SelectLocalization( LessThan_CFixedPoint( GetGlobalVariable('start_year').GetValue, '(CFixedPoint)5420' ), 'imp_char_kagrenac_merethic_era_desc_pre', 'imp_char_kagrenac_merethic_era_desc_post' )]"
+  imp_char_kagrenac_merethic_era_desc_pre:0 "Kagrenac is a highly ambitious and inquisitive young Tonal Architect, eager to learn everything about the arcane and the mysteries of the Dwemer. As he serve as the apprentice to the Chief Tonal Architect, he relentlessly pursues mastery of his craft, determined to unlock the secrets of the Tonal Arts and surpass the limits of conventional knowledge."
+  imp_char_kagrenac_merethic_era_desc_post:0 "Lord Kagrenac, also known as Kagrnak and the Shop Foreman, was the Dwemeri Chief Tonal Architect during the time of the First Council. The foremost arcane philosopher and mage-smith of the Dwemer, he was a "pioneer" in the field of mythopoeic forces, and devised tools with which to harness them with the intent of transcending the limits of Dwemer mortality. He crafted powerful tools designed to manipulate these forces with the ambition of transcending the limitations of Dwemer mortality. Kagrenac played a crucial role in the creation of the Brass God, Anumidium. Some theories suggest that his experiments with the Heart may have been the catalyst for the mysterious disappearance of the Dwemer in 1E 700."
+
+  #Auri-el
+  imp_char_arana_0_ancestor:0 ""
+  imp_char_arana_0_ancestor_desc:0 "$normal_desc_auriel$"
+
+  #Xarxes
+  #imp_char_xarxes_1000:0 ""
+  #imp_char_xarxes_1000_desc:0 "$normal_desc_xarxes$"
+
+  #Syrabane
+  imp_char_syrabane_1000_merethic_era:0 ""
+  imp_char_syrabane_1000_merethic_era_desc:0 "$normal_desc_syrabane$"
+
+  #Phynaster
+  imp_char_phynaster_1000_merethic_era:0 ""
+  imp_char_phynaster_1000_merethic_era_desc:0 "$normal_desc_phynaster$"
+
+  #Torinaan the Foresailor
+  imp_char_auridon_torinaan:0 ""
+  imp_char_auridon_torinaan_desc:0 "Torinaan 'the Foresailor' was known as the first of the Aldmer to set foot upon the Summerset Isles, the pioneer whose landfall heralded the dawn of Aldmeri civilization in Tamriel. He is venerated as the founder of Firsthold, the oldest Elven city of the Isles, and is the famed forebear of its ruling line."
+
+  #Topal the Pilot
+  imp_char_aldmer_topal_the_pilot_merethic_era:0 ""
+  imp_char_aldmer_topal_the_pilot_merethic_era_desc:0 "Topal the Pilot, also known as Topal the Explorer or Torval the Pilot, was a legendary Aldmer explorer and poet, remembered as the first of his kind to chart the coasts and waterways of Tamriel. \n\nAboard his ship, the Niben, he sailed into the bay that now bears his name. Topal would go down as the most renowned navigator in Tamriel’s history."
+
+  #### VAMPIRES
+
+  #King Styriche of Verkarth
+  imp_char_keptu_graysk_1_merethic_era:0 ""  
+  imp_char_keptu_graysk_1_merethic_era_desc:0 "Styriche was a Nedic monarch of the Kingdom of Verkarth. He forged a sinister pact with Molag Bal, surrendering his soul in exchange for the power to defend his realm. From this unholy covenant arose the Gray Host — an immortal army of vampires and werewolves bound by his will. \n\nYet, to the bitter disappointment of most of its members, his bargain with Molag Bal ultimately condemned both himself and the entire Gray Host to eternal bondage in Coldharbour."  
+
+  ##TEMPLATE , DO NOT DELETE
+
+  #  imp_char_:0 ""
+  #  imp_char__desc:0 ""
+
+
+
+  #219155.968 =440.1.1/3360 306755.968 =450/3370. seems to be in hours, decimal as rollover counter? 219179.968 =440.1.2 859087.04=1.1.1 409759.744=440.1.1
+  #859087.04=1.1.1
+  #1726327.04=100.1.1
+  #-1692640.256=200.1.1
+  #cross at 29/30.1.148
+  #
+  #
+  #
+  #
+  #
+  #

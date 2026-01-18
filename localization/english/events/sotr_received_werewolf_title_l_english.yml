@@ -1,0 +1,92 @@
+﻿l_english:
+
+  #Received the Werewolf Title
+  received_werewolf_title_event.0001.t:0 "The Fate of #V [received_werewolf_pack_title.GetName]#!"
+  received_werewolf_title_event.0001.desc:0 "The howls of [received_werewolf_pack_title.GetName] now echo for you. The feral eyes of its pack members turn to their new master.\n\nYou hold the power to claim the mantle of alpha, to name a successor who will serve as your loyal [vassal|E], or to scatter the pack to the wilds, ending their legacy beneath the moon."
+
+  received_werewolf_title_event.0001.a:0 "I will lead [received_werewolf_pack_title.GetName]"
+  received_werewolf_title_event.0001.a.tt:0 "You assume leadership of the pack and are reborn as a pure-blooded werewolf, unmatched in strength and dominance.\n\n@warning_icon! #n You will become a Lycan #!"
+
+  received_werewolf_title_event.0001.b:0 "Let another bear this mantle."
+  received_werewolf_title_event.0001.b.tt:0 "You appoint a trusted pack member to lead in your stead. The pack remains under your dominion."
+
+  received_werewolf_title_event.0001.c:0 "Break the pack."
+  received_werewolf_title_event.0001.c.tt:0 "You dissolve the pack entirely. Its name and bonds will be lost to time.\n\n@warning_icon! #n This pack will be destroyed #!"
+
+
+  #We are the new leader of this Pack
+  received_werewolf_title_event.0002.t:0 "The Alpha’s Call"
+
+  received_werewolf_title_event.0002.desc:0 "The [received_werewolf_pack_title.GetName] now kneels before you, their submission sealed in blood and instinct.\n\nYet a choice remains. Will your reign be one of open strength, where mortals tremble beneath your howls, or will your kind prowl the night unseen, hidden within the folds of mortal society?"
+
+  received_werewolf_title_event.0002.a:0 "Make it #bold Known#!"
+  received_werewolf_title_event.0002.a.tt:0 "[received_werewolf_pack_title.GetName] will reveal its true nature. You and all its members will be known as werewolves."
+
+  received_werewolf_title_event.0002.b:0 "Keep it #bold Hidden#!"
+  received_werewolf_title_event.0002.b.tt:0 "[received_werewolf_pack_title.GetName] will conceal its curse, living and hunting in secret."
+
+
+  #Entrust this title to a proxy
+  received_werewolf_title_event.0003.t:0 "The Alpha’s Choice"
+
+  received_werewolf_title_event.0003.desc:0 "The [received_werewolf_pack_title.GetName] crouches before you in silence. The air is thick with dominance and bloodlust—the throne of the alpha stands empty once more.\n\nEvery eye watches, waiting for your decree. Whomever you choose will lead in your name, bound by blood and the law of the hunt."
+
+  received_werewolf_title_event.0003.a:0 "Let [previous_werewolf_pack_holder.GetFirstName] remain as alpha."
+  received_werewolf_title_event.0003.a.tt:0 "You return leadership of the pack to its former master. They will serve you faithfully as your [vassal|E]."
+
+  received_werewolf_title_event.0003.alive.b:0 "Appoint a stronger alpha."
+  received_werewolf_title_event.0003.alive.b.tt:0 "You deny the old alpha and grant leadership to another, one whose might best ensures your dominion."
+
+  received_werewolf_title_event.0003.dead.b:0 "Choose a new leader."
+  received_werewolf_title_event.0003.dead.b.tt:0 "With the former alpha dead, you must name a new successor to lead [received_werewolf_pack_title.GetName]. They will serve as your new [vassal|E]."
+
+
+  #Destroy the Pack
+  received_werewolf_title_event.0004.t:0 "The End of [received_werewolf_pack_title.GetName]"
+
+  received_werewolf_title_event.0004.desc:0 "The fate of [received_werewolf_pack_title.GetName] lies in your hands. Will you end their bloodline forever, or spare them to wander without a pack?"
+
+  received_werewolf_title_event.0004.a:0 "Hunt them down."
+  received_werewolf_title_event.0004.a.tt:0 "You command their extinction. Their dens are burned, their howls silenced forever."
+
+  received_werewolf_title_event.0004.b:0 "Disband them."
+  received_werewolf_title_event.0004.b.tt:0 "You break their bonds and dissolve their pack. The survivors will scatter to the wilds, leaderless and forgotten."
+
+
+  #Make our Pack Public
+  received_werewolf_title_event.0005.t:0 "The Howl Unleashed"
+
+  received_werewolf_title_event.0005.desc:0 "The rite is complete. The old alpha’s blood cools, and your own burns with primal fury. The pack kneels before you, their howls shaking the night. No longer will you hide beneath the guise of man—you are the true master of fang and claw.\n\nLet the mortals cower beneath the moon, for the wild has a new ruler."
+
+  received_werewolf_title_event.0005.a:0 "Let the moon bear witness."
+  received_werewolf_title_event.0005.a.tt:0 "You take command of the pack and reveal its existence to the world. You and your members are now publicly known as werewolves."
+
+
+  #Make our Pack Secret
+  received_werewolf_title_event.0006.t:0 "The Hidden Hunt"
+
+  received_werewolf_title_event.0006.desc:0 "In the hush of the wilds, your pack bows before you. Their breaths rise in unison, the rhythm of beasts bound by blood and secrecy.\n\nLet mortals speak of kings and crowns. In shadow and wilderness, your rule shall endure through the ages."
+
+  received_werewolf_title_event.0006.a:0 "[received_werewolf_pack_title.GetName] shall hunt in silence."
+  received_werewolf_title_event.0006.a.tt:0 "You take command of the pack but keep its existence hidden. Its power will grow in the wild and the dark."
+
+
+  #Entrust this title to someone else
+  received_werewolf_title_event.0007.t:0 "The Choice of Alpha"
+
+  received_werewolf_title_event.0007.desc:0 "The [received_werewolf_pack_title.GetName] crouches in the clearing, waiting for your word. The old alpha is gone, and the moon watches in silence. You must choose who will lead—whose howl will guide them through the hunt."
+
+  received_werewolf_title_event.0007.a:0 "Give it to [candidates_werewolf_vassal_martial.GetName]"
+  received_werewolf_title_event.0007.a.tt:0 "You grant leadership of the pack to the one with the highest [martial|E], the strongest of hunters."
+
+  received_werewolf_title_event.0007.b:0 "Give it to [candidates_werewolf_vassal_diplomacy.GetName]"
+  received_werewolf_title_event.0007.b.tt:0 "You grant leadership of the pack to the one with the greatest [diplomacy|E], a voice that unites and commands loyalty."
+
+  received_werewolf_title_event.0007.c:0 "Give it to [candidates_werewolf_vassal_stewardship.GetName]"
+  received_werewolf_title_event.0007.c.tt:0 "You grant leadership of the pack to the one with the keenest [stewardship|E], ensuring its survival and order."
+
+  received_werewolf_title_event.0007.d:0 "Give it to [candidates_werewolf_vassal_learning.GetName]"
+  received_werewolf_title_event.0007.d.tt:0 "You grant leadership of the pack to the one with the greatest [learning|E], guided by ancient lore of fang and moon."
+
+  received_werewolf_title_event.0007.e:0 "Give it to [candidates_werewolf_backup_vassal.GetName]"
+  received_werewolf_title_event.0007.e.tt:0 "Eh... this one will do."

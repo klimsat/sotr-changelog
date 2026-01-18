@@ -1,0 +1,24 @@
+﻿l_english:
+
+ #############################################
+
+ atmoran_harbinger_male:0 "Harbinger"
+ atmoran_harbinger_female:0 "Harbinger"
+
+ atmoran_companion_harbinger_male:0 "[CHARACTER.Custom('harbinger')]"
+ atmoran_companion_harbinger_female:0 "[CHARACTER.Custom('harbinger')]"
+ atmoran_companion_harbinger:0 "Companions"
+
+ atmoran_captain_male:0 "Captain"
+ atmoran_captain_female:0 "Captain"
+
+ atmoran_companion_captain_male:0 "[CHARACTER.Custom('circle_captain')]"
+ atmoran_companion_captain_female:0 "[CHARACTER.Custom('circle_captain')]"
+ atmoran_companion_captain:0 "Crew"
+
+ thunder_shield_sister_elder_sister:0 "Elder Sister"
+ thunder_shield_sister_member:0 "Sister"
+
+ atmoran_thunder_shield_sister_female:0 "[CHARACTER.Custom('thunder_shield_sister')]"
+
+ Captain:0 "Captain"

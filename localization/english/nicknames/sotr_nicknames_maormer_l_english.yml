@@ -1,0 +1,6 @@
+﻿l_english:
+
+  # Maormer
+  nick_the_necromancer_uldor:0 "the Necromancer"  
+  nick_the_necromancer_uldor_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] is a dreaded sorcerer, feared across the seas for [CharYourHerHis(CHARACTER)] mastery over death, ruling through terror and undeath."
+

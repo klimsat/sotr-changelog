@@ -1,0 +1,12 @@
+﻿l_english:
+
+  #Tutorial
+  PICK_ANY_CHARACTER:0 "Play as any Ruler in the #bold Merethic Era...#! or #bold create your own!#!"
+  #Tutorial
+  GAMESETUP_TUTORIAL_PROMPT_HEADER:1 "Welcome to Elder Kings II : Songs of the Return"
+  GAMESETUP_TUTORIAL_PROMPT_INTRO:0 "Elder Kings II is a total conversion which transforms the historic setting of Crusader Kings III into the fantastical Tamriel from The Elder Scrolls!"
+  GAMESETUP_TUTORIAL_PROMPT_RECOMMEND:0 "If you are new to the base game of Crusader Kings III, we strongly recommend you play the tutorial."
+  GAMESETUP_TUTORIAL_PROMPT_ABOUT_RULER:0 "In the tutorial, you will play as $bm_clan_direnni$, an Elven Ruler in High Rock. Lead your family and Dynasty to defeat your enemies and become the Lady of Balfiera!"
+  GAMESETUP_TUTORIAL_PROMPT_ASK:0 "Learn the game as $bm_clan_direnni$?"
+
+  GAMESETUP_TUTORIAL_PROMPT_PLAY_BUTTON_TOOLTIP:0 "#T Play as $bm_clan_direnni$, in ME 476#!"

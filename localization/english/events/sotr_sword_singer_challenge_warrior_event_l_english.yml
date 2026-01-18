@@ -1,0 +1,29 @@
+﻿l_english:
+
+  swordsinger_challenge_warrior_event.0001.t:0 "The Warrior Accepts the Challenge"
+  swordsinger_challenge_warrior_event.0001.desc:0 "[recipient.GetShortUINameNoTooltip] has accepted your challenge. No ambush, no trickery, no false witnesses. [recipient.GetSheHe|U] will meet you blade to blade, will against will, beneath the open sky where all may bear witness."
+  swordsinger_challenge_warrior_event.0001.a:0 "Let the song begin."
+  swordsinger_challenge_warrior_event.0001.a.tt:0 "You will travel to [recipient.GetShortUINameNoTooltip]'s location."
+  swordsinger_challenge_warrior_event.0001.b:0 "I think I still need more training..."
+  swordsinger_challenge_warrior_event.0001.b.tt:0 "You will cancel the challenge."
+
+  swordsinger_challenge_warrior_event.0003.t:0 "Victory of the Shehai"
+  swordsinger_challenge_warrior_event.0003.artifact.desc:0 "Weapons clashed and wills collided. When the final verse faded, it was you who stood unbroken. [recipient.GetShortUINameNoTooltip] lies defeated, their weapon fell silent before your song.\n\nThey yet draw breath, sprawled upon the earth, and beside them rests their gear—one [artifact|E] in particular resonating faintly, as if acknowledging its new master."
+  swordsinger_challenge_warrior_event.0003.no_artifact.desc:0 "Fighters clashed and wills collided. When the final verse faded, it was you who stood unbroken. [recipient.GetShortUINameNoTooltip] lies defeated, their blade fallen silent before the truth of your song."
+  swordsinger_challenge_warrior_event.0003.a:0 "I will take my spoils."
+  swordsinger_challenge_warrior_event.0003.a.tt:0 "You will claim a weapon or martial artifact from [recipient.GetShortUINameNoTooltip]."
+  swordsinger_challenge_warrior_event.0003.b:0 "Victory is enough. Let them keep their arms."
+  swordsinger_challenge_warrior_event.0003.b.tt:0 "You will let them keep their [artifact|E]."
+  swordsinger_challenge_warrior_event.0003.c:0 "The final verse remains"
+  swordsinger_challenge_warrior_event.0003.c.tt:0 "You will determine the fate of your foe."
+
+  swordsinger_challenge_warrior_event.0004.t:0 "The Last Verse"
+  swordsinger_challenge_warrior_event.0004.desc:0 "[recipient.GetShortUINameNoTooltip|U] lies at your feet, awaiting the final note of your song."
+  swordsinger_challenge_warrior_event.0004.a:0 "Rise, and remember this day"
+  swordsinger_challenge_warrior_event.0004.a.tt:0 "[recipient.GetShortUINameNoTooltip] is spared by [actor.GetShortUINameNoTooltip]."
+  swordsinger_challenge_warrior_event.0004.b:0 "Your song ends here"
+  swordsinger_challenge_warrior_event.0004.b.tt:0 "[recipient.GetShortUINameNoTooltip] will be slain."
+
+  swordsinger_victim.toast.title:0 "[recipient.GetShortUINameNoTooltip] has fallen."
+  swordsinger_victim_fate.toast.tt:0 "[recipient.GetShortUINameNoTooltip] was slain by [actor.GetShortUINameNoTooltip] in ritual combat."
+

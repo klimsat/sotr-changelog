@@ -1,0 +1,12 @@
+﻿l_english:
+
+ ## Ayleid ##
+
+ nick_the_dreamer:0 "the Dreamer"
+ nick_the_dreamer_desc:1 "[CharYouSheHe(CHARACTER)|U] dwells in the twilight between wakefulness and slumber, where reality itself becomes a malleable dreamscape. In [CharYourHerHis(CHARACTER)] mind, being awake is but a fleeting illusion and being asleep is where [CharYouSheHe(CHARACTER)] felt a vivid state of life."
+ nick_flower_king:0 "the Flower-King"
+ nick_flower_king_desc:1 "A sovereign whose reign mirrors the eternal bloom of nature. In a realm where every petal whispers ancient secrets, [CharYouSheHe(CHARACTER)] nurtures life with both grace and unyielding resolve. With a gentle hand that guides and a spirit as enduring as a perennial blossom, the Flower-King ensures that beauty and magic flourish, even as time weaves its inevitable tapestry. Atleast, that's what [CharYouSheHe(CHARACTER)] thinks..."
+ nick_blue_lion_ayleid:1 "the Blue Lion"
+ nick_blue_lion_ayleid_desc:0 "A Royal sovereign whose dominion streches from the heartlands to the northern crags of Elseweyr. The Blue Lion ensures that majesty, magic and might reign supreme in [CharYourHerHis(CHARACTER)] pride"
+ nick_the_orcsbane:1 "the Orcsbane"
+ nick_the_orcsbane_desc:0 "He was the one who managed to take down the dreaded [GetScriptedCharacterByHistoryID( 'orsimer_razog_ghazgul_merethic_era').GetName]. The relentless Orc Warmonger had never known defeat—until [CHARACTER.GetShortUINameNoTooltipNoFormat|U] proved otherwise. Because of [CharYourHerHis(CHARACTER)] deed, the Deathland Horde was never the same again and would thereafter drift into the sands."

@@ -1,0 +1,13 @@
+﻿l_english:
+ #New COAs
+ dwemer_group_coa_gfx:0 "Dwemeri"
+#New Buildings
+ ek_falmeri_building_gfx:0 "Falmer"
+#Clothings
+ ek_falmeri_clothing_gfx:0 "Falmer"
+ ek_desert_orc_clothing_gfx:0 "Desert Orc"
+ ek_sinestral_clothing_gfx:0 "Sinestral"
+ ek_giant_clothing_gfx:0 "Giant"
+ ek_sea_giant_clothing_gfx:0 "Sea Giant"
+ ek_nedic_ancient_clothing_gfx:0 "Ancient Nedic" 
+

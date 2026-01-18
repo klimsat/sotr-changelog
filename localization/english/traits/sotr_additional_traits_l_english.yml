@@ -1,0 +1,144 @@
+﻿l_english:
+
+  #Dragon Priest
+  trait_dragon_priest: "Dragon Priest"
+  trait_dragon_priest_desc: "Dragon Priests are powerful figures who represent the Dragon overlords. In their service, many of these dragon priests were granted extraordinary powers and knowledge, enabling them to use devastating shouts and other magical feats to overwhelm their foes. They are the most faithful servant of the 'World-Eater', embracing his dominion over time and fate."
+  trait_dragon_priest_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a powerful figure who represents the Dragon overlords. In their service, [ROOT.GetCharacter.GetSheHe|U] was granted extraordinary powers and knowledge in ancient magical arts, enabling [ROOT.GetCharacter.GetHerHim] to use devastating shouts and other magical feats to overwhelm [ROOT.GetCharacter.GetHerHis] foes. [ROOT.GetCharacter.GetSheHe|U] is one of the most faithful servant of the 'World-Eater', embracing his dominion over time and fate."
+
+  #Companion Member
+  trait_companion_member: "Original Companion"
+  trait_companion_member_desc: "This person is one of the Original 500 who swore the [oath_of_the_companions|E] and came to Ysgramor's aid in his greatest time of need."
+  trait_companion_member_ysgramor_desc: "[ROOT.GetCharacter.GetSheHe|U] is the famed leader of the 500 Companions, who have all sworn the sacred [oath_of_the_companions|E]."
+  trait_companion_member_character_desc: "[ROOT.GetCharacter.GetSheHe|U] is one of the Original 500 who swore the [oath_of_the_companions|E] and came to Ysgramor's aid in his greatest time of need."
+
+  #Blood of Ysgramor
+  trait_blood_of_ysgramor: "Blood of Ysgramor"
+  trait_blood_of_ysgramor_desc: "This character bears the famed bloodline of Ysgramor—the first Harbinger of the Companions and the founding father of the Atmoran Civilization in Tamriel."
+  trait_blood_of_ysgramor_character_desc: "[ROOT.GetCharacter.GetSheHe|U] carries the blood of Ysgramor—the first Harbinger of the Companions and the founding father of the Atmoran Civilization in Tamriel."
+
+  #Aedric Lineage
+  trait_aedric_lineage:0 "Aedric Lineage"
+  trait_aedric_lineage_desc:0 "This character descends from a genealogically maintained bloodline traced back to the [GetFaithDoctrine('doctrine_pantheon_divines').GetBaseName]."
+  trait_aedric_lineage_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] belongs to a genealogically maintained bloodline traced back to the [GetFaithDoctrine('doctrine_pantheon_divines').GetBaseName]."
+
+
+
+  #Aedric Lineage Pure
+  trait_aedric_lineage_pure:0 "Aedric Lineage Pure"
+  trait_aedric_lineage_pure_desc:0 "This character descends from a genealogically maintained bloodline traced back to the [GetFaithDoctrine('doctrine_pantheon_divines').GetBaseName]."
+  trait_aedric_lineage_pure_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] belongs to a genealogically maintained bloodline traced back to the [GetFaithDoctrine('doctrine_pantheon_divines').GetBaseName]."
+
+  #Aedric Lineage Mixed
+  trait_aedric_lineage_mixed:0 "Aedric Lineage Mixed"
+  trait_aedric_lineage_mixed_desc:0 "This character descends from a genealogically maintained bloodline traced back to the [GetFaithDoctrine('doctrine_pantheon_divines').GetBaseName]."
+  trait_aedric_lineage_mixed_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] belongs to a genealogically maintained bloodline traced back to the [GetFaithDoctrine('doctrine_pantheon_divines').GetBaseName]."
+
+  #Aedric Lineage Distant
+  trait_aedric_lineage_distant:0 "Aedric Lineage Distant"
+  trait_aedric_lineage_distant_desc:0 "This character descends from a genealogically maintained bloodline traced back to the [GetFaithDoctrine('doctrine_pantheon_divines').GetBaseName]."
+  trait_aedric_lineage_distant_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] belongs to a genealogically maintained bloodline traced back to the [GetFaithDoctrine('doctrine_pantheon_divines').GetBaseName]."
+
+  #Oars Body
+  trait_oars_body: "Oars Body"
+  trait_oars_body_desc: "Through some curse or some other reason, their limbs are now composed of actual wood."
+  trait_oars_body_character_desc: "Through some curse or some other reason, [ROOT.GetCharacter.GetHerHis] limbs are now composed of actual wood."
+
+  #One Eared
+  trait_one_eared: "One-Eared"
+  trait_one_eared_desc: "Lost an ear, but it's enough to hear you talk behind their back."
+  trait_one_eared_character_desc: "Lost an ear, but it's enough to hear you talk behind [ROOT.GetCharacter.GetHerHis] back."
+
+  #Noseless
+  trait_no_nose: "Noseless"
+  trait_no_nose_desc: "The bright side is...there's one less thing to break in a fight."
+  trait_no_nose_character_desc: "The bright side is...there's one less thing to break in a fight."
+
+  #Blood-Forged
+  trait_blood_forged: "Blood-Forged"
+  trait_blood_forged_desc: "Blood. Nirncrux. Iron. These elements, twisted together in the heart of the Bloodroot Forge through the unholy rites in the name of Hircine can yield a source of power unlike any other. \n\nThose who are marked by the forge are bound to its dark influence—driven to madness, their minds consumed by feral, bloodthirsty urges, forever thirsting for carnage."
+  trait_blood_forged_character_desc: "Blood. Nirncrux. Iron. These elements, twisted together in the heart of the Bloodroot Forge through the unholy rites in the name of Hircine can yield a source of power unlike any other. \n\nThose who are marked by the forge are bound to its dark influence—driven to madness, their minds consumed by feral, bloodthirsty urges, forever thirsting for carnage."
+
+  #Deaf
+  trait_deaf: "Deaf"
+  trait_deaf_desc: "This person can't hear you."
+  trait_deaf_character_desc: "[ROOT.GetCharacter.GetSheHe|U] can't hear you."
+
+  #sorrow_blood
+  trait_sorrow_blood: "Sorrow-Blood"
+  trait_sorrow_blood_desc: "This person bears the Sorrow-Blood—a mark of a bitter and tragic legacy, said to descend from a long-eared individual..."
+  trait_sorrow_blood_character_desc: "[ROOT.GetCharacter.GetSheHe|U] carries the Sorrow-Blood, for [ROOT.GetCharacter.GetSheHe] descends from a long-eared individual."
+
+
+  #Haunted by Loss
+  trait_haunted_by_loss: "Haunted by Loss"
+  trait_haunted_by_loss_desc: "This character is still deeply traumatized by the loss of their Pride & Joy, they can't afford to feel the pain of losing another."
+  trait_haunted_by_loss_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip|U] is still deeply traumatized by the loss of [ROOT.GetCharacter.GetHerHis] Pride & Joy, [ROOT.GetCharacter.GetSheHe] can't afford to feel the pain of losing another."
+
+  #Marked by Y'ffre  
+  trait_marked_by_yffre: "Marked by Y'ffre"  
+  trait_marked_by_yffre_desc: "This individual has planted one of the Sacred Seeds and was acknowledged by the Green. They walk the first steps of a deeper path—one that may yet lead them to claim the mantle of the Druid King. The wilds respond to their presence, and ancient spirits watch with silent judgment as their journey unfolds."  
+  trait_marked_by_yffre_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] bears the mark of Y'ffre—a sign of recognition from the Green itself. Having awakened one of the Sacred Seeds, [ROOT.GetCharacter.GetSheHe|U] stands among the few chosen who may one day claim the mantle of the Druid King. The trees seem to lean in [ROOT.GetCharacter.GetHerHis] direction, the winds whisper [ROOT.GetCharacter.GetHerHis] name, and the old roots stir beneath [ROOT.GetCharacter.GetHerHis] feet."  
+
+
+  #Druid King of Galen
+  trait_druid_king: "Druid King"
+  trait_druid_king_desc: "The Druid King of Galen is the sovereign chosen by Y'ffre and the verdant spirits of nature. Wielding the authority of sacred groves and ancient rites, the Druid King commands not only the respect of the druids but also the hidden powers that slumber beneath root and stone. \n\nThrough deep communion with the Green, they could shape the land, calm the wilds, and guard the balance between civilization and the untamed world."
+  trait_druid_king_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is the Druid King of Galen, sovereign and sacred figure chosen by Y'ffre and the spirits of the Green. Endowed with deep knowledge of druidic rites and ancient natural magic, [ROOT.GetCharacter.GetSheHe|U] can shape the land, command the beasts, and call upon elemental forces. \n\n[ROOT.GetCharacter.GetHerHis|U] reign is a living pact with nature itself—one that binds [ROOT.GetCharacter.GetHerHim] to both protection and wrath."
+
+  #Silvenar
+  trait_silvenar: "Silvenar"
+  trait_silvenar_desc: "The Silvenar is revered as Voice of the Green and the living soul of the Bosmeri people. Chosen through divine harmony with Y’ffre’s song, the Silvenar embodies the will of the forests and speaks for every creature that walks beneath their boughs. \n\nWherever the Silvenar treads, the trees whisper and the winds still, for their word is the decree of nature itself and their presence a living covenant of peace and growth."
+  trait_silvenar_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is the Silvenar—the living Voice of the Green and spiritual heart of the Bosmer. Through [ROOT.GetCharacter.GetHerHis] communion with Y’ffre and the spirits of the forest, [ROOT.GetCharacter.GetSheHe] can sense the shifting moods of nature and unite even the wildest of beings under [ROOT.GetCharacter.GetHerHis] voice."
+
+  #Green Lady
+  trait_green_lady: "Green Lady"
+  trait_green_lady_desc: "The Green Lady represents the feral heart and primal fury of the Bosmeri people. Chosen as the Silvenar’s counterpart, she is the embodiment of Y’ffre’s wild and untamed strength—the wrath that defends the balance when harmony is broken."
+  trait_green_lady_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is the Green Lady—the living embodiment of Y’ffre’s wrath and the wild spirit that guards the Bosmeri soul. Where the Silvenar brings peace, [ROOT.GetCharacter.GetSheHe] brings vengeance, channeling the fury of the forest against those who threaten the Green."
+
+
+  #Sword-Singer  
+  trait_sword_singer: "Sword-Singer"  
+  trait_sword_singer_desc: "This individual is a follower of the "Way of the Sword", also known as the "Song of the Blade". Their martial philosophy on blade mastery have made them capable of astonishing feats of swordsmanship.\n\n#help Attaining this [trait|E] unlock's the challenge warrior [interaction|E]. Each time they win a fight will allow them to gain Sword-Singer [lifestyle|E] [experience|E] or [GetTrait('sword_singer_ansei').GetName( GetNullCharacter )] [trait_level_track_xp|E]"  
+  trait_sword_singer_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a follower of the "Way of the Sword", also known as the "Song of the Blade". [ROOT.GetCharacter.GetHerHis|U] martial philosophy on blade mastery have made [ROOT.GetCharacter.GetHerHim] capable of astonishing feats of swordsmanship.\n\n#help Attaining this [trait|E] unlock's the challenge warrior [interaction|E]. Each time they win a fight will allow them to gain [lifestyle|E] [experience|E] or [GetTrait('sword_singer_ansei').GetName( GetNullCharacter )] [trait_level_track_xp|E].#!"  
+
+  #Ansei  
+  trait_sword_singer_ansei: "Ansei"  
+  trait_sword_singer_ansei_desc: "This individual has transcended the path of the Sword-Singer and became an Ansei — a Saint of the Sword. Through perfect harmony of body, soul, and Shehai, they are able to manifest their own soul into a powerful Shehai, capable of devastating feats."  
+  trait_sword_singer_ansei_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] has transcended the path of the Sword-Singer and became an Ansei — a Saint of the Sword. [ROOT.GetCharacter.GetSheHe|U] is able to manifest [ROOT.GetCharacter.GetHerHis] own soul into a powerful Shehai."  
+
+  trait_sword_singer_ansei_1: "Ansei"  
+  trait_sword_singer_ansei_1_desc: "This individual has transcended the path of the Sword-Singer and became an Ansei — a Saint of the Sword. Through perfect harmony of body, soul, and Shehai, they are able to manifest their own soul into a powerful Shehai, capable of devastating feats."  
+  trait_sword_singer_ansei_1_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] has transcended the path of the Sword-Singer and became an Ansei — a Saint of the Sword. [ROOT.GetCharacter.GetSheHe|U] is able to manifest [ROOT.GetCharacter.GetHerHis] own soul into a powerful Shehai."  
+
+  trait_sword_singer_ansei_2: "Second-Rank Ansei"  
+  trait_sword_singer_ansei_2_character_desc: "Ansei of the second-rank were known to have the ability to not only form the Shehai, but wield them without even carrying it in battle. Their Shehai shined brighter and was much deadlier. Described as an 'unstoppable weapon of great might' that could cut down foes like 'a scythe through wheat'\n\nAttaining this [trait|E] allows the character to #V Create an Ansei Ward through a [decision|E]#!. This would enable the character to forge a powerful defensive tool."  
+
+  trait_sword_singer_ansei_3: "First-Rank Ansei"  
+  trait_sword_singer_ansei_3_character_desc: "Ansei of the first-rank are the most powerful of all the Ansei. The Shehai of a first-rank Ansei is said to be capable of changing the World's Landscape on a whim. To them, manifesting the Shehai come as naturally as breathing.\n\nAttaining this [trait|E] unlocks the #V Pankratosword [interaction|E] #!, which would enable this character to decimate an entire landscape of their choosing."  
+
+
+  trait_track_sword_singer_ansei:0 "Ansei"
+  trait_track_sword_singer_ansei_desc:0 "Years of life spent learning the Way of the Sword through intense training and meditation have made them peerless in feats of swordsmanship."
+
+  #Lifespan
+  trait_lifespan_5:1 "Lifespan V #italic ([gc_lifespan|E])#!"
+  trait_lifespan_5_desc:1 "By means of nature or magicka, this character might live into their mid 500s. Women with this trait will become infertile at around age 340."
+  trait_lifespan_5_character_desc:1 "By means of nature or magicka, [ROOT.GetCharacter.GetFirstNameNoTooltip] might live into [ROOT.GetCharacter.GetHerHis] mid 500s. Women with this trait will become infertile at around age 340."
+
+ #trait_lifespan_6:1 "Immortality #italic ([gc_lifespan|E])#!"
+ #trait_lifespan_6_desc:1 "This character will not die of old age, but that comes at a cost to both their body and mind."
+ #trait_lifespan_6_character_desc:1 "[ROOT.GetCharacter.GetFirstNameNoTooltip] will not die of old age, but that comes at a cost to both [ROOT.GetCharacter.GetHerHis] body and mind."
+ 
+ #Secret Werebeast
+
+ trait_irritable_werebear:0 "Irritable"
+ trait_irritable_werebear_desc:0 "Stress has made this character prone to frequent outbursts and tantrums."
+ trait_irritable_werebear_character_desc:0 "Stress has made [ROOT.GetCharacter.GetFirstNameNoTooltip] prone to frequent outbursts and tantrums."
+ irritable_werebear_player_desc:0 "Secret Werebear"
+ trait_werebear_player_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is secretly a Werebear an unnatural cross between a beast and their original race."
+
+ trait_irritable_wereboar:0 "Irritable"
+ trait_irritable_wereboar_desc:0 "Stress has made this character prone to frequent outbursts and tantrums."
+ trait_irritable_wereboar_character_desc:0 "Stress has made [ROOT.GetCharacter.GetFirstNameNoTooltip] prone to frequent outbursts and tantrums."
+ irritable_wereboar_player_desc:0 "Secret Wereboar"
+ trait_wereboar_player_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is secretly a Wereboar, an unnatural cross between a beast and their original race."

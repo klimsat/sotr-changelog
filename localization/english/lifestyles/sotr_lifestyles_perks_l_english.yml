@@ -1,0 +1,185 @@
+﻿l_english:
+
+ #################
+ ##### Perks #####
+ #################
+
+
+ # SWORD SINGER PERKS
+
+ # Sword-Singer perks: Ansei
+ sotr_awakening_perk_name: "Awakening"
+ sotr_path_of_onsi_perk_name: "Path of Onsi"
+ sotr_breath_of_diagna_perk_name: "Breath of Diagna"
+ sotr_voice_of_leki_perk_name: "Voice of Leki"
+ sotr_boneshaver_perk_name: "Boneshaver"
+ sotr_sideways_step_perk_name: "Sideways Step"
+ sotr_water_dance_perk_name: "Water Dance"
+ sotr_long_knife_perk_name: "Long Knife"
+ sotr_orichalc_tower_perk_name: "Orichalc Tower"
+ sotr_standstill_strike_perk_name: "Standstill Strike"
+ sotr_unbent_resolve_perk_name: "Unbent Resolve"
+ sotr_bleeding_wind_perk_name: "Bleeding Wind"
+ sotr_aberrant_flow_perk_name: "Aberrant Flow"
+ sotr_bright_blade_perk_name: "Bright Blade"
+ sotr_grit_within_perk_name: "Grit Within"
+ sotr_best_known_cuts_perk_name: "Best Known Cuts"
+ sotr_walkabout_perk_name: "Walkabout"
+ sotr_ephemeral_feint_perk_name: "Ephemeral Feint"
+ sotr_song_of_the_blade_perk_name: "Song of the Blade"
+ sotr_way_of_the_spirit_sword_perk_name: "Way of the Spirit-Sword"
+ sotr_ansei_perk_name: "Ansei"
+
+
+ #VAMPIRE PERKS
+
+ # Vampire perks: Nightstalker
+ whispered_steps_perk_name: "Whispered Steps"
+ nights_embrace_perk_name: "Night’s Embrace"
+ silent_hunger_perk_name: "Silent Hunger"
+ shroud_of_fear_perk_name: "Shroud of Fear"
+ midnights_grasp_perk_name: "Midnight’s Grasp"
+ umbral_shroud_perk_name: "Umbral Shroud"
+ shadebound_perk_name: "Shadebound"
+ veil_of_dusk_perk_name: "Veil of Dusk"
+ sotr_night_stalker_perk_name: "Nightstalker"
+
+ # Vampire perks: Blood-Mage
+ crimson_pact_perk_name: "Crimson Pact"
+ blood_ward_perk_name: "Blood Ward" 
+ syphon_perk_name: "Syphon"
+ blood_surge_perk_name: "Blood Surge"
+ red_torrent_perk_name: "Red Torrent"
+ pulsebreaker_perk_name: "Pulsebreaker"
+ lifetap_perk_name: "Life Tap"
+ dominus_sanguinis_perk_name: "Dominus Sanguinis"
+ sotr_blood_mage_perk_name: "Blood-Mage"
+ 
+ # Vampire perks: Mindweaver
+ mesmeric_gaze_perk_name: "Mesmeric Gaze"
+ obedience_perk_name: "Obedience" 
+ hypnosis_perk_name: "Hypnosis"
+ memory_lapse_perk_name: "Memory Lapse"
+ subjugate_perk_name: "Subjugate"
+ astral_grip_perk_name: "Astral Grip"
+ thoughtpiercer_perk_name: "Thoughtpiercer"
+ mindrend_perk_name: "Mindrend"
+ sotr_mindweaver_perk_name: "Mindweaver"
+
+ # Vampire perks: Champion of the Night
+ night_cloak_perk_name: "Night Cloak"
+ blood_healing_perk_name: "Supernatural Recovery" 
+ unearthly_will_perk_name: "Unearthly Will"
+ supernatural_reflexes_perk_name: "Supernatural Reflexes"
+ vampiric_grip_perk_name: "Vampiric Grip"
+ poison_talons_perk_name: "Poison Talons"
+ mist_form_perk_name: "Mist Form"
+ power_of_the_grave_perk_name: "Power of the Grave"
+ champion_of_the_night_perk_name: "Champion of the Night"
+
+
+ #WEREWOLF PERKS
+
+ # Werewolf perks: Prowler
+ silent_hunt_perk_name: "Silent Hunt"
+ moonlit_stalker_perk_name: "Moonlit Stalker"
+ trailer_perk_name: "Trailer"
+ howl_in_the_dark_perk_name: "Howl in the Dark"
+ keen_eye_perk_name: "Keen Eye"
+ quiet_lurker_perk_name: "Quiet Lurker"
+ swift_fang_perk_name: "Swift Fang"
+ unseen_terror_perk_name: "Unseen Terror"
+ prowler_perk_name: "Prowler"
+
+
+ # Werewolf perks: Savage
+ frenzy_perk_name: "Frenzy"
+ the_wild_howl_perk_name: "The Wild Howl"
+ cruel_feast_perk_name: "Cruel Feast"
+ breakers_of_bones_perk_name: "Breaker of Bones"
+ butchers_instinct_perk_name: "Butcher’s Instinct"
+ ravaging_maw_perk_name: "Ravaging Maw"
+ rampage_perk_name: "Rampage"
+ feral_onslaught_perk_name: "Feral Onslaught"
+ savage_perk_name: "Savage"
+
+ # Werewolf perks: Alpha
+ alphas_command_perk_name: "Alpha’s Command"
+ iron_snarl_perk_name: "Iron Snarl"
+ howl_of_supremacy_perk_name: "Howl of Supremacy"
+ dominating_instinct_perk_name: "Dominating Instinct"
+ blood_of_the_alpha_perk_name: "Blood of the Alpha"
+ the_binding_maw_perk_name: "The Binding Maw"
+ totem_of_authority_perk_name: "Totem of Authority"
+ herald_of_hircine_perk_name: "Herald of Hircine"
+ alpha_perk_name: "Alpha"
+
+ #WEREBEAR
+
+ # Werebear perks: Prowler
+ keen_sense_perk_name: "Keen Sense"
+ cavewatcher_perk_name: "Cavewatcher"
+ tracker_perk_name: "Tracker"
+ roar_in_the_dark_perk_name: "Roar in the Dark"
+ sharp_vision_perk_name: "Sharp Vision"
+ still_paw_perk_name: "Still Paw"
+ swift_claw_perk_name: "Swift Claw"
+ gentle_giant_perk_name: "Gentle Giant"
+ prowler_werebear_perk_name: "Prowler"
+ 
+ # Werebear perks: Savage
+ bearing_rage_perk_name: "Bearing Rage"
+ wild_roar_perk_name: "Wild Roar"
+ ate_your_fill_perk_name: "Ate Your fill"
+ bone_crusher_perk_name: "Bone Crusher"
+ hunter_instinct_perk_name: "Hunter's Instinct"
+ mauling_jaw_perk_name: "Mauling Jaw"
+ furious_charge_perk_name: "Furious Charge"
+ brutal_slam_perk_name: "Brutal Slam"
+ savage_werebear_perk_name: "Savage"
+ 
+ # Werebear perks: Elder (Alpha)
+ bulky_presence_perk_name: "Bulky Presence"
+ iron_growl_perk_name: "Iron Growl"
+ dominant_roar_perk_name: "Domineering Roar"
+ mighty_instinct_perk_name: "Mighty Instinct"
+ dominant_seed_perk_name: "Dominant Seed"
+ grip_of_authority_perk_name: "Grip of Authority"
+ totem_bear_perk_name: "Totem of Claw and Fang"
+ aspect_of_strength_perk_name: "Aspect of Strength"
+ elder_werebear_perk_name: "Elder"
+
+ #WEREBOAR
+
+ # Wereboar perks: Prowler
+ silent_hooves_perk_name: "Silent Hooves"
+ mud_sniffer_perk_name: "Mud Sniffer"
+ truffle_hunter_perk_name: "Truffle Hunter"        
+ grunt_in_the_dark_perk_name: "Grunt in the Dark"
+ keen_snout_perk_name: "Keen Snout"
+ tiptoe_trot_perk_name: "Tiptoe Trot"              
+ swift_tusk_perk_name: "Swift Tusk"
+ hidden_hog_perk_name: "Hidden Hog"   
+ prowler_wereboar_perk_name: "Prowler"            
+
+ # Wereboar perks: Savage
+ killer_bacon_perk_name: "Killer Bacon"                    
+ feral_bellow_perk_name: "Feral Bellow"
+ no_leftovers_perk_name: "No Leftovers"            
+ tuskbreaker_perk_name: "Tuskbreaker"
+ butchers_bane_perk_name: "Butcher's Bane"
+ gore_maw_perk_name: "Gore-Maw"
+ stampede_charge_perk_name: "Stampede Charge"
+ earthshaker_perk_name: "Earthshaker"
+ savage_wereboar_perk_name: "Savage"
+
+ # Wereboar perks: Mythical (Alpha)
+ no_ordinary_pig_perk_name: "No Ordinary Pig"
+ iron_snout_perk_name: "Iron Snout"               
+ unbreakable_tusk_perk_name: "Unbreakable Tusk"
+ bristled_wisdom_perk_name: "Bristled-Wisdom"
+ overgorge_bellow_perk_name: "Overgorge Bellow"  
+ protective_instinct_perk_name: "Protective Instinct"
+ totem_of_tenacity_perk_name: "Totem of Tenacity"
+ aspect_of_voracity_perk_name: "Aspect of Voracity"
+ mythical_wereboar_perk_name: "Mythical"

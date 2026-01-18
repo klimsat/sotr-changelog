@@ -1,0 +1,11 @@
+﻿l_english:
+
+ # Purchase the Adamantine Tower
+
+  # Claim the Adamantine Tower  
+  purchase_adamantine_tower_decision:0 "Purchase the Adamantine Tower"  
+  purchase_adamantine_tower_decision_desc:0 "The Adamantine Tower has stood as the oldest structure in known history, a place where gods once convened and mortals shaped destiny. It has long remained in the hands of High Aldmeri overlords. Maybe that's about to change soon. \n\n But only way to claim the Tower is  either through War or Gold. You can wage a costly and risky war against the Aldmeri overlords, risking everything to seize it by force. \n\nOr, you can amass a fortune and buy your way into ownership, though the price will be nothing short of extravagant."  
+  purchase_adamantine_tower_decision_tooltip:0 "Secure ownership of the Adamantine Tower."  
+  purchase_adamantine_tower_decision_requirement:0 "It will cost you a ridiculous amount of Gold"  
+  purchase_adamantine_tower_decision_effect_tooltip:0 "You will finalize the acquisition of the Adamantine Tower, ensuring that it is now yours to rule, shaping its legacy for the ages to come."
+  purchase_adamantine_tower_decision_confirm:0 "I will purchase it"  

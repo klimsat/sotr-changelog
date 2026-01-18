@@ -1,0 +1,12 @@
+﻿l_english:
+
+  ### Blood Root Gorge Ritual
+  summon_storm_bear.0001.t:0 "Summon Storm Atronach Bear"
+  summon_storm_bear.0001.desc:0 "I have issued a command to summon a Storm Atronach in the form of a mighty bear. Such a feat would be a testament to my mage's mastery over the elements and their worthiness as my arcane advisor.\n\nThe chamber trembles as the incantation begins. Thunder echoes within the walls, and streaks of lightning dance along the mage's fingertips. Aetherial winds swirl, pulling at robes and banners alike, as a shadowy form begins to take shape in the storm's eye. \n\nIs our court mage truly skilled enough to bind such a force?"
+  summon_storm_bear.1.a:0 "There you go my Liege"
+  summon_storm_bear.1.b:0 "I don't think I can do that..."
+
+  summon_storm_bear.0002.t:0 "Storm Atronach Bear summoning failed"
+  summon_storm_bear.0002.desc:0 "Your court mage is not skilled enough to pull such a feat"
+  summon_storm_bear.2.a:0 "Oh well"
+  summon_storm_bear.2.b:0 "Why must I suffer such a useless servant?"

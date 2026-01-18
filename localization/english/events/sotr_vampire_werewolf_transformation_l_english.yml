@@ -1,0 +1,45 @@
+﻿l_english:
+
+  # Vampire Lord Transformation
+  vampire_lord_transformation.0001.t:0 "The Blood Awakens"  
+  vampire_lord_transformation.0001.a.desc:0 "Molag Bal watches. His curse burns within you, restless and sovereign. With but a wordless command, you can cast off your veil of mortality and rise as a Vampire Lord.\n\nWill you reveal your true form, or continue to stalk the world in your mortal skin?"
+  vampire_lord_transformation.0001.b.desc:0 "You bear the mark of Lamae Bal—the Blood Matron. The primal scream of her suffering echoes in your blood, ancient yet cursed. At your call, you may ascend into the form of a true Scion. Mighty and terrible to behold.\n\nWill you embrace the legacy of your Matron, or walk among your prey while longer?"
+  vampire_lord_transformation.0001.c.desc:0 "The choice is yours. Embrace your true form and strike fear into the hearts of all, or return to the shadows and walk once more among the living in your 'less monstrous' form.\n\nWhich face shall the world see?"  
+  vampire_lord_transformation.0001.a.a:0 "Assume your Vampire Lord form"  
+  vampire_lord_transformation.0001.a.b:0 "Assume your Blood Scion form"  
+  vampire_lord_transformation.0001.a.c:0 "Assume your Higher Vampire form"  
+  vampire_lord_transformation.0001.a.tt:0 "You will assume your true Vampiric form."  
+  vampire_lord_transformation.0001.b:0 "Return to Normal Form"  
+  vampire_lord_transformation.0001.b.tt:0 "You shed your monstrous form."  
+  vampire_lord_transformation.0001.c:0 "Leave"  
+  vampire_lord_transformation.0001.c.tt:0 "You will leave the Transformation Menu."
+
+  # Werewolf Transformation
+  werewolf_transformation.0001.t:0 "The Beast Stirs"  
+  werewolf_transformation.0001.desc:0 "The choice is yours. Let the beast within rise, and take on the savage strength of the werewolf, or return to your mortal shape and walk among the commonfolk once more.\n\nWhich face shall the world see?"  
+  werewolf_transformation.0001.a:0 "Embrace your Bestial form"  
+  werewolf_transformation.0001.a.tt:0 "You will assume your true Werewolf form."  
+  werewolf_transformation.0001.b:0 "Return to normal Form"  
+  werewolf_transformation.0001.b.tt:0 "You suppress the beast and walk again in your human guise."  
+  werewolf_transformation.0001.c:0 "Leave"  
+  werewolf_transformation.0001.c.tt:0 "You will leave the Transformation Menu."
+
+  # Werebear Transformation
+  werebear_transformation.0001.t:0 "The Beast Stirs"  
+  werebear_transformation.0001.desc:0 "The choice is yours. Let the beast within rise, and take on the savage strength of the Werebear, or return to your mortal shape and walk among the commonfolk once more.\n\nWhich face shall the world see?"  
+  werebear_transformation.0001.a:0 "Embrace your Bestial form"  
+  werebear_transformation.0001.a.tt:0 "You will assume your true Werebear form."  
+  werebear_transformation.0001.b:0 "Return to normal Form"  
+  werebear_transformation.0001.b.tt:0 "You suppress the beast and walk again in your human guise."  
+  werebear_transformation.0001.c:0 "Leave"  
+  werebear_transformation.0001.c.tt:0 "You will leave the Transformation Menu."
+
+  # Wereboar Transformation
+  wereboar_transformation.0001.t:0 "The Beast Stirs"  
+  wereboar_transformation.0001.desc:0 "The choice is yours. Let the beast within rise, and take on the savage strength of the Wereboar, or return to your mortal shape and walk among the commonfolk once more.\n\nWhich face shall the world see?"  
+  wereboar_transformation.0001.a:0 "Embrace your Bestial form"  
+  wereboar_transformation.0001.a.tt:0 "You will assume your true Wereboar form."  
+  wereboar_transformation.0001.b:0 "Return to normal Form"  
+  wereboar_transformation.0001.b.tt:0 "You suppress the beast and walk again in your human guise."  
+  wereboar_transformation.0001.c:0 "Leave"  
+  wereboar_transformation.0001.c.tt:0 "You will leave the Transformation Menu."

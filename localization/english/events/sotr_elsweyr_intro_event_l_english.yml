@@ -1,0 +1,9 @@
+﻿l_english:
+
+ elsweyr_nomadic_intro.0001.t: "The Sixteen Kingdoms"
+ elsweyr_nomadic_intro.0001.desc: "#bold Jone and Jode cast their light upon the southern plains#!\n\nYou live in a time when Elsweyr lies divided among [Glossary('Sixteen Kingdoms', 'SIXTEEN_K_GLOSS')] and Clans.\n\nFrom the sun-scorched plains of Anequina to the lush canopies of Pellitine, the Khajiiti monarchs carry their courts and caravans along the Roads. Their banners gleamed beneath silver skies, settling and vanishing with the turning of the seasons.\n\nEach clan walks its destined path, be they warriors, traders, mystics, sailors, or herdsfolk. All treading their own paths beneath the rhythms of the moons.\n\nNow, however, the Khajiits are all walking in a troublesome path.\n\nThe mighty Raht-Kings and Queens sit upon the Sixteen Thrones, their pride burning brighter than the desert sun — each seeking to claim the light of Jone and Jode for their own.\n\nKingdom rises against kingdom, horde clashes upon horde, and the sands run red with hate and blood.\n\n#bold In the end, who among them shall rise above the rest? Will Elsweyr ever be united? or will it fade into the #italic Sands Behind the Stars#! ?#!\n\n"
+ elsweyr_nomadic_intro.0001.a: "#italic This one#! will unite them all"
+ elsweyr_nomadic_intro.0001.b: "#italic This one#! shall bring peace to Elsweyr"
+ elsweyr_nomadic_intro.0001.c: "#italic This one#! plans to do something bigger"
+ elsweyr_nomadic_intro.0001.d: "#italic This one#! will let Jone and Jode decide"
+

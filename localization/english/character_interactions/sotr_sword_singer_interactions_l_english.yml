@@ -1,0 +1,17 @@
+﻿l_english:
+
+ #Pankratosword Interaction
+
+  perform_pankratosword_interaction:0 "Unleash the Pankratosword"
+  perform_pankratosword_interaction_desc:0 "Invoke the forbidden art of the Pankratosword upon [recipient.GetShortUINameNoTooltip], releasing a sword-song so absolute that land, stone, and soul are unmade beneath its passing."
+
+  perform_pankratosword_interaction_message:0 "The Pankratosword Is Unleashed"
+  perform_pankratosword_interaction_effect:0 "Your Shehai sings its final and most terrible verse. Reality fractures as the Pankratosword is unleashed—mountains shatter, seas recoil, and the world itself tremble."
+
+  perform_pankratosword_hunted_message:0 "The Pankratosword Descends Upon You"
+  perform_pankratosword_hunted_effect:0 "The air screams as existence is torn apart. [actor.GetShortUINameNoTooltip] unleash the Pankratosword upon [recipient.GetShortUINameNoTooltip] and the land they inhabit. Stone is undone, life erased, and the very shape of the world is forever scarred."
+
+  perform_pankratosword_hunter_tootltip_same_location:0 "@warning_icon! [recipient.GetShortUINameNoTooltip|U] must not be in the same location as you."
+  perform_pankratosword_interaction_tootltip_you:0 "@death_icon! [actor.GetShortUINameNoTooltip|U] will unleash the Pankratosword upon your target."
+  perform_pankratosword_interaction_tootltip_victim_1:0 "@death_icon! [recipient.GetShortUINameNoTooltip|U] will die."
+  perform_pankratosword_interaction_tootltip_victim_2:0 "@death_icon! All those that dwell with [recipient.GetShortUINameNoTooltip] will die. This includes: [close_family_members|E], [courtiers|E], [guests|E], [hostages|E], [prisoners|E]."

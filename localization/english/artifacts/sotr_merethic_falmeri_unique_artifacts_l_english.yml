@@ -1,0 +1,115 @@
+﻿l_english:
+
+  #Chantry of Auri-El Holy Artifact
+  artifact_merethic_auriels_quiver_name:0 "Aur-El's Quiver"
+  artifact_merethic_auriels_quiver_description:1 "The Quiver of [Glossary('Auri-El', 'AURIEL_GLOSS')] is a legendary relic said to have once held the sun-touched arrows of the Holy Elven god.\n\nThis artifact is one of the Holy Elven relics safeguarded by the monastic priests of the Chantry of Auri-El."
+  artifact_merethic_auriels_shield_name:0 "Aur-El's Shield"
+  artifact_merethic_auriels_shield_description:1 "Auriel's Shield is a legendary artifact once wielded by the elven god [Glossary('Auri-El', 'AURIEL_GLOSS')], the Holy King of the gods and chief deity of the Aldmeri and Falmeri pantheons. \n\nElegant in design, its material remains a mystery—believed by some to be ebony, moonstone, or perhaps something far rarer. The shield possesses the extraordinary ability to absorb the energy of incoming attacks, which can then be unleashed in a single, crushing blow. Its defensive power is without equal, unmatched by any shield in recorded history.\n\nThis artifact is one of the Holy Elven relics safeguarded by the monastic priests of the Chantry of Auri-El."
+  artifact_merethic_auriels_bow_name:0 "Aur-El's Bow"
+  artifact_merethic_auriels_bow_description:1 "An artifact once wielded by the elven god [Glossary('Auri-El', 'AURIEL_GLOSS')], the Holy King of the gods and chief deity of the Aldmeri and Falmeri pantheons. Though it appears as a modest elven moonstone bow, it is among the most powerful weapons in all of Tamriel. Its strength is drawn from Aetherius itself, channeled through the radiant light of the sun.\n\nThis artifact is one of the Holy Elven relics safeguarded by the monastic priests of the Chantry of Auri-El."
+  
+  #Royal House of Eloss
+  artifact_eloss_royal_paragon_name:0 "Eloss Royal Paragon"
+  artifact_eloss_royal_paragon_description:1 "This is a [royal_paragon|E] belonging to the Falmeri Monarchs of the Royal House of Eloss. The pure white oval crystal is laced with such intricate veins of gold that the crystal itself lies almost hidden beneath the brilliance."
+
+  #Noble House of Angoth
+  artifact_angoth_house_ring_name:0 "Angoth House Ring"
+  artifact_angoth_house_ring_description:1 "The Coronation Ring passed down to the Falmeri Lords of the Noble House of Angoth."
+  artifact_angoth_royal_paragon_name:0 "Angoth Royal Paragon"
+  artifact_angoth_royal_paragon_description:1 "The [royal_paragon|E] of House Angoth is a striking relic—a deep crimson oval crystal laced with delicate veins of gold, as if fire itself had been bound in precious metal. It glows with a quiet intensity, embodying the pride, power, and enduring flame of Angoth’s noble line. "
+  artifact_angoth_hirgelion_sword_name:0 "Joy"
+  artifact_angoth_hirgelion_sword_description:1 "The ancestral sword of House Angoth is a slender, razor-sharp blade forged from white moonstone and adorned with silver furnishings. Its downward-curving crossguard frames a large blue diamond set at the hilt’s center. Elegant yet lethal, the sword embodies the house’s noble heritage and enduring vigilance."
+
+  #Noble House of Lorias
+  artifact_lorias_house_ring_name:0 "Lorias House Ring"
+  artifact_lorias_house_ring_description:1 "The Coronation Ring passed down to the Falmeri Lords of the Noble House of Lorias."
+  artifact_lorias_royal_paragon_name:0 "Lorias Royal Paragon"
+  artifact_lorias_royal_paragon_description:1 "The [royal_paragon|E] of House Lorias is a crystal-blue oval of breathtaking clarity, its heart adorned with fine gold and lustrous pearls. Radiating a serene brilliance, it reflects the poise and refinement of Lorias' ancient line."
+  artifact_lorias_finglor_spear_name:0 "Thunderbolt"
+  artifact_lorias_finglor_spear_description:1 "This spear was personally crafted for Lord Finglor of House Lorias. Its distinctive head features a long, rectangular shape with hollowed insides, forged from alloy composed of quicksilver and moonstone. The weapon is enchanted with potent lightning magic enchantment, emitting a constant, radiant electric blue glow."
+  artifact_lorias_house_sword_name:0 "Grace"
+  artifact_lorias_house_sword_description:1 "The ancestral sword of House Lorias is a masterfully crafted weapon, forged from a polished fusion of enchanted glass and moonstone. Milky white in color, the blade shimmers with a soft, opalescent glow, as if veiled in mist. Though mesmerizing in appearance, the blade is exceptionally sharp and unnaturally resilient—forged to go blow for blow against the enemies of House Lorias."
+
+  #Noble House of Vyrdhas
+  artifact_vyrdhas_house_ring_name:0 "Vyrdhas House Ring"
+  artifact_vyrdhas_house_ring_description:1 "The Coronation Ring passed down to the Falmeri Lords of the Noble House of Vyrdhas."
+  artifact_vyrdhas_new_ring_name:0 "Vyrdhas House Ring (New)"
+  artifact_vyrdhas_new_ring_description:1 "This ring was crafted to replace the lost House Ring of the noble House Vyrdhas. It is made of simple wood, set with a small white crystal at its center."
+  artifact_vyrdhas_royal_paragon_name:0 "Vyrdhas Royal Paragon"
+  artifact_vyrdhas_royal_paragon_description:1 "The [royal_paragon|E] of House Vyrdhas is an amber-hued oval of flawless topaz, warm as a fading sun. The Paragon is entangled with golden ornaments shaped like autumn leaves, mirroring the fiery splendor of their ancestral home."
+  artifact_vyrdhas_aesril_sword_name:0 "Devotion"
+  artifact_vyrdhas_aesril_sword_description:1 "The ancestral sword of House Vyrdhas is a finely crafted glass shortsword, distinct for its deep blue hue—an unusual variant of malachite unlike the common green. Its hilt is forged from rare metals and moonstone, lending it both resilience and a pale, elegant gleam. Though slender in form, the blade is sharp and unnervingly beautiful, a symbol of refinement and quiet strength."
+
+  #Noble House of Anuril
+  artifact_anuril_house_ring_name:0 "Anuril House Ring"
+  artifact_anuril_house_ring_description:1 "The Coronation Ring passed down to the Falmeri Lords of the Noble House of Anuril."
+  artifact_anuril_callias_headdress_name:0 "Winter Hag's Crown"
+  artifact_anuril_callias_headdress_description:1 "This ornate headdress belongs to Callia, the 'Winter Hag', the legendary matriarch of the Falmeri House of Anuril. Shaped in a graceful crescent of starmetal and adorned with shimmering blue crystals, it radiates an aura of cold majesty. Frosted spires rise like frozen rays around a central gem said to contain a fragment of winter’s first moonlight."
+  artifact_anuril_onnariel_ring_name:0 "Ring of Onnariel"
+  artifact_anuril_onnariel_ring_description:1 "The Ring of Onnariel was crafted by Lady Onnariel’s long-lost lover, who passed away countless ages ago. Forged from blue turquoise set in weathered silver, the ring bears a rugged, unpolished style—raw, yet deeply personal. Though simple in form, it carries the weight of ancient love and loss, its worn surface a testament to enduring memory. "
+  artifact_anuril_royal_paragon_name:0 "Anuril Royal Paragon"
+  artifact_anuril_royal_paragon_description:1 "The [royal_paragon|E] of House Anuril is a deep emerald-green oval crystal, its surface gleaming with a rich, verdant luster. Adorned with golden ornamentation—seashells and flowing abstract forms—it evokes the elegance and mystique of both House Anuril’s coastal and nature-bound heritage."
+  artifact_anuril_house_sword_name:0 "Elegy"
+  artifact_anuril_house_sword_description:1 "Forged from black ebony and laced with bioluminescent blue fungi, the ancestral sword of House Anuril glows with a haunting, natural beauty. Sleek and finely shaped, it reflects the refined yet untamed legacy of the ancient Falmer—a blade of memory, silence, and winter’s quiet wrath."
+
+  #Noble House of Agarwen
+  artifact_agarwen_house_ring_name:0 "Agarwen House Ring"
+  artifact_agarwen_house_ring_description:1 "The Coronation Ring passed down to the Falmeri Lords of the Noble House of Agarwen."
+  artifact_agarwen_royal_paragon_name:0 "Agarwen Royal Paragon"
+  artifact_agarwen_royal_paragon_description:1 "The [royal_paragon|E] of House Agarwen is a deep turquoise oval crystal, dark and muted in tone. Encased in aged yet refined brass ornamentation and fitted with a short, utilitarian handle, it is notably smaller than most Paragons."
+  artifact_agarwen_ilucar_staff_name:0 "Fear Eater's Staff"
+  artifact_agarwen_ilucar_staff_description:1 "The staff has an uneven shaft of ebony steel—rugged, dark, and cruel in form. Twisting slightly as if warped by some unseen force, its top is crowned with a deep blue resonance crystal that pulses faintly, as though it breathes. The weapon exudes an eerie presence, unsettling to look upon and colder to hold, as if it feeds on fear itself. It is not a staff of wisdom, but of dread."
+
+  #Noble House of Erulfin
+  artifact_erulfin_house_ring_name:0 "Erulfin House Ring"
+  artifact_erulfin_house_ring_description:1 "The Coronation Ring passed down to the Falmeri Lords of the Noble House of Erulfin."
+  artifact_erulfin_royal_paragon_name:0 "Erulfin Royal Paragon"
+  artifact_erulfin_royal_paragon_description:1 "The [royal_paragon|E] of House Erulfin is a black oval crystal with a textured surface, rough and patterned like lizard skin. Encased in sharp, elegant silver ornamentation, it exudes a cold, forbidding presence. Some say its dark form mirrors House Erulfin’s shadowed legacy. "
+  artifact_erulfin_helcosse_staff_name:0 "Staff of Helcosse"
+  artifact_erulfin_helcosse_staff_description:1 "Twisted and pallid, the staff of Helcosse reflects the cold mastery of death wielded by one of the oldest Falmer necromancers. Its pale, bone-like shaft coils unnaturally, as though shaped by something long buried. Its forked crown crackles softly with necrotic energy."
+
+  #Noble House of Elome
+  artifact_elome_house_ring_name:0 "Elome House Ring"
+  artifact_elome_house_ring_description:1 "The Coronation Ring passed down to the Falmeri Lords of the Noble House of Elome."
+  artifact_elome_royal_paragon_name:0 "Elome Royal Paragon"
+  artifact_elome_royal_paragon_description:1 "The [royal_paragon|E] of House Elome is a deep purple oval crystal, gleaming with a regal luster. It is adorned with bright gold ornamentation—bold, flowing designs that catch the light with every curve. Opulent yet graceful, it reflects the refined splendor and lofty pride of House Elome."
+
+  #Noble House of Nyrnivone
+  artifact_nyrnivone_house_ring_name:0 "Nyrnivone House Ring"
+  artifact_nyrnivone_house_ring_description:1 "The Coronation Ring passed down to the Falmeri Lords of the Noble House of Nyrnivone."
+  artifact_frostbringer_name:1 "Frostbringer"
+  artifact_frostbringer_description:0 "A legendary sword said to have been forged in the heart of a frozen tundra. Frostbringer's dark blade glistens with the power of the eternal frost."
+  artifact_nyrnivone_royal_paragon_name:0 "Nyrnivone Royal Paragon"
+  artifact_nyrnivone_royal_paragon_description:1 "The [royal_paragon|E] of House Nyrnivone is a luminous oval of blue-hued white opal, its surface shifting gently with iridescent light. Enveloped in an intricate array of golden filigree and clustered pearls, it exudes a dreamlike elegance—delicate, ethereal, and impossibly refined."
+
+  #Unknown / Extinct Noble Houses
+  artifact_unknown_royal_paragon_1_name:0 "Unknown Pink Royal Paragon"
+  artifact_unknown_royal_paragon_1_description:1 "This artifact is a soft pink, oval crystal—gentle in hue yet haunting in its silence. Encased in delicate silver ornamentation, the metal curls like fading script around the gem—as if whispering fragments of a forgotten lineage.\n\nThe origins of this [royal_paragon|E] is lost. The noble house to which it belonged to has been erased from memory."
+  artifact_unknown_royal_paragon_2_name:0 "Unknown Iridescent Royal Paragon"
+  artifact_unknown_royal_paragon_2_description:1 "This oval crystal shimmers with distorting colors—subtle waves of violet, green, and gold dancing across its surface. Framed in a harmonious blend of silver and gold ornamentation, it exudes an otherworldly grace, as if forged at the boundary of light and memory.\n\nThe origins of this [royal_paragon|E] is lost. The noble house to which it belonged to has been erased from memory."
+
+  #Other Falmeri Artifacts
+  artifact_aangdil_ring_name:0 "Ring of Aangdil"
+  artifact_aangdil_ring_description:1 "The ring of Aangdil is a simple band of pure mithril, unadorned and without ornament. Its surface is smooth and cool to the touch, reflecting only the faintest glimmer of light. Crafted in quiet devotion, it embodies the monk’s path—disciplined, humble, and unwavering. Though plain in appearance, it carries the silent strength of stillness and the clarity of untouched snow."
+  artifact_falmer_elendor_spear_name:0 "Frostpoint"
+  artifact_falmer_elendor_spear_description:1 "Frostpoint is an enchanted spear of piercing elegance, its shaft wrapped in pale steel and its head honed to a cruel, ice-blue gleam. Bound with ancient frost magic, each thrust carries a chill that bites deeper than the blade itself—freezing flesh, slowing blood, and silencing breath. "
+  artifact_falmer_arannil_spear_name:0 "Ebonthorn"
+  artifact_falmer_arannil_spear_description:1 "This spear bears a blade of rugged ebony, dark and brutal in form. Its long shaft is wrapped in jagged green crystals that jut out like thorns—sharp, uneven, and dangerous to the touch. These are no mere ornament; the spear itself chooses who may wield it.\n\nThose deemed unworthy will find the thorns biting deep into their hands, drawing blood without mercy. But for the chosen, a smooth, unspiked section reveals itself—cool, steady, and safe to grip. Ebon Thorn does not speak, but it remembers, and it never mistakes intent."
+  artifact_falmer_cirnurion_axe_name:0 "Northbound"
+  artifact_falmer_cirnurion_axe_description:1 "Northbound is a towering battle axe forged from black ebony, its heavy blade rimmed with enchanted frost that gives it the look of carved ice. The chilling enchantment runs deep, freezing the air around it and sending bursts of biting cold through anything it strikes—armor, flesh, and spirit alike.\n\nOnly those with immense strength can hope to wield it; the weak are brought to their knees by its sheer weight, long before its frost can claim them."
+  artifact_falmer_avariel_staff_name:0 "Staff of Avariel"
+  artifact_falmer_avariel_staff_description:1 "At first glance, the Staff of Avariel appears cold and inert—its shaft pale as hoarfrost, and its head crowned with jagged, ice-like crystal. But beneath its frosty exterior burns a hidden fury. This is no frost staff, but a vessel of searing flame, belonging to Avariel the Silent Flame, the Snow Elven fire witch."
+  artifact_falmer_virel_spear_name:0 "Silver Crescent"
+  artifact_falmer_virel_spear_description:1 "Forged from quicksilver, the Silver Crescent takes its name from its gently curved blade, shaped like a crescent moon. Simple yet deadly, it was made to strike as swiftly and cleanly as moonlight through shadow."
+  artifact_falmer_eluneth_spear_name:0 "Everfrost"
+  artifact_falmer_eluneth_spear_description:1 "Everfrost is a striking enchanted spear, crafted to resemble a blooming flower. Its head are typically closed—curved and wrapped like layered silver petals—but when battle begins, it unfurls with a graceful snap, revealing a gleaming white blade at its heart.\n\nThe blade shines with a brilliant, almost blinding light—beautiful, mesmerizing, and lethal. Alongside its frost enchantment, it carries a potent poison, making each strike even deadlier than it already is. Everfrost remains closed when not in use, to conceal its true nature and to protect its wielder—and those who they don't mean to harm."
+
+  #Snow Prince Artifact (By Ract)
+  artifact_crown_falmer_name:1 "Ancient Falmeri Crown"
+  artifact_crown_falmer_description:0 "A holy artifact both a symbol of power and legitimacy for any true ruler of the Snow Elves."
+ 
+  artifact_falmer_armor_name:1 "Armor of the Snow Prince"
+  artifact_falmer_armor_description:0 "The enchanted armor of an ancient and legendary Falmer prince, struck down while he and his people made their last stand against the Atmorans at the foot of the Moesring Mountains on Solstheim."
+ 
+  artifact_falmerspear_name:1 "Spear of the Snow Prince"
+  artifact_falmerspear_description:0 "Once belonging to the Snow Prince who fought and died for the Snow Elves at the Battle of Moesring against the Atmorans. The spear emits a faint glow of clear blue light, it is enchanted and rumored to contain the powerful soul of the Snow Prince himself."

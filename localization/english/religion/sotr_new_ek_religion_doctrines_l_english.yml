@@ -1,0 +1,33 @@
+﻿l_english:
+
+  # Daedric Prince
+
+  #Ithelia Doctrine
+
+  doctrine_pantheon_ithelia_name:0 "Ithelia"
+  doctrine_pantheon_ithelia_desc:0 "The Prince of Paths guides us in every step of our journey, both in the choices we take and the ones we leave behind. She watches over us on the untraveled road, and when our time arrives, she shall unweave our fate and welcome us into Mirrormoor."
+  doctrine_parameter_worship_ithelia_focused_active:0 "Allows for a [daedric_focused|E] worship of $ithelia$, granting more powerful and cheaper [daedric_boons|E], and more effective [daedric_sacrifices|E]."
+
+
+  doctrine_ithelia_name:0 "Worship of $ithelia$"
+  FAITH_MUST_ALLOW_PATRON_ITHELIA:0 "If you don't pick [GetFaithDoctrine('doctrine_pantheon_daedra').GetBaseName] as your main pantheon, you must align yourself with $ithelia$ through your doctrines or tenets.\n\nNeed one of:\n • [GetFaithDoctrine('tenet_sacred_alchemy').GetBaseName] (Tenet)\n • [GetFaithDoctrine('tenet_ritual_nightmares').GetBaseName] (Tenet)\n • [GetFaithDoctrine('doctrine_pantheon_ten_ancestors').GetBaseName] (Main Pantheon)\n • [GetFaithDoctrine('doctrine_sp_daedra_ithelia').GetBaseName] (Secondary Pantheon Deity)" 
+  doctrine_parameter_worship_ithelia_allowed_active:0 "Worshipping $ithelia$ in [daedric_secret|E] is not considered [shunned|E] or [criminal|E]"
+  doctrine_parameter_worship_ithelia_shunned_active:0 "Worshipping $ithelia$ in [daedric_secret|E] is considered [shunned|E]"
+  doctrine_parameter_worship_ithelia_criminal_active:0 "Worshipping $ithelia$ in [daedric_secret|E] is considered [criminal|E]"
+  #doctrine_ithelia_pantheon_name:0 "Ithelia Pantheon"
+  #doctrine_ithelia_allowed_name:0 "Allowed"
+  #doctrine_ithelia_shunned_name:0 "Shunned"
+  #doctrine_ithelia_criminal_name:0 "Criminal"
+  #doctrine_ithelia_pantheon_desc:0 "Through the Dreamstride we are blessed with waking nightmares."
+  #doctrine_ithelia_allowed_desc:0 "Our dreams bring pleasure and ill omen alike."
+  #doctrine_ithelia_shunned_desc:0 "Distrust the Dark Reflection, and fear her false paths."
+  #doctrine_ithelia_criminal_desc:0 "Shatter the mirrors. Don't let her twists your path into countless reflections."
+
+  faith_must_have_doctrine_ithelia_pantheon_trigger:0 "Ithelia must be set to [GetFaithDoctrine('doctrine_ithelia_pantheon').GetBaseName]"
+  doctrine_parameter_adds_ithelia_pantheon_active:0 "Adds $ithelia$ to the [faith|E] [pantheon|E]"
+
+  doctrine_parameter_unlocks_ithelia_pantheon_active:0 "Unlocks adding $ithelia$ to your [pantheon|E] using the Daedric Princes [doctrines|E]"
+
+  # Sea / Tide Pantheon Doctrine
+  doctrine_pantheon_sea_name:0 "Sea"
+  doctrine_pantheon_sea_desc:0 "The Sea carries deeper symbolic and spiritual meaning for many religions across Nirn"

@@ -1,0 +1,92 @@
+﻿l_english:
+
+  #Flower-King Nilichi Insect God Faith :The Hive
+
+  hive:0 "The Hive" 
+  hive_adj:0 "Hive" 
+  hive_adherent:0 "Hive Cultist"
+  hive_adherent_plural:0 "Hive Cultists"
+  hive_desc:0 "This faith teaches its adherents that all life must bring an offering in accordance with the will of its ancient god, known as the Hive. The will of the Hive is upheld as absolute law. Its rites are woven with wax, venom, and blood, and its choirs sing as one voice until the listener cannot tell where self ends and the Hive begins. The Hive destroys division and exalts only the sweetness of sacrifice."
+  hive_house_of_worship:0 "chamber"
+  hive_house_of_worship_plural:0 "chambers"
+  hive_religious_symbol:0 "hive sigil"
+  hive_religious_text:0 "canticles"
+  hive_religious_head_title:0 "Sweet Seer"
+  hive_religious_head_title_name:0 "The Great Hive"
+  hive_devotee_male:0 "sweet son"
+  hive_devotee_male_plural:0 "sweet sons"
+  hive_devotee_female:0 "sweet daughter"
+  hive_devotee_female_plural:0 "sweet daughters"
+  hive_devotee_neuter:0 "sweet child"
+  hive_devotee_neuter_plural:0 "sweet children"
+  hive_priest_male:0 "sweet father"
+  hive_priest_male_plural:0 "sweet fathers"
+  hive_priest_female:0 "sweet mother"
+  hive_priest_female_plural:0 "sweet mothers"
+  hive_priest_neuter:0 "sweet keeper"
+  hive_priest_neuter_plural:0 "sweet keepers"
+  hive_priest_alternate_plural:0 "the Chorus"
+  hive_bishop_male:0 "voice"
+  hive_bishop_male_plural:0 "voices"
+  hive_bishop_female:0 "voice"
+  hive_bishop_female_plural:0 "voices"
+  hive_bishop_neuter:0 "voice"
+  hive_bishop_neuter_plural:0 "voices"
+
+  # Divine Names
+  god_the_hive_name:0 "the Hive"
+  god_the_hive_name_possessive:0 "the Hive's"
+
+  the_great_swarm_name:0 "the Great Swarm"
+  the_great_swarm_name_possessive:0 "the Great Swarm's"
+
+  the_first_crawler_name:0 "the First Crawler"
+  the_first_crawler_name_possessive:0 "the First Crawler's"
+
+  the_sweet_venom_name:0 "the Sweet Venom"
+  the_sweet_venom_name_possessive:0 "the Sweet Venom's"
+
+  the_broodmother_name:0 "the Broodmother"
+  the_broodmother_name_possessive:0 "the Broodmother's"
+
+  the_patternweaver_name:0 "the Patternweaver"
+  the_patternweaver_name_possessive:0 "the Patternweaver's"
+
+  the_echoed_chorus_name:0 "the Echoed Chorus"
+  the_echoed_chorus_name_possessive:0 "the Echoed Chorus'"
+
+  the_stinging_host_name:0 "the Stinging Host"
+  the_stinging_host_name_possessive:0 "the Stinging Host's"
+
+  the_sleeping_god_name:0 "the Sleeping god"
+  the_sleeping_god_name_possessive:0 "the Black Comb's"
+
+  the_drowned_hive_name:0 "the Drowned Hive"
+  the_drowned_hive_name_possessive:0 "the Sleeping god's"
+
+  the_sundered_one_name:0 "the Sundered One"
+  the_sundered_one_name_possessive:0 "the Sundered One's"
+
+  the_betrayers_name:0 "the Betrayers"
+  the_betrayers_name_possessive:0 "the Betrayers'"
+
+  the_clankers_name:0 "the Clankers"
+  the_clankers_name_possessive:0 "the Clankers'"
+
+  the_brass_thieves_name:0 "the Brass Thieves"
+  the_brass_thieves_name_possessive:0 "the Brass Thieves'"
+
+  the_false_echoes_name:0 "the False Echoes"
+  the_false_echoes_name_possessive:0 "the False Echoes'"
+
+  the_gardens_below_name:0 "the Gardens Below"
+  the_gardens_below_name_possessive:0 "of the Gardens Below"
+
+  the_sweet_nest_name:0 "the Sweet Nest"
+  the_sweet_nest_name_possessive:0 "the Sweet Nest's"
+
+  the_empty_cells_name:0 "the Empty Cells"
+  the_empty_cells_name_possessive:0 "the Empty Cells'"
+
+  the_silent_queen_name:0 "the Silent Queen"
+  the_silent_queen_name_possessive:0 "the Silent Queen's"

@@ -1,0 +1,145 @@
+﻿l_english:
+
+  #REQUEST WEREBEAST
+
+  # EVENT 1 : START
+  #############################################
+
+  request_to_become_werebeast.0001.t:0 "The Curse of a Werebeast"
+  request_to_become_werebeast.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip].\n\nThey narrow their eyes, curious as to why you have come."
+
+  #A. Use Hook
+  request_to_become_werebeast.0001.a:0 "You owe me...."
+  request_to_become_werebeast.0001.a.tt.lycan:0 "Use a [hook|E] to compel [recipient.GetFirstNameNoTooltip] to share their [GetTrait('lycan_character').GetName( GetNullCharacter )] nature with you."
+  request_to_become_werebeast.0001.a.tt.werebear:0 "Use a [hook|E] to compel [recipient.GetFirstNameNoTooltip] to share their [GetTrait('werebear_character').GetName( GetNullCharacter )] nature with you."
+  request_to_become_werebeast.0001.a.tt.wereboar:0 "Use a [hook|E] to compel [recipient.GetFirstNameNoTooltip] to share their [GetTrait('wereboar_character').GetName( GetNullCharacter )] nature with you."
+
+  #B. Diplomacy
+  request_to_become_werebeast.0001.b:0 "We both might gain something out of this..."
+  request_to_become_werebeast.0001.b.tt.lycan:0 "Use your [diplomacy|E] to persuade them to grant you the [GetTrait('lycan_character').GetName( GetNullCharacter )] gift."
+  request_to_become_werebeast.0001.b.tt.werebear:0 "Use your [diplomacy|E] to persuade them to grant you the [GetTrait('werebear_character').GetName( GetNullCharacter )] gift."
+  request_to_become_werebeast.0001.b.tt.wereboar:0 "Use your [diplomacy|E] to persuade them to grant you the [GetTrait('wereboar_character').GetName( GetNullCharacter )] gift."
+
+  request_to_become_werebeast.0001.b.success:0 "You convinced [recipient.GetShortUINameNoTooltip]"
+  request_to_become_werebeast.0001.b.success.result:0 "They agree to share their gift with you."
+  request_to_become_werebeast.0001.b.failure:0 "You fail to convince [recipient.GetShortUINameNoTooltip]"
+
+  #C. Friendship
+  request_to_become_werebeast.0001.c:0 "Are we not friends, [recipient.GetFirstNameNoTooltip]?"
+  request_to_become_werebeast.0001.c.tt.lycan:0 "Call upon your friendship to gain their [GetTrait('lycan_character').GetName( GetNullCharacter )] blessing."
+  request_to_become_werebeast.0001.c.tt.werebear:0 "Call upon your friendship to gain their [GetTrait('werebear_character').GetName( GetNullCharacter )] blessing."
+  request_to_become_werebeast.0001.c.tt.wereboar:0 "Call upon your friendship to gain their [GetTrait('wereboar_character').GetName( GetNullCharacter )] blessing."
+  request_to_become_werebeast.0001.e.friendly:0 "You need to be [friends|e] with the Werebeast."
+
+  #D. Beg
+  request_to_become_werebeast.0001.d:0 "Please... I have nothing left. I beg you...."
+  request_to_become_werebeast.0001.d.tt.lycan:0 "Grovel and beg [recipient.GetShortUINameNoTooltip] to turn you into a [GetTrait('lycan_character').GetName( GetNullCharacter )]."
+  request_to_become_werebeast.0001.d.tt.werebear:0 "Grovel and beg [recipient.GetShortUINameNoTooltip] to turn you into a [GetTrait('werebear_character').GetName( GetNullCharacter )]."
+  request_to_become_werebeast.0001.d.tt.wereboar:0 "Grovel and beg [recipient.GetShortUINameNoTooltip] to turn you into a [GetTrait('wereboar_character').GetName( GetNullCharacter )]."
+
+  #E. Blackmail
+  request_to_become_werebeast.0001.e:0 "I know your little secret..."
+  request_to_become_werebeast.0001.e.tt.lycan:0 "Because you know their nature, you can blackmail [recipient.GetFirstNameNoTooltip] into granting you the [GetTrait('lycan_character').GetName( GetNullCharacter )] blessing."
+  request_to_become_werebeast.0001.e.tt.werebear:0 "Because you know their nature, you can blackmail [recipient.GetFirstNameNoTooltip] into granting you the [GetTrait('werebear_character').GetName( GetNullCharacter )] blessing."
+  request_to_become_werebeast.0001.e.tt.wereboar:0 "Because you know their nature, you can blackmail [recipient.GetFirstNameNoTooltip] into granting you the [GetTrait('wereboar_character').GetName( GetNullCharacter )] blessing."
+
+  #F. Cancel
+  request_to_become_werebeast.0001.f:0 "Nevermind"
+  request_to_become_werebeast.0001.f.tt:0 "You will head back home."
+
+
+  # EVENT 2 : You get the Werebeast trait
+  #############################################
+
+  request_to_become_werebeast.0002.t:0 "Embrace the Inner Beast"
+  request_to_become_werebeast.0002.desc.lycan:0 "[recipient.GetTitledFirstNameNoTooltip|U] has agreed to grant you the power of a [GetTrait('lycan_character').GetName( GetNullCharacter )]."
+  request_to_become_werebeast.0002.desc.werebear:0 "[recipient.GetTitledFirstNameNoTooltip|U] has agreed to grant you the power of a [GetTrait('werebear_character').GetName( GetNullCharacter )]."
+  request_to_become_werebeast.0002.desc.wereboar:0 "[recipient.GetTitledFirstNameNoTooltip|U] has agreed to grant you the power of a [GetTrait('wereboar_character').GetName( GetNullCharacter )]."
+
+  #A. Accept
+  request_to_become_werebeast.0002.a:0 "Let us begin"
+  request_to_become_werebeast.0002.a.tt.lycan:0 "Begin the transformation to become a #n [GetTrait('lycan_character').GetName( GetNullCharacter )]#!.\n\n@warning_icon!#warning Once you proceed there is no going back!#!"
+  request_to_become_werebeast.0002.a.tt.werebear:0 "Begin the transformation to become a #n [GetTrait('werebear_character').GetName( GetNullCharacter )]#!.\n\n@warning_icon!#warning Once you proceed there is no going back!#!"
+  request_to_become_werebeast.0002.a.tt.wereboar:0 "Begin the transformation to become a #n [GetTrait('wereboar_character').GetName( GetNullCharacter )]#!.\n\n@warning_icon!#warning Once you proceed there is no going back!#!"
+
+  #B. Withdraw
+  request_to_become_werebeast.0002.b:0 "No... this isn't the path I want."
+  request_to_become_werebeast.0002.b.tt:0 "You step away.\n\n@warning_icon!#warning [recipient.GetTitledFirstNameNoTooltip|U] will certainly not be pleased with this...#!\n"
+
+
+  # EVENT 3 : Begging
+  #############################################
+
+  request_to_become_werebeast.0003.t:0 "Dignity in the Dirt"
+  request_to_become_werebeast.0003.desc:0 "You fall to your knees before [recipient.GetTitledFirstNameNoTooltip]. Your voice cracks as you plead.\n\nTheir expression hardens.\n\n\"You beg like a helpless pup...\" they mutter.\n\nA flicker of irritation—or pity—crosses their face."
+
+  #A. Beg Again
+  request_to_become_werebeast.0003.a:0 "Please... I'm nothing without this!"
+  request_to_become_werebeast.0003.a.tt:0 "Continue begging. [recipient.GetSheHe|U] may give in—out of annoyance or mercy."
+  request_to_become_werebeast.0003.a.neutral.tt:0 "#P You might still have a chance#!"
+  request_to_become_werebeast.0003.a.hostile.tt:0 "@warning_icon! #N They may lose patience and turn hostile#!"
+
+  #B. Give Up
+  request_to_become_werebeast.0003.b:0 "I'm sorry... I won't grovel further."
+  request_to_become_werebeast.0003.b.tt:0 "You give up and walk away."
+
+
+  # EVENT 4 : Fight or Die
+  #############################################
+
+  request_to_become_werebeast.0004.t:0 "Enough!"
+  request_to_become_werebeast.0004.desc:0 "[recipient.GetTitledFirstNameNoTooltip]'s face contorts with disgust.\n\n\"I offered patience, and you repay it with whining? Pathetic.\"\n\nThey surge forward with inhuman fury. Death follows—unless you can stop it."
+
+  #A. No Chance
+  request_to_become_werebeast.0004.a:0 "Agh—No, please—!"
+  request_to_become_werebeast.0004.a.tt:0 "You are not strong enough to resist. [recipient.GetFirstNameNoTooltip] kills you without hesitation."
+
+  #B. Fight Back
+  request_to_become_werebeast.0004.b:0 "If you strike, I will strike back!"
+  request_to_become_werebeast.0004.b.tt:0 "You can challenge them in a duel. Your fate depends on the outcome."
+
+  #C. Flee
+  request_to_become_werebeast.0004.c:0 "Nope! I'm out!"
+  request_to_become_werebeast.0004.c.tt:0 "You attempt to flee before [recipient.GetFirstNameNoTooltip] can reach you."
+
+  request_to_become_werebeast.0004.c.success:0 "You escape"
+  request_to_become_werebeast.0004.c.success.tt:0 "You survived."
+  request_to_become_werebeast.0004.c.failure:0 "[recipient.GetFirstNameNoTooltip|U] catches you"
+
+
+  # EVENT 5 : VICTORY
+  #############################################
+
+  request_to_become_werebeast.0005.t:0 "Victory"
+  request_to_become_werebeast.0005.desc:0 "The struggle ends. [recipient.GetTitledFirstNameNoTooltip] lies defeated. Their blood marks your weapon.\n\nYou may end them, spare them... or force them to share their power."
+
+  #A. Execute
+  request_to_become_werebeast.0005.a:0 "I want none of your curse."
+  request_to_become_werebeast.0005.a.tt.lycan:0 "You execute [recipient.GetShortUINameNoTooltip], refusing the [GetTrait('lycan_character').GetName( GetNullCharacter )] gift."
+  request_to_become_werebeast.0005.a.tt.werebear:0 "You execute [recipient.GetShortUINameNoTooltip], refusing the [GetTrait('werebear_character').GetName( GetNullCharacter )] gift."
+  request_to_become_werebeast.0005.a.tt.wereboar:0 "You execute [recipient.GetShortUINameNoTooltip], refusing the [GetTrait('wereboar_character').GetName( GetNullCharacter )] gift."
+
+  #B. Spare but Reject
+  request_to_become_werebeast.0005.b:0 "You may live... but I reject your gift."
+  request_to_become_werebeast.0005.b.tt.lycan:0 "You spare them, but refuse the [GetTrait('lycan_character').GetName( GetNullCharacter )] blessing."
+  request_to_become_werebeast.0005.b.tt.werebear:0 "You spare them, but refuse the [GetTrait('werebear_character').GetName( GetNullCharacter )] blessing."
+  request_to_become_werebeast.0005.b.tt.wereboar:0 "You spare them, but refuse the [GetTrait('wereboar_character').GetName( GetNullCharacter )] blessing."
+
+  #C. Spare and Receive
+  request_to_become_werebeast.0005.c:0 "I have proven myself. The gift is mine."
+  request_to_become_werebeast.0005.c.tt:0 "You will now receive the power of a #bold Werebeast#!."
+
+
+  # EVENT 6 : Secret or Not?
+  #############################################
+
+  request_to_become_werebeast.0006.t:0 "Keep this a Secret?"
+  request_to_become_werebeast.0006.desc:0 "Now you must decide whether to conceal your true nature or let the world know the truth."
+
+  #A. Secret
+  request_to_become_werebeast.0006.a:0 "Let us keep this between us..."
+  request_to_become_werebeast.0006.a.tt:0 "Your true nature will remain a #bold secret#!."
+
+  #B. Public
+  request_to_become_werebeast.0006.b:0 "Why should I hide it?"
+  request_to_become_werebeast.0006.b.tt:0 "Your true nature will #bold not#! be a secret to anyone."

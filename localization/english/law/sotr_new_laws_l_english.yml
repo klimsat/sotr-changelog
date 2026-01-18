@@ -1,0 +1,22 @@
+﻿l_english:
+
+  #Vampire Pack
+  vampire_coven_succession_law:0 "Vampire Coven Elective"
+  vampire_coven_succession_law_subname:0 "Vampire Coven Leadership"
+  vampire_coven_elective_candidates:0 "Coven Members"
+  vampire_coven_elective_candidates_tooltip:0 "All members of the Vampire Coven can be chosen as the new Coven Leader"
+  vampire_coven_elective_electors:0 "Coven Members"
+  vampire_coven_elective_electors_tooltip:0 "All members of the Vampire Coven can vote on the new Coven Leader"
+  unlanded_favours_candidate_coven:0 "Unlanded Coven members favour this candidate: $VALUE|=+0$"
+  unlanded_doesnt_favour_candidate_coven:0 "Unlanded Coven members don't favour this candidate: $VALUE|=+0$"
+
+
+  #Werewolf Pack
+  werewolf_pack_succession_law:0 "Werewolf Pack Elective"
+  werewolf_pack_succession_law_subname:0 "Pack Leadership"
+  werewolf_pack_elective_candidates:0 "Pack Members"
+  werewolf_pack_elective_candidates_tooltip:0 "All members of the Werewolf Pack can be chosen as the new Alpha"
+  werewolf_pack_elective_electors:0 "Pack Members"
+  werewolf_pack_elective_electors_tooltip:0 "All members of the Werewolf Pack can vote on the new Alpha"
+  unlanded_favours_candidate_pack:0 "Unlanded Pack members favour this candidate: $VALUE|=+0$"
+  unlanded_doesnt_favour_candidate_pack:0 "Unlanded Pack members don't favour this candidate: $VALUE|=+0$"

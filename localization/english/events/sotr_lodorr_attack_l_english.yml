@@ -1,0 +1,41 @@
+﻿l_english:
+
+	lodorr_attack.0001.t:0 "The Terror of Windhelm"
+	lodorr_attack.0001.desc:0 "The Terror of Windhelm is a mysterious figure who has been terrorizing the city for sometime now. No one has been able to identify him/her, until now. Apparently, Lodorr, one of Ysgramor's original Companions, has been tampering with the Dark Arts —and has been consumed by it. \n\nNow the shrouds are gone and his madness is no longer concealed. He is the one who has been terrorizing and killing many innocents in Windhelm. What shall we do about this my Lord?"
+
+	lodorr_attack.0001.a:0 "Fetch me my Axe!!"
+ 	lodorr_attack.0001.a.t:0 "Ysgramor will try to take him down."
+	lodorr_attack.0001.b:0 "I'll face him head on!"
+ 	lodorr_attack.0001.b.t:0 "You will try to take him down."
+	lodorr_attack.0001.c:0 "I'll let my Champion deal with him"
+ 	lodorr_attack.0001.c.t:0 "One of your Champion or Knights will try to take him down."
+ 	lodorr_attack.0001.c.success:0 "Your Champion defeats Lodorr"
+ 	lodorr_attack.0001.c.failure:0 "Your Champion was killed by Lodorr"
+	lodorr_attack.0001.d:0 "I have more important matters to attend to."
+ 	lodorr_attack.0001.d.t:0 "You let Lodorr get away with his murder spree"
+ 	lodorr_attack.0001.d.failure:0 "Lodorr has murdered another citizen. He has also absorbed their soul, and has now became even more powerful"
+
+	lodorr_attack.0003.t:0 "The Terror is Defeated"
+	lodorr_attack.0003.desc:0 "The Terror of Windhelm has been defeated. What shall we do with him?"
+	lodorr_attack.0003.a:0 "Any last words?"
+ 	lodorr_attack.0003.a.tt:0 "You will execute Lodorr the Necromancer"
+
+	lodorr_attack.0003.b:0 "To the Dungeons!"
+ 	lodorr_attack.0003.b.tt:0 "You will imprison Lodorr the Necromancer"
+
+	lodorr_attack.0004.t:0 "The Terror is Defeated"
+	lodorr_attack.0004.desc:0 "The Terror of Windhelm has been defeated. What shall we do with him?"
+	lodorr_attack.0004.a:0 "Spare Him."
+ 	lodorr_attack.0004.a.tt:0 "Allow this fallen Companion to ponder and reflect upon his mistakes in the dungeons."
+	lodorr_attack.0004.b:0 "Execute this vile sorceror."
+ 	lodorr_attack.0004.b.tt:0 "You order your Champion to execute Lodorr the Necromancer"
+
+	lodorr_attack.0005.t:0 "Shor have mercy..."
+	lodorr_attack.0005.desc:0 "The Terror of Windhelm has absorbed yet another soul. He is now even more powerfull than before. The Citizens will not be happy"
+	lodorr_attack.0005.a:0 "Let's just move on"
+ 	lodorr_attack.0005.a.tt:0 "We have failed the citizens of Windhelm."
+
+	lodorr_attack.0006.t:0 "The Terror has won"
+	lodorr_attack.0006.desc:0 "The Terror of Windhelm has prevailed. He is now even more powerfull than before. The Citizens of Windhelm are now more terrified than ever."
+	lodorr_attack.0006.a:0 "Please, No.."
+ 	lodorr_attack.0006.a.tt:0 "You've been defeated. Lodorr will kill and absorb your soul."

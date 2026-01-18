@@ -1,0 +1,35 @@
+﻿l_english:
+
+  ## Beldama Wyrd
+  #d_beldama_wyrd_article:0 "the "
+  d_beldama_wyrd_adj:0 "Beldama"
+  #d_beldama_wyrd:0 "Beldama Wyrd"
+  ## Fen Witches
+  d_fen_witches_article:0 "the "
+  d_fen_witches_adj:0 "Fen"
+  d_fen_witches:0 "Fen Witches"
+  ## Greenspring Coven
+  d_greenspring_covend_article:0 "the "
+  d_greenspring_coven_adj:0 "Greenspring"
+  d_greenspring_coven:0 "Greenspring Coven"
+  ## Hagfeather Coven
+  d_hagfeather_coven_article:0 "the "
+  d_hagfeather_coven_adj:0 "Hagfeather"
+  d_hagfeather_coven:0 "Hagfeather Coven"
+  ## Rimerock Wyrd
+  d_rimerock_wyrd_article:0 "the "
+  d_rimerock_wyrd_adj:0 "Rimerock"
+  d_rimerock_wyrd:0 "Rimerock Wyrd"
+  ## The Karth Sisters
+  d_karth_sisters_article:0 "the "
+  d_karth_sisters_adj:0 "Sister"
+  d_karth_sisters:0 "Karth Sisters"
+  ## Viridian Wyrd
+  d_viridian_wyrd_article:0 "the "
+  d_viridian_wyrd_adj:0 "Viridian"
+  d_viridian_wyrd:0 "Viridian Wyrd"
+
+  ## Shadowspinners
+  d_shadowspinners_article:0 "the "
+  d_shadowspinners_adj:0 "Shadowspinner"
+  d_shadowspinners:0 "Shadowspinners"

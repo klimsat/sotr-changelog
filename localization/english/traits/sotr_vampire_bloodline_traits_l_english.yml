@@ -1,0 +1,195 @@
+﻿l_english:
+
+  #Blood-Matron
+  trait_vampire_blood_matron_lamae_bal: "Blood-Matron"
+  trait_vampire_blood_matron_lamae_bal_desc: "As the progenitor of all Scions and all Vampires in general, she embodies the purest form of the curse. She bears no allegiance to gods or kin, and her wrath is the gospel her children follow."
+
+  #Vampire Lord
+  trait_vampire_lord_trait: "Vampire Lord"
+  trait_vampire_lord_trait_desc: "Vampire Lords are those blessed with Molag Bal’s darkest and most potent gift. These vampires have transcended the limits of their kind—gifted either directly by the Prince of Domination himself or by another pure-blooded Vampire. \n\nA Vampire Lord wields terrifying strength, formidable sorcery, and the power to assume a monstrous, bat-like form. They are no longer mere creatures of the night—they are its sovereign.\n\n#help Attaining this [trait|E] unlock's the break out of prison [interaction|E] & change their form through the [decision|E] menu#!."
+  trait_vampire_lord_trait_character_desc: "[ROOT.GetCharacter.GetSheHe|U] is blessed with Molag Bal’s darkest and most potent gift. [ROOT.GetCharacter.GetSheHe|U] has transcended the limits of [ROOT.GetCharacter.GetHerHis] kind—gifted either directly by the Prince of Domination himself or by another pure-blooded Vampire. \n\nA Vampire Lord wields terrifying strength, formidable sorcery, and the power to assume a monstrous, bat-like form. [ROOT.GetCharacter.GetSheHe|U] is no longer mere creatures of the night—[ROOT.GetCharacter.GetSheHe] has risen to be it's sovereign.\n\n#help Attaining this [trait|E] unlock's the break out of prison [interaction|E] & change their form through the [decision|E] menu#!."
+
+  #Blood-Scions
+  trait_vampire_blood_scion_trait: "Blood Scion"
+  trait_vampire_blood_scion_trait_desc: "Blood Scions are those blessed by Lamae Bal with a perfected form of her ancient curse. Unlike the other countless vampires spawned by her blood, these rare few have been chosen to bear a greater power.\n\nThough not sired by Molag Bal himself, a Blood Scion's power rivals the strength of his Vampire Lords. They possess unnatural strength, formidable sorcery, and the power to assume a monstrous, bat-like form.\n\n#help Attaining this [trait|E] unlock's the break out of prison [interaction|E] & change their form through the [decision|E] menu#!."
+  trait_vampire_blood_scion_trait_character_desc: "[ROOT.GetCharacter.GetSheHe|U] is one of the rare few blessed by Lamae Bal with a perfected form of her ancient curse. Unlike the other countless vampires spawned by her blood, [ROOT.GetCharacter.GetSheHe] was chosen to bear a greater power.\n\nThough not sired by Molag Bal himself, a Blood Scion's power rivals the strength of his Vampire Lords. [ROOT.GetCharacter.GetSheHe|U] possess unnatural strength, formidable sorcery, and the power to assume a monstrous, bat-like form.\n\n#help Attaining this [trait|E] unlock's the break out of prison [interaction|E] & change their form through the [decision|E] menu#!."
+
+
+
+  #Higher Vampires
+  trait_vampire_higher_vampire_trait: "Higher Vampire"
+  trait_vampire_higher_vampire_trait_desc: "Higher Vampires are rare beings who possess all the terrible might of a Vampire Lord—yet owe their power not to Molag Bal or the Blood-Matron, but rather gain it through alternate pacts, whether with other Daedric Princes or other unnamed powers. They are mimics of the Lords in form and strength, but not in origin, walking a path apart from the typical Vampire patrons.\n\nThose who bear this curse are capable of the same feats as Vampire Lords such as metamorphosis, dark sorceries, and complete dominion over lesser undead. But unlike their kin, they are often bound to secret purposes, serving forces that rival even the God of Schemes.\n\n#help Attaining this [trait|E] unlock's the break out of prison [interaction|E] & change their form through the [decision|E] menu#!."
+  trait_vampire_higher_vampire_trait_character_desc: "[ROOT.GetCharacter.GetSheHe|U] is a Higher Vampire—one who possesses all the terrible might of a Vampire Lord, but owes [ROOT.GetCharacter.GetHerHis] power not to Molag Bal or the Blood-Matron, but rather gain it through alternate pacts, whether with other Daedric Princes or other unnamed powers.\n\n[ROOT.GetCharacter.GetSheHe|U] can do all that a Vampire Lord can such as take monstrous Bat form, wield shadowed magic, and command the undead. But [ROOT.GetCharacter.GetSheHe] walks a separate path, bound to secret purposes, and serves powers that challenge even the might of the God of Schemes.\n\n#help Attaining this [trait|E] unlock's the break out of prison [interaction|E] & change their form through the [decision|E] menu#!."
+
+
+  #Vampire Bloodlines
+
+  #Lamae Bal Bloodline
+  trait_vampire_bloodline_lamae: "Lamae Bal Bloodline"
+  trait_vampire_bloodline_lamae_desc: "This person is a member of the [Glossary('Lamae Bal Bloodline', 'VAMPIRE_COVEN_LAMAE_BAL_GLOSS')], the primal and most ancient vampire lineage in Tamriel.\n\nThis person bears the raw, ancient power of Lamae Bal—marked by feral strength, dark sorcery, and a curse deeper than death itself.\n\n#help Current Leader: [GetTitleByKey('d_scions_faith').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_lamae_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Lamae Bal Bloodline', 'VAMPIRE_COVEN_LAMAE_BAL_GLOSS')]."
+  trait_vampire_bloodline_lamae_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and progenitor of the [Glossary('Lamae Bal Bloodline', 'VAMPIRE_COVEN_LAMAE_BAL_GLOSS')], as well as the first person to ever be cursed or blessed with Vampirism."
+  trait_vampire_bloodline_lamae_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Lamae Bal Bloodline', 'VAMPIRE_COVEN_LAMAE_BAL_GLOSS')], the primal and most ancient vampire lineage in Tamriel.\n\n[ROOT.GetCharacter.GetSheHe|U] bears the raw, ancient power of Lamae Bal—marked by feral strength, dark sorcery, and a curse deeper than death itself.\n\n#help Current Leader: [GetTitleByKey('d_scions_faith').GetHolder.GetShortUIName]#!"
+
+
+  #Vraseth Bloodline
+  trait_vampire_bloodline_vraseth: "Vraseth Bloodline"
+  trait_vampire_bloodline_vraseth_desc: "This person is a member of the [Glossary('Vraseth Bloodline', 'VAMPIRE_COVEN_VRASETH_GLOSS')], one of the Oldest Vampire Covens in Tamriel. \n\nThis person is gifted with nimbleness, with uncanny speed and agility, moving with a grace that few mortals—or immortals—can match.\n\n#help Current Leader: [GetTitleByKey('d_vraseth').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_vraseth_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Vraseth Bloodline', 'VAMPIRE_COVEN_VRASETH_GLOSS')]."
+  trait_vampire_bloodline_vraseth_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and patron of the [Glossary('Vraseth Bloodline', 'VAMPIRE_COVEN_VRASETH_GLOSS')]"
+  trait_vampire_bloodline_vraseth_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Vraseth Bloodline', 'VAMPIRE_COVEN_VRASETH_GLOSS')], one of the Oldest Vampire Covens in Tamriel. \n\n[ROOT.GetCharacter.GetSheHe|U] is gifted with nimbleness, having uncanny speed and agility, moving with a grace that few mortals—or immortals—can match.\n\n#help Current Leader: [GetTitleByKey('d_vraseth').GetHolder.GetShortUIName]#!"
+
+  #Selenu Bloodline
+  trait_vampire_bloodline_selenu: "Selenu Bloodline"
+  trait_vampire_bloodline_selenu_desc: "This person is a member of the [Glossary('Selenu Bloodline', 'VAMPIRE_COVEN_SELENU_GLOSS')]. \n\nMembers of this bloodline bears an exceptional resistance to elemental forces, enduring both searing flame and bitter frost with unnatural resilience.\n\n#help Current Leader: [GetTitleByKey('d_selenu').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_selenu_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Selenu Bloodline', 'VAMPIRE_COVEN_SELENU_GLOSS')]"
+  trait_vampire_bloodline_selenu_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and patron of the [Glossary('Selenu Bloodline', 'VAMPIRE_COVEN_SELENU_GLOSS')]"
+  trait_vampire_bloodline_selenu_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Selenu Bloodline', 'VAMPIRE_COVEN_SELENU_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] is gifted an exceptional resistance to elemental forces, enduring both searing flame and bitter frost with unnatural resilience.\n\n#help Current Leader: [GetTitleByKey('d_selenu').GetHolder.GetShortUIName]#!"
+
+  #Lyrezi Bloodline
+  trait_vampire_bloodline_lyrezi: "Lyrezi Bloodline"
+  trait_vampire_bloodline_lyrezi_desc: "This person is a member of the [Glossary('Lyrezi Bloodline', 'VAMPIRE_COVEN_LYREZI_GLOSS')]. \n\nMembers of this bloodline are masters of concealment and disruption, able to vanish from sight and rob their prey of voice and spell alike.\n\n#help Current Leader: [GetTitleByKey('d_lyrezi').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_lyrezi_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Lyrezi Bloodline', 'VAMPIRE_COVEN_LYREZI_GLOSS')]"
+  trait_vampire_bloodline_lyrezi_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and patron of the [Glossary('Lyrezi Bloodline', 'VAMPIRE_COVEN_LYREZI_GLOSS')]"
+  trait_vampire_bloodline_lyrezi_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Lyrezi Bloodline', 'VAMPIRE_COVEN_LYREZI_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] is gifted with mastery over concealment and disruption, able to vanish from sight and rob prey of voice and spell alike.\n\n#help Current Leader: [GetTitleByKey('d_lyrezi').GetHolder.GetShortUIName]#!"
+
+  #Mountain-Talon Bloodline
+  trait_vampire_bloodline_montalion: "Mountain-Talon Bloodline"
+  trait_vampire_bloodline_montalion_desc: "This person is a member of the [Glossary('Mountain-Talon Bloodline', 'VAMPIRE_COVEN_MOUNTAIN_TALON_GLOSS')]. \n\nMembers of this bloodline are gifted with the rare ability to cure paralysis and the power to teleport in sudden, jarring bursts—appearing without warning and striking down prey with ruthless efficiency.\n\n#help Current Leader: [GetTitleByKey('d_montalion').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_montalion_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Mountain-Talon Bloodline', 'VAMPIRE_COVEN_MOUNTAIN_TALON_GLOSS')]"
+  trait_vampire_bloodline_montalion_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and patron of the [Glossary('Mountain-Talon Bloodline', 'VAMPIRE_COVEN_MOUNTAIN_TALON_GLOSS')]"
+  trait_vampire_bloodline_montalion_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Mountain-Talon Bloodline', 'VAMPIRE_COVEN_MOUNTAIN_TALON_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] is gifted with the ability to cure paralysis and teleport in sudden, jarring bursts—striking with ruthless efficiency and overwhelming force.\n\n#help Current Leader: [GetTitleByKey('d_montalion').GetHolder.GetShortUIName]#!"
+
+
+  #Garlythi Bloodline
+  trait_vampire_bloodline_garlythi: "Garlythi Bloodline"
+  trait_vampire_bloodline_garlythi_desc: "This person is a member of the [Glossary('Garlythi Bloodline', 'VAMPIRE_COVEN_GARLYTHI_GLOSS')]. \n\nMembers of this bloodline are renowned for their resilience and mastery of protective magic—particularly their potent shield spells.\n\n#help Current Leader: [GetTitleByKey('d_garlythi').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_garlythi_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Garlythi Bloodline', 'VAMPIRE_COVEN_GARLYTHI_GLOSS')]"
+  trait_vampire_bloodline_garlythi_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and patron of the [Glossary('Garlythi Bloodline', 'VAMPIRE_COVEN_GARLYTHI_GLOSS')]"
+  trait_vampire_bloodline_garlythi_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Garlythi Bloodline', 'VAMPIRE_COVEN_GARLYTHI_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] is gifted with supernatural resilience and mastery of protective magic, favoring endurance and defense over aggression.\n\n#help Current Leader: [GetTitleByKey('d_garlythi').GetHolder.GetShortUIName]#!"
+
+
+  #Thrafey Bloodline
+  trait_vampire_bloodline_thrafey: "Thrafey Bloodline"
+  trait_vampire_bloodline_thrafey_desc: "This person is a member of the [Glossary('Thrafey Bloodline', 'VAMPIRE_COVEN_THRAFEY_GLOSS')]. \n\nMembers of this bloodline are known for their uncanny ability to restore damaged flesh and regenerate with terrifying ease.\n\n#help Current Leader: [GetTitleByKey('d_thrafey').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_thrafey_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Thrafey Bloodline', 'VAMPIRE_COVEN_THRAFEY_GLOSS')]"
+  trait_vampire_bloodline_thrafey_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and patron of the [Glossary('Thrafey Bloodline', 'VAMPIRE_COVEN_THRAFEY_GLOSS')]"
+  trait_vampire_bloodline_thrafey_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Thrafey Bloodline', 'VAMPIRE_COVEN_THRAFEY_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] is gifted with the power to restore damaged flesh and regenerate with terrifying ease.\n\n#help Current Leader: [GetTitleByKey('d_thrafey').GetHolder.GetShortUIName]#!"
+
+
+  #Oio Serache Bloodline
+  trait_vampire_bloodline_vampyrum_order: "Oio Serache Bloodline"
+  trait_vampire_bloodline_vampyrum_order_desc: "This person is a member of the [Glossary('Oio Serache Bloodline', 'VAMPIRE_COVEN_OIO_SERACHE_GLOSS')]. \n\nMembers of this bloodline wield immense telepathic powers—capable of erasing memories, rewriting perception, and inflicting pain or death without their victims ever realizing what is happening.\n\n#help Current Leader: [GetTitleByKey('d_vampyrum_order').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_vampyrum_order_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Oio Serache Bloodline', 'VAMPIRE_COVEN_OIO_SERACHE_GLOSS')]"
+  trait_vampire_bloodline_vampyrum_order_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and patron of the [Glossary('Oio Serache Bloodline', 'VAMPIRE_COVEN_OIO_SERACHE_GLOSS')]"
+  trait_vampire_bloodline_vampyrum_order_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Oio Serache Bloodline', 'VAMPIRE_COVEN_OIO_SERACHE_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] is gifted with terrifying telepathic powers—able to erase memories, rewrite perception, and bring death without a whisper.\n\n#help Current Leader: [GetTitleByKey('d_vampyrum_order').GetHolder.GetShortUIName]#!"
+
+  #Gray Host Bloodline
+  trait_vampire_bloodline_gray_host: "Gray Host Bloodline"
+  trait_vampire_bloodline_gray_host_desc: "This person is a member of the [Glossary('Gray Host Bloodline', 'VAMPIRE_COVEN_GRAY_HOST_GLOSS')]. \n\nMembers of this bloodline wield a formidable variety of powers, their most feared gift being the mastery of shadow magic—walking through darkness, cloaking themselves in unseen veils, and striking from places no light can reach.\n\n#help Current Leader: [GetTitleByKey('d_gray_host').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_gray_host_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Gray Host Bloodline', 'VAMPIRE_COVEN_GRAY_HOST_GLOSS')]"
+  trait_vampire_bloodline_gray_host_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the founder and patron of the [Glossary('Gray Host Bloodline', 'VAMPIRE_COVEN_GRAY_HOST_GLOSS')]"
+  trait_vampire_bloodline_gray_host_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Gray Host Bloodline', 'VAMPIRE_COVEN_GRAY_HOST_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] is gifted with mastery over shadow magic—moving through darkness, veiling themselves from sight, and striking from where no light can reach.\n\n#help Current Leader: [GetTitleByKey('d_gray_host').GetHolder.GetShortUIName]#!"
+
+
+  #Nighthollow Bloodline
+  trait_vampire_bloodline_nighthollow: "Nighthollow Bloodline"
+  trait_vampire_bloodline_nighthollow_desc: "This person is a member of the [Glossary('Nighthollow Bloodline', 'VAMPIRE_COVEN_NIGHTHOLLOW_GLOSS')]. \n\nMembers of this bloodline feed not only on blood, but also on the dread and fear of their victims.\n\n#help Current Leader: [GetTitleByKey('d_nighthollow').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_nighthollow_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Nighthollow Bloodline', 'VAMPIRE_COVEN_NIGHTHOLLOW_GLOSS')]"
+  trait_vampire_bloodline_nighthollow_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and patron of the [Glossary('Nighthollow Bloodline', 'VAMPIRE_COVEN_NIGHTHOLLOW_GLOSS')]"
+  trait_vampire_bloodline_nighthollow_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Nighthollow Bloodline', 'VAMPIRE_COVEN_NIGHTHOLLOW_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] feeds not only on blood, but also on the dread and fear that linger in the hearts of victims.\n\n#help Current Leader: [GetTitleByKey('d_nighthollow').GetHolder.GetShortUIName]#!"
+
+  #Vakka Shuxalt Bloodline
+  trait_vampire_bloodline_vakka_shuxalt: "Vakka Shuxalt Bloodline"
+  trait_vampire_bloodline_vakka_shuxalt_desc: "This person is a member of the [Glossary('Vakka Shuxalt Bloodline', 'VAMPIRE_COVEN_VAKKA_SHUXALT_GLOSS')]. \n\nMembers of this bloodline are masters of blood magic—wielding it not only for healing, but also to corrupt and bring decay.\n\n#help Current Leader: [GetTitleByKey('d_vakka_shuxalt').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_vakka_shuxalt_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Vakka Shuxalt Bloodline', 'VAMPIRE_COVEN_VAKKA_SHUXALT_GLOSS')]"
+  trait_vampire_bloodline_vakka_shuxalt_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and patron of the [Glossary('Vakka Shuxalt Bloodline', 'VAMPIRE_COVEN_VAKKA_SHUXALT_GLOSS')]"
+  trait_vampire_bloodline_vakka_shuxalt_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Vakka Shuxalt Bloodline', 'VAMPIRE_COVEN_VAKKA_SHUXALT_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] is a master of blood magic—wielding it not only for healing, but also to corrupt and bring decay.\n\n#help Current Leader: [GetTitleByKey('d_vakka_shuxalt').GetHolder.GetShortUIName]#!"
+
+
+  #Whet Fang Sodality
+  trait_vampire_bloodline_whet_fang: "Whet Fang Sodality"
+  trait_vampire_bloodline_whet_fang_desc: "This person is a member of the [Glossary('Whet Fang Sodality', 'VAMPIRE_COVEN_WHET_FANG_GLOSS')]. \n\nMembers of this bloodline possess formidable resistance to mental intrusion—making them pretty much immune to illusion or other mind trickeries.\n\n#help Current Leader: [GetTitleByKey('d_whet_fang').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_whet_fang_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Whet Fang Sodality', 'VAMPIRE_COVEN_WHET_FANG_GLOSS')]"
+  trait_vampire_bloodline_whet_fang_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and patron of the [Glossary('Whet Fang Sodality', 'VAMPIRE_COVEN_WHET_FANG_GLOSS')]"
+  trait_vampire_bloodline_whet_fang_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Whet Fang Sodality', 'VAMPIRE_COVEN_WHET_FANG_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] possesses a formidable resistance to mental intrusion—practically immune to illusion or other mind trickeries.\n\n#help Current Leader: [GetTitleByKey('d_whet_fang').GetHolder.GetShortUIName]#!"
+
+
+  #Tenarr Zalviit Bloodline
+  trait_vampire_bloodline_tenarr_zalviit: "Tenarr Zalviit Bloodline"
+  trait_vampire_bloodline_tenarr_zalviit_desc: "This person is a member of the [Glossary('Tenarr Zalviit Bloodline', 'VAMPIRE_COVEN_TENARR_ZALVIIT_GLOSS')]. \n\nMembers of this bloodline possess an uncanny awareness—able to detect blood, movement, presence, and even intent from miles away, making them peerless hunters and vigilant watchers of the night.\n\n#help Current Leader: [GetTitleByKey('d_tenarr_zalviit').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_tenarr_zalviit_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Tenarr Zalviit Bloodline', 'VAMPIRE_COVEN_TENARR_ZALVIIT_GLOSS')]"
+  trait_vampire_bloodline_tenarr_zalviit_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and patron of the [Glossary('Tenarr Zalviit Bloodline', 'VAMPIRE_COVEN_TENARR_ZALVIIT_GLOSS')]"
+  trait_vampire_bloodline_tenarr_zalviit_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Tenarr Zalviit Bloodline', 'VAMPIRE_COVEN_TENARR_ZALVIIT_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] has a heightened sense of smell and awareness—able to detect blood, movement, and intent from miles away. Nothing stirs in the night without the Night Stalkers knowing.\n\n#help Current Leader: [GetTitleByKey('d_tenarr_zalviit').GetHolder.GetShortUIName]#!"
+
+  #Hollowfang Bloodline
+  trait_vampire_bloodline_hollowfang: "Hollowfang Bloodline"
+  trait_vampire_bloodline_hollowfang_desc: "This person is a member of the [Glossary('Hollowfang Bloodline', 'VAMPIRE_COVEN_HOLLOWFANG_GLOSS')]. \n\nMembers of this bloodline are masters of blood magic, poison, and alchemy—steeping vitae into elixirs of rapture and ruin through a blend of ritual, beauty, and intellect.\n\n#help Current Leader: [GetTitleByKey('d_hollowfang').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_hollowfang_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Hollowfang Bloodline', 'VAMPIRE_COVEN_HOLLOWFANG_GLOSS')]"
+  trait_vampire_bloodline_hollowfang_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and patron of the [Glossary('Hollowfang Bloodline', 'VAMPIRE_COVEN_HOLLOWFANG_GLOSS')]"
+  trait_vampire_bloodline_hollowfang_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Hollowfang Bloodline', 'VAMPIRE_COVEN_HOLLOWFANG_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] is gifted in blood magic, poison, and alchemy—crafting elixirs of rapture and ruin through ritual and refined intellect.\n\n#help Current Leader: [GetTitleByKey('d_hollowfang').GetHolder.GetShortUIName]#!"
+
+  #Berne Clan
+  trait_vampire_bloodline_berne: "Berne Clan"
+  trait_vampire_bloodline_berne_desc: "This person is a member of the [Glossary('Berne Clan', 'VAMPIRE_COVEN_BERNE_GLOSS')]. \n\nMembers of this bloodline are gifted with a venomous bite that inflicts an immense, burning pain—like molten fire coursing through the veins of their victims.\n\n#help Current Leader: [GetTitleByKey('d_berne').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_berne_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Berne Clan', 'VAMPIRE_COVEN_BERNE_GLOSS')]"
+  trait_vampire_bloodline_berne_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and patron of the [Glossary('Berne Clan', 'VAMPIRE_COVEN_BERNE_GLOSS')]"
+  trait_vampire_bloodline_berne_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Berne Clan', 'VAMPIRE_COVEN_BERNE_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] is gifted with a venomous bite that sears with unbearable heat, leaving victims writhing in molten agony.\n\n#help Current Leader: [GetTitleByKey('d_berne').GetHolder.GetShortUIName]#!"
+
+  #Korgari Bloodline
+  trait_vampire_bloodline_korgari: "Korgari Bloodline"
+  trait_vampire_bloodline_korgari_desc: "This person is a member of the [Glossary('Korgari Bloodline', 'VAMPIRE_COVEN_KORGARI_GLOSS')]. \n\nMembers of this bloodline are said to control heat itself—able to transform into living flame and teleport through nearby fires. They lack the weaknesses of common vampires, fearing neither sun nor sanctity, but are painfully vulnerable to water and cannot cross it.\n\n#help Current Leader: [GetTitleByKey('d_korgari').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_korgari_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Korgari Bloodline', 'VAMPIRE_COVEN_KORGARI_GLOSS')]"
+  trait_vampire_bloodline_korgari_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and patron of the [Glossary('Korgari Bloodline', 'VAMPIRE_COVEN_KORGARI_GLOSS')]"
+  trait_vampire_bloodline_korgari_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Korgari Bloodline', 'VAMPIRE_COVEN_KORGARI_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] can command heat, become living flame, and vanish through fire—unhindered by sunlight or sanctity, but seared by water and unable to cross it.\n\n#help Current Leader: [GetTitleByKey('d_korgari').GetHolder.GetShortUIName]#!"
+
+  #Diodata Clan
+  trait_vampire_bloodline_diodata: "Diodata Clan"
+  trait_vampire_bloodline_diodata_desc: "This person is a member of the [Glossary('Diodata Clan', 'VAMPIRE_COVEN_DIODATA_GLOSS')]. \n\nMembers of this bloodline are gifted with the terrifying ability to see through the eyes of others—observing the world through countless vessels, never truly absent, and approaching nigh-omnividence.\n\n#help Current Leader: [GetTitleByKey('d_diodata').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_diodata_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Diodata Clan', 'VAMPIRE_COVEN_DIODATA_GLOSS')]"
+  trait_vampire_bloodline_diodata_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and patron of the [Glossary('Diodata Clan', 'VAMPIRE_COVEN_DIODATA_GLOSS')]"
+  trait_vampire_bloodline_diodata_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Diodata Clan', 'VAMPIRE_COVEN_DIODATA_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] possesses the dreadful gift of seeing through the eyes of others, silently watching through countless gazes with near-omnivident awareness.\n\n#help Current Leader: [GetTitleByKey('d_diodata').GetHolder.GetShortUIName]#!"
+
+
+  #Bathogorgen Clan
+  trait_vampire_bloodline_bathogorgen: "Bathogorgen Clan"
+  trait_vampire_bloodline_bathogorgen_desc: "This person is a member of the [Glossary('Bathogorgen Clan', 'VAMPIRE_COVEN_BATHOGORGEN_GLOSS')]. \n\nMembers of this bloodline are said to possess the terrifying ability to alter their bodies into virtually any form—shifting flesh and bone with unnatural ease and fluidity.\n\n#help Current Leader: [GetTitleByKey('d_bathogorgen').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_bathogorgen_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Bathogorgen Clan', 'VAMPIRE_COVEN_BATHOGORGEN_GLOSS')]"
+  trait_vampire_bloodline_bathogorgen_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and patron of the [Glossary('Bathogorgen Clan', 'VAMPIRE_COVEN_BATHOGORGEN_GLOSS')]"
+  trait_vampire_bloodline_bathogorgen_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Bathogorgen Clan', 'VAMPIRE_COVEN_BATHOGORGEN_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] is said to be capable of reshaping [ROOT.GetCharacter.GetHerHis] form at will—twisting body and shape with grotesque mastery.\n\n#help Current Leader: [GetTitleByKey('d_bathogorgen').GetHolder.GetShortUIName]#!"
+
+  #Keerilth Clan
+  trait_vampire_bloodline_keerilth: "Keerilth Clan"
+  trait_vampire_bloodline_keerilth_desc: "This person is a member of the [Glossary('Keerilth Clan', 'VAMPIRE_COVEN_KEERILTH_GLOSS')]. \n\nMembers of this bloodline are masters of vapor and veil—able to dissolve into mist at will, slipping through cracks, drifting into still waters, and vanishing beneath the forest floor.\n\n#help Current Leader: [GetTitleByKey('d_keerilth').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_keerilth_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Keerilth Clan', 'VAMPIRE_COVEN_KEERILTH_GLOSS')]"
+  trait_vampire_bloodline_keerilth_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the founder and patron of the [Glossary('Keerilth Clan', 'VAMPIRE_COVEN_KEERILTH_GLOSS')]"
+  trait_vampire_bloodline_keerilth_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Keerilth Clan', 'VAMPIRE_COVEN_KEERILTH_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] is a master of vapor and veil—dissolving into mist and slipping unseen through the world’s smallest spaces.\n\n#help Current Leader: [GetTitleByKey('d_keerilth').GetHolder.GetShortUIName]#!"
+
+  #Bonsamu Clan
+  trait_vampire_bloodline_bonsamu: "Bonsamu Clan"
+  trait_vampire_bloodline_bonsamu_desc: "This person is a member of the [Glossary('Bonsamu Clan', 'VAMPIRE_COVEN_BONSAMU_GLOSS')]. \n\nMembers of this bloodline are immune to sunlight and other afflictions that plague common vampires, and their true form can only be revealed—and harmed—by fire.\n\n#help Current Leader: [GetTitleByKey('d_bonsamu').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_bonsamu_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Bonsamu Clan', 'VAMPIRE_COVEN_BONSAMU_GLOSS')]"
+  trait_vampire_bloodline_bonsamu_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and patron of the [Glossary('Bonsamu Clan', 'VAMPIRE_COVEN_BONSAMU_GLOSS')]"
+  trait_vampire_bloodline_bonsamu_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Bonsamu Clan', 'VAMPIRE_COVEN_BONSAMU_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] is immune to sunlight and illusion-bound to secrecy, vulnerable only to flame.\n\n#help Current Leader: [GetTitleByKey('d_bonsamu').GetHolder.GetShortUIName]#!"
+
+  #Volkihar Clan
+  trait_vampire_bloodline_volkihar: "Volkihar Clan"
+  trait_vampire_bloodline_volkihar_desc: "This person is a member of the [Glossary('Volkihar Clan', 'VAMPIRE_COVEN_VOLKIHAR_GLOSS')]. \n\nMembers of this bloodline are feared for their terrifying command of frost and shadow—their breath said to freeze blood, their bodies able to vanish into mist or darkness.\n\n#help Current Leader: [GetTitleByKey('d_volkihar').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_volkihar_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Volkihar Clan', 'VAMPIRE_COVEN_VOLKIHAR_GLOSS')]"
+  trait_vampire_bloodline_volkihar_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and patron of the [Glossary('Volkihar Clan', 'VAMPIRE_COVEN_VOLKIHAR_GLOSS')]"
+  trait_vampire_bloodline_volkihar_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Volkihar Clan', 'VAMPIRE_COVEN_VOLKIHAR_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] commands frost and shadow, freezing blood and vanishing at will.\n\n#help Current Leader: [GetTitleByKey('d_volkihar').GetHolder.GetShortUIName]#!"
+
+
+  #Mairon Bloodline
+  trait_vampire_bloodline_mairon: "Mairon Bloodline"
+  trait_vampire_bloodline_mairon_desc: "This person is a member of the [Glossary('Mairon Bloodline', 'VAMPIRE_COVEN_MAIRON_GLOSS')]. \n\nThose of the Mairon bloodline are renowned for their mastery of illusion and mind-warping glamour. Whispers cling to their presence, and their voices bend the will of the weak. They do not strike with brute force, but unravel their prey from within—draining resolve before blood.\n\n#help Current Leader: [GetTitleByKey('d_mairon').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_mairon_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current head of the [Glossary('Mairon Bloodline', 'VAMPIRE_COVEN_MAIRON_GLOSS')]"
+  trait_vampire_bloodline_mairon_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the ancient founder and patron of the [Glossary('Mairon Bloodline', 'VAMPIRE_COVEN_MAIRON_GLOSS')]"
+  trait_vampire_bloodline_mairon_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the [Glossary('Mairon Bloodline', 'VAMPIRE_COVEN_MAIRON_GLOSS')]. \n\n[ROOT.GetCharacter.GetSheHe|U] wields illusion and glamour like a blade—unraveling the mind before ever drawing blood.\n\n#help Current Leader: [GetTitleByKey('d_mairon').GetHolder.GetShortUIName]#!"
+
+  #Ashbound Bloodline - Not attainable
+  trait_vampire_bloodline_ashbound: "Ashbound Vampires"
+  trait_vampire_bloodline_ashbound_desc: "This person is one of the [Glossary('Ashbounds', 'VAMPIRE_COVEN_ASHBOUND_GLOSS')]. \n\nThey are vampire souls of Coldharbour who somehow managed to escape Coldharbour. \n\nThey are here to completely savor their moments on Nirn, until the day the Prince of Domination reclaims their soul.\n\n#help Current Leader: [GetTitleByKey('d_ashbound_vampire').GetHolder.GetShortUIName]#!"
+  trait_vampire_bloodline_ashbound_leader_desc: "[ROOT.GetCharacter.GetSheHe|U] is the current leader of the [Glossary('Ashbounds', 'VAMPIRE_COVEN_ASHBOUND_GLOSS')]"
+  trait_vampire_bloodline_ashbound_founder_desc: "[ROOT.GetCharacter.GetSheHe|U] is the first of the [Glossary('Ashbounds', 'VAMPIRE_COVEN_ASHBOUND_GLOSS')] to escape the Ashbound Hall, defying Coldharbour and the will of Molag Bal."
+  trait_vampire_bloodline_ashbound_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is one of the [Glossary('Ashbounds', 'VAMPIRE_COVEN_ASHBOUND_GLOSS')]—a vampire soul of Ashbound Prison who somehow managed to escape Coldharbour. \n\n[ROOT.GetCharacter.GetSheHe|U] is here to completely savor [ROOT.GetCharacter.GetHerHis] moments on Nirn, until the day the Prince of Domination reclaims [ROOT.GetCharacter.GetHerHis] soul.\n\n#help Current Leader: [GetTitleByKey('d_ashbound_vampire').GetHolder.GetShortUIName]#!"

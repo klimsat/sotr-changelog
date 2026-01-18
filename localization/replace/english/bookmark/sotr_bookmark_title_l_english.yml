@@ -1,0 +1,32 @@
+﻿l_english:
+
+  NOMAD_BOOKMARK_CHARACTER_TITLE_CHIEFTAIN_OR_KHAN: "[SelectLocalization(EqualTo_int32( BookmarkCharacter.GetTier, '(int32)3'), '$count_tribal_male|q$', '$king_feudal_male_khajiiti|q$' )] of [BookmarkCharacter.GetTitleName]" #SOTR EDIT - No Altaic
+  BOOKMARK_CHARACTER_TITLE_TYPE_NOMAD_CHIEFTAIN_OR_KHAN: "[SelectLocalization(EqualTo_int32( BookmarkCharacter.GetTier, '(int32)3'), '$count_tribal_male|q$', '$king_feudal_male_khajiiti|q$' )] of [BookmarkCharacter.GetTitleName] #weak [BookmarkCharacter.GetGovernmentType.GetNameWithIcon]#!" #SOTR Edit - No Altaic
+
+ 
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+ 
+
+
+  
+
+ 
+
+ 
+ 

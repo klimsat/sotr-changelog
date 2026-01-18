@@ -1,0 +1,6 @@
+﻿l_english:
+
+  artifact_sword_of_the_departed_name:0 "Sword Of The Departed"
+  artifact_sword_of_the_departed_description:1 "Forged in a distand land to the far east, this unique folded-steel sword bears a sharp, curved edge and a simple black handle. It has been [GetScriptedCharacterByHistoryID( 'tsaesci_eastfar_1_merethic_era' ).GetFirstName]’s faithful companion through countless trials. The blade is more than a weapon, it is a piece of Tam's home which he had carried across many shores."
+  artifact_lightning_cutter_name:0 "Lightning Cutter"
+  artifact_lightning_cutter_description:1 "The weapon came into the hands of [GetScriptedCharacterByHistoryID( 'lilmothiit_dyaan_ano_merethic_era' ).GetFirstName], the fearless Captain of the Valiant Storm, after a fabled duel with a mysterious pirate from the distant East. None knew the stranger's name—only that his skill matched the fury of tempests, and that his fall marked the beginning of Aano's legend.\n\nStruck by the blade’s uncanny craftsmanship, Aano claimed it as his personal weapon. To face this weapon is to face lightning itself—swift, blinding, and deadly."

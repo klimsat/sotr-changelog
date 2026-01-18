@@ -1,0 +1,40 @@
+﻿l_english:
+
+
+  ## Yokudan ##
+
+  nick_the_white_scorpion:0 "The White Scorpion"
+  nick_the_white_scorpion_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] is known as the White Scorpion for [CharYourHerHis(CHARACTER)] pale skin and stinging sword style."
+
+  nick_strait_cutter:0 "Strait-Cutter"
+  nick_strait_cutter_desc:1 "Well... [CharYourHerHis(CHARACTER)] name speaks for itself.."
+
+  nick_the_silent_singer:0 "The Silent Singer"
+  nick_the_silent_singer_desc:1 "Beneath [CharYourHerHis(CHARACTER)] silence lies something hidden. [CHARACTER.GetShortUINameNoTooltipNoFormat|U] simply watch, listen, and wait. When danger rises, [CharYourHerHis(CHARACTER)] blade cuts so deep that it pierces the soul.."
+
+  nick_the_vigilant_yokudan:0 "The Vigilant"
+  nick_the_vigilant_yokudan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] is known for his great discipline that keeps [CharYouHerHim(CHARACTER)] ever ready."
+
+  nick_of_the_burning_coast:0 "of the Burning Coast"
+  nick_of_the_burning_coast_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] is known for leaving scorched shores."
+
+  nick_the_present_yokudan:0 "The Present"
+  nick_the_present_yokudan_desc:1 "Many have reported that fighting against [CHARACTER.GetShortUINameNoTooltipNoFormat|U] feels as though time itself bends around [CharYouHerHim(CHARACTER)]."
+
+  nick_the_falcon_whose_wings_are_blades:0 "The Falcon Whose Wings Are Blades"
+  nick_the_falcon_whose_wings_are_blades_desc:1 "Beware of [CharYourHerHis(CHARACTER)] soaring skills and quick strikes."
+
+  nick_the_sand_reaper:0 "The Sand Reaper"
+  nick_the_sand_reaper_desc:1 "No one dares to meet [CHARACTER.GetShortUINameNoTooltipNoFormat|U] within the drifting dunes."
+
+  nick_the_dawn_splitter:0 "The Dawn-Splitter"
+  nick_the_dawn_splitter_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s victory in battle is said to be as inevitable as the rising dawn."
+
+  nick_maker_of_ten_thousand_cuts:0 "Maker of Ten Thousand Cuts"
+  nick_maker_of_ten_thousand_cuts_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] is known for [CharYourHerHis(CHARACTER)] technique that strikes mercilessly before any foe can draw breath."
+
+  nick_the_lion_of_the_dunes:0 "the Singing Lion of the Dunes"
+  nick_the_lion_of_the_dunes_desc:1 "[CharYourHerHis(CHARACTER)|U] every strike flows like music through sand and wind. [CHARACTER.GetShortUINameNoTooltipNoFormat|U] roars through battle with unmatched prowess and unshakable courage."
+
+  nick_the_red_dust:0 "The Red Dust"
+  nick_the_red_dust_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] creates a trail of red dust wherever [CharYouSheHe(CHARACTER)] fought."

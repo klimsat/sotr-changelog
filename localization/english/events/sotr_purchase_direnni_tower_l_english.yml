@@ -1,0 +1,13 @@
+﻿l_english:
+
+	purchase_adamantine.001.t:0 "Adamantine Tower Purchased"
+	purchase_adamantine.001.desc.direnni:0 "The Adamantine Tower, the oldest known structure in Aldmeri and Human history, stands as a testament to ages past. Here, the gods themselves was said to have walked and convened. \n\nOur Direnni ancestors were the first to uncover its secrets, but they have lost claim on it for centuries. \n\nBut now, at long last, fate has come full circle. the Adamantine Tower is rightfully ours once more."
+	purchase_adamantine.001.desc.others:0 "The Adamantine Tower, the oldest known structure in Aldmeri and Nordic history, stands as a testament to ages past. Here, the gods themselves once walked and convened. \n\nThe Direnni was said to be the first to rediscover and settle it, but they have lost claim on it for centuries. \n\n However it seems that fate, has a way of playing its own games. The Adamantine Tower now belongs to me."
+	purchase_adamantine.001.a:0 "Balfiera is now mine"
+ 	purchase_adamantine.001.b:0 "It's best not to brag about this"
+
+	purchase_adamantine.002.t:0 "Adamantine Tower Purchased"
+	purchase_adamantine.002.desc:0 "It seems that the Adamantine Tower has a new owner"
+	purchase_adamantine.002.a:0 "The day will come when Clan Direnni reclaims what is rightfully ours"
+	purchase_adamantine.002.b:0 "I can probably claim that tiny island just as easy"
+	purchase_adamantine.002.c:0 "Will it stand the test of time?"

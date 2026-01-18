@@ -1,0 +1,11 @@
+﻿l_english:
+
+  CULTURE_WINDOW_ERA_JOINED:0 "1000–"
+  CULTURE_WINDOW_ERA_JOINED_LEFT:0 "2000–1000"
+  INNOVATION_ERA_NOT_IN_YEAR:0 "#N This Era is not available until [Select_CString(LessThanOrEqualTo_int32('(int32)$YEAR|q$','$ERA_MERETHIC_END|q$'),'ME',Select_CString(LessThanOrEqualTo_int32('(int32)$YEAR|q$','$ERA_FIRST_END|q$'),'1E',Select_CString(LessThanOrEqualTo_int32('(int32)$YEAR|q$','$ERA_SECOND_END|q$'),'2E',Select_CString(LessThanOrEqualTo_int32('(int32)$YEAR|q$','$ERA_THIRD_END|q$'),'3E','4E'))))] [Select_int32(LessThanOrEqualTo_int32('(int32)$YEAR|q$','$ERA_MERETHIC_END|q$'),Subtract_int32('$ERA_MERETHIC_END|q$','(int32)$YEAR|q$'),Select_int32(LessThanOrEqualTo_int32('(int32)$YEAR|q$','$ERA_FIRST_END|q$'),Subtract_int32('(int32)$YEAR|q$','$ERA_MERETHIC_END|q$'),Select_int32(LessThanOrEqualTo_int32('(int32)$YEAR|q$','$ERA_SECOND_END|q$'),Subtract_int32('(int32)$YEAR|q$','$ERA_FIRST_END|q$'),Select_int32(LessThanOrEqualTo_int32('(int32)$YEAR|q$','$ERA_THIRD_END|q$'),Subtract_int32('(int32)$YEAR|q$','$ERA_SECOND_END|q$'),Subtract_int32('(int32)$YEAR|q$','$ERA_THIRD_END|q$')))))] #!"
+
+  #!" # EK Era System
+  CULTURE_CREATION_DATE:0 "Formed on [DATE.GetStringShortNoYear] $ERA_STRING_YEAR_CULTURE_DIVERGE_CONCAT$"
+  CULTURE_CREATION_DATE_DIVERGED:0 "Diverged from [CULTURE.GetName] on [DATE.GetStringShortNoYear] $ERA_STRING_YEAR_CULTURE_DIVERGE_CONCAT$"
+  CULTURE_CREATION_DATE_HYBRID:0 "Formed from [CULTURE.GetName] and [TARGET_CULTURE.GetName] on [DATE.GetStringShortNoYear] $ERA_STRING_YEAR_CULTURE_DIVERGE_CONCAT$"
+  CULTURE_PILLAR_GENERAL_TOOLTIP:2 "[CulturePillar.GetEffectDescription( Culture.Self )][AddTextIf( Not(StringIsEmpty( CulturePillar.GetEffectDescription( Culture.Self ) )), Localize('line_break') )]\n[CulturePillar.GetDescription( Culture.Self )|F]"

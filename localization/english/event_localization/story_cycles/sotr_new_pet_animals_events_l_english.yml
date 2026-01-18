@@ -1,0 +1,96 @@
+﻿l_english:
+
+ ###########################
+ #   Storm Atronach Bear   #
+ ###########################
+ storm_atronach_bear_story_modifier:0 "Storm Atronach Bear"
+ storm_atronach_bear_story_modifier_desc:0 "You no have your own personal Storm Atronach Bear. How much more awesome can you be?"
+ storm_atronach_bear_story_boulder_rolling_modifier:0 "Boulder Rolling with your Storm Atronach Bear"
+ storm_atronach_bear_story_boulder_rolling_modifier_desc:0 "This character enjoys Boulder Rolling with their Storm Atronach Bear"
+ storm_atronach_bear_story_fighting_with_you_modifier:0 "Battle storm_atronach_bear"
+ storm_atronach_bear_story_fighting_with_you_modifier_desc:0 "In battle, this character can always be seen with their Storm Atronach Bear not far from them, annoying enemies and even sometimes hurting them."
+ 
+ storm_atronach_bear_gender_her:0 "her"
+ storm_atronach_bear_gender_his:0 "his"
+ storm_atronach_bear_gender_him:0 "him"
+ storm_atronach_bear_gender_she:0 "she"
+ storm_atronach_bear_gender_he:0 "he"
+ storm_atronach_bear_gender_herself:0 "herself"
+ storm_atronach_bear_gender_himself:0 "himself"
+ storm_atronach_bear_gender_female:0 "female"
+ storm_atronach_bear_gender_male:0 "male"
+ 
+ storm_atronach_bear_color_brown:0 "brown"
+ storm_atronach_bear_color_coral:0 "coral"
+ storm_atronach_bear_color_blue:0 "blue"
+ 
+ 
+ storm_atronach_bear_name:1 "[ROOT.Char.GetLocalizedText( 'story_cycle_storm_atronach_bear_name' )]"
+ storm_atronach_bear_name_possessive:1 "[ROOT.Char.Custom( 'StormAtronachBearStoryName' )]'s"
+ storm_atronach_bear_name_ugly_hugs:0 "Ugly Hugs"
+ storm_atronach_bear_name_bjorn:0 "Little Bjorn"
+ storm_atronach_bear_name_thunder_floof:0 "Thunder-Floof"
+ storm_atronach_bear_name_rumblebutt:0 "Rumblebutt"
+ storm_atronach_bear_name_thunderborn:0 "Thunderborn"
+ storm_atronach_bear_name_ironbolt:0 "Ironbolt"
+ storm_atronach_bear_name_cloudchomp:0 "Cloudchomp"
+ storm_atronach_bear_name_rumblepaw:0 "Storm-Paw"
+ storm_atronach_bear_name_alabarsson:0 "Alabarssón"
+ storm_atronach_bear_name_alabarsdottr:0 "Alabarsdóttr"
+
+ ek_new_pet_animal.5001.t:0 "The Storm Atronach Bear"
+ ek_new_pet_animal.5001.desc:1 "As the air hums with energy, a Storm Atronach Bear suddenly appear before me. Each step [ROOT.Char.Custom('StormAtronachBearStorySheHe')] makes lightning sparks across the ground. A low, rumbling crackle echoes with [ROOT.Char.Custom('StormAtronachBearStoryHerHis')] every motion, like distant thunder waiting to break. \n\nI watch as [ROOT.Char.Custom('StormAtronachBearStorySheHe')] prowls, a force of nature bound to my side. I should give [ROOT.Char.Custom('StormAtronachBearStoryHerHim')] a name that match such a presence. Should it honor legends of old? Reflect the swirling storm within [ROOT.Char.Custom('StormAtronachBearStoryHerHis')] form? Or capture the strange sense of calm I feel, knowing this tempest walks beside me?\n\nOh, I know! I will name [ROOT.Char.Custom('StormAtronachBearStoryHerHim')]..."
+ ek_new_pet_animal.5001.a:1 "Now that's a name!"
+
+ 
+ ### Random Storm Atronach Bear events
+ # Boulder Rolling – A strength competition where a true Atmoran and his bear take turns tossing logs or rolling boulders, seeing who can move the heaviest object the farthest.
+ ek_new_pet_animal.5101.t:0 "[ROOT.Char.Custom('StormAtronachBearStoryName')] Boulder Rolling"
+ ek_new_pet_animal.5101.desc:0 "As part of our daily routine, I have begun a test of strength with [ROOT.Char.Custom('StormAtronachBearStoryName')].  We take turns rolling massive boulders across the field, each of us pushing with all our might.\n\n [ROOT.Char.Custom('StormAtronachBearStoryName')] seems to enjoy it just as much. [ROOT.Char.Custom('StormAtronachBearStorySheHe')] would let out a deep, rumbling growls of satisfaction every time [ROOT.Char.Custom('StormAtronachBearStorySheHe')] sends a boulder tumbling farther than I."
+ ek_new_pet_animal.5101.a:0 "Let's see if I can beat you this time, [ROOT.Char.Custom('StormAtronachBearStoryName')]!"
+
+ 
+ # Your Storm Atronach Bear goes with you into battle!
+ ek_new_pet_animal.5102.t:0 "[ROOT.Char.Custom('StormAtronachBearStoryName')] Storm's Fury Unleashed!"
+ ek_new_pet_animal.5102.desc:0 "There is no truer companion in battle than [ROOT.Char.Custom('StormAtronachBearStoryName')]! Whether clashing in open war, fending off ambushes, or dueling a worthy foe, [ROOT.Char.Custom('StormAtronachBearStorySheHe')] never leaves my side and fights with me.\n\nMost people would tremble at the sight of [ROOT.Char.Custom('StormAtronachBearStoryHerHim')]. And those who do not falter? They soon learn the true wrath of the Skies as [ROOT.Char.Custom('StormAtronachBearStoryName')] tears through the battlefield beside me."
+ ek_new_pet_animal.5102.a:0 "To Battle, [ROOT.Char.Custom('StormAtronachBearStoryName')]!"
+ 
+ # Your Storm Atronach Bear attacked a vassal! Wound or possibly an eye removal
+ ek_new_pet_animal.5103.t:0 "[ROOT.Char.Custom('StormAtronachBearStoryName')] Storm's Fury"
+ ek_new_pet_animal.5103.desc_wounded:0 "Horror in the thronechamber! As [vassal.GetName] was awaiting an audience with me, [ROOT.Char.Custom('StormAtronachBearStoryName')], seemingly out of nowhere, decided to attack [vassal.GetHerHim]!\n\n[vassal.GetFirstName] managed to flee the room, but not before my Bear could severly hurt [vassal.GetHerHim]..."
+ ek_new_pet_animal.5103.desc_eye_removed_not_one_eyed:0 "Horror in the thronechamber! As [vassal.GetName] was awaiting an audience with me, [ROOT.Char.Custom('StormAtronachBearStoryName')], seemingly out of nowhere, decided to attack [vassal.GetHerHim]!\n\nAn intense scream was soon heard, and after [ROOT.Char.Custom('StormAtronachBearStoryName')] was put back outside [vassal.GetFirstName] could be seen holding [vassal.GetHerHis] hand near one of [vassal.GetHerHis] eyes... with blood dripping."
+ ek_new_pet_animal.5103.desc_eye_removed_one_eyed:0 "Horror in the thronechamber! As [vassal.GetName] was awaiting an audience with me, [ROOT.Char.Custom('StormAtronachBearStoryName')], seemingly out of nowhere, decided to attack [vassal.GetHerHim]!\n\nAn intense scream was soon heard, and after [ROOT.Char.Custom('StormAtronachBearStoryName')] was put back outside [vassal.GetFirstName] could be seen holding [vassal.GetHerHis] hand near [vassal.GetHerHis] only remaining eye... with blood dripping.\n\n'I CAN'T SEE' could [vassal.GetSheHe] be heard screaming. 'THIS IS ALL YOUR FAULT, YOU AND YOUR STUPID CRITTER!'"
+ ek_new_pet_animal.5103.a:0 "I hope [vassal.GetFirstName] will be all right..."
+ ek_new_pet_animal.5103.b:0 "Oh no..."
+ 
+ # Storm Atronach Bear returns to Oblivion :(
+ ek_new_pet_animal.5199.t:0 "[ROOT.Char.Custom('StormAtronachBearStoryName')] The Magicka is Waning"
+ ek_new_pet_animal.5199.desc:0 "[ROOT.Char.Custom('StormAtronachBearStoryName')] has grown weary, the crackling energy that once coursed through [ROOT.Char.Custom('StormAtronachBearStoryHerHis')] form now flickering like a dying storm. The once-mighty footsteps of [ROOT.Char.Custom('StormAtronachBearStoryHerHim')] grow lighter, until they are but whispers of static upon the wind.\n\nAs I reach out to touch [ROOT.Char.Custom('StormAtronachBearStoryHerHis')] [ROOT.Char.Custom('StormAtronachBearColor')] rocky skin one last time, a deep rumbling echoes through the air. With a final surge of power, [ROOT.Char.Custom('StormAtronachBearStorySheHe')] dissolves into a swirl of lightning and mist, vanishing back into the realm from which [ROOT.Char.Custom('StormAtronachBearStorySheHe')] came.\n\nHopefully I could find a way to summon [ROOT.Char.Custom('StormAtronachBearStoryHerHim')] again soon."
+ ek_new_pet_animal.5199.a:0 "If I die tommorow, I hope Shor will pick you up from Oblivion and join me"
+ ek_new_pet_animal.5199.b:0 "If I die tommorow, will we ever meet again?"
+
+ 
+ pet_storm_atronach_bear_decision:0 "Pet [ROOT.Char.Custom('StormAtronachBearStoryName')]"
+ pet_storm_atronach_bear_decision_desc:0 "I know how much [ROOT.Char.Custom('StormAtronachBearStoryName')] loves strutting around, and it always soothes me to hear [ROOT.Char.Custom('StormAtronachBearStoryHerHim')] make thundering noises and be near me. While it takes a lot of effort, money and magicka, to maintain and take care of [ROOT.Char.Custom('StormAtronachBearStoryHerHim')], no matter how tough life gets I know [ROOT.Char.Custom('StormAtronachBearStorySheHe')] will always be there for me!"
+ pet_storm_atronach_bear_decision_tooltip:0 "Pet your Storm Bear"
+ pet_storm_atronach_bear_decision_confirm:0 "Pet your Storm Bear"
+ 
+ # You pet your Storm Atronach Bear :)
+ ek_new_pet_animal.5501.t:0 "A Nice Time With [ROOT.Char.Custom('StormAtronachBearStoryName')]"
+ ek_new_pet_animal.5501.desc:0 "As I enter my room, I can immediately see [ROOT.Char.Custom('StormAtronachBearStoryName')] rumble around in excitement.\n\nWith a smile on my face I let [ROOT.Char.Custom('StormAtronachBearStoryHerHim')] in and let [ROOT.Char.Custom('StormAtronachBearStoryHerHim')] roll around before wandering in. \n\n[ROOT.Char.Custom('StormAtronachBearStoryName')] wanders around the room for a few moments, before giving me a Bone-Cracking Hug with [ROOT.Char.Custom('StormAtronachBearStoryHerHis')] huge body.\n\nThe Hugs from [ROOT.Char.Custom('StormAtronachBearStoryHerHim')] just takes my breath away."
+ ek_new_pet_animal.5501.a:0 "Ok, that's enough now!"
+ 
+ ek_new_pet_animal.5502.desc:0 "With a firm grip on [ROOT.Char.Custom('StormAtronachBearStoryName')]'s back, I let out a deep breath as crackling energy courses beneath me. With a mighty stomp, [ROOT.Char.Custom('StormAtronachBearStorySheHe')] surges forward, the storm-forged hooves leaving sparks in their wake.\n\nThe wind howls past as we ride across the land. Each bound shakes the earth, and every flash of lightning from [ROOT.Char.Custom('StormAtronachBearStoryHerHis')] body lights up the sky. \n\nFor a moment, there is nothing but speed, thunder, and the exhilaration of riding alongside the storm itself. I feel alive, unstoppable, and I am ready to face whatever challenges lie ahead."
+ ek_new_pet_animal.5502.a:0 "Faster, [ROOT.Char.Custom('StormAtronachBearStoryName')]!"
+
+
+ #Summon Storm Bear Atronach
+ summon_storm_atronach_bear_decision:0 "Summon a Storm Bear Atronach"
+ summon_storm_atronach_bear_decision_desc:0 "Ask your Clever Men or Court Mage to summon a Storm Bear Atronach"
+ summon_storm_atronach_bear_decision_tooltip:0 "Summon a Storm Bear Atronach"
+ summon_storm_atronach_bear_decision_confirm:0 "I need a mighty Companion"
+
+ #
+
+ rival_storm_atronach_bear_peck:0 "[TARGET_CHARACTER.GetShortUIName|U]'s Storm Bear has pinched [CHARACTER.GetShortUIName]."
+ rival_storm_atronach_bear_peck_corresponding:0 "[CHARACTER.GetShortUIName|U] was pinched by [TARGET_CHARACTER.GetShortUIName]'s Storm Atronach Bear."

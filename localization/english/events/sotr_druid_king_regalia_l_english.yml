@@ -1,0 +1,74 @@
+﻿l_english:
+
+  # Convert the Crown Druid Seed
+
+	convert_crown_druid_seed.0001.t:0 "Plant the Sacred Seed"
+	convert_crown_druid_seed.0001.desc:0 "This is one of the three sacred seed left behind by the last Chosen Druid King of Galen. \n\nLegend holds that the seed is destined only for the hands of those deemed worthy—those who may one day rise as the next Druid King or Queen."
+	convert_crown_druid_seed.0001.a:0 "Start the Planting Ritual"
+	convert_crown_druid_seed.0001.a.tt:0 "Undertake the Seed Planting Ritual. Whether it succeeds or fails will depend on your traits, skills, and the will of the seed."
+
+	convert_crown_druid_seed.0002.t:0 "Planting Ritual Successful"
+	convert_crown_druid_seed.0002.desc:1 "From the planted seed, something extraordinary begins to take shape. Slowly, as if drawn forth by ancient will, an artifact emerges from the fruits of your labor.\n\nIt is no mere relic—it is the legendary Crown of the Druid King, a sacred heirloom once worn by the long line of Druid Kings and Queens who ruled with wisdom and mercy, guiding both the people of Galen and the wilds that surrounded them.\n\nCreated by the hands of [Glossary('Yffre', 'YFFRE_GLOSS')] himself, the crown embodies the harmony between nature and spirit, a living symbol of the pact that binds all things.\n\nNow, as its weight settles into your hands, so too does the burden and balance of nature itself."
+	convert_crown_druid_seed.0002.a:0 "Pick up the Crown"
+	convert_crown_druid_seed.0002.a.t.success:0 "Gained the Druid King's Crown"
+	convert_crown_druid_seed.0002.a.t.success.desc:0 "You have attained the Druid King's Crown"
+
+	convert_crown_druid_seed.0003.t:0 "Planting Ritual Failed"
+	convert_crown_druid_seed.0003.desc:0 "The seed shows no sign of growth—no sprout, no stir of life.\n\nPerhaps it does not deem you worthy to bear what lies within."
+	convert_crown_druid_seed.0003.a:0 "Pick up the Seed"
+	convert_crown_druid_seed.0003.a.tt.failed:0 "The seed only reacts to those whom it considered worthy."
+
+  # Convert the Gauntlet Druid Seed
+
+	convert_gauntlet_druid_seed.0001.t:0 "Plant the Sacred Seed"
+	convert_gauntlet_druid_seed.0001.desc:0 "This is one of the three sacred seed left behind by the last Chosen Druid King of Galen. \n\nLegend holds that the seed is destined only for the hands of those deemed worthy—those who may one day rise as the next Druid King or Queen."
+	convert_gauntlet_druid_seed.0001.a:0 "Start the Planting Ritual"
+	convert_gauntlet_druid_seed.0001.a.tt:0 "Undertake the Seed Planting Ritual. Whether it succeeds or fails will depend on your traits, skills, and the will of the seed."
+
+	convert_gauntlet_druid_seed.0002.t:0 "Planting Ritual Successful"
+	convert_gauntlet_druid_seed.0002.desc:1 "From the planted seed, something extraordinary begins to take shape. Slowly, as if drawn forth by ancient will, an artifact emerges from the fruits of your labor.\n\nIt is no mere relic—it is the legendary Gauntlet of the Druid King, a sacred heirloom once worn by the long line of Druid Kings and Queens who ruled with wisdom and mercy, guiding both the people of Galen and the wilds that surrounded them.\n\nCreated by the hands of [Glossary('Yffre', 'YFFRE_GLOSS')] himself, the gauntlet embodies the harmony between nature and spirit, a living symbol of the pact that binds all things.\n\nNow, as its weight settles into your hands, so too does the burden and balance of nature itself."
+	convert_gauntlet_druid_seed.0002.a:0 "Pick up the Gauntlet"
+	convert_gauntlet_druid_seed.0002.a.t.success:0 "Gained the Druid King's Gauntlet"
+	convert_gauntlet_druid_seed.0002.a.t.success.desc:0 "You have attained the Druid King's Gauntlet"
+
+
+	convert_gauntlet_druid_seed.0003.t:0 "Planting Ritual Failed"
+	convert_gauntlet_druid_seed.0003.desc:0 "The seed shows no sign of growth—no sprout, no stir of life.\n\nPerhaps it does not deem you worthy to bear what lies within."
+	convert_gauntlet_druid_seed.0003.a:0 "Pick up the Seed"
+	convert_gauntlet_druid_seed.0003.a.tt.failed:0 "The seed only reacts to those whom it considered worthy."
+
+  # Convert the Staff Druid Seed
+
+	convert_staff_druid_seed.0001.t:0 "Plant the Sacred Seed"
+	convert_staff_druid_seed.0001.desc:0 "This is one of the three sacred seed left behind by the last Chosen Druid King of Galen. \n\nLegend holds that the seed is destined only for the hands of those deemed worthy—those who may one day rise as the next Druid King or Queen."
+	convert_staff_druid_seed.0001.a:0 "Start the Planting Ritual"
+	convert_staff_druid_seed.0001.a.tt:0 "Undertake the Seed Planting Ritual. Whether it succeeds or fails will depend on your traits, skills, and the will of the seed."
+	
+	#Success
+	convert_staff_druid_seed.0002.t:0 "Planting Ritual Successful"
+	convert_staff_druid_seed.0002.desc:1 "From the planted seed, something extraordinary begins to take shape. Slowly, as if drawn forth by ancient will, an artifact emerges from the fruits of your labor.\n\nIt is no mere relic—it is the legendary Staff of the Druid King, a sacred heirloom once worn by the long line of Druid Kings and Queens who ruled with wisdom and mercy, guiding both the people of Galen and the wilds that surrounded them.\n\nCreated by the hands of [Glossary('Yffre', 'YFFRE_GLOSS')] himself, the staff embodies the harmony between nature and spirit, a living symbol of the pact that binds all things.\n\nNow, as its weight settles into your hands, so too does the burden and balance of nature itself."
+	convert_staff_druid_seed.0002.a:0 "Pick up the Staff"
+	convert_staff_druid_seed.0002.a.t.success:0 "Gained the Druid King's Staff"
+	convert_staff_druid_seed.0002.a.t.success.desc:0 "You have attained the Druid King's Staff"
+
+	#Failed
+	convert_staff_druid_seed.0003.t:0 "Planting Ritual Failed"
+	convert_staff_druid_seed.0003.desc:0 "The seed shows no sign of growth—no sprout, no stir of life.\n\nPerhaps it does not deem you worthy to bear what lies within."
+	convert_staff_druid_seed.0003.a:0 "Pick up the Seed"
+	convert_staff_druid_seed.0003.a.tt.failed:0 "The seed only reacts to those whom it considered worthy."
+
+
+  # Proclaim the Druid King
+
+	proclaim_druid_king.0001.t:0 "Proclaim the Druid King"
+	proclaim_druid_king.0001.desc:0 "The Three Sacred Seeds have awakened, and their artifacts now rest in your hands—crown, staff, and gauntlet, born of root and rite. The spirits of the Green watch in silence, and the time has come to step forward and claim the ancient mantle of the Druid King of Galen.\n\nIf the Green accepts your ascension, your bond with nature shall deepen, and your name shall be sung in the groves for generations. If not, the wilds may recoil, and the balance shall remain unclaimed."
+	proclaim_druid_king.0001.a:0 "Proclaim myself Druid King"
+	proclaim_druid_king.0001.a.tt:0 "You attempt to ascend as the Druid King. Your traits, virtues, and connection to the Green will determine the outcome."
+
+	proclaim_druid_king.0002.t:0 "A New Druid King Has Risen"
+	proclaim_druid_king.0002.desc:0 "Y'ffre has blessed the people of Galen with a new Druid King, and once more the Ivy Throne is claimed after long years of stillness.\n\nMany see this event as a turning of the age, though whether it brings renewal, unrest, or revelation remains to be seen.\n\nFor now, the Ivy Throne stands no longer empty. The groves whisper, the stone circles stir—and the wild watches on."
+	proclaim_druid_king.0002.a:0 "Praise be to Y'ffre"
+	proclaim_druid_king.0002.b:0 "Let them play beneath their trees."
+	proclaim_druid_king.0002.c:0 "The wilds have stirred, it seems."
+
+

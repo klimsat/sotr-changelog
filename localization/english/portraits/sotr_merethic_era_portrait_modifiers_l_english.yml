@@ -1,0 +1,537 @@
+﻿l_english:
+
+
+#######################################
+############### Headgear ##############
+#######################################
+ ### Male ###
+
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_cult_priest_hood_linen:0 "@ek_sotr_dlc_icon! Linen Hood"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_cult_priest_hood_leather:0 "@ek_sotr_dlc_icon! Leather Hood"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_cult_priest_hood_wool:0 "@ek_sotr_dlc_icon! Wool Hood"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_cult_priest_hood_cotton:0 "@ek_sotr_dlc_icon! Cotton Hood"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_cult_priest_hood_chainmail:0 "@ek_sotr_dlc_icon! Chainmail Hood"
+
+  PORTRAIT_MODIFIER_custom_headgear_male_clothes_situational_mena_stealth_hood_01:0 "Desert Hood"
+
+  ## Aldmeri ##
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_high_monarch_crown:0 "@ek_sotr_dlc_icon! Golden Crown of Aldmeris"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_high_consort_crown:0 "@ek_sotr_dlc_icon! Silver Crown of Aldmeris"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_fancy_tiara_blue:0 "@ek_sotr_dlc_icon! Aldmeri Diamond Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_fancy_tiara_green:0 "@ek_sotr_dlc_icon! Aldmeri Emerald Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_fancy_tiara_purple:0 "@ek_sotr_dlc_icon! Aldmeri Amethyst Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_fancy_tiara_red:0 "@ek_sotr_dlc_icon! Aldmeri Ruby Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_fancy_tiara_black:0 "@ek_sotr_dlc_icon! Aldmeri Onyx Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_fancy_tiara_pink:0 "@ek_sotr_dlc_icon! Aldmeri Pink Diamond Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_fancy_tiara_dark_blue:0 "@ek_sotr_dlc_icon! Aldmeri Sapphire Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_fancy_tiara_orange:0 "@ek_sotr_dlc_icon! Aldmeri Topaz Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_fancy_tiara_yellow:0 "@ek_sotr_dlc_icon! Aldmeri Yellow Diamond Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_fancy_tiara_white:0 "@ek_sotr_dlc_icon! Aldmeri White Diamond Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_nobilitiy_leaf_circlet:0 "@ek_sotr_dlc_icon! Aldmeri Floral Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_nobilitiy_high_circlet_aquamarine:0 "@ek_sotr_dlc_icon! Aldmeri Turquoise Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_nobilitiy_high_circlet_sapphire:0 "@ek_sotr_dlc_icon!  Aldmeri Sapphire Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_nobilitiy_high_circlet_almandine:0 "@ek_sotr_dlc_icon! Aldmeri Garnet Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_nobilitiy_high_circlet_emerald:0 "@ek_sotr_dlc_icon! Aldmeri Emerald Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_nobilitiy_high_circlet_diamond:0 "@ek_sotr_dlc_icon! Aldmeri Diamond Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_nobilitiy_high_circlet_topaz:0 "@ek_sotr_dlc_icon! Aldmeri Topaz Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_nobilitiy_high_circlet_morganite:0 "@ek_sotr_dlc_icon! Aldmeri Pink Diamond Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_nobilitiy_high_circlet_amethyst:0 "@ek_sotr_dlc_icon! Aldmeri Amethyst Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_nobilitiy_high_circlet_ruby:0 "@ek_sotr_dlc_icon! Aldmeri Ruby Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_nobilitiy_high_circlet_jade:0 "@ek_sotr_dlc_icon! Aldmeri Jadeite Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_nobilitiy_high_circlet_citrine:0 "@ek_sotr_dlc_icon! Aldmeri Citrine Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_nobilitiy_low_circlet:0 "@ek_sotr_dlc_icon! Aldmeri Noble Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_aldmeri_regal_circlet:0 "@ek_sotr_dlc_icon! Aldmeri Regal Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_male_headgear_aldmeri_elven_war:0 "@ek_sotr_dlc_icon! Aldmeri War Helm"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_aldmeri_rilis_helm:0 "@ek_sotr_dlc_icon! Rilis Helm"
+
+
+  ## Ayleid ##
+  PORTRAIT_MODIFIER_custom_headgear_male_headgear_ayleid_monarch:0 "@ek_sotr_dlc_icon! Crown of Miscarcand"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_ayleid_nenalata_crown:0 "@ek_sotr_dlc_icon! Crown of Nenalata"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_ayleid_storm_warden:0 "@ek_sotr_dlc_icon! Storm-Warden Helmet"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_ayleid_ruby_crown:0 "@ek_sotr_dlc_icon! Crown of Abasel"
+
+  ## Nedic ##
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_pelinal_helm:0 "@ek_sotr_dlc_icon! Winged Helm"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_pelinal_helm_02:0 "@ek_sotr_dlc_icon! Colored Winged Helm"
+  PORTRAIT_MODIFIER_custom_headgear_male_keptu_bull_headgear:0 "@ek_sotr_dlc_icon! Keptu Bull Headwear"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_nedic_perena_war:0 "@ek_sotr_dlc_icon! Perena Helm"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_nedic_perena_noble:0 "@ek_sotr_dlc_icon! Perena Highborn Helm"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_kreath_antlered_crown:0 "@ek_sotr_dlc_icon! Traditional Nedic Crown"
+  PORTRAIT_MODIFIER_custom_headgear_male_nedic_antlered_helmet_headgear:0 "@ek_sotr_dlc_icon! Nedic Antlered Great Helm 1"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_nedic_antlered_helmet:0 "@ek_sotr_dlc_icon! Nedic Antlered Great Helm 2"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_nedic_antlered_helmet_2:0 "@ek_sotr_dlc_icon! Nedic Antlered Helm 1"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_nedic_antlered_helmet_3:0 "@ek_sotr_dlc_icon! Nedic Antlered Helm 2"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_nedic_ram_circlet:0 "@ek_sotr_dlc_icon! Ram Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_karth_ram_horn:0 "@ek_sotr_dlc_icon! Ram Skull"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_karth_blaze_horn:0 "@ek_sotr_dlc_icon! Blazing Ram Skull"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_karth_odd_horn:0 "@ek_sotr_dlc_icon! Odd-Horned Skull"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_duraki_royal_crown:0 "@ek_sotr_dlc_icon! The Many Horned Crown"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_duraki_high_royalty_crown:0 "@ek_sotr_dlc_icon! The Towering Crown"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_duraki_blood_crown:0 "@ek_sotr_dlc_icon! Duraki Blood Crown"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_duraki_coral_crown:0 "@ek_sotr_dlc_icon! Duraki Coral Crown"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_duraki_fire_crown:0 "@ek_sotr_dlc_icon! Duraki Fire Crown"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_duraki_nature_crown:0 "@ek_sotr_dlc_icon! Duraki Spirit Crown"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_duraki_sand_crown:0 "@ek_sotr_dlc_icon! Duraki Sand Crown"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_duraki_shadow_crown:0 "@ek_sotr_dlc_icon! Duraki Shadow Crown"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_duraki_sun_crown:0 "@ek_sotr_dlc_icon! Duraki Sun Crown"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_duraki_thunder_crown:0 "@ek_sotr_dlc_icon! Duraki Thunder Crown"
+  
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_druid_wooden_circlet:0 "@ek_sotr_dlc_icon! Druidic Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_galen_druid_crown:0 "@ek_sotr_dlc_icon! Druid King's Crown"
+
+
+  ## Atmoran ##
+  PORTRAIT_MODIFIER_custom_headgear_male_armor_high_king_ysgramor_headgear:0 "@ek_sotr_dlc_icon! Royal Helmet of High King Ysgramor"
+  PORTRAIT_MODIFIER_custom_headgear_male_armor_yngol_helm_headgear:0 "@ek_sotr_dlc_icon! Helm of Yngol"
+  PORTRAIT_MODIFIER_custom_headgear_male_atmoran_horned_helmet_headgear:0 "@ek_sotr_dlc_icon! Atmoran Horned Helmet"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_atmoran_breeks_helmet:0 "@ek_sotr_dlc_icon! Hairy-Breek's Helm"
+  PORTRAIT_MODIFIER_custom_headgear_male_dragon_priest_regular_ahzidaal_headgear:0 "@ek_sotr_dlc_icon! Ahzidaal"
+  PORTRAIT_MODIFIER_custom_headgear_male_dragon_priest_wrath_ahzidaal_headgear:0 "@ek_sotr_dlc_icon! Ahzidaal Wrath Version"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_jagged_crown:0 "@ek_sotr_dlc_icon! Jagged Crown"
+  PORTRAIT_MODIFIER_custom_headgear_male_dragon_priest_thuur_headgear:0 "@ek_sotr_dlc_icon! Thuur"
+  PORTRAIT_MODIFIER_custom_headgear_male_dragon_priest_aaraak_headgear:0 "@ek_sotr_dlc_icon! Aaraak"
+  PORTRAIT_MODIFIER_custom_headgear_male_headgears_atmoran_miraak:0 "@ek_sotr_dlc_icon! Miraak"
+  PORTRAIT_MODIFIER_custom_headgear_male_dragon_priest_generic_headgear:0 "@ek_sotr_dlc_icon! Dragon Priest Mask"
+  PORTRAIT_MODIFIER_custom_headgear_male_headgear_atmoran_solstheim_dragon_priest:0 "@ek_sotr_dlc_icon! Dragon Priest Mask (Solstheim)"
+  PORTRAIT_MODIFIER_custom_headgear_male_dragon_priest_leader_headgear:0 "@ek_sotr_dlc_icon! Dragon Priest Leader Mask"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_lodorrs_crown:0 "@ek_sotr_dlc_icon! Lodorr's Crown"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgears_atmoran_thunder_shield_helmet:0 "@ek_sotr_dlc_icon! Thunder Shield Sister's Headwear"
+
+
+
+  ## Khajiit ##
+  PORTRAIT_MODIFIER_custom_headgear_m_khajiit_nobility_circlet_jade:0 "@ek_sotr_dlc_icon! Jade Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_khajiit_nobility_circlet_gold:0 "@ek_sotr_dlc_icon! Golden Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_khajiit_royal_orichalcum_circlet:0 "@ek_sotr_dlc_icon! Orichalcum Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_khajiit_royal_anequine_circlet:0 "@ek_sotr_dlc_icon! Turquoise Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_khajiit_royal_white_jade_circlet:0 "@ek_sotr_dlc_icon! White Jade Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_khajiit_royal_aquamarine_circlet:0 "@ek_sotr_dlc_icon! Aquamarine Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_khajiit_royal_moonstone_circlet:0 "@ek_sotr_dlc_icon! Moonstone Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_khajiit_royal_tigers_eye_circlet:0 "@ek_sotr_dlc_icon! Tigers Eye Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_khajiit_royal_arentine_circlet:0 "@ek_sotr_dlc_icon! Arentine Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_khajiit_royal_almandine_circlet:0 "@ek_sotr_dlc_icon! Almandine Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_khajiit_royal_epidote_circlet:0 "@ek_sotr_dlc_icon! Epidote Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_khajiit_royal_alabaster_circlet:0 "@ek_sotr_dlc_icon! Alabaster Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_khajiit_royal_faerite_circlet:0 "@ek_sotr_dlc_icon! Faerite Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_khajiit_royal_aeonstone_circlet:0 "@ek_sotr_dlc_icon! Aeonstone Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_khajiit_royal_peridot_circlet:0 "@ek_sotr_dlc_icon! Peridot Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_khajiit_royal_azurite_circlet:0 "@ek_sotr_dlc_icon! Azurite Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_khajiit_royal_khenarthia_circlet:0 "@ek_sotr_dlc_icon! Jasper Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_khajiit_royal_opal_circlet:0 "@ek_sotr_dlc_icon! Opal Royal Moon Circlet"
+
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_khajiit_dragon_priest:0 "@ek_sotr_dlc_icon! Dragon Priest Mask (Khajiiti)"
+
+  ## Other Crown##
+  # Misc
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_forgotten_crown:0 "@ek_sotr_dlc_icon! Crown of Abagarlas"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_malyros_thorn_crown:0 "@ek_sotr_dlc_icon! Crown of Thorns"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_nilichi_flower_crown:0 "@ek_sotr_dlc_icon! Crown of the Flower King"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_vicious_crag_crown:0 "@ek_sotr_dlc_icon! Crown of the Vicious"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_malice_crown:0 "@ek_sotr_dlc_icon! Crown of Malice"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_revulsion_crown:0 "@ek_sotr_dlc_icon! Crown of Revulsion"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_crazy_nail_crown:0 "@ek_sotr_dlc_icon! Crown of Nails"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_vabriasille_crown:0 "@ek_sotr_dlc_icon! Crown of Varlaisvea"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_ayleid_varondo_crown:0 "@ek_sotr_dlc_icon! Crown of Varondo"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_gold_leaf_crown:0 "@ek_sotr_dlc_icon! Golden Leaf Crown"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_falmeri_fancy_nobility_headgear:0 "@ek_sotr_dlc_icon! Falmeri Nobility Headwear"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_direnni_swan_diadem:0 "@ek_sotr_dlc_icon! Swan of Tyrigel Diadem"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_direnni_swan_balfiera_diadem:0 "@ek_sotr_dlc_icon! Swan of Balfiera Diadem"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_winged_crown:0 "@ek_sotr_dlc_icon! Winged Crown"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_falmeri_calia_headdress:0 "@ek_sotr_dlc_icon! Callia's Winter Crown"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_bosmeri_antlered_crown:0 "@ek_sotr_dlc_icon! Bosmeri Crown 1"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_regal_antlered_crown:0 "@ek_sotr_dlc_icon! Bosmeri Crown 2"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_vargarion_headwear:0 "@ek_sotr_dlc_icon! Crown of Vargarion"
+  PORTRAIT_MODIFIER_custom_headgear_male_headgear_molag_skull_mask:0 "@ek_sotr_dlc_icon! Molag Bal Skull Mask (Broken Horns)"
+  PORTRAIT_MODIFIER_custom_headgear_male_headgear_molag_skull_mask_horned:0 "@ek_sotr_dlc_icon! Molag Bal Skull Mask"
+  PORTRAIT_MODIFIER_custom_headgear_male_headgear_hircine_stag_skull_mask:0 "@ek_sotr_dlc_icon! Stag Skull Mask"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_bone_crown:0 "@ek_sotr_dlc_icon! Crown of Bones"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_sinestral_crown_variant:0 "@ek_sotr_dlc_icon! Sinestral Headress"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_sinestral_circlet_fire_opal:0 "@ek_sotr_dlc_icon! Onyx & Fire Opal Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_sinestral_circlet_chrysocolla:0 "@ek_sotr_dlc_icon! Onyx & Chrysocolla Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_sinestral_circlet_musgravite:0 "@ek_sotr_dlc_icon! Onyx & Musgravite Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_sinestral_circlet_taaffeite:0 "@ek_sotr_dlc_icon! Onyx & Taaffeite Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_sinestral_high_crown:0 "@ek_sotr_dlc_icon! Sinestral High Crown"
+
+  ## Other Helmet ##
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_dwemer_royal_crown:0 "@ek_sotr_dlc_icon! Dwemer Royal Crown-Helm"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_dwemer_high_royalty_crown:0 "@ek_sotr_dlc_icon! Dwemer Royal Korymbos"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_dwemer_noble_circlet:0 "@ek_sotr_dlc_icon! Dwemer Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_dwemer_noble_war_helmet:0 "@ek_sotr_dlc_icon! Dwemer Commander Helmet"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_dwemer_brute:0 "@ek_sotr_dlc_icon! Dwemer Brute Helmet"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_dwemer_war_helmet:0 "@ek_sotr_dlc_icon! Dwemer War Helmet"
+  PORTRAIT_MODIFIER_custom_headgear_male_headgear_maormer_war:0 "@ek_sotr_dlc_icon! Maormeri Seahelm"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_lilmohiit_fox_helmet:0 "@ek_sotr_dlc_icon! Lilmothiit Hounskull"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_dark_vampire_helmet:0 "@ek_sotr_dlc_icon! Dark Crown Helm"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_styriche_vampire_crown:0 "@ek_sotr_dlc_icon! Styriche's Crown"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_totambu_helmet_war:0 "@ek_sotr_dlc_icon! Na-Totambu Helmet"
+  PORTRAIT_MODIFIER_custom_headgear_m_headgear_avian_helmet:0 "@ek_sotr_dlc_icon! Avian Helmet"
+
+  ## Masks & Eyewear ##
+  PORTRAIT_MODIFIER_custom_special_masks_male_headgear_tooth_torc_01:0 "@ek_sotr_dlc_icon! Tooth Torc"
+  PORTRAIT_MODIFIER_custom_special_male_headgear_kalo_spectacles_01:0 "@ek_sotr_dlc_icon! Kalo's Dwemer Lenses 2.0"
+  PORTRAIT_MODIFIER_custom_special_male_headgear_guri_nails_01:0 "@ek_sotr_dlc_icon! Nail Faced"
+  PORTRAIT_MODIFIER_custom_special_masks_male_headgear_nedic_metal_mask:0 "@ek_sotr_dlc_icon! Duraki Metal Mask"
+  PORTRAIT_MODIFIER_custom_special_masks_male_special_dwemer_mask:0 "@ek_sotr_dlc_icon! Dwemer Face Mask"
+  PORTRAIT_MODIFIER_custom_special_masks_male_special_hermaeus_cult_mask:0 "@ek_sotr_dlc_icon! Hermaeus Mora Cult Mask"
+  PORTRAIT_MODIFIER_custom_special_masks_m_headgear_orma_blind_tusk_mask:0 "@ek_sotr_dlc_icon! Blind-Tusk Mask"
+  PORTRAIT_MODIFIER_custom_special_masks_m_headgear_khajiit_dragon_priest:0 "@ek_sotr_dlc_icon! Dragon Priest Mask (Khajiiti)"
+
+ ### Female ###
+
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_cult_priest_hood_linen:0 "@ek_sotr_dlc_icon! Linen Hood"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_cult_priest_hood_leather:0 "@ek_sotr_dlc_icon! Leather Hood"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_cult_priest_hood_wool:0 "@ek_sotr_dlc_icon! Wool Hood"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_cult_priest_hood_cotton:0 "@ek_sotr_dlc_icon! Cotton Hood"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_cult_priest_hood_chainmail:0 "@ek_sotr_dlc_icon! Chainmail Hood"
+
+  PORTRAIT_MODIFIER_custom_headgear_female_clothes_situational_mena_stealth_hood_01:0 "Desert Hood"
+
+  ## Aldmeri ##
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_high_monarch_crown:0 "@ek_sotr_dlc_icon! Golden Crown of Aldmeris"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_high_consort_crown:0 "@ek_sotr_dlc_icon! Siver Crown of Aldmeris"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_fancy_tiara_blue:0 "@ek_sotr_dlc_icon! Aldmeri Turquoise Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_fancy_tiara_green:0 "@ek_sotr_dlc_icon! Aldmeri Emerald Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_fancy_tiara_purple:0 "@ek_sotr_dlc_icon! Aldmeri Amethyst Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_fancy_tiara_red:0 "@ek_sotr_dlc_icon! Aldmeri Ruby Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_fancy_tiara_black:0 "@ek_sotr_dlc_icon! Aldmeri Onyx Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_fancy_tiara_pink:0 "@ek_sotr_dlc_icon! Aldmeri Pink Diamond Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_fancy_tiara_dark_blue:0 "@ek_sotr_dlc_icon! Aldmeri Sapphire Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_fancy_tiara_orange:0 "@ek_sotr_dlc_icon! Aldmeri Topaz Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_fancy_tiara_yellow:0 "@ek_sotr_dlc_icon! Aldmeri Yellow Diamond Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_fancy_tiara_white:0 "@ek_sotr_dlc_icon! Aldmeri White Diamond Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_nobilitiy_leaf_circlet:0 "@ek_sotr_dlc_icon! Aldmeri Floral Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_nobilitiy_high_circlet_aquamarine:0 "@ek_sotr_dlc_icon! Aldmeri Turquoise Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_nobilitiy_high_circlet_sapphire:0 "@ek_sotr_dlc_icon!  Aldmeri Sapphire Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_nobilitiy_high_circlet_almandine:0 "@ek_sotr_dlc_icon! Aldmeri Garnet Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_nobilitiy_high_circlet_emerald:0 "@ek_sotr_dlc_icon! Aldmeri Emerald Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_nobilitiy_high_circlet_diamond:0 "@ek_sotr_dlc_icon! Aldmeri Diamond Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_nobilitiy_high_circlet_topaz:0 "@ek_sotr_dlc_icon! Aldmeri Topaz Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_nobilitiy_high_circlet_morganite:0 "@ek_sotr_dlc_icon! Aldmeri Pink Diamond Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_nobilitiy_high_circlet_amethyst:0 "@ek_sotr_dlc_icon! Aldmeri Amethyst Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_nobilitiy_high_circlet_ruby:0 "@ek_sotr_dlc_icon! Aldmeri Ruby Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_nobilitiy_high_circlet_jade:0 "@ek_sotr_dlc_icon! Aldmeri Jadeite Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_nobilitiy_high_circlet_citrine:0 "@ek_sotr_dlc_icon! Aldmeri Citrine Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_nobilitiy_low_circlet:0 "@ek_sotr_dlc_icon! Aldmeri Noble Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_regal_circlet:0 "@ek_sotr_dlc_icon! Aldmeri Regal Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_aldmeri_rilis_helm:0 "@ek_sotr_dlc_icon! Rilis Helm"
+  PORTRAIT_MODIFIER_custom_headgear_female_headgear_aldmeri_elven_war:0 "@ek_sotr_dlc_icon! Aldmeri War Helmet"
+  PORTRAIT_MODIFIER_custom_headgear_f_aldmeri_queen_valoria_crown:0 "@ek_sotr_dlc_icon! Crown of Valoria"
+
+  ## Ayleid ##
+  PORTRAIT_MODIFIER_custom_headgear_female_headgear_ayleid_monarch:0 "@ek_sotr_dlc_icon! Crown of Miscarcand"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_ayleid_nenalata_crown:0 "@ek_sotr_dlc_icon! Crown of Nenalata"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_ayleid_storm_warden:0 "@ek_sotr_dlc_icon! Storm-Warden Helmet"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_ayleid_ruby_crown:0 "@ek_sotr_dlc_icon! Crown of Abasel"
+
+  ## Nedic ##
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_pelinal_helm:0 "@ek_sotr_dlc_icon! Winged Helm"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_pelinal_helm_02:0 "@ek_sotr_dlc_icon! Colored Winged Helm"
+  PORTRAIT_MODIFIER_custom_headgear_female_keptu_bull_headgear:0 "@ek_sotr_dlc_icon! Keptu Bull Headwear"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_nedic_perena_war:0 "@ek_sotr_dlc_icon! Perena Helm"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_nedic_perena_noble:0 "@ek_sotr_dlc_icon! Perena Highborn Helm"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_kreath_antlered_crown:0 "@ek_sotr_dlc_icon! Traditional Nedic Crown"
+  PORTRAIT_MODIFIER_custom_headgear_female_nedic_antlered_helmet_headgear:0 "@ek_sotr_dlc_icon! Nedic Antlered Great Helm 1"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_nedic_antlered_helmet:0 "@ek_sotr_dlc_icon! Nedic Antlered Great Helm 2"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_nedic_antlered_helmet_2:0 "@ek_sotr_dlc_icon! Nedic Antlered Helm 1"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_nedic_antlered_helmet_3:0 "@ek_sotr_dlc_icon! Nedic Antlered Helm 2"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_nedic_ram_circlet:0 "@ek_sotr_dlc_icon! Ram Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_karth_ram_horn:0 "@ek_sotr_dlc_icon! Ram Skull"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_karth_blaze_horn:0 "@ek_sotr_dlc_icon! Blazing Ram Skull"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_karth_odd_horn:0 "@ek_sotr_dlc_icon! Odd-Horned Skull"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_duraki_royal_crown:0 "@ek_sotr_dlc_icon! The Many Horned Crown"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_duraki_high_royalty_crown:0 "@ek_sotr_dlc_icon! The Towering Crown"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_duraki_blood_crown:0 "@ek_sotr_dlc_icon! Duraki Blood Crown"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_duraki_coral_crown:0 "@ek_sotr_dlc_icon! Duraki Coral Crown"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_duraki_fire_crown:0 "@ek_sotr_dlc_icon! Duraki Fire Crown"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_duraki_nature_crown:0 "@ek_sotr_dlc_icon! Duraki Spirit Crown"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_duraki_sand_crown:0 "@ek_sotr_dlc_icon! Duraki Sand Crown"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_duraki_shadow_crown:0 "@ek_sotr_dlc_icon! Duraki Shadow Crown"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_duraki_sun_crown:0 "@ek_sotr_dlc_icon! Duraki Sun Crown"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_duraki_thunder_crown:0 "@ek_sotr_dlc_icon! Duraki Thunder Crown"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_druid_wooden_circlet:0 "@ek_sotr_dlc_icon! Druidic Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_galen_druid_crown:0 "@ek_sotr_dlc_icon! Druid Queen's Crown"
+
+  ## Khajiit ##
+  PORTRAIT_MODIFIER_custom_headgear_f_khajiit_nobility_circlet_jade:0 "@ek_sotr_dlc_icon! Jade Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_khajiit_nobility_circlet_gold:0 "@ek_sotr_dlc_icon! Golden Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_khajiit_royal_orichalcum_circlet:0 "@ek_sotr_dlc_icon! Orichalcum Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_khajiit_royal_anequine_circlet:0 "@ek_sotr_dlc_icon! Turquoise Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_khajiit_royal_white_jade_circlet:0 "@ek_sotr_dlc_icon! White Jade Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_khajiit_royal_aquamarine_circlet:0 "@ek_sotr_dlc_icon! Aquamarine Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_khajiit_royal_moonstone_circlet:0 "@ek_sotr_dlc_icon! Moonstone Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_khajiit_royal_tigers_eye_circlet:0 "@ek_sotr_dlc_icon! Tigers Eye Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_khajiit_royal_arentine_circlet:0 "@ek_sotr_dlc_icon! Arentine Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_khajiit_royal_almandine_circlet:0 "@ek_sotr_dlc_icon! Almandine Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_khajiit_royal_epidote_circlet:0 "@ek_sotr_dlc_icon! Epidote Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_khajiit_royal_alabaster_circlet:0 "@ek_sotr_dlc_icon! Alabaster Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_khajiit_royal_faerite_circlet:0 "@ek_sotr_dlc_icon! Faerite Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_khajiit_royal_aeonstone_circlet:0 "@ek_sotr_dlc_icon! Aeonstone Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_khajiit_royal_peridot_circlet:0 "@ek_sotr_dlc_icon! Peridot Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_khajiit_royal_azurite_circlet:0 "@ek_sotr_dlc_icon! Azurite Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_khajiit_royal_khenarthia_circlet:0 "@ek_sotr_dlc_icon! Jasper Royal Moon Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_khajiit_royal_opal_circlet:0 "@ek_sotr_dlc_icon! Opal Royal Moon Circlet"
+
+
+
+  ## Atmoran ##
+  PORTRAIT_MODIFIER_custom_headgear_female_atmoran_horned_helmet_headgear:0 "@ek_sotr_dlc_icon! Atmoran Horned Helmet"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_jagged_crown:0 "@ek_sotr_dlc_icon! Jagged Crown"
+  PORTRAIT_MODIFIER_custom_headgear_female_dragon_priest_thuur_headgear:0 "@ek_sotr_dlc_icon! Thuur"
+  PORTRAIT_MODIFIER_custom_headgear_female_dragon_priest_aaraak_headgear:0 "@ek_sotr_dlc_icon! Aaraak"
+  PORTRAIT_MODIFIER_custom_headgear_female_headgears_atmoran_miraak:0 "@ek_sotr_dlc_icon! Miraak"
+  PORTRAIT_MODIFIER_custom_headgear_female_dragon_priest_regular_ahzidaal_headgear:0 "@ek_sotr_dlc_icon! Ahzidaal"
+  PORTRAIT_MODIFIER_custom_headgear_female_dragon_priest_generic_headgear:0 "@ek_sotr_dlc_icon! Dragon Priest Mask"
+  PORTRAIT_MODIFIER_custom_headgear_female_headgear_atmoran_solstheim_dragon_priest:0 "@ek_sotr_dlc_icon! Dragon Priest Mask (Solstheim)"
+  PORTRAIT_MODIFIER_custom_headgear_female_dragon_priest_leader_headgear:0 "@ek_sotr_dlc_icon! Dragon Priest Leader Mask"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_lodorrs_crown:0 "@ek_sotr_dlc_icon! Lodorr's Crown"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgears_atmoran_thunder_shield_helmet:0 "@ek_sotr_dlc_icon! Thunder Shield Sister's Headwear"
+
+  ## Other Crown##
+  #Misc
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_forgotten_crown:0 "@ek_sotr_dlc_icon! Crown of Abagarlas"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_malyros_thorn_crown:0 "@ek_sotr_dlc_icon! Crown of Thorns"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_nilichi_flower_crown:0 "@ek_sotr_dlc_icon! Crown of the Flower King"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_vicious_crag_crown:0 "@ek_sotr_dlc_icon! Crown of the Vicious"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_malice_crown:0 "@ek_sotr_dlc_icon! Crown of Malice"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_revulsion_crown:0 "@ek_sotr_dlc_icon! Crown of Revulsion"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_ayleid_varondo_crown:0 "@ek_sotr_dlc_icon! Crown of Varondo"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_crazy_nail_crown:0 "@ek_sotr_dlc_icon! Crown of Nails"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_vabriasille_crown:0 "@ek_sotr_dlc_icon! Crown of Varlaisvea"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_gold_leaf_crown:0 "@ek_sotr_dlc_icon! Golden Leaf Crown"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_falmeri_calia_headdress:0 "@ek_sotr_dlc_icon! Callia's Winter Crown"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_falmeri_fancy_nobility_headgear:0 "@ek_sotr_dlc_icon! Falmeri Nobility Headwear"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_falmeri_simple_circlet:0 "@ek_sotr_dlc_icon! Simple Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_falmer_ice_tiara:0 "@ek_sotr_dlc_icon! Ice Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_direnni_swan_diadem:0 "@ek_sotr_dlc_icon! Swan of Tyrigel Diadem"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_direnni_swan_balfiera_diadem:0 "@ek_sotr_dlc_icon! Swan of Balfiera Diadem"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_winged_crown:0 "@ek_sotr_dlc_icon! Winged Crown"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_dwemer_fancy_tiara:0 "@ek_sotr_dlc_icon! Dwemer Fancy Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_bosmeri_antlered_crown:0 "@ek_sotr_dlc_icon! Bosmeri Crown 1"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_regal_antlered_crown:0 "@ek_sotr_dlc_icon! Bosmeri Crown 2"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_vargarion_headwear:0 "@ek_sotr_dlc_icon! Crown of Vargarion"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_noble_tiara:0 "@ek_sotr_dlc_icon! Noble's Tiara"
+  PORTRAIT_MODIFIER_custom_headgear_female_headgear_molag_skull_mask_horned:0 "@ek_sotr_dlc_icon! Molag Bal Skull Mask"
+  PORTRAIT_MODIFIER_custom_headgear_female_headgear_hircine_stag_skull_mask:0 "@ek_sotr_dlc_icon! Stag Skull Mask"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_bone_crown:0 "@ek_sotr_dlc_icon! Crown of Bones"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_sinestral_crown_variant:0 "@ek_sotr_dlc_icon! Sinestral Headress"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_sinestral_circlet_fire_opal:0 "@ek_sotr_dlc_icon! Onyx & Fire Opal Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_sinestral_circlet_chrysocolla:0 "@ek_sotr_dlc_icon! Onyx & Chrysocolla Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_sinestral_circlet_musgravite:0 "@ek_sotr_dlc_icon! Onyx & Musgravite Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_sinestral_circlet_taaffeite:0 "@ek_sotr_dlc_icon! Onyx & Taaffeite Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_sinestral_high_crown:0 "@ek_sotr_dlc_icon! Sinestral High Crown"
+
+  ## Other Helmet ##
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_dwemer_royal_crown:0 "@ek_sotr_dlc_icon! Dwemer Royal Crown-Helm"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_dwemer_high_royalty_crown:0 "@ek_sotr_dlc_icon! Dwemer Royal Korymbos"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_dwemer_noble_circlet:0 "@ek_sotr_dlc_icon! Dwemer Circlet"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_dwemer_noble_war_helmet:0 "@ek_sotr_dlc_icon! Dwemer Commander Helmet"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_dwemer_brute:0 "@ek_sotr_dlc_icon! Dwemer Brute Helmet"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_dwemer_war_helmet:0 "@ek_sotr_dlc_icon! Dwemer War Helmet"
+  PORTRAIT_MODIFIER_custom_headgear_female_headgear_maormer_war:0 "@ek_sotr_dlc_icon! Maormeri Seahelm"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_lilmohiit_fox_helmet:0 "@ek_sotr_dlc_icon! Lilmothiit Hounskull"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_dark_vampire_helmet:0 "@ek_sotr_dlc_icon! Dark Crown Helm"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_styriche_vampire_crown:0 "@ek_sotr_dlc_icon! Styriche's Crown"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_totambu_helmet_war:0 "@ek_sotr_dlc_icon! Na-Totambu Helmet"
+  PORTRAIT_MODIFIER_custom_headgear_f_headgear_avian_helmet:0 "@ek_sotr_dlc_icon! Avian Helmet"
+
+  ## Masks & Eyewear ##
+  PORTRAIT_MODIFIER_custom_special_masks_female_headgear_tooth_torc_01:0 "@ek_sotr_dlc_icon! Tooth Torc"
+  PORTRAIT_MODIFIER_custom_special_female_headgear_kalo_spectacles_01:0 "@ek_sotr_dlc_icon! Kalo's Dwemer Lenses 2.0"
+  PORTRAIT_MODIFIER_custom_special_female_headgear_guri_nails_01:0 "@ek_sotr_dlc_icon! Nail Faced"
+  PORTRAIT_MODIFIER_custom_special_masks_female_headgear_nedic_metal_mask:0 "@ek_sotr_dlc_icon! Duraki Metal Mask"
+  PORTRAIT_MODIFIER_custom_special_masks_female_special_dwemer_mask:0 "@ek_sotr_dlc_icon! Dwemer Face Mask"
+  PORTRAIT_MODIFIER_custom_special_masks_female_special_hermaeus_cult_mask:0 "@ek_sotr_dlc_icon! Hermaeus Mora Cult Mask"
+  PORTRAIT_MODIFIER_custom_special_masks_f_headgear_orma_blind_tusk_mask:0 "@ek_sotr_dlc_icon! Blind-Tusk Mask"
+  PORTRAIT_MODIFIER_custom_special_masks_f_headgear_khajiit_dragon_priest:0 "@ek_sotr_dlc_icon! Dragon Priest Mask (Khajiiti)"
+
+#########################################
+################ Clothes ################
+#########################################
+
+  ### Male ###
+  PORTRAIT_MODIFIER_custom_clothes_male_armor_high_king_ysgramor_torso:0 "@ek_sotr_dlc_icon! Royal Body Armor of High King Ysgramor"
+  PORTRAIT_MODIFIER_custom_clothes_male_armor_ancient_nordic_torso:0 "@ek_sotr_dlc_icon! Atmoran Armor"
+  PORTRAIT_MODIFIER_custom_clothes_male_dragon_priest_aaraak_torso:0 "@ek_sotr_dlc_icon! Aaraak's Dragon Priest Outfit"
+  PORTRAIT_MODIFIER_custom_clothes_male_dragon_priest_thuur_torso:0 "@ek_sotr_dlc_icon! Thuur's Dragon Priest Outfit"
+  PORTRAIT_MODIFIER_custom_clothes_male_dragon_priest_green_ahzidaal_torso:0 "@ek_sotr_dlc_icon! Ahzidaal's Outfit"
+  PORTRAIT_MODIFIER_custom_clothes_male_dragon_priest_wrath_ahzidaal_torso:0 "@ek_sotr_dlc_icon! Ahzidaal's Wrath Armor"
+  PORTRAIT_MODIFIER_custom_clothes_male_clothes_atmoran_miraak:0 "@ek_sotr_dlc_icon! Miraak's Outfit"
+  PORTRAIT_MODIFIER_custom_clothes_male_dragon_priest_generic_torso:0 "@ek_sotr_dlc_icon! Dragon Priest Outfit"
+  PORTRAIT_MODIFIER_custom_clothes_male_clothes_atmoran_dragon_priest_lite:0 "@ek_sotr_dlc_icon! Dragon Priest Outfit (Light)"
+  PORTRAIT_MODIFIER_custom_clothes_clothes_reach_male_shaman_01_common:0 "@ek_dlc_icon! Ancient Nedic Outfit"
+  PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ek2_goblin_com_01:0 "@ek_dlc_icon! Ragged Clothing 1"
+  PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ek2_goblin_com_02:0 "@ek_dlc_icon! Ragged Clothing 2"
+
+  PORTRAIT_MODIFIER_custom_clothes_m_clothes_dark_breton_armor:0 "@ek_sotr_dlc_icon! Dark Plate Armor"
+  PORTRAIT_MODIFIER_custom_clothes_m_clothes_new_breton_armor:0 "@ek_sotr_dlc_icon! Plain Armor"
+  PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_dde_abbasid_nobility_04:0 "@ek_sotr_dlc_icon! Fancy Robe"
+  PORTRAIT_MODIFIER_custom_clothes_male_clothes_religious_dde_muslim_caliph_01_male:0 "@ek_sotr_dlc_icon! Elegant Robe"
+
+  ### Female ###
+  PORTRAIT_MODIFIER_custom_clothes_female_armor_high_king_ysgramor_torso:0 "@ek_sotr_dlc_icon! Royal Body Armor of High King Ysgramor"
+  PORTRAIT_MODIFIER_custom_clothes_female_armor_ancient_nordic_torso:0 "@ek_sotr_dlc_icon! Atmoran Armor"
+  PORTRAIT_MODIFIER_custom_clothes_female_dragon_priest_generic_torso:0 "@ek_sotr_dlc_icon! Dragon Priest Outfit"
+  PORTRAIT_MODIFIER_custom_clothes_female_clothes_atmoran_dragon_priest_lite:0 "@ek_sotr_dlc_icon! Dragon Priest Outfit (Light)"
+  PORTRAIT_MODIFIER_custom_clothes_clothes_reach_female_shaman_01_common:0 "@ek_dlc_icon! Shaman Outfit"
+
+  PORTRAIT_MODIFIER_custom_clothes_female_dragon_priest_green_ahzidaal_torso:0 "@ek_sotr_dlc_icon! Ahzidaal's Outfit"
+  PORTRAIT_MODIFIER_custom_clothes_female_dragon_priest_thuur_torso:0 "@ek_sotr_dlc_icon! Thuur's Dragon Priest Outfit"
+  PORTRAIT_MODIFIER_custom_clothes_female_clothes_atmoran_miraak:0 "@ek_sotr_dlc_icon! Miraak's Outfit"
+  PORTRAIT_MODIFIER_custom_clothes_female_dragon_priest_aaraak_torso:0 "@ek_sotr_dlc_icon! Aaraak's Dragon Priest Outfit"
+  PORTRAIT_MODIFIER_custom_clothes_f_clothes_dark_breton_armor:0 "@ek_sotr_dlc_icon! Dark Plate Armor"
+  PORTRAIT_MODIFIER_custom_clothes_f_clothes_new_breton_armor:0 "@ek_sotr_dlc_icon! Simple Armor"
+
+#######################################
+############### Legwear ###############
+#######################################
+
+  ### Male ###
+  PORTRAIT_MODIFIER_custom_legwear_male_armor_high_king_ysgramor_legwear:0 "@ek_sotr_dlc_icon! Royal Greaves of High King Ysgramor"
+  PORTRAIT_MODIFIER_custom_legwear_male_dragon_priest_wrath_ahzidaal_legwear:0 "@ek_sotr_dlc_icon! Ahzidaal's Wrath Legwear"
+  PORTRAIT_MODIFIER_custom_legwear_m_legwear_dark_breton_greaves:0 "@ek_sotr_dlc_icon! Dark Steel Greaves"
+  PORTRAIT_MODIFIER_custom_legwear_m_legwear_new_breton_greaves:0 "@ek_sotr_dlc_icon! Simple Armor Greaves"
+
+  ### Female ###
+  PORTRAIT_MODIFIER_custom_legwear_f_legwear_dark_breton_greaves:0 "@ek_sotr_dlc_icon! Dark Steel Greaves"
+  PORTRAIT_MODIFIER_custom_legwear_f_legwear_new_breton_greaves:0 "@ek_sotr_dlc_icon! Simple Armor Greaves"
+
+#######################################
+################ Cloak ################
+#######################################
+
+  ### Male ###
+  PORTRAIT_MODIFIER_custom_cloaks_male_armor_high_king_ysgramor_cloak:0 "@ek_sotr_dlc_icon! Royal Cloak of High King Ysgramor"
+  PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_dwemer_pauldrons:0 "@ek_sotr_dlc_icon! Dwemer Pauldrons"
+  PORTRAIT_MODIFIER_custom_cloaks_m_cloaks_aldmeri_welkynar_wings:0 "@ek_sotr_dlc_icon! Welkynar Wings"
+
+  ### Female ###
+  PORTRAIT_MODIFIER_custom_cloaks_f_cloaks_dwemer_pauldrons:0 "@ek_sotr_dlc_icon! Dwemer Pauldrons"
+  PORTRAIT_MODIFIER_custom_cloaks_f_cloaks_aldmeri_welkynar_wings:0 "@ek_sotr_dlc_icon! Welkynar Wings"
+  
+
+#######################################
+################ Jewelry ################
+#######################################
+
+ PORTRAIT_MODIFIER_custom_jewellery_m_jewellery_vampire_lord_necklace:0 "Vampire Lord Necklace"
+ PORTRAIT_MODIFIER_custom_jewellery_f_jewellery_vampire_lord_necklace:0 "Vampire Lord Necklace"
+  
+
+#######################################
+################ Hairs ################
+#######################################
+
+  #Generic Hair
+  ### Male ###
+  PORTRAIT_MODIFIER_custom_hair_m_generic_hair_merethic_1:0 "@ek_sotr_dlc_icon! Lion's Curls"
+  PORTRAIT_MODIFIER_custom_hair_m_generic_hair_merethic_2:0 "@ek_sotr_dlc_icon! Nobleman's Locks"
+  PORTRAIT_MODIFIER_custom_hair_m_generic_hair_merethic_3:0 "@ek_sotr_dlc_icon! Half Hair"
+  PORTRAIT_MODIFIER_custom_hair_balfieri_crop_hair_merethic_1:0 "@ek_sotr_dlc_icon! Balfieri Crop"
+
+  ### Female ###
+  PORTRAIT_MODIFIER_custom_hair_f_generic_hair_merethic_1:0 "@ek_sotr_dlc_icon! Regal Fae Hair"
+  PORTRAIT_MODIFIER_custom_hair_f_generic_hair_merethic_2:0 "@ek_sotr_dlc_icon! Lovely Short Hair"
+  PORTRAIT_MODIFIER_custom_hair_f_generic_hair_merethic_3:0 "@ek_sotr_dlc_icon! Fancy Sweep"
+  PORTRAIT_MODIFIER_custom_hair_f_generic_hair_merethic_4:0 "@ek_sotr_dlc_icon! Leafy Wave"
+  PORTRAIT_MODIFIER_custom_hair_f_generic_hair_merethic_5:0 "@ek_sotr_dlc_icon! Foreign Bun"
+  PORTRAIT_MODIFIER_custom_hair_f_generic_hair_merethic_6:0 "@ek_sotr_dlc_icon! Delinquent Wave"
+  PORTRAIT_MODIFIER_custom_hair_f_generic_hair_merethic_7:0 "@ek_sotr_dlc_icon! Curly Bob"
+  PORTRAIT_MODIFIER_custom_hair_f_generic_hair_merethic_8:0 "@ek_sotr_dlc_icon! Medium Short Wavy"
+  PORTRAIT_MODIFIER_custom_hair_f_generic_hair_merethic_9:0 "@ek_sotr_dlc_icon! Simple Ponytail"
+  PORTRAIT_MODIFIER_custom_hair_f_generic_hair_merethic_10:0 "@ek_sotr_dlc_icon! Curly Chevelure"
+  PORTRAIT_MODIFIER_custom_hair_f_generic_hair_merethic_11:0 "@ek_sotr_dlc_icon! Long Wild"
+  PORTRAIT_MODIFIER_custom_hair_f_generic_hair_merethic_12:0 "@ek_sotr_dlc_icon! Long Curly Middle Parted"
+  PORTRAIT_MODIFIER_custom_hair_f_generic_hair_merethic_13:0 "@ek_sotr_dlc_icon! Half Hair"
+
+  #Ancient Elven Hair
+  ### Male ###
+  PORTRAIT_MODIFIER_custom_hair_m_aldmeri_hair_merethic_1:0 "@ek_sotr_dlc_icon! Ancient Elven Hair"
+  PORTRAIT_MODIFIER_custom_hair_m_aldmeri_hair_merethic_2:0 "@ek_sotr_dlc_icon! Ancient Elven Hair (Messy)"
+  PORTRAIT_MODIFIER_custom_hair_m_aldmeri_hair_merethic_3:0 "@ek_sotr_dlc_icon! Ancient Elven Hair (Temple Braid)"
+  PORTRAIT_MODIFIER_custom_hair_m_aldmeri_hair_merethic_4:0 "@ek_sotr_dlc_icon! Ancient Elven Hair (Side Braid)"
+  PORTRAIT_MODIFIER_custom_hair_m_aldmeri_hair_merethic_5:0 "@ek_sotr_dlc_icon! Adoring Hair"
+
+
+  ### Female ###
+  PORTRAIT_MODIFIER_custom_hair_f_aldmeri_hair_merethic_1:0 "@ek_sotr_dlc_icon! Ancient Elven Hair"
+  PORTRAIT_MODIFIER_custom_hair_f_aldmeri_hair_merethic_2:0 "@ek_sotr_dlc_icon! Ancient Elven Hair (Messy)"
+  PORTRAIT_MODIFIER_custom_hair_f_aldmeri_hair_merethic_3:0 "@ek_sotr_dlc_icon! Ancient Elven Hair (Temple Braid)"
+  PORTRAIT_MODIFIER_custom_hair_f_aldmeri_hair_merethic_4:0 "@ek_sotr_dlc_icon! Ancient Elven Hair (Side Braid)"
+  PORTRAIT_MODIFIER_custom_hair_f_aldmeri_hair_merethic_5:0 "@ek_sotr_dlc_icon! Adoring Hair"
+
+  #Clepta's Hairstyles
+  ### Male ###
+  PORTRAIT_MODIFIER_custom_hair_male_hair_custom_01:0 "@ek_sotr_dlc_icon! Balding With Patch"
+  PORTRAIT_MODIFIER_custom_hair_male_hair_custom_02:0 "@ek_sotr_dlc_icon! Balding"
+  PORTRAIT_MODIFIER_custom_hair_male_hair_custom_04:0 "@ek_sotr_dlc_icon! Top-Cut"
+  PORTRAIT_MODIFIER_custom_hair_male_hair_custom_05:0 "@ek_sotr_dlc_icon! Mullet"
+  PORTRAIT_MODIFIER_custom_hair_male_hair_custom_06:0 "@ek_sotr_dlc_icon! Long Mullet"
+
+  ### Female ###
+  PORTRAIT_MODIFIER_custom_hair_female_hair_custom_01:0 "@ek_sotr_dlc_icon! Wavy Sides (No Jewelery)"
+  PORTRAIT_MODIFIER_custom_hair_female_hair_custom_02:0 "@ek_sotr_dlc_icon! Neck Braid (No Jewelery)"
+  PORTRAIT_MODIFIER_custom_hair_female_hair_custom_03:0 "@ek_sotr_dlc_icon! Jeweled Bun (No Jewelery)"
+  PORTRAIT_MODIFIER_custom_hair_female_hair_custom_04:0 "@ek_sotr_dlc_icon! Courageous and Groomed"
+  PORTRAIT_MODIFIER_custom_hair_female_hair_custom_05:0 "@ek_sotr_dlc_icon! Long Curly (No Jewelery)"
+  PORTRAIT_MODIFIER_custom_hair_female_hair_custom_06:0 "@ek_sotr_dlc_icon! Crown Curls (No Jewelery)"
+  PORTRAIT_MODIFIER_custom_hair_female_hair_custom_07:0 "@ek_sotr_dlc_icon! Twin Braids with Ribbons (No Jewelery)"
+  PORTRAIT_MODIFIER_custom_hair_female_hair_custom_08:0 "@ek_sotr_dlc_icon! Rolled Up Braids (No Jewelery)"
+
+#################################################
+################ Beards by Clepta ################
+################################################
+
+  #Clepta's Beard
+  ### Custom ###
+  PORTRAIT_MODIFIER_custom_beards_male_beard_galia_mustache:0 "@ek_sotr_dlc_icon! Drooping Mustache"
+  PORTRAIT_MODIFIER_custom_beards_male_beard_custom_01:0 "@ek_sotr_dlc_icon! Straight Medium Goatee"
+  PORTRAIT_MODIFIER_custom_beards_male_beard_custom_02:0 "@ek_sotr_dlc_icon! Straight Medium Mustache"
+  PORTRAIT_MODIFIER_custom_beards_male_beard_custom_03:0 "@ek_sotr_dlc_icon! Straight Medium Pointy"
+  PORTRAIT_MODIFIER_custom_beards_male_beard_custom_04:0 "@ek_sotr_dlc_icon! Straight Medium Chinstrap"
+  PORTRAIT_MODIFIER_custom_beards_male_beard_custom_05:0 "@ek_sotr_dlc_icon! Straight Medium Muttonchops"
+  PORTRAIT_MODIFIER_custom_beards_male_beard_custom_06:0 "@ek_sotr_dlc_icon! Short Stylish Goatee"
+  PORTRAIT_MODIFIER_custom_beards_male_beard_custom_07:0 "@ek_sotr_dlc_icon! Beaded Goatee"
+  PORTRAIT_MODIFIER_custom_beards_male_beard_custom_08:0 "@ek_sotr_dlc_icon! Beaded Mustache"
+  PORTRAIT_MODIFIER_custom_beards_male_beard_custom_09:0 "@ek_sotr_dlc_icon! Way Too Long"
+  PORTRAIT_MODIFIER_custom_beards_male_beard_guri:0 "@ek_sotr_dlc_icon! Wild Northern Beard"
+
+
+  ########################################################
+  ################ Falmeri Armors by Ract ################
+  ########################################################
+
+ ### Male ###
+
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_falmer_crown_01:0 "@ek_sotr_dlc_icon! Falmer Crown"
+
+ PORTRAIT_MODIFIER_custom_legwear_legwear_falmer_male_noble_war_01:0 "@ek_sotr_dlc_icon!Falmer Greaves"
+ PORTRAIT_MODIFIER_custom_clothes_clothes_falmer_male_noble_war_01:0 "@ek_sotr_dlc_icon! Falmer Armor"
+ PORTRAIT_MODIFIER_custom_clothes_clothes_fancy_falmer_male_noble_war_01:0 "@ek_sotr_dlc_icon! Royal Falmer Armor"
+ PORTRAIT_MODIFIER_custom_clothes_clothes_falmer_male_noble_war_dark:0 "@ek_sotr_dlc_icon! Dark Falmer Armor"
+
+ PORTRAIT_MODIFIER_custom_legwear_legwear_falmer_male_noble_war_dark:0 "@ek_sotr_dlc_icon! Dark Falmer Greaves"
+ PORTRAIT_MODIFIER_custom_legwear_legwear_fancy_falmer_male_noble_war_01:0 "@ek_sotr_dlc_icon! Royal Falmer Greaves"
+ 
+ ### Female ###
+
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_falmer_crown_01:0 "@ek_sotr_dlc_icon! Falmer Crown"
+
+ PORTRAIT_MODIFIER_custom_clothes_clothes_falmer_female_noble_war_01:0 "@ek_sotr_dlc_icon! Falmer Armor"
+ PORTRAIT_MODIFIER_custom_clothes_clothes_fancy_falmer_female_noble_war_01:0 "@ek_sotr_dlc_icon! Royal Falmer Armor"
+ PORTRAIT_MODIFIER_custom_clothes_clothes_falmer_female_noble_war_dark:0 "@ek_sotr_dlc_icon! Dark Falmer Armor"
+
+ PORTRAIT_MODIFIER_custom_legwear_legwear_falmer_female_noble_war_01:0 "@ek_sotr_dlc_icon! Falmer Greaves"
+ PORTRAIT_MODIFIER_custom_legwear_legwear_fancy_falmer_female_noble_war_01:0 "@ek_sotr_dlc_icon! Royal Falmer Greaves"
+ PORTRAIT_MODIFIER_custom_legwear_legwear_falmer_female_noble_war_dark:0 "@ek_sotr_dlc_icon! Dark Falmer Greaves"
+
+  #########################################
+  ################ WAM ################
+  #########################################
+
+ ### Male ###
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_fantasy_wam_enchanter_hat_01:0 "@ek_sotr_dlc_icon! Ram's Horn"
+
+ ### Female ###
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_fantasy_wam_enchanter_hat_01:0 "@ek_sotr_dlc_icon! Ram's Horn"
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_fantasy_wam_druidess_01:0 "@ek_sotr_dlc_icon! Elven Headress"

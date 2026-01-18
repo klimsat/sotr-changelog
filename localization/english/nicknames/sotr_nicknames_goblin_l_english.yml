@@ -1,0 +1,7 @@
+﻿l_english:
+
+  # Goblin
+  nick_the_enlightened_goblin:0 "the Enlightened"  
+  nick_the_enlightened_goblin_desc:1 "In a determined bid to transcend [CharYourHerHis(CHARACTER)] rough and tumble origins, [CharYouSheHe(CHARACTER)] meticulously mimics the elegance of the noble high elves—adopting their refined speech, graceful gestures, and lofty ideals. \n\nEvery deliberate act is a repudiation of goblin traditions, even as his kin scoff at his pretensions. Driven by an inner quest for transformation, [CharYouSheHe(CHARACTER)] seeks not only to leave behind his past, but to redefine what it means to be truly enlightened."
+  nick_the_bloodhorn:0 "Bloodhorn"  
+  nick_the_bloodhorn_desc:1 "Marked by [CharYourHerHis(CHARACTER)] uncanny red skin and the great ram horn [CharYouSheHe(CHARACTER)] bore, [CHARACTER.GetShortUINameNoTooltipNoFormat] was given the name Bloodhorn. Among goblins, the title is whispered with awe and dread, for [CharYouSheHe(CHARACTER)] always gains the upper hand in his battles, clad in the lifeblood of [CharYourHerHis(CHARACTER)] foes."  

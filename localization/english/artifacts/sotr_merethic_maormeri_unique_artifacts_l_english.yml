@@ -1,0 +1,8 @@
+﻿l_english:
+
+  artifact_uldor_staff_name:0 "Staff of Uldor"
+  artifact_uldor_staff_description:1 "The staff is a dark, imposing relic—carved from ebony into the coiling shape of a sea serpent, its sinuous body winding upward toward a gleaming Aeonstone crystal set at its crown. The serpent’s head appears to phase through the glowing gem, which pulses faintly with an eerie green light. Wielded by the dreaded Maormer necromancer [GetScriptedCharacterByHistoryID( 'maormer_khenarthi_uldor_merethic_era' ).GetFirstName] of Khenarthi’s Roost, the staff has become a symbol of dread across the southern tides of Elsweyr."
+  artifact_maormeri_deepsea_helm_name:0 "Deepsea Helm"
+  artifact_maormeri_deepsea_helm_description:1 "The Deepsea Helm is the fearsome war-helm still worn by the Maormeri pirate-king, [GetScriptedCharacterByHistoryID( 'maormer_pirate_king_1_merethic_era' ).GetFirstName] of the Abyssal Choir. Shaped like a monstrous sea creature, with curling mandibles and a sharp fin, it looks as if it has just emerged from the ocean’s darkest depths."
+  artifact_jags_of_the_abyss_name:0 "Jags Of The Abyss"
+  artifact_jags_of_the_abyss_description:1 "The Jags of the Abyss is the dreaded trident wielded by Estormo, the Maormeri pirate-king of the Abyssal Choir. Forged from an unknown deep-sea metal never seen on land, its barbed prongs are covered in salt-crusted moss and many scars."

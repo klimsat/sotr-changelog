@@ -1,0 +1,24 @@
+﻿l_english:
+
+ ############################
+ ##### Perks Requirment #####
+ ############################
+
+ #Effects ###################
+
+ break_out_of_prison_effect_text:0 "Attaining this trait unlock's the break out of prison [interaction|E]."
+ 
+ #Sword-Singer
+
+ ansei_ward_effect_text:0 "\nAttaining the Second-Rank Ansei trait level allows the character to #V Create an Ansei Ward through a [decision|E]#!. This would enable the character to forge a powerful defensive tool."
+ ansei_pankratosword_effect_text:0 "\nAttaining the First-Rank Ansei trait level unlocks the #V Pankratosword [interaction|E] #!, which would enable this character to decimate an entire landscape of their choosing."
+
+ #Requirements  ###################
+
+ #Vampire 
+ vampire_lord_perk_requirement_text:0 "\nYou need to be either have the #V [GetTrait('vampire_lord_trait').GetName( GetNullCharacter )], [GetTrait('vampire_blood_scion_trait').GetName( GetNullCharacter )], or [GetTrait('vampire_higher_vampire_trait').GetName( GetNullCharacter )] #! [trait|E] to unlock this [perk|E]"
+
+ mindweaver_perk_requirement_text:0 "\nTo unlock this [perk|E], you need to join one of the following bloodlines: #V [GetTrait('vampire_bloodline_vampyrum_order').GetName( GetNullCharacter )], [GetTrait('vampire_bloodline_diodata').GetName( GetNullCharacter )], or [GetTrait('vampire_bloodline_whet_fang').GetName( GetNullCharacter )] #!"
+
+ #Werewolf
+ alpha_perk_requirement_text:0 "#n \nYour [prestige_level|E] need to be atleast at #V [GetModifier( 'prestige_level_2' ).GetNameWithTooltip|L]#! to unlock this [perk|E]\n\nYour base form [prowess|E] need to be atleast #V 20 #! to unlock this [perk|E] (Prowess required is your base prowess outside #bold Werebeast#! form.) #!"

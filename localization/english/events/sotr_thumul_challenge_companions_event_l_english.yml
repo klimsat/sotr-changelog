@@ -1,0 +1,36 @@
+﻿l_english:
+
+  thumul_challenge_atmorans_event.0001.t:0 "Thumul Rises from the Depths"
+
+  thumul_challenge_atmorans_event.0001.companions.desc:0 "From beneath the deepest waters of the northern sea, the call of vengeance thunders. Thumul, the great Sea Giant, has risen from the depths—his wrath stirred by the vile crimes of the Atmorans against the Giants of the mainland.\n\nRising from the cold, heaving depths, you send your challenge—no hidden blades, no craven poison—a single combat to be fought, fair and square. Let [recipient.GetTitledFirstNameNoTooltip] prove [recipient.GetHerHis] worth, or drown in the legacy of [recipient.GetHerHis] people."
+  thumul_challenge_atmorans_event.0001.ysgramor.desc:0 "From beneath the black waters of the northern sea, the call of vengeance thunders. Thumul, the great Sea Giant chief, has risen from the depths—his wrath stirred by the unforgivable crimes of the Atmorans against the mainland Giants.\n\nRising from the cold, heaving depths, you send your challenge to Ysgramor. You are coming for vengence, and the sea will drink deep from his red blood."
+
+  thumul_challenge_atmorans_event.0001.a:0 "Don't run now!"
+  thumul_challenge_atmorans_event.0001.a.tt:0 "Your challenge has been accepted by [recipient.GetTitledFirstNameNoTooltip], you will now come to them and fight them to the death"
+  thumul_challenge_atmorans_event.0001.b:0 "Perhaps we shall wait for a calmer tide...."
+  thumul_challenge_atmorans_event.0001.b.tt:0 "You will delay your challenge."
+
+
+  thumul_challenge_atmorans_event.0003.ysgramor.t:0 "The Blood of Ysgramor"
+  thumul_challenge_atmorans_event.0003.companions.t:0 "Blood of the Companions"
+
+  thumul_challenge_atmorans_event.0003.ysgramor.desc:0 "The great Ysgramor lies broken at your feet, his lifeblood mingling with the sea-spray and soil. His roar of defiance is gone, carried away on the cold northern wind. Around you, his kin and blood stand trembling—warriors, wives, and whelps—each bearing the face of your evil foe.\n\nThe tide of vengeance swells within you. This is the hour to erase his line forever, to cleanse the world of his seed. Yet a shadow of doubt stirs—would mercy now plant a deeper wound? Or is there still a drop of conscience left in the heart of Thumul?"
+  thumul_challenge_atmorans_event.0003.companions.desc:0 "Another one of Ysgramor’s Companions lies broken before you, their lifeblood spilling into the cold earth. Though not as mighty as the Ysgramor himself, they were no less ruthless...\n\nNow their families stand before you, eyes wide with fear, yet carrying the same hardened gaze of your fallen foe. The tide of vengeance swells once more. Will you wipe the bloodline of [recipient.GetTitledFirstNameNoTooltip] from the world, or let them live to bear the weight of your mercy?"
+
+
+  thumul_challenge_atmorans_event.0003.a:0 "Spare them—let the sea judge their fate."
+  thumul_challenge_atmorans_event.0003.a.tt:0 "You allow [recipient.GetTitledFirstNameNoTooltip]’s kin to live, for they have nothing to do with [recipient.GetTitledFirstNameNoTooltip]'s crimes."
+
+  thumul_challenge_atmorans_event.0003.b:0 "End them all—no seed of [recipient.GetTitledFirstNameNoTooltip] shall remain."
+  thumul_challenge_atmorans_event.0003.b.tt:0 "You execute every member of [recipient.GetTitledFirstNameNoTooltip]’s bloodline that you can find nearby."
+
+  thumul_challenge_atmorans_event.toast.title:0 "Blood Beyond Measure"
+  thumul_challenge_atmorans_event.toast.tt:0 "An entire family lies dead by your hand for the crimes of [recipient.GetTitledFirstNameNoTooltip]. Is it worth it?"
+
+
+  thumul_challenge_atmorans_event.0006.companions.t:0 "Two Companions"
+  thumul_challenge_atmorans_event.0006.companions.desc:0 "As you are about to deal the killing blow to [companion_spouse.GetTitledFirstNameNoTooltip]... someone else appears in front of you. Apparently this companion chose to mingle with a fellow companion.\n\n "There's two of them???"" \n\n"The Seas have have indeed blessed me today...""
+
+  thumul_challenge_atmorans_event.0006.a:0 "Fight "
+
+  thumul_challenge_atmorans_event.0006.a.tt:0 "They're coming for you, you have no choice but to fight them."

@@ -1,0 +1,9 @@
+﻿l_english:
+
+  #Stone-Nest Argonian Faith : The Stone
+
+ stone_xanmeer:0 "The Stone"
+ stone_xanmeer_adj:0 "The Stones"
+ stone_xanmeer_adherent:0 "Stone Animist"
+ stone_xanmeer_adherent_plural:0 "Stone Animist"
+ stone_xanmeer_desc:0 "The Stone-Nest Argonians of Eastern Solstice were known to hold stone in deep reverence. Adherents of this faith believe that Stone possesses both memory and intent, calling to all peoples through a wordless, ageless song.\n\nBy carving Xanmeers from living stone, they sought to anchor memory, belief, and instruction in a form immune to decay. Each stone laid was an act of devotion, and every structure served as both sanctuary and scripture.\n\nThe enduring presence of the Xanmeers is seen as sacred proof that memory, when committed to Stone, can outlast even the rise and fall of entire civilizations." #Placeholder - Source: Songs of the Stone-Nest People

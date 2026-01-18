@@ -1,0 +1,6 @@
+﻿l_english:
+
+  artifact_new_ansei_ward_name:1 "Sword-Singer [ROOT.GetCharacter.GetFirstName]'s Ward"
+  artifact_new_ansei_ward_description:0 "This relic was created from the spirit of [ROOT.GetCharacter.GetFirstNameNoTooltip]. It was created as a catalyst for a powerful defensive barrier, one that shields all within it with immense power." #PLACEHOLDER
+
+

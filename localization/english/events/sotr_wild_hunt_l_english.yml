@@ -1,0 +1,17 @@
+﻿l_english:
+
+  # The Wild Hunt Event
+  start_wild_hunt.0001.t:1 "The Wild Hunt Begins"
+  start_wild_hunt.0001.desc:0 "The air turns thick with sap and screams. Trees grow unnaturally and the Green groans.\n\nFrom bark, leaf, and root, twisted beasts surge forth. These are no mere monsters, they are nature's wrath made flesh — bristling with thorns and blazing with fury. The Wild Hunt sweeps across the land, devouring all it touches. It comes without herald, without warning—marked only by the reek of rot and the crack of splintering bone beneath the trees.\n\nWhat once were people are now unrecognizable eyes gleaming with nature’s rage, bodies gnarled into monstrous shapes. They come without mercy, without thought—only to bring the wrath of the Wild."
+  start_wild_hunt.0001.a:0 "Nature must have its due"
+  start_wild_hunt.0001.a.tt:0 "The Wild Hunt is unleashed."
+
+  start_wild_hunt.0002.t:0 "The Wild Hunt Comes"
+  start_wild_hunt.0002.desc:0 "It began with a silence—unnatural, heavy. Then the woods screamed.\n\nBranches writhed like serpents. The air reeked of sap, blood, and rot. And from the trees, they came.\n\nNot soldiers. Not beasts. Things. Twisted, snarling, ever-shifting—mockeries of elves, shaped by hate and the will of the Green. They tore through wood and stone alike, limbs contorted into spears, mouths gaping with thorned maws. No warning. No mercy.\n\nWe ran. We begged. It did not matter. There is no escape from the Hunt."
+  start_wild_hunt.0002.a:0 "By Oblivion"
+  start_wild_hunt.0002.a.tt:0 "The Wild Hunt is upon you. Truth be told… there’s not much you can do now."
+
+  start_wild_hunt.0003.t:0 "The Wild Hunt"
+  start_wild_hunt.0003.desc:0 "News of the havoc wrought by the Wild Hunt ritual spread like wildfire across the realm. In it's wake, no cries were heard, no warnings given—only the ruin left in its tracks.\n\n Those who found it can't believe what they saw. Creatures of root and rage slithered through the shadows. Twisted, snarling, ever-shifting—shaped by wrath and the will of the Green. They tore through wood and stone alike, limbs contorted into spears, mouths gaping with thorned maws. No warning. No mercy. Where ever they walked, nature claimed its due.\n\nNow, only silence remains. The Hunt has passed—but the land has not recovered."
+  start_wild_hunt.0003.a:0 "By Oblivion"
+  start_wild_hunt.0003.a.tt:0 "The Wild Hunt has passed… but its shadow lingers."

@@ -1,0 +1,28 @@
+﻿l_english:
+
+	# The Numidium Creation
+
+	dwemer_create_numidium.0001.t:0 "Project Design Ready"
+	dwemer_create_numidium.0001.desc:0 "You have gathered every required informations from the [ultimate_tome|E]. \n\nWeaving them into a transcendental body of knowledge that could guide us in designing our ultimate creation—a creation surpassing anything the Dwemer, or any in the known world, have ever conceived. \n\nThe vault hums with power, every wall etched in Anti-radiation brass, every cog turning as though the mountain itself stirs in anticipation. \n\nNow our great work can truly begin...."
+	dwemer_create_numidium.0001.a:0 "Commence the Great Work"
+	dwemer_create_numidium.0001.a.tt:0 "The creation process will begin. The outcome would depend on your traits and skills."
+	dwemer_create_numidium.0001.b:0 "This knowledge is too dangerous..."
+	dwemer_create_numidium.0001.b.tt:0 "You seal the tomes away, leaving the secret buried for another age."
+
+	dwemer_create_numidium.0002.t:0 "Project Complete"
+	dwemer_create_numidium.0002.desc:0 "The chamber trembles as the ancient mechanisms stir, conduits sparking with boundless energy. From the blueprints of brass and tonal architecture, the foundations of a colossal form emerge—a brass-titan wrought in metal, a vessel for godhood itself. \n\nThe Ultimate Creation begins to take shape before your very eyes. Its sheer scale defies reason, its presence overwhelming, as though Mundus itself resists its coming."
+	dwemer_create_numidium.0002.a:0 "By the Tones..."
+	dwemer_create_numidium.0002.a.tt:0 "Creation Process completed"
+	dwemer_create_numidium.0002.a.t.success.desc:0 "The Numidium begins to form, awaiting its final spark of power."
+
+	dwemer_create_numidium.0003.t:0 "Project Failed"
+	dwemer_create_numidium.0003.desc:0 "Sparks erupt, flaring bright before collapsing into smoke. Gears grind until their teeth snap, and conduits scream as their lifeblood of fuel is consumed into choking ash. The vault itself seems to recoil, as though rejecting your hand upon its secrets.\n\nThe Ultimate Creation slips from your grasp—it is not yours to wield… not yet."
+	dwemer_create_numidium.0003.a:0 "Damn you [tonal_architect.GetFirstName] !!!"
+	dwemer_create_numidium.0003.a.tt:0 "This was all [tonal_architect.GetName]'s fault..."
+	dwemer_create_numidium.0003.b:0 "Good Dwemer's Learn from their mistakes"
+	dwemer_create_numidium.0003.b.tt:0 "We may try again in the future."
+	dwemer_create_numidium.0003.c:0 "You can no longer live..[tonal_architect.GetFirstName]..."
+	dwemer_create_numidium.0003.c.tt:0 "[tonal_architect.GetNameNicknamed|U] is not only useless, [tonal_architect.GetSheHe] also knows too much about this project."
+	dwemer_create_numidium.0003.d:0 "Get out of here... FRAUD !!!"
+	dwemer_create_numidium.0003.d.tt:0 "[tonal_architect.GetNameNicknamed|U] is an absolute fraud. Next time get me an actual Tonal Architect who knows what they're doing."
+

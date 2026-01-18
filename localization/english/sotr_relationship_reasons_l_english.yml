@@ -1,0 +1,4 @@
+﻿l_english: 
+
+  rival_slaughter_hatred: "[TARGET_CHARACTER.GetShortUIName|U] [CharAreIs(CHARACTER)] responsible for the slaughter of many of [CharYourHerHis(CHARACTER)] kind..."
+  rival_slaughter_hatred_corresponding: "[CHARACTER.GetShortUIName|U] [CharAreIs(CHARACTER)] responsible for the slaughter of many of [CharYourHerHis(TARGET_CHARACTER)] kind..."

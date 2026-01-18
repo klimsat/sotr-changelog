@@ -1,0 +1,23 @@
+﻿l_english:
+
+ #Vampire Bloodline Interaction
+  
+  recipient_family_friend_or_lover_tt: "#color_white [recipient.GetTitledFirstName]#! needs to either be of the [actor.GetDynasty.GetName] dynasty, be a [friend|E] or [lover|E] of #color_white [actor.GetName]#!."
+
+  CHARACTER_IS_COVEN_MEMBER:0 "[CHARACTER.GetShortUIName|U] has already joined the [GetTrait('vampire_bloodline_').GetName( CHARACTER.Self )]"
+  IS_A_COVEN_MEMBER:0 "Is a [GetTrait('vampire_bloodline_').GetName( GetNullCharacter )]"
+  IS_NOT_A_COVEN_MEMBER:0 "Is #bold not#! a member of any other Vampiric Bloodline"
+
+  CHARACTER_IS_COVEN_LEADER:0 "[CHARACTER.GetShortUIName|U] is a leader of a Vampire Coven"
+  IS_A_COVEN_LEADER:0 "Is a leader of a Coven"
+  IS_NOT_A_COVEN_LEADER:0 "Is #bold not#! a leader of any Vampiric Coven"
+
+  request_to_join_bloodline_desc:0 "I will ask [recipient.GetShortUINameNoTooltip] to allow me to join  [recipient.GetHerHis] bloodline and receive it's powers."
+
+  visit_leader_of_bloodline_desc:0 "I will pay a visit to [recipient.GetShortUINameNoTooltip]"
+
+  request_to_become_vampire_interaction:0 "Approach [recipient.GetShortUINameNoTooltip]"
+
+  request_to_become_a_vampire_interaction_desc:0 "I will ask [recipient.GetShortUINameNoTooltip] to share [recipient.GetHerHis] gift with me."
+
+

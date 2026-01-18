@@ -1,0 +1,20 @@
+﻿l_english:
+
+ # Atmoran Faiths
+
+ #Ternion Totems
+ ternion_totems:0 "Ternion Totems"
+ ternion_totems_adj:0 "Ternion"
+ ternion_totems_adherent:0 "Ternion Totemist"
+ ternion_totems_adherent_plural:0 "Ternion Totemists"
+ ternion_totems_desc:0 "An old and reclusive cult revering the Three Old Gods - the quick and crafty Fox, the strong and mighty Bear, the sly and observant Wolf."
+ ternion_totems_religious_symbol:0 "ternion totem"
+ ternion_totems_religious_text:0 "ancient stories"
+ ternion_totems_religious_head_title:0 "Godsthane"
+ ternion_totems_religious_head_title_name:0 "Hall of Three"
+ ternion_totems_devotee_male:0 "monk"
+ ternion_totems_devotee_male_plural:0 "monks"
+ ternion_totems_devotee_female:0 "nun"
+ ternion_totems_devotee_female_plural:0 "nuns"
+ ternion_totems_devotee_neuter:0 "monastic"
+ ternion_totems_devotee_neuter_plural:0 "monastics"

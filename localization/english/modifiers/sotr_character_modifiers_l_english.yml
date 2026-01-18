@@ -1,0 +1,23 @@
+﻿l_english:
+
+  shehai_manifested_modifier: "Shehai Awakened"
+  shehai_manifested_modifier_desc: "You manifested your Shehai or Spirit-Sword"
+  vampire_lord_form_modifier: "Vampire Lord Form"
+  vampire_lord_form_modifier_desc: "You attain the full powers of a Vampire Lord"
+  werewolf_form_modifier: "Werewolf Form"
+  werewolf_form_modifier_desc: "You attain the full powers of a Werewolf"
+  werebear_form_modifier: "Werebear Form"
+  werebear_form_modifier_desc: "You attain the full powers of a Werebear"
+  wereboar_form_modifier: "Wereboar Form"
+  wereboar_form_modifier_desc: "You attain the full powers of a Wereboar"
+
+  secret_werebear_modifier:0 "Insatiable Hunger"
+  secret_werebear_modifier_desc:0 "This character is often found snacking, growling, or both."
+  secret_werebear_modifier_ct:0 "I swear I am calm, unless someone touches my food."
+
+  secret_wereboar_modifier:0 "Insatiable Belly"
+  secret_wereboar_modifier_desc:0 "This character is strangely irritable when hungry, which seems to be most of the time."
+  secret_wereboar_modifier_ct:0 "Those smelly things on the ground seems quite delicious..."
+
+  ysgramor_the_returned_modifier: "The Returned"
+  ysgramor_the_returned_modifier_desc: "You think you can take him down that easily...?\n\n"

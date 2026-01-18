@@ -1,0 +1,10 @@
+﻿l_english: 
+ the_great_steppe_sub_region_steppe_west: "Northern Elsweyr" #SOTR: Edited by Hbxn
+ the_great_steppe_sub_region_steppe_west_desc: "$SITUATION_SUB_REGION_TOOLTIP_DESC$\n\n#weak The northern lands of Elsweyr is the meeting ground between the dry highlands of the Scar and the vast savannahs that stretch toward the Heartlands. This arid frontier, shaped by wind and drought, has managed to thrive where most would wither. Throughout history, its open plains and hidden canyons have served as both shield and gateway between the deserts of Elsweyr and the settled lands beyond.#!"
+ the_great_steppe_sub_region_steppe_central: "Central Elsweyr" #SOTR: Edited by Hbxn
+ the_great_steppe_sub_region_steppe_central_desc: "$SITUATION_SUB_REGION_TOOLTIP_DESC$\n\n#weak Central Elsweyr follows the course of the Xylo River from the jungled outskirts of Torval all the way to Alabaster. The land holds an array of mixture of both drylands and lush areas—dry hills mingling with patches of green, shaped by the shifting winds and the river’s flow. Throughout history, this area has served as the meeting point between the caravans, pilgrims, and travelers of the northern drylands and the southern coasts.#!"
+ the_great_steppe_sub_region_steppe_east: "Southern Elsweyr" #SOTR: Edited by Hbxn
+ the_great_steppe_sub_region_steppe_east_desc: "$SITUATION_SUB_REGION_TOOLTIP_DESC$\n\n#weak The southern lands of Elsweyr stretch along the warm seas, from the dense jungles near Pa'alatin to the misted coasts beyond Senchal. This region is rich and humid, its forests alive with sound and color, and its shores lined with thriving ports and coastal towns. Throughout history, these southern realms have opened Elsweyr to the wider world, their harbors welcoming merchants, sailors, and wanderers from across Tamriel’s southern seas.#!"
+
+ # TODO_MPO: Flesh out loc for sub region tooltips
+ SITUATION_SUB_REGION_TOOLTIP_DESC: "This [situation_sub_region|E] belongs to [SituationSubRegion.GetSituation.GetName]\n\nCurrent Phase: [SituationSubRegion.GetCurrentPhase.GetName|V]"

@@ -1,0 +1,91 @@
+﻿l_english:
+ ##### Hostility #####
+ struggle_ayleid_ending_hostility_decision:1 "[ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip] Dominance"
+ struggle_ayleid_ending_hostility_decision_desc:0 "It is time for a strong leader to finally drag the Heartland from the mire of war and division. The Imperatum Saliache will be united under a [ROOT.Char.GetFaith.GetAdjectiveNoTooltip] [ROOT.Char.Custom('GetQueenKing')|l] flying the [ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip] banner!"
+ struggle_ayleid_ending_hostility_decision_tooltip:0 "End the Narfinsel Schism"
+ struggle_ayleid_ending_hostility_decision_confirm:1 "End the Narfinsel Schism"
+ # Triggers
+ struggle_ayleid_ending_hostility_decision_kingdom_tt:0 "You [hold|E] and [completely_control|E] at least 2 [de_jure|E] [kingdoms|E] of [GetTitleByKey('e_imperatum_saliache').GetNameNoTier] ([SCOPE.ScriptValue('narfinsel_schism_struggle_ending_kingdom_counter_value')|0]/[SCOPE.ScriptValue('narfinsel_schism_struggle_hostility_kingdom_total_value')|0])"
+ struggle_ayleid_ending_hostility_decision_united_spanish_throne_tt:0 "You united the Ayleid City-States under your [primary_title|E]"
+ struggle_ayleid_ending_hostility_decision_county_tt:0 "Every [de_jure|E] [county|E] of your [capital|E] [kingdom|E] ([THIS.Char.GetCapitalLocation.GetCounty.GetTitle.GetDeJureLiege.GetDeJureLiege.GetNameNoTier]) must be [THIS.Char.GetCulture.GetName] and [THIS.Char.GetFaith.GetAdjective] ([SCOPE.ScriptValue('narfinsel_schism_struggle_hostility_county_counter_value')|0]/[SCOPE.ScriptValue('narfinsel_schism_struggle_hostility_county_total_value')|0])"
+ struggle_ayleid_ending_hostility_decision_county_faith_tt:0 "All of your vassals faith must be [THIS.Char.GetFaith.GetAdjective]"
+ struggle_ayleid_ending_hostility_decision_county_culture_tt:0 "[GetTitleByKey('c_imperial_city').GetNameNoTier] [capital|E] must be [THIS.Char.GetCulture.GetName]"
+ struggle_ayleid_ending_hostility_decision_region_tt:2 "No other [independent|E] [struggle_involved|E] [ruler|E] controls more than 50% of [GetGeographicalRegion('mundus_tamriel_cyrodiil').GetName]"
+ # Effects
+ sotr_fp2_struggle_hostility_opinion_tt:1 "[characters|E] of same [faith|E] and/or [culture|E] [opinion|E]: #positive_value +[SCOPE.ScriptValue('narfinsel_schism_struggle_hostility_opinion_value')]#!"
+ sotr_fp2_struggle_hostility_opinion_negative_tt:0 "[characters|E] of other [struggle_involved|E] [faiths|E] and/or [cultures|E] [opinion|E]: #negative_value [SCOPE.ScriptValue('narfinsel_schism_struggle_hostility_opinion_negative_value')]#!"
+ sotr_fp2_struggle_hostility_conversion_tt:1 "$task_conversion$ and/or $task_promote_culture$ [councillor_tasks|E] speed in [GetGeographicalRegion('mundus_tamriel_cyrodiil').GetName] [region|E]: #P +50%#!"
+ narfinsel_schism_struggle_hostility_conversion_holy_tt:0 "$task_conversion$ [councillor_task|E] speed in [GetGeographicalRegion('mundus_tamriel_cyrodiil').GetName] [region|E]: #P +50%#!"
+ narfinsel_schism_struggle_hostility_conversion_culture_tt:0 "$task_promote_culture$ [councillor_task|E] speed in [GetGeographicalRegion('mundus_tamriel_cyrodiil').GetName] [region|E]: #P +50%#!"
+ narfinsel_schism_struggle_hostility_list_tt:1 "Select one of the following modifiers for your [house|E]:\n$EFFECT_LIST_BULLET$[GetModifier('narfinsel_schism_struggle_hostility_house_faith_modifier').GetNameWithTooltip|L]. In addition, some [holy_wars|E] will be easier to wage.\n$EFFECT_LIST_BULLET$[GetModifier('narfinsel_schism_struggle_hostility_house_culture_modifier').GetNameWithTooltip|L]. In addition, some Conquest [wars|E] will be easier to wage.\n$EFFECT_LIST_BULLET$[GetModifier('narfinsel_schism_struggle_hostility_house_combined_modifier').GetNameWithTooltip|L]. In addition, some [holy_war|E] and Conquest [wars|E] will be easier to wage."
+ narfinsel_schism_struggle_hostility_holy_cb_tt:0 "$HOLY_WAR_DUCHY_NAME$ [casus_bellis|E] against other [struggle_involved|E] [faiths|E]: #positive_value -50%#!"
+
+ narfinsel_schism_struggle_hostility_culture_cb_tt:0 "$CONQUEST_DUCHY_CB_NAME$ [casus_bellis|E] against other [struggle_involved|E] [cultures|E]: #positive_value -50%#!"
+ narfinsel_schism_struggle_hostility_culture_tt:0 "All [struggle_involved|E] [cultures|E] lose #negative_value [SCOPE.ScriptValue('narfinsel_schism_struggle_hostility_culture_acceptance_value')]%#! [cultural_acceptance|E] of each other"
+ narfinsel_schism_struggle_hostility_culture_large_tt:0 "All [struggle_involved|E] [cultures|E] lose #negative_value [SCOPE.ScriptValue('narfinsel_schism_struggle_hostility_culture_acceptance_large_value')]%#! [cultural_acceptance|E] of each other"
+ narfinsel_schism_struggle_hostility_acceptance_tt:0 "Hostility in the Heartland"
+
+ # Modifiers
+ narfinsel_schism_struggle_hostility_house_faith_modifier:1 "Faith Hostility"
+ narfinsel_schism_struggle_hostility_house_faith_modifier_desc:0 "This house has conquered most of the Heartland in the name of their faith."
+ narfinsel_schism_struggle_hostility_house_culture_modifier:1 "Cultural Hostility"
+ narfinsel_schism_struggle_hostility_house_culture_modifier_desc:0 "This house has conquered most of the Heartland in the name of their people."
+ narfinsel_schism_struggle_hostility_house_combined_modifier:1 "Domination Hostility"
+ narfinsel_schism_struggle_hostility_house_combined_modifier_desc:0 "This house has conquered most of the Heartland in the name of their faith and people."
+ ##### Compromise #####
+ struggle_ayleid_ending_compromise_decision:1 "Status Quo"
+ struggle_ayleid_ending_compromise_decision_desc:0 "These endless conflicts over the our homeland only weaken us all. It is time to accept that the Heartland was never meant to be united."
+ struggle_ayleid_ending_compromise_decision_tooltip:0 "$struggle_ayleid_ending_hostility_decision_tooltip$"
+ struggle_ayleid_ending_compromise_decision_confirm:0 "$struggle_ayleid_ending_hostility_decision_confirm$"
+ # Triggers
+ struggle_ayleid_ending_compromise_decision_kingdom_tt:0 "You [hold|E] and [completely_control|E] any [de_jure|E] [kingdom|E] of [GetTitleByKey('e_cyrodiil').GetNameNoTier] ([SCOPE.ScriptValue('narfinsel_schism_struggle_ending_kingdom_counter_value')|0]/[SCOPE.ScriptValue('narfinsel_schism_struggle_conciliation_kingdom_total_value')|0])"
+ struggle_ayleid_ending_compromise_decision_region_tt:0 "You control less than [SCOPE.ScriptValue('narfinsel_schism_struggle_compromise_owned_percent_value')|0]% of the [GetGeographicalRegion('mundus_tamriel_cyrodiil').GetName] [region|E] (Current: [SCOPE.ScriptValue('struggle_ayleid_ending_compromise_decision_region_owned_percent_value')|0]%)"
+ struggle_ayleid_ending_compromise_decision_other_region_tt:0 "No other [independent|E] [struggle_involved|E] [ruler|E] controls [SCOPE.ScriptValue('narfinsel_schism_struggle_compromise_involved_percent_value')|0]% or more of the [GetGeographicalRegion('mundus_tamriel_cyrodiil').GetName] [region|E]"
+ struggle_ayleid_ending_compromise_decision_opinion_tt:0 "All other [struggle_involved|E] [rulers|E] ([kings|E] or above) have at least 40 [opinion|E] of you or are the target of a [hook|E] ([SCOPE.ScriptValue('struggle_ayleid_ending_compromise_decision_opinion_counter_value')|0]/[SCOPE.ScriptValue('struggle_ayleid_ending_ending_decision_foreign_realm_total_value')|0])"
+ struggle_ayleid_ending_conciliation_decision_opinion_tt:0 "All other [struggle_involved|E] [rulers|E] ([kings|E] or above) have at least 50 [opinion|E] of you or are the target of a [strong_hook|E] ([SCOPE.ScriptValue('struggle_ayleid_ending_compromise_decision_opinion_counter_value')|0]/[SCOPE.ScriptValue('struggle_ayleid_ending_ending_decision_foreign_realm_total_value')|0])"
+ struggle_ayleid_ending_compromise_decision_independent_tt:0 "No other [independent|E] [struggle_involved|E] [rulers|E] are [king|E] or [emperor|E] [rank|E] (Current: [SCOPE.ScriptValue('struggle_ayleid_ending_compromise_decision_independent_counter_value')|0])"
+ struggle_ayleid_ending_compromise_decision_interloper_tt:0 "More than [SCOPE.ScriptValue('narfinsel_schism_struggle_compromise_uninvolved_percent_value')]% of the [GetGeographicalRegion('mundus_tamriel_cyrodiil').GetName] [region|E] is held by [struggle_interloper|E] or [struggle_uninvolved|E] [rulers|E] (Current: [SCOPE.ScriptValue('struggle_ayleid_ending_compromise_decision_region_interloper_percent_value')|1]%)"
+ struggle_ayleid_ending_compromise_truce_tt:1 "No [wars|E] between [struggle_involved|E] [rulers|E] (Current: [SCOPE.ScriptValue('struggle_ayleid_ending_compromise_decision_war_counter_value')|0])"
+ # Effects
+ narfinsel_schism_struggle_compromise_create_new_kingdoms_tt:0 "Every [independent|E] or separated [duchy|E] in the [GetGeographicalRegion('mundus_tamriel_cyrodiil').GetName] [region|E] becomes a [de_jure|E] [kingdom|E]"
+ narfinsel_schism_struggle_compromise_create_new_empires_tt:1 "Every [de_jure|E] [kingdom|E] in the [GetGeographicalRegion('mundus_tamriel_cyrodiil').GetName] [region|E] with more than [EmptyScope.ScriptValue('narfinsel_schism_struggle_compromise_ending_minimal_empire_size')|0] [counties|E] becomes a [de_jure|E] [empire|E]. The remaining [kingdoms|E] will fall under the [de_jure|E] of a neighboring [empire|E]."
+ narfinsel_schism_struggle_compromise_house_rewards_tt:2 "Your and [struggle_involved|E] [rulerpossessive|E] [houses|E]"
+ narfinsel_schism_struggle_compromise_house_enforce_truce_rewards_tt:0 "Unlocks the [enforce_truce|E] [interaction|E] towards the other [houses|E]"
+ narfinsel_schism_struggle_compromise_defensive_rewards_tt:2 "Your and [struggle_involved|E] [rulerpossessive|E] [capital|E] [counties|E]"
+ narfinsel_schism_struggle_compromise_truce_tt:1 "Every [struggle_involved|E] [ruler|E] gains a #V 10 year#! [truce|E] with all others"
+ TRUCE_NARFINSEL_SCHISM_COMPROMISE:0 "Compromise in the Heartland"
+ # Modifiers
+ narfinsel_schism_struggle_compromise_house_reward_modifier:0 "Compromise"
+ narfinsel_schism_struggle_compromise_house_reward_modifier_desc:0 "This house led their realm out of the Narfinel Schism."
+ narfinsel_schism_struggle_compromise_defensive_reward_modifier:0 "Regional Stronghold"
+ narfinsel_schism_struggle_compromise_defensive_reward_modifier_desc:1 "This county is the historic capital of one of the Ayleid Kingdoms that survived the centuries of struggle."
+ ##### Conciliation ######
+ struggle_ayleid_ending_conciliation_decision:1 "Sepredia"
+ struggle_ayleid_ending_conciliation_decision_desc:0 "The wounds of the past centuries will not be easily healed, but we must try if the Heartland is to find a lasting peace. Aedraphiles and Daedraphiles must work together to build a Greater Ayleid Empire."
+ struggle_ayleid_ending_conciliation_decision_tooltip:0 "$struggle_ayleid_ending_hostility_decision_tooltip$"
+ struggle_ayleid_ending_conciliation_decision_confirm:0 "$struggle_ayleid_ending_hostility_decision_confirm$"
+ # Triggers
+ struggle_ayleid_ending_conciliation_decision_alliance_tt:0 "All other [struggle_involved|E] [rulers|E] have an [alliance|E] with you ([SCOPE.ScriptValue('struggle_ayleid_ending_conciliation_decision_alliance_counter_value')|0]/[SCOPE.ScriptValue('struggle_ayleid_ending_ending_decision_foreign_realm_total_value')|0])"
+
+ struggle_ayleid_ending_conciliation_decision_friends_tt:0 "All other [struggle_involved|E] [rulers|E] are friends with you ([SCOPE.ScriptValue('struggle_ayleid_ending_conciliation_decision_friend_counter_value')|0]/[SCOPE.ScriptValue('struggle_ayleid_ending_ending_decision_foreign_realm_total_value')|0])"
+ #Effects
+ narfinsel_schism_struggle_conciliation_marriage_unlocked_tt:1 "Permanently #positive_value allow#! interfaith [marriage|E] between all [struggle_involved|E] [cultures|E]"
+ narfinsel_schism_struggle_conciliation_holy_war_disabled_tt:1 "Permanently #negative_value disable#! offensive [holy_wars|E] between all [struggle_involved|E] [cultures|E]"
+ narfinsel_schism_struggle_conciliation_acceptance_tt:0 "Conciliation in the Heartland"
+ narfinsel_schism_struggle_conciliation_culture_tt:0 "All [struggle_involved|E] [cultures|E] gain #positive_value +[SCOPE.ScriptValue('narfinsel_schism_struggle_conciliation_culture_acceptance_value')|0]%#! [cultural_acceptance|E] of each other"
+ narfinsel_schism_struggle_conciliation_join_war_tt:1 "Permanently allows [struggle_involved|E] [culture|E] and [faith|E] [rulers|E] to join each other's defensive [wars|E] against outside invaders of [GetGeographicalRegion('mundus_tamriel_cyrodiil').GetName]"
+ # Modifiers
+ narfinsel_schism_struggle_conciliation_house_reward_modifier:0 "Conciliation"
+ narfinsel_schism_struggle_conciliation_house_reward_modifier_desc:0 "This house accepted that the way to a lasting peace in the Heartland lies in peace and tolerance."
+ ### Common
+ sotr_fp2_struggle_gain_the_imperatum_saliache_tt:0 "You will keep or take over the [empire|E] of [GetTitleByKey('e_imperatum_saliache').GetNameNoTier]"
+ narfinsel_schism_struggle_compromise_destroy_imperatum_saliache_tt:1 "The [empire|E] of [GetTitleByKey('e_imperatum_saliache').GetNameNoTier] is permanently #negative_value destroyed#!"
+ struggle_ayleid_ending_hostility_decision_correct_phase_tt:1 "The current [struggle_phase|E] is the [struggle_phase_ayleid_hostility|E]"
+ struggle_ayleid_ending_compromise_decision_correct_phase_tt:1 "The current [struggle_phase|E] is the [struggle_phase_ayleid_compromise|E]"
+ struggle_ayleid_ending_conciliation_decision_correct_phase_tt:1 "The current [struggle_phase|E] is the [struggle_phase_ayleid_conciliation|E]"
+ 
+ narfinsel_schism_struggle_house_tt:1 "All [house|E] members:"
+
+ narfinsel_schism_struggle_compromise_war_cost_tt:0 "$HOLY_WAR_KINGDOM_NAME$ and $CONQUEST_KINGDOM_CB_NAME$ [casus_bellis|E] against other [struggle_involved|E] [cultures|E] [faiths|E]: #negative_value +50%#!"
+ sotr_fp2_struggle_can_keep_using_struggle_clash_tt:0 "[struggle_conquest|E] remains available"
+ struggle_ending_decision_correct_involvement_ayleid_tt: "You are [struggle_involved|E] in [ayleid_struggle|E]"

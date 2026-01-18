@@ -1,0 +1,183 @@
+﻿l_english:
+
+  # EVENT 1 : START #############################################
+
+  #Pack Dependent Title and Desc
+
+  join_moon_hunter_pack_title.0001.t:0 "Join the Moon Hunter Pack"
+  join_moon_hunter_pack_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the Alpha of the [Glossary('Moon Hunter Pack', 'WEREWOLF_PACK_MOON_HUNTER_GLOSS')]. To join their pack is to surrender your life to the hunt, to run beneath the same moon, and to carry the strength and fury of the beast.\n\nThere are many paths to becoming part of the #bold Moon Hunter#! Pack—through blood-debt, fierce loyalty, proven skill, or sheer desperation. But ultimately, it is up to [recipient.GetTitledFirstNameNoTooltip] to grant the bite, and it is a gift offered only to those [recipient.GetSheHe] deems strong enough… or valuable enough to the pack."
+
+  join_frostmoon_pack_title.0001.t:0 "Join the Frostmoon Pack"
+  join_frostmoon_pack_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip], the Alpha of the [Glossary('Frostmoon Pack', 'WEREWOLF_PACK_FROSTMOON_GLOSS')]. To join their pack is to pledge yourself to survival in the frozen wilds, to hunt and fight as one beneath the biting northern winds.\n\nThere are many paths to becoming part of the #bold Frostmoon#! Pack—through shared struggle, proven loyalty, kinship, or the desperate need for protection against Solstheim’s perils. But in the end, it is [recipient.GetTitledFirstNameNoTooltip] who decides who may run with them, and the Alpha accepts only those [recipient.GetSheHe] believes will endure the cold… and the hunt."
+
+  request_to_be_turned_title.0001.t:0 "Facing a Werewolf"
+  request_to_be_turned_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip]. The air is thick with the scent of the wild, and a primal tension hums beneath the stillness—a reminder of the beast that lurks within.\n\n[recipient.GetSheHe|U] watches you with [recipient.GetHerHis] keen, glowing eyes, silently wondering what has brought you here…"
+
+  meet_another_pack_member_title.0001.t:0 "A Fellow Pack Member"
+  meet_another_pack_member_desc.0001.desc:0 "You stand before [recipient.GetTitledFirstNameNoTooltip]. The scent of the wild clings to [recipient.GetHerHim], a familiar mark of the hunt you both share.\n\n[recipient.GetSheHe|U] meets your gaze with the steady eyes of a fellow predator, silently weighing your purpose for seeking [recipient.GetHerHis] company."
+
+
+  ############################
+
+  join_werewolf_pack.0001.a:0 "You owe me. Fulfill your debt."
+  join_werewolf_pack.0001.a.tt:0 "Use a Hook to compel [recipient.GetFirstNameNoTooltip] to accept you into their pack."
+
+  join_werewolf_pack.0001.b:0 "We both might gain something from this union."
+  join_werewolf_pack.0001.b.tt:0 "Attempt to persuade them through diplomacy. Success chance depends on your Diplomacy skill."
+  join_werewolf_pack.0001.b.success:0 "You convinced [recipient.GetShortUINameNoTooltip]"
+  join_werewolf_pack.0001.b.success.result:0 "You successfully joined their pack"
+  join_werewolf_pack.0001.b.failure:0 "You fail to convince [recipient.GetShortUINameNoTooltip]"
+
+  join_werewolf_pack.0001.c:0 "Are we not packmates in spirit, [recipient.GetFirstNameNoTooltip]?"
+  join_werewolf_pack.0001.c.tt:0 "Call upon your friendship with [recipient.GetShortUINameNoTooltip] to gain entry into the pack."
+
+  join_werewolf_pack.0001.d:0 "Please... I have nothing left. I beg you, let me run with you."
+  join_werewolf_pack.0001.d.tt:0 "Grovel and beg to join the pack."
+
+  join_werewolf_pack.0001.e:0 "Can you make me a Werewolf Lord?"
+  join_werewolf_pack.0001.e.tt:0 "Request the Alpha to bestow upon you the most powerful werewolf form."
+  join_werewolf_pack.0001.e.friendly:0 "You need to be [friends|e] with your Pack Alpha."
+
+  join_werewolf_pack.0001.f:0 "Nevermind..."
+  join_werewolf_pack.0001.f.tt:0 "You will head back home"
+
+
+  # EVENT 2 : ACCEPTED #############################################
+
+  join_werewolf_pack.0002.t:0 "The Moon Beckons"
+
+  join_moon_hunter_pack.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] steps forward, [recipient.GetHerHis] gaze holding the weight of the hunt itself—neither warm nor cold, but resolute. [recipient.GetSheHe|U] is prepared to welcome you into the #bold Moon Hunter#! Pack.\n\nYou will run beneath the same moon, bound by blood and the relentless call of the hunt.\n\nThe moment hangs, sharp as a drawn claw. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Moon Hunter Pack', 'WEREWOLF_PACK_MOON_HUNTER_GLOSS')]?"
+
+  join_frostmoon_pack.0002.desc:0 "[recipient.GetTitledFirstNameNoTooltip] approaches with the steady calm of one who has weathered many winters. There is no judgment in [recipient.GetHerHis] eyes—only the unspoken question of whether you can endure the life of the #bold Frostmoon#! Pack.\n\nYou will share the hunt, the cold, and the silent oath that binds all who survive together in Solstheim’s wilds.\n\nThe moment lingers in the frosted air. One bite is all it takes. Will you accept the gift and become a part of the [Glossary('Frostmoon Pack', 'WEREWOLF_PACK_FROSTMOON_GLOSS')]?"
+
+  #Pack Dependent Title and Desc
+  join_werewolf_pack.0002.a:0 "I'm ready to join the pack."
+  join_werewolf_pack.0002.a.tt:0 "You will become a part of [recipient.GetTitledFirstNameNoTooltip]'s Pack."
+
+  join_werewolf_pack.0002.b:0 "No... this isn't the path I want."
+  join_werewolf_pack.0002.b.tt:0 "You step away, leaving the moonlit path behind."
+
+
+  # EVENT 3 : BEGGING #############################################
+
+  join_werewolf_pack.0003.t:0 "Bowing to the Beast"
+
+  join_werewolf_pack.0003.desc:0 "You drop to your knees before [recipient.GetTitledFirstNameNoTooltip], lowering your head in submission as your voice cracks with desperate pleas.\n\n[recipient.GetSheHe|U] watches you in silence, the air thick with the musk of dominance and fear.\n\n\"You grovel like prey,\" [recipient.GetSheHe] finally growls. \"Pathetic... and yet, even the weakest pup can sometimes survive—if the pack wills it.\"\n\nSomething sharp glints in [recipient.GetHerHis] eyes—whether it is pity, challenge, or the thrill of power, it's hard to tell..."
+
+  join_werewolf_pack.0003.a:0 "Please... without this, I am nothing!"
+  join_werewolf_pack.0003.a.tt:0 "Continue begging. [recipient.GetSheHe|U] may grant your wish—out of dominance or reluctant acceptance."
+  join_werewolf_pack.0003.a.neutral.tt:0 "#P [recipient.GetSheHe|U] might still give you a chance#!"
+  join_werewolf_pack.0003.a.hostile.tt:0 "@warning_icon! #N [recipient.GetSheHe|U] might be annoyed and turn hostile#!"
+
+  join_werewolf_pack.0003.b:0 "Enough... I will not grovel further."
+  join_werewolf_pack.0003.b.tt:0 "You rise and walk away from the pack's judgment."
+
+
+  # EVENT 4 : HOSTILE #############################################
+
+  join_werewolf_pack.0004.t:0 "Enough!"
+
+  join_werewolf_pack.0004.desc:0 "[recipient.GetTitledFirstNameNoTooltip]'s lip curls back, revealing sharp fangs as a guttural snarl rips through the air. The sound rattles your bones.\n\n\"I gave you the courtesy of silence, and you answered with the whimpering of prey. You are no wolf—you are carrion.\"\n\nBefore you can retreat, [recipient.GetSheHe] lunges with feral speed, claws outstretched, the weight of the hunt crashing down upon you.\n\nUnless, of course... you can stand your ground."
+
+  join_werewolf_pack.0004.a:0 "Agh—No, please—!"
+  join_werewolf_pack.0004.a.tt:0 "You are not strong enough to resist. [recipient.GetFirstNameNoTooltip] tears you apart without hesitation."
+
+  join_werewolf_pack.0004.b:0 "Strike, and I will strike back!"
+  join_werewolf_pack.0004.b.tt:0 "You are strong enough to challenge them in a brutal duel. The outcome will decide your fate."
+
+
+    # EVENT 5 : VICTORY #############################################
+
+  join_werewolf_pack.0005.t:0 "Victory"
+
+  join_werewolf_pack.0005.desc:0 "The fight is done. [recipient.GetTitledFirstNameNoTooltip] lies before you, beaten—still breathing, but stripped of the strength that made them alpha. Their fur is matted with blood, their claws dulled by defeat.\n\nThe pack circles in silence. In this moment, you hold more than their life—you hold their place in the hunt, their claim to the territory, and the loyalty of those who follow them.\n\nYou could end them here. You could walk away. Or you could take their place, not by their mercy, but by the power of your own fangs and claws."
+
+  join_werewolf_pack.0005.a:0 "Your howl is broken. I end it here."
+  join_werewolf_pack.0005.a.tt:0 "You kill [recipient.GetShortUINameNoTooltip] and end their reign as alpha."
+
+  join_werewolf_pack.0005.b:0 "Live—but your place in the pack is no longer mine to seek."
+  join_werewolf_pack.0005.b.tt:0 "You spare them, but refuse their pack."
+
+  join_werewolf_pack.0005.c:0 "I have proven my strength. The pack is mine now."
+  join_werewolf_pack.0005.c.tt:0 "You claim leadership of the pack—not as a supplicant, but as its new alpha."
+
+  # EVENT 6 : HOSTILE - TRUE FORM #############################################
+  join_werewolf_pack.0006.t:0 "The Alpha Unleashed"
+
+  join_werewolf_pack.0006.desc:0 "[recipient.GetTitledFirstNameNoTooltip]'s lips peel back in a snarl, a sound that rumbles deep in their chest—low, guttural, and ancient.\n\n\"You think defeating me would be so simple?!\"\n\nMuscles coil and swell beneath their skin, bones snap and reform, fur bursts forth in a torrent. Their muzzle lengthens, claws curve into razors, and their eyes blaze with a wild, unrelenting hunger. The air fills with the scent of blood and the howl of dominance, as the alpha reveals their true form.\n\nGone is any trace of humanity—before you stands a predator at the height of its power. Every heartbeat drums louder in your ears, a reminder that the hunt has already begun... and you are the prey."
+
+  join_werewolf_pack.0006.a:0 "AAARRGh....PLEASE...."
+  join_werewolf_pack.0006.a.tt:0 "[recipient.GetFirstNameNoTooltip] tears you apart with primal fury."
+
+  join_werewolf_pack.0006.b:0 "Then let us see whose howl is the last!"
+  join_werewolf_pack.0006.b.tt:0 "You face [recipient.GetFirstNameNoTooltip] in a desperate duel. The odds are against you—their full werewolf form grants them monstrous strength and speed."
+
+  join_werewolf_pack.0006.c:0 "Nope! I'm out of here!"
+  join_werewolf_pack.0006.c.tt:0 "You attempt to flee before [recipient.GetFirstNameNoTooltip] can pounce."
+
+  join_werewolf_pack.0006.c.success:0 "You manage to escape [recipient.GetFirstNameNoTooltip]'s wrath."
+  join_werewolf_pack.0006.c.success.tt:0 "You survive—this time."
+  join_werewolf_pack.0006.c.failure:0 "[recipient.GetFirstNameNoTooltip|U] catches you in a heartbeat."
+
+
+  # EVENT 7 : REQUEST FOR WEREWOLF LORD TRAIT #############################################
+
+  join_werewolf_pack.0007.t:0 "To Become a Werewolf Lord"
+
+  join_werewolf_pack.0007.desc:0 "[recipient.GetTitledFirstNameNoTooltip] watches you in silence, the weight of their gaze as heavy as a mountain. The clearing is still, save for the faint rustle of wind through the trees and the slow, steady rhythm of the Alpha’s breathing.\n\nThe scent of wild earth and blood thickens as they step closer, each footfall deliberate, predatory.\n\n[recipient.GetTitledFirstNameNoTooltip|U] explains that this is no gift for the timid. Only the strong may endure the form. The weak will break—and the unworthy will be devoured.\n\n\"So tell me—what makes you worthy to bear this terrible power?\""
+
+  join_werewolf_pack.0007.a:0 "My body is a weapon—strong enough to crush any foe."
+  join_werewolf_pack.0007.a.tt:0 "You claim your physical might is proof enough to survive the transformation."
+
+  join_werewolf_pack.0007.b:0 "My mind is unbreakable—no hunger will master me."
+  join_werewolf_pack.0007.b.tt:0 "You claim that your willpower alone can tame the beast within."
+
+  join_werewolf_pack.0007.c:0 "My instincts are unmatched—I am a hunter born."
+  join_werewolf_pack.0007.c.tt:0 "You claim your predatory cunning makes you worthy of the Alpha’s gift."
+
+  join_werewolf_pack.0007.d:0 "I will take whatever risk your gift demands."
+  join_werewolf_pack.0007.d.tt:0 "You claim you will accept any consequence to gain the Alpha’s power."
+  join_werewolf_pack.0007.d.success:0 "#P You survive#!"
+  join_werewolf_pack.0007.d.failed:0 "#N You die#!"
+
+  # EVENT 8 : YOU SUCCESSFULLY BECOME A VAMPIRE LORD #############################################
+
+  join_werewolf_pack.0008.t:0 "The Awakening of the Beast"
+  join_werewolf_pack.0008.desc:0 "It begins as a low heat deep in your chest—slow, steady, and alive. Then it surges, flooding your muscles with raw, untamed strength. Your heart hammers faster, harder, as though it seeks to break free from the cage of bone, each beat reshaping the body you once knew.\n\nYour vision sharpens until every blade of grass, every ripple in the moonlight, is carved in perfect clarity. The forest hums with sound—heartbeats, shifting leaves, distant prey. The air is rich with scents you had never noticed before: blood, earth, and the electric tang of the coming hunt.\n\nThe change is taking hold. You are becoming something greater—something wilder. You can feel the beast waking in your blood."
+
+  join_werewolf_pack.0008.a:0 "Yes... I can feel it..."
+  join_werewolf_pack.0008.a.tt:0 "The transformation has begun—you can sense the beast rooting itself deep within you."
+
+
+  # EVENT 9 : YOU FAILED TO BECOME A VAMPIRE LORD #############################################
+
+  join_werewolf_pack.0009.t:0 "Broken by the Beast"
+
+  join_werewolf_pack.0009.desc:0 "The change comes too fast—too fierce. Your bones twist and crack, muscles tearing as they surge with impossible strength. Every heartbeat is a thunderclap in your skull, every breath a ragged fight against the crushing weight in your chest.\n\nFire and ice flood your veins at once, the agony drowning out thought. Your legs buckle, claws scraping at the earth as the world spins and darkens.\n\nWith one last, shuddering breath, your body gives way. The last thing you hear is the low, rumbling growl of the Pack Alpha—neither mourning nor mocking, but claiming what is left of you."
+
+  join_werewolf_pack.0009.a:0 "*Graaahhh—!*"
+  join_werewolf_pack.0009.a.tt:0 "The beast overwhelms you—your body shatters under its power, and the gift becomes your end."
+
+
+  # EVENT 10 : FINALE #############################################
+  join_werewolf_pack.0010.t:0 "The True Beast"
+
+  join_werewolf_pack.0010.desc:0 "The last shudder passes, leaving only a thundering heartbeat… and power. It roars through your veins, wild and untamed, answering every instinct. The frail human shell you once carried feels meaningless—a skin you can now cast aside or wear as you please.\n\nYou draw a breath and the world blooms in scent and sound—every heartbeat, every rustle of leaves, every drop of rain singing in perfect clarity. Strength surges through every muscle, ready to unleash at your command.\n\nYou lower your head to the Alpha who has remade you. Their faith will not be wasted—you will hunt, fight, and lead in their name."
+
+  join_werewolf_pack.0010.a:0 "Thank you, Alpha."
+  join_werewolf_pack.0010.a.tt:0 "You have ascended to the rank of Pack Alpha’s chosen, able to shift between your mortal guise and true beast at will."
+
+
+  # EVENT 11 : Secret or not?
+  #############################################
+
+  join_werewolf_pack.0011.t:0 "Keep this a Secret ?"
+  join_werewolf_pack.0011.desc:0 "Now you must decide whether to conceal your true nature or let the world know the truth."
+
+  #A. Be a Secret Vampire
+  join_werewolf_pack.0011.a:0 "Let's just keep this between us..."
+  join_werewolf_pack.0011.a.tt:0 "Your true nature will remain a #bold Secret#!."
+
+  #B. Publicly Reveal self as vampire
+  join_werewolf_pack.0011.b:0 "Why must I hide it?"
+  join_werewolf_pack.0011.b.tt:0 "Your true nature will #bold Not#! be a #bold Secret#! to anyone."

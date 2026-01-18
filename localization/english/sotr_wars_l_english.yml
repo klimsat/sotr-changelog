@@ -1,0 +1,15 @@
+﻿l_english:
+
+  #Dragon Invasion
+  DRAGON_HOLY_WAR_INVASION_WAR_NAME:0 "Dragon Holy War for Mereth"
+  DRAGON_HOLY_WAR_INVASION_WAR_EMPIRE_CB_NAME:0 "Dragon Holy War for Mereth"
+  dragon_cult_invasion_vassal_disapproves_defeat: "All of [attacker.GetShortUINamePossessive] [vassals|E] lose #N 15#! [opinion|E] of [attacker.GetHerHim] for #V 5 years#! #weak ($liege_lost_declared_religious_war$)#!"
+
+  #Dragon War - Rebellion
+  cb_dragon_war_rebellion: "Dragon War"
+  cb_dragon_war_rebellion_war: "Dragon War"
+  cb_dragon_war_rebellion_army_title: "Northern Rebels"
+  cb_dragon_war_rebellion_name: "Dragon War"
+  cb_dragon_war_rebellion_name_adj: "Dragon War"
+  cb_dragon_war_rebellion_cb_victory_desc: "The $cb_dragon_war_rebellion_army_title$ become independent and take over Skyrim."
+  cb_dragon_war_rebellion_cb_defeat_desc: "The $cb_dragon_war_rebellion_army_title$ are beaten back into submission."

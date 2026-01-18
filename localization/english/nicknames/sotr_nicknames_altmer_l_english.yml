@@ -1,0 +1,42 @@
+﻿l_english:
+
+ ## Altmer ##
+
+ nick_the_eagle_of_alinor:0 "the Eagle of Alinor"
+ nick_the_eagle_of_alinor_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] watched over the spires of Alinor like a sentinel in the clouds — ever vigilant, swift to act, and unwavering in duty, a guardian whose reign became legend among the Elvenkind"
+ nick_the_high_matron:0 "the High Matron"
+ nick_the_high_matron_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] was no mere queen — [CharYouSheHe(CHARACTER)] was the architect of thrones and the arbiter behind a thousand alliances. Even now, [CharYourHerHis(CHARACTER)|U]  blood runs through the veins of the most powerful Elven houses."
+ nick_the_gallant_griffin:0 "the Gallant Gryphon"
+ nick_the_gallant_griffin_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] bore the courage of a lion and the grace of an eagle — a soaring symbol of honor, strength, and unwavering guardianship over his domain."
+ 
+ nick_the_sload_of_alinor:0 "the Sload-King of Alinor"
+ nick_the_sload_of_alinor_desc:1 "At his birth, Elven nobles from Lillandril all the way to Heartlands flocked to Alinor to pay homage, bearing lavish tributes and extolling praises for the newest member of the High Elven Royal Family. The newborn prince awed all who beheld him, for he was the very embodiment of elven grace—pure-blooded, radiant, and brimful of promise.\n\nHe grew into a dashing young prince whose very presence could make any Mer flush with admiration. Well-learned and shrewd, he easily passed the Altmeri Regal Praxis and was firmly set to inherit the Ceremoniarchy. So magnificent was his bearing that he was bestowed the title “Gold-Prince of Alinor.”\n\nAs time passed, the unwavering attention he garnered would eventually fanned the flames of his vanity. He exploited both his looks and his family name, seducing every fair maiden within his sight, heedless of tradition or the Praxis. \n\nHis reign was, beyond all doubt, the grandest display of excess Summerset had ever seen. He continues to gratify his hedonistic desires — lavish revels, exquisite wines, and the constant company of elven maidens.\n\nCenturies of unbridled excess transformed the once-beautiful prince into a grotesque parody of his former self. He became the heaviest monarch ever to ascend the Throne of Alinor, all existing armors in the palace strained at his bulk, and even his bed frames had to be reforged with ebony steel to support his weight. His reign was marked by ostentatious and unnecessary expenditures, the palace corridors echoing with the laughter of his many mistresses.\n\nThe very title he had borne as a Prince had slowly curdled into a mockery. Though none dared speak it to his face while he lived, in the end —the once-venerated “Gold-Prince of Alinor” came to be remembered across the isles as the #bold Sload-King of Alinor. #!"
+ 
+ nick_the_gaunt_aldmeri:0 "the Gaunt"
+ nick_the_gaunt_aldmeri_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] is a figure of lean, sinewed resolve, with hollow cheeks and eyes that seemingly never blinked. In a palace of splendor, [CharYouSheHe(CHARACTER)] moves with the unsettling grace of someone who has endured too much and shed too little.\n\nSome say [CharYouSheHe(CHARACTER)] neither eats nor sleeps; others whisper that [CharYouSheHe(CHARACTER)] is a walking dead. Yet despite his eerie looks, [CharYouSheHe(CHARACTER)] stands tall for his nation like a blade—bare, cold, and rigid, a shape honed by his unbending will."
+ 
+ nick_the_harper:0 "the Harper"
+ nick_the_harper_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s music drifts like wind through the blossoming trees, echoing with the hush of ancient dreams. To hear him play is like hearing a lullaby from the stars, a serenade whispered by moonlight."
+ 
+ nick_the_tidebreaker:0 "the Tidebreaker"
+ nick_the_tidebreaker_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] was the valiant leader who led [CharYourHerHis(CHARACTER)] people to a massive victory against the relentless Maormeri incursions. With a stern mind and unwavering will, [CHARACTER.GetShortUINameNoTooltipNoFormat] rallied the might of [CharYourHerHis(CHARACTER)] vast kingdom and utterly crushed the invaders, sending their fleets and serpents to the depths where they belonged."
+
+ nick_the_elder_curumar:0 "the Elder"
+ nick_the_elder_curumar_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] has guided countless generations of mer in the pursuit of knowledge, shaping the very foundations of arcane study and ensuring that the light of learning would never fade."  
+ nick_the_gallant:0 "the Gallant"
+ nick_the_gallant_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] was every bit the image of chivalry — shining valor, noble deeds, and more than a few sighing hearts."
+
+ nick_the_perfect_nurarion:0 "the Perfect"
+ nick_the_perfect_nurarion_desc:1 "The last words of Nurarion were considered the greatest treasure in all of Elsweyr by some of the Moon-Singers. They were believed to be 'a treasure, a weapon, and much more'"
+ nick_the_voiceless:0 "the Voiceless"
+ nick_the_voiceless_desc:1 "Gifted a mighty voice by Clavicus Vile, Nurarion's words could calm seas, shatter mountains, and cleave lightning in two. So great was his speech that he had to leave Sunhold for the safety of others, and from then on, he spoke only in whispers"
+
+ nick_snowblood:0 "Snowblood"
+ nick_snowblood_desc:1 "Apparently, [CharYourHerHis(CHARACTER)] unusually pale complexion and cold skin are said to be because of [CharYourHerHis(CHARACTER)] distant Snow Elven ancestry...\n\nAs for red eyes—well, apparentlty that's because [CharYouSheHe(CHARACTER)] [CharAreIs(CHARACTER)] an Albino. \n\nPretty convincing... right?"
+
+ nick_the_pilot:0 "the Pilot"
+ nick_the_pilot_desc:1 "“The Pilot” is both a title and a testament to his calling, for [CharYouSheHe(CHARACTER)] is one the most famous Explorer in Tamriel’s history."
+
+ ## Balfiera ##
+ nick_the_lord_lady_of_balfiera:0 "the [CHARACTER.Custom('GetLordLady')] of Balfiera"
+ nick_the_lord_lady_of_balfiera_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] reigns as the undisputed ruler of the Isles of Balfiera. [CharYourHerHis(CHARACTER)|U] wealth is an endless ocean of fortune beyond mortal reckoning, and [CharYourHerHis(CHARACTER)] word shapes the destiny of kings. Rulers and envoys bow before [CharYouHerHim(CHARACTER)], for [CharYourHerHis(CHARACTER)] influence stretches across Tamriel like the tides of the coasts of Balfiera, 'Radiant, Ethereal, and Eternal'"

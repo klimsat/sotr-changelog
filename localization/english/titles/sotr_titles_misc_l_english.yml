@@ -1,0 +1,60 @@
+﻿l_english:
+
+ #MISC
+
+ #Chantry of Auri-El
+ d_chantry_of_auriel:0 "Chantry of Auri-El"
+
+ #Xul-Kat of the Stone-West
+ d_xul_kat_stone_nest_article:0 "the "
+ d_xul_kat_stone_nest_adj:0 "Xul-Kat"
+ d_xul_kat_stone_nest:0 "Western Xul-Kat"
+
+ #Xul-Kat of the Tide-Born
+ d_xul_kat_tide_born_article:0 "the "
+ d_xul_kat_tide_born_adj:0 "Xul-Kat"
+ d_xul_kat_tide_born:0 "Eastern Xul-Kat"
+
+ #Thunder Shield Sisters
+ d_thunder_shield_sisters_article:0 "the "
+ d_thunder_shield_sisters_adj:0 "Thundershield"
+ d_thunder_shield_sisters:0 "Thunder Shield Sisters"
+
+ #Deathland Horde
+ k_deathland_horde_article:0 "the "
+ k_deathland_horde_adj:0 "Deathlander"
+ k_deathland_horde:0 "Deathland Horde"
+
+ d_red_horde_article:0 "the "
+ d_red_horde_adj:0 "Red Horde"
+ d_red_horde:0 "Red Horde"
+
+ d_black_horde_article:0 "the "
+ d_black_horde_adj:0 "Black Horde"
+ d_black_horde:0 "Black Horde"
+
+ d_white_horde_article:0 "the "
+ d_white_horde_adj:0 "White Horde"
+ d_white_horde:0 "White Horde"
+
+ d_blue_horde_article:0 "the "
+ d_blue_horde_adj:0 "Blue Horde"
+ d_blue_horde:0 "Blue Horde"
+
+ #Welkynars
+ d_welkynars_article:0 "the "
+ d_welkynars_adj:0 "Welkynari"
+ d_welkynars:0 "Welkynars"
+
+ #stormwardens
+ d_stormwardens_article:0 "the "
+ d_stormwardens_adj:0 "stormwarden"
+ d_stormwardens:0 "Stormwardens"
+
+ #Knights of the Peak
+ d_knights_of_the_peak_article:0 "the "
+ d_knights_of_the_peak:0 "Knights of the Peak"
+
+ #Order of the Tides
+ d_order_of_the_tides_article:0 "the "
+ d_order_of_the_tides:0 "Order of the Tides"

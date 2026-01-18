@@ -1,0 +1,19 @@
+﻿l_english:
+ 
+  # Dragon War Decision
+  start_the_dragon_war_decision:0 "Start the Dragon War"
+  start_the_dragon_war_decision_desc:0 "The Dragon Lords rule with fire and Voice, their wings blotting out the very sun. Mortals bow or burn, their lives weighed as nothing against the tyranny of Alduin the World-Eater.\n\nTo proclaim the Dragon War is to raise every hall and hearth in rebellion. Courage of mortals will be pitted against the immortal flames. If the gods will it, Alduin himself may be cast down. If not, the world shall end in ash and silence."
+  start_the_dragon_war_decision_tooltip:0 "Unleash the Dragon War across Skyrim."
+  start_the_dragon_war_decision_requirement:0 "You are not already locked in the Dragon War."
+  start_the_dragon_war_decision_effect_tooltip_1.atmoran:0 "Your faith will be changed to [GetFaithDoctrine('doctrine_pantheon_nord').GetBaseName]"
+  start_the_dragon_war_decision_effect_tooltip_1.falmer:0 "Your faith will be changed to [GetFaithByKey('chantry_auriel').GetAdjective]"
+  start_the_dragon_war_decision_effect_tooltip_2:0 "@warning_icon! #N The Dragon War begins! You may either rise or fall..#!"
+  dragon_war_not_started:0 "The Dragon War has not been set in motion."
+  start_the_dragon_war_decision_custom_tooltip_1:0 "The Dragon Lords will scour the North with fire."
+  start_the_dragon_war_decision_custom_tooltip_2:0 "The Nords will rise, singing their defiance."
+  start_the_dragon_war_decision_custom_tooltip_3:0 "The fate of Skyrim will be decided in blood and fire."
+  start_the_dragon_war_decision_confirm:0 "Call for War"
+  start_the_dragon_war_decision_journey_begins:0 "The skies blacken. The drums of war thunder. The Dragon War begins..."
+  start_the_dragon_war_decision_effect_message_title:0 "The Dragon War Has Begun"
+  start_the_dragon_war_decision_effect_message_desc:0 "Use [decision|E] menu to continue the struggle against the Dragon Lords."
+

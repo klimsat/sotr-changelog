@@ -1,0 +1,4 @@
+﻿l_english:
+
+  artifact_legendary_chrysamere_name:0 "Chrysamere"
+  artifact_legendary_chrysamere_description:1 "Chrysamere is a legendary adamantium claymore of Breton origin. Unlike most other weapons of war, its magical attributes are renowned not only for its immense offensive might but also for its unparalleled defensive enchantments.\n\nThe blade was masterfully forged by [GetScriptedCharacterByHistoryID( 'glenumbran_asterie_bedel_1_merethic_era' ).GetFirstName], a famed Breton swordsmith known for uniting the metallurgical traditions of both man and mer. At the sword’s core lies her signature mark—an intricately etched mage’s knot, symbolising the harmonious fusion of craft and arcane precision."
